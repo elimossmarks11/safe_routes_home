@@ -2,4 +2,12 @@ Team Members: [Eli](https://github.com/elimossmarks11), [Ariana](https://github.
 
 Team Name: CtrlAltElite
 
-Objective: We are interested in exploring what routes are safest for women walking from popular destinations at night. We will use Overpass API, UK Police API, and Google Maps Places API to explore surveillance camera locations, location-based crime reports, and shops open late along these routes to evaluate the safest routes. 
+Objective: We are interested in exploring safe routes home from popular nights out. 
+
+Methodology:  We will choose three origin points for our popular destinations. We will then find the first legs of each journey (before reaching public transport). Then, we will use the Police API and Google Maps API to evaluate our routes based on the following safety metrics: 
+
+Safety Metrics: 
+- Police presence (Police API)
+- Shops open (Google Maps API)
+- Crimes committed (Police API)
+
