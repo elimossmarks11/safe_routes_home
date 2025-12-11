@@ -24,4 +24,4 @@
 | Google API has costs above 10,000 billable events | Every team member has an API key |
 | Cases of violence and sexual offences are notoriously underreported | This trend is not area-dependent and will not skew comparison between areas |
 
-![](images/incident_reporting_stats.jpeg)
+![Underreporting of Sexual Offences](images/incident_reporting_stats.jpeg)
