@@ -1,3 +1,18 @@
-## Pitch Presentation Page
+## Clear Statement of Curiosity-Driven Exploratory Question
 
-TODO: Add Pitch Presentation (headers, bullet points, images from google slides/powerpoint, diagrams if helpful)
+
+
+## Justification of Data Source Choice
+
+
+
+## Technical Implementation Plan
+
+
+
+
+## Work Distribution Strategy
+
+
+
+## Risk Mitigation Strategies
