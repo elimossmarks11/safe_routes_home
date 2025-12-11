@@ -13,7 +13,7 @@
 
 ## Work Distribution Strategy
 
-<img src="Project Coordination Chart.png" alt="description" width="300">
+<img src="Project Coordination Chart.png" alt="description" width="600">
 
 ## Risk Mitigation Strategies
 
@@ -24,4 +24,4 @@
 | Police API data is declared monthly | Our findings will be presented as a risk indicator, not a guarantee. |
 | Safest routes might be unreasonably long | Impose a duration cap, present these routes as 'balanced' |
 
-<img src="incident_reporting_stats.jpeg" alt="description" width="300">
+<img src="incident_reporting_stats.jpeg" alt="description" width="600">
