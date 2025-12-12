@@ -9,5 +9,4 @@ Methodology:  We will choose three origin points for our popular destinations. W
 Safety Metrics: 
 - Gender related street crimes reported per area (Police API)
 - Shops open (Google Maps API)
-- Presence of surveillance cameras (Overpass API)
 

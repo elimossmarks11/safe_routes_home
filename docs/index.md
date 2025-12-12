@@ -1,10 +1,15 @@
 ## Statement of Curiosity-Driven Exploratory Question
-'What are the safest routes for women walking home at night in London? What is the disparity between the safest route home and the quickest route home?'
+'What are the safest routes for women walking home at night in London?'
 
 <img src="women safety statistics.png" alt="description" width="600">
 
 ## Justification of Data Source Choice
 
+<img src="police_api_logo.png" alt="description" width="600">
+**UK Police API** ➡️ provides the area/road segement for street crimes (filter for crimes under 'violence and sexual offences' category, which women are disproportionately victim to). Query with force-level parameters (filtering for crimes reported by only the City of London Police and the Metropolitan Police) for data on just London. 
+
+<img src="google_api_logo.png" alt="description" width="600">
+**Google API** ➡️ use the Google Area Insights API identify popular night out locations in London (from which may women start their journeys home at night) as well as the Google Places API to collect data on shops number and location of shops open after 23:00. 
 
 
 ## Technical Implementation Plan
