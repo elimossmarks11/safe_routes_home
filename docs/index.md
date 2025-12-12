@@ -1,7 +1,7 @@
-## Statement of Curiosity-Driven Exploratory Question
+## Curiosity-Driven Exploratory Question
 'What are the safest routes for women walking home at night in London?'
 
-<img src="women safety statistics.png" alt="description" width="600">
+<img src="women_safety_perception_stat.png" alt="description" width="600">
 
 ## Justification of Data Source Choice
 
