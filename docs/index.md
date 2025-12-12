@@ -13,25 +13,21 @@
 
 ## Technical Implementation Plan
 
-**Generate routes** 
+**1 - Generate routes** 
 
 Use Google Maps to create realistic walking routes from popular Soho night-out locations to nearby transport hubs, most likey tube stations.
 
-                                                ↓
 
-**Collect safety data**  
+**2 - Collect safety data**  
 
 Combine police-recorded crime data with information on nearby shops and venues that are open late at night, which we have decided to be past 11pm. 
 
-                                                ↓
-
-**Link data to routes**  
+**3 - Link data to routes**  
  
 Match crimes and open venues to different parts of each route to measure how safe each section appears.
 
-                                                ↓
 
-**Score and display routes**  
+**4 - Score and display routes**  
  
 Create an overall safety score for each route and show safer and less safe routes using maps and rankings.
 
