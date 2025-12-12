@@ -3,6 +3,7 @@
 
 <img src="women_safety_perception_stat.png" alt="description" width="600">
 
+
 ## Justification of Data Source Choice
 
 **UK Police API** ➡️ provides the area/road segement for street crimes (filter for crimes under 'violence and sexual offences' category, which women are disproportionately victim to). Query with force-level parameters (filtering for crimes reported by only the City of London Police and the Metropolitan Police) for data on just London. 
@@ -10,10 +11,29 @@
 **Google API** ➡️ use the Google Area Insights API identify popular night out locations in London (from which may women start their journeys home at night) as well as the Google Places API to collect data on shops number and location of shops open after 23:00. 
 
 
-
 ## Technical Implementation Plan
 
+**Generate routes** 
 
+Use Google Maps to create realistic walking routes from popular Soho night-out locations to nearby transport hubs, most likey tube stations.
+
+↓
+
+**Collect safety data**  
+
+Combine police-recorded crime data with information on nearby shops and venues that are open late at night.
+
+↓
+
+**Link data to routes**  
+ 
+Match crimes and open venues to different parts of each route to measure how safe each section appears.
+
+↓
+
+**Score and display routes**  
+ 
+Create an overall safety score for each route and show safer and less safe routes using maps and rankings.
 
 
 ## Work Distribution Strategy
