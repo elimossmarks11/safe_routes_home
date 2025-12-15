@@ -7,7 +7,6 @@ Objective: We are interested in exploring safe routes home from popular nights o
 Methodology:  We will choose three origin points for our popular destinations. We will then find the first legs of each journey (before reaching public transport). Then, we will use the Police API and Google Maps API to evaluate our routes based on the following safety metrics: 
 
 Safety Metrics: 
-- Police presence (Police API)
+- Gender related street crimes reported per area (Police API)
 - Shops open (Google Maps API)
-- Crimes committed (Police API)
 
