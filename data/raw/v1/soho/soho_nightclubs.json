@@ -1,0 +1,44 @@
+[
+  {
+    "location": {
+      "latitude": 51.512747399999995,
+      "longitude": -0.13851049999999998
+    },
+    "displayName": {
+      "text": "The Flamingo Club Soho",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "W1F 9PY"
+    }
+  },
+  {
+    "location": {
+      "latitude": 51.5127789,
+      "longitude": -0.1333064
+    },
+    "displayName": {
+      "text": "Freedom Bar",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "W1F 0TA"
+    }
+  },
+  {
+    "location": {
+      "latitude": 51.5118693,
+      "longitude": -0.13849119999999998
+    },
+    "displayName": {
+      "text": "Be At One - Regent Street",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "W1F 9RA"
+    }
+  }
+]
