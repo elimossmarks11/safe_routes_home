@@ -1,0 +1,185 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552114",
+      "street": {
+        "id": 1685258,
+        "name": "On or near Church Walk"
+      },
+      "longitude": "-0.085140"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125853105,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551654",
+      "street": {
+        "id": 1686428,
+        "name": "On or near Pellerin Road"
+      },
+      "longitude": "-0.077356"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125855565,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551188",
+      "street": {
+        "id": 1686767,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074750"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "8681c1758270e762fa5b9ee5feee66e868441740976640124acfa20b99005879",
+    "id": 125934448,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551055",
+      "street": {
+        "id": 1686641,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.075405"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "e94ab0536dbc69985cab6ffdfe2401ef0cdf5992309f7d86b78bdf7bdcb5b243",
+    "id": 125881064,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551188",
+      "street": {
+        "id": 1686767,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074750"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "4c19495575558fab2ca7858d1e003f5520ea627989c5fd7ebde78c7787b71cb6",
+    "id": 125934845,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "62b46cedb1ff2a2d5a833d1fc6f6e7e7bc88d297a87240efa215d69685bf1aaa",
+    "id": 125860339,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551188",
+      "street": {
+        "id": 1686767,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074750"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "ce368b6eaeb097571aad750f22e88c46100c951fc7288578286ca53cf4502607",
+    "id": 125935893,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551188",
+      "street": {
+        "id": 1686767,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074750"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "5b0e5e6a3d4ec7ed5a75abd6a39066229869f1c30bba3913de62b75ac5ebd848",
+    "id": 125861937,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552124",
+      "street": {
+        "id": 1685096,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.085241"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-07"
+    },
+    "persistent_id": "fad97341c2cd112b2d112909b28c5eb1c3ad63acf3662ce7408fd0b9b3b2686f",
+    "id": 125877303,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

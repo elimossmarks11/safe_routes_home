@@ -1,0 +1,119 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551654",
+      "street": {
+        "id": 1686428,
+        "name": "On or near Pellerin Road"
+      },
+      "longitude": "-0.077356"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125855565,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552114",
+      "street": {
+        "id": 1685258,
+        "name": "On or near Church Walk"
+      },
+      "longitude": "-0.085140"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125853105,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552772",
+      "street": {
+        "id": 1684918,
+        "name": "On or near Lidfield Road"
+      },
+      "longitude": "-0.087449"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125855514,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.553199",
+      "street": {
+        "id": 1684798,
+        "name": "On or near Bridge Gardens"
+      },
+      "longitude": "-0.087734"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "baad227954950e282db1122d6fe7c646e56c9de1d58aa35328d2a60cc3f5ee4c",
+    "id": 125869651,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552124",
+      "street": {
+        "id": 1685096,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.085241"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-07"
+    },
+    "persistent_id": "fad97341c2cd112b2d112909b28c5eb1c3ad63acf3662ce7408fd0b9b3b2686f",
+    "id": 125877303,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "62b46cedb1ff2a2d5a833d1fc6f6e7e7bc88d297a87240efa215d69685bf1aaa",
+    "id": 125860339,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

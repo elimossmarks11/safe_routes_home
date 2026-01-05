@@ -1,0 +1,245 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.556356",
+      "street": {
+        "id": 1686726,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074865"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125835691,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.553879",
+      "street": {
+        "id": 1686731,
+        "name": "On or near Stoke Newington Road"
+      },
+      "longitude": "-0.074853"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125840816,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.553879",
+      "street": {
+        "id": 1686731,
+        "name": "On or near Stoke Newington Road"
+      },
+      "longitude": "-0.074853"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125854445,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.555334",
+      "street": {
+        "id": 1686858,
+        "name": "On or near Petrol Station"
+      },
+      "longitude": "-0.074229"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "f6bdbe56e3461fc0b61566924f370e85909f1c9dc9adb049c4d030661070386f",
+    "id": 125867316,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.555987",
+      "street": {
+        "id": 1686893,
+        "name": "On or near Foulden Terrace"
+      },
+      "longitude": "-0.073999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "0640a28d1faada5a1034203ab946cd3692c63aea6bd25e4200d06e14b890410a",
+    "id": 125868088,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.553101",
+      "street": {
+        "id": 1686855,
+        "name": "On or near Courthouse Lane"
+      },
+      "longitude": "-0.074612"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Action to be taken by another organisation",
+      "date": "2025-05"
+    },
+    "persistent_id": "fbccc5a46d6cda0d4c29f7c6b1d9bc0b66da9946f8e40f4ffaccdb8d697ea70e",
+    "id": 125934295,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552453",
+      "street": {
+        "id": 1686478,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.075634"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-10"
+    },
+    "persistent_id": "fc7f6a7bb7d03fdee9a502d429bc83d850874c427b402c151069bde1b36e2e89",
+    "id": 125930220,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552453",
+      "street": {
+        "id": 1686478,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.075634"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "3237b00e3090fc09d39477c6f98b5a2d047bdfa0973d5cb23e6a8e9da6e9b0fc",
+    "id": 125861569,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.558477",
+      "street": {
+        "id": 1687637,
+        "name": "On or near Nile Close"
+      },
+      "longitude": "-0.068499"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "334d4aa2948afa73ecaf6c6b2c22b735539852c92e9531c2ebfd5c39acc546fb",
+    "id": 125935162,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.555987",
+      "street": {
+        "id": 1686893,
+        "name": "On or near Foulden Terrace"
+      },
+      "longitude": "-0.073999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "795900db4b6f381460681c3e90f5a939db21e58139e57dc6229941e986485381",
+    "id": 125930331,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552453",
+      "street": {
+        "id": 1686478,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.075634"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-10"
+    },
+    "persistent_id": "79279f480b048fd7a1fe2a3536d2ba782ecc6a9c60dee41edcc9e8ec70baefad",
+    "id": 125861070,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.553879",
+      "street": {
+        "id": 1686731,
+        "name": "On or near Stoke Newington Road"
+      },
+      "longitude": "-0.074853"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "3b00d4103f59921856a44077eee2418479c42324edcfed2c93cef33aa8f9a233",
+    "id": 125864161,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]
