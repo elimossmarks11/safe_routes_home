@@ -1,0 +1,161 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513970",
+      "street": {
+        "id": 1677442,
+        "name": "On or near Wardour Street"
+      },
+      "longitude": "-0.134387"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125840484,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513970",
+      "street": {
+        "id": 1677442,
+        "name": "On or near Wardour Street"
+      },
+      "longitude": "-0.134387"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125838568,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.514867",
+      "street": {
+        "id": 1676714,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.138790"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125837721,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512811",
+      "street": {
+        "id": 1677641,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.133325"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "545327f3faf1a1816e21dbb62679d1876d868b0c86b155a9db283475f0819279",
+    "id": 125867136,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512811",
+      "street": {
+        "id": 1677641,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.133325"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-09"
+    },
+    "persistent_id": "082b543309bd646ca2aadddc1e2d32327a2796b5e7af4425f67a2b42ee35131b",
+    "id": 125869400,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515070",
+      "street": {
+        "id": 1676927,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.138003"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "7c306701bb54fb2c050e240777e359a78f6e04e7761e46055906169138c339e0",
+    "id": 125881120,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515070",
+      "street": {
+        "id": 1676927,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.138003"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "5567d954bca368b47ee698a61c3a75fdafbe5c4c6c72a1fbf54b215525747d36",
+    "id": 125935388,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513970",
+      "street": {
+        "id": 1677442,
+        "name": "On or near Wardour Street"
+      },
+      "longitude": "-0.134387"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "66c4135b1e5f2e29143a9817d2eac033d04c9dfa3cdcd2ebd3a0f70d82184166",
+    "id": 125865128,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

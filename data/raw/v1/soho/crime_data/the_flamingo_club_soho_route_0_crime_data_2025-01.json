@@ -1,0 +1,104 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513150",
+      "street": {
+        "id": 1676870,
+        "name": "On or near Carnaby Street"
+      },
+      "longitude": "-0.138845"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125857350,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513114",
+      "street": {
+        "id": 1676865,
+        "name": "On or near Ganton Street"
+      },
+      "longitude": "-0.138803"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "e028a45d7d402b771a161a8090b37612f139314324b996e32dda56463b62e81f",
+    "id": 125936582,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513826",
+      "street": {
+        "id": 1676834,
+        "name": "On or near Foubert's Place"
+      },
+      "longitude": "-0.138947"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "4ab68e3e48a70cfa704b32df643c299448961770db42faf9d7593afcb1c07399",
+    "id": 125933589,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.514247",
+      "street": {
+        "id": 1676736,
+        "name": "On or near Great Marlborough Street"
+      },
+      "longitude": "-0.139406"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "782ec9826f973118674e3b8ae1969c51266050f52bdb9f16d9c34dcd3eedd7c2",
+    "id": 125939422,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513114",
+      "street": {
+        "id": 1676865,
+        "name": "On or near Ganton Street"
+      },
+      "longitude": "-0.138803"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "c5345c6312c65ac1a942621f1eea22399582da6029796d755fed3946c87051a5",
+    "id": 125941508,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

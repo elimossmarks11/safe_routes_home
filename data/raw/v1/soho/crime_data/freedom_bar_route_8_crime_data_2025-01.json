@@ -1,0 +1,674 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.507623",
+      "street": {
+        "id": 1678103,
+        "name": "On or near Cockspur Street"
+      },
+      "longitude": "-0.130006"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125853384,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509396",
+      "street": {
+        "id": 1678091,
+        "name": "On or near Orange Street"
+      },
+      "longitude": "-0.130626"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125851732,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512339",
+      "street": {
+        "id": 1677616,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133618"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125857468,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125835632,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509396",
+      "street": {
+        "id": 1678091,
+        "name": "On or near Orange Street"
+      },
+      "longitude": "-0.130626"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125837072,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125859948,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509396",
+      "street": {
+        "id": 1678091,
+        "name": "On or near Orange Street"
+      },
+      "longitude": "-0.130626"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125851552,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "236dcb3b8556c2acd2a06932eacb781b8842576e37cf8e605238f45980b1c45e",
+    "id": 125869242,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509807",
+      "street": {
+        "id": 1678020,
+        "name": "On or near Whitcomb Street"
+      },
+      "longitude": "-0.131055"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "fc0c20d2758b0120b2f34c37b7b03422500408222b23ff47cb05a33a41062c6b",
+    "id": 125869845,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.507623",
+      "street": {
+        "id": 1678103,
+        "name": "On or near Cockspur Street"
+      },
+      "longitude": "-0.130006"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "a02edf73ccfbf216493983880b61c784db23c23263b6088927156cd9a94589e6",
+    "id": 125932361,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "e91138101fa8083fe4a7067ce90a7b9a1c6d8c110dee5623a47ef40c88f7b6b1",
+    "id": 125865343,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512416",
+      "street": {
+        "id": 1677661,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133384"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "0470a13c74754740512432e34fc112140871760c78e56c6398444b538414cc85",
+    "id": 125865073,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.507623",
+      "street": {
+        "id": 1678103,
+        "name": "On or near Cockspur Street"
+      },
+      "longitude": "-0.130006"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "2c90a147d8c253328e78deced9b6564ba64b85f5e2082ff4443c04508f92ac34",
+    "id": 125875968,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "eb7f62ed535986d20e125045f42a8c573d84158e6ee6d5343d6e9f651f1c27e7",
+    "id": 125936902,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.507623",
+      "street": {
+        "id": 1678103,
+        "name": "On or near Cockspur Street"
+      },
+      "longitude": "-0.130006"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "b0752171d59e176f50b304d0b6acf8e946c096e416f89b4074970fd4081dda8f",
+    "id": 125940757,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "a57036c5c081dea1f2c560349e8ce14c93a36cfa29fbfdaf6820e6b78810184e",
+    "id": 125863979,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509807",
+      "street": {
+        "id": 1678020,
+        "name": "On or near Whitcomb Street"
+      },
+      "longitude": "-0.131055"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "126e734c752c55e4526372922ad20f0a8ccd0cf56e5b046435d2387a8a6ba076",
+    "id": 125861613,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.507330",
+      "street": {
+        "id": 1677936,
+        "name": "On or near Warwick House Street"
+      },
+      "longitude": "-0.130768"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "baaa97e8086988bc7daf80c7187916078420724d42815e17391ac912962dcdf6",
+    "id": 125877392,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509947",
+      "street": {
+        "id": 1677944,
+        "name": "On or near Sports/recreation Area"
+      },
+      "longitude": "-0.131367"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "7889bde196bbb56b7ba6050f1de3e3b72b0636322c7ea3a64dc144729cc9439e",
+    "id": 125877251,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "dfef7b72b9a9b4c10921917dbee2d081fc7871a0e85085454065063fa4138a3c",
+    "id": 125860475,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512416",
+      "street": {
+        "id": 1677661,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133384"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "498f435869330d2430dd6010ed66d05ab1e348c7032b9927e39343b3d0b428b1",
+    "id": 125863815,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.507979",
+      "street": {
+        "id": 1678106,
+        "name": "On or near Pall Mall East"
+      },
+      "longitude": "-0.130338"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "6f86ff61a65e801d6298a303a53f8cc94932abbc75818b77634409ab575a5070",
+    "id": 125876989,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.507623",
+      "street": {
+        "id": 1678103,
+        "name": "On or near Cockspur Street"
+      },
+      "longitude": "-0.130006"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "ab4223ce5b39cdcd88fad25b0b810e0eaadd44a84507d3ff7f6d78bd7139361c",
+    "id": 125860704,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508286",
+      "street": {
+        "id": 1678068,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.130426"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "bcabfa5b78e09ee0c15bfa2b6d78da2a1053ffe89623e6d60acf0bdabca7126d",
+    "id": 125875535,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "4a04e7200806eae3da289aadcbf9adea71d35dd086c5cca04adc38dab2b548e1",
+    "id": 125935347,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509807",
+      "street": {
+        "id": 1678020,
+        "name": "On or near Whitcomb Street"
+      },
+      "longitude": "-0.131055"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "dd148d3d9c0f24b2a07e1beb6028b9dff7857dd417a95bad60d78f9fff632a17",
+    "id": 125934974,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512416",
+      "street": {
+        "id": 1677661,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133384"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "e4e3b462eab25ed898bf6ec894aa12532905a57ad6eb573cdce6fd9f7a6a4a4c",
+    "id": 125877475,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "282350888895d6e59d4ce358e490ca6e7c3a08f2e38ba9f6dbfca2236d3d33d8",
+    "id": 125863773,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "055a2fbe9feebd9b93d36bf92ee71820f189c6206ac4a23e0b3eb243557d8634",
+    "id": 125862702,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512513",
+      "street": {
+        "id": 1677559,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133841"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "5b78c3be537a3f9e9ba0184c583819ce5185a0613a240ab506498e880e7bad2c",
+    "id": 125932707,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509807",
+      "street": {
+        "id": 1678020,
+        "name": "On or near Whitcomb Street"
+      },
+      "longitude": "-0.131055"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "4bfc653d38696457232ef38659b50dc175af8eac8486b5c56230708b56e1194e",
+    "id": 125934813,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508286",
+      "street": {
+        "id": 1678068,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.130426"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "8f01c45929af91ede5f41e61eef07b4c7733b1ec26a667871db52dee3f2c9e34",
+    "id": 125862727,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509807",
+      "street": {
+        "id": 1678020,
+        "name": "On or near Whitcomb Street"
+      },
+      "longitude": "-0.131055"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "d0456782e54197b4b96dd2ab0fc8f235544c92c2b9f33b574681a7aae7a084ec",
+    "id": 125933115,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

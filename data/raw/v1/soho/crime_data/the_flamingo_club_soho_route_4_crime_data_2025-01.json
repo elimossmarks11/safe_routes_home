@@ -1,0 +1,59 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510266",
+      "street": {
+        "id": 1676722,
+        "name": "On or near Vigo Street"
+      },
+      "longitude": "-0.139006"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125849920,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508661",
+      "street": {
+        "id": 1676458,
+        "name": "On or near Stafford Street"
+      },
+      "longitude": "-0.141536"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125841265,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508661",
+      "street": {
+        "id": 1676458,
+        "name": "On or near Stafford Street"
+      },
+      "longitude": "-0.141536"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "1fd12d216b0c970e79fffb77ef43c552676bb318b8ed78f79057e66e996115b4",
+    "id": 125936250,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

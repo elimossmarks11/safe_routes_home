@@ -1,0 +1,917 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511783",
+      "street": {
+        "id": 1678199,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.129778"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125845006,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511783",
+      "street": {
+        "id": 1678199,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.129778"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125839870,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511783",
+      "street": {
+        "id": 1678199,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.129778"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125854573,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511703",
+      "street": {
+        "id": 1678351,
+        "name": "On or near Little Newport Street"
+      },
+      "longitude": "-0.128701"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125844775,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511783",
+      "street": {
+        "id": 1678199,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.129778"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125844556,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125835632,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511703",
+      "street": {
+        "id": 1678351,
+        "name": "On or near Little Newport Street"
+      },
+      "longitude": "-0.128701"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125847284,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511534",
+      "street": {
+        "id": 1678076,
+        "name": "On or near Lisle Street"
+      },
+      "longitude": "-0.130495"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125856519,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512339",
+      "street": {
+        "id": 1677616,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133618"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125857468,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125859948,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512811",
+      "street": {
+        "id": 1677641,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.133325"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-09"
+    },
+    "persistent_id": "082b543309bd646ca2aadddc1e2d32327a2796b5e7af4425f67a2b42ee35131b",
+    "id": 125869400,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511703",
+      "street": {
+        "id": 1678351,
+        "name": "On or near Little Newport Street"
+      },
+      "longitude": "-0.128701"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-08"
+    },
+    "persistent_id": "8484297184b9b42f874a17d6dac25fb4eaccf8a9a9b05a2bf9d52956e8826e99",
+    "id": 125868294,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512811",
+      "street": {
+        "id": 1677641,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.133325"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "545327f3faf1a1816e21dbb62679d1876d868b0c86b155a9db283475f0819279",
+    "id": 125867136,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "236dcb3b8556c2acd2a06932eacb781b8842576e37cf8e605238f45980b1c45e",
+    "id": 125869242,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511997",
+      "street": {
+        "id": 1677958,
+        "name": "On or near Macclesfield Street"
+      },
+      "longitude": "-0.131355"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "dbb720b899bcf8f4a6dd55f21a9b7f555b335164cb424984470abef75e57c7e0",
+    "id": 125865643,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "e91138101fa8083fe4a7067ce90a7b9a1c6d8c110dee5623a47ef40c88f7b6b1",
+    "id": 125865343,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511108",
+      "street": {
+        "id": 1678575,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.127486"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "da219db9fe407caab0e26c8fb47a67f5047ca4b5239c7b074f191a27bd496896",
+    "id": 125865120,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512416",
+      "street": {
+        "id": 1677661,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133384"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "0470a13c74754740512432e34fc112140871760c78e56c6398444b538414cc85",
+    "id": 125865073,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511703",
+      "street": {
+        "id": 1678351,
+        "name": "On or near Little Newport Street"
+      },
+      "longitude": "-0.128701"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "44250c5ff639fa08ef500409dcd6201991cea358d2fdc61e7be60e43ae3ba4b6",
+    "id": 125863184,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511783",
+      "street": {
+        "id": 1678199,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.129778"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "5551b68b654f8107beac84aa95daed5a388aee4607f7b96ccc3b67691aead7d6",
+    "id": 125864410,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512416",
+      "street": {
+        "id": 1677661,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133384"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "498f435869330d2430dd6010ed66d05ab1e348c7032b9927e39343b3d0b428b1",
+    "id": 125863815,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "a57036c5c081dea1f2c560349e8ce14c93a36cfa29fbfdaf6820e6b78810184e",
+    "id": 125863979,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511534",
+      "street": {
+        "id": 1678076,
+        "name": "On or near Lisle Street"
+      },
+      "longitude": "-0.130495"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "ea8129da810135ab2bca9a161743e854b69e119a95d0cc03ff505fec7d4fd183",
+    "id": 125863377,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511534",
+      "street": {
+        "id": 1678076,
+        "name": "On or near Lisle Street"
+      },
+      "longitude": "-0.130495"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "43cc0f8e7dc9d332a127512beb5eefd082421fdda9b118ec91487594d5536998",
+    "id": 125863365,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "282350888895d6e59d4ce358e490ca6e7c3a08f2e38ba9f6dbfca2236d3d33d8",
+    "id": 125863773,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511534",
+      "street": {
+        "id": 1678076,
+        "name": "On or near Lisle Street"
+      },
+      "longitude": "-0.130495"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "5b1637926cb86fe38052856cc174e1af8e38527ff4a890c1b6f0f749df7f31e6",
+    "id": 125860667,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511703",
+      "street": {
+        "id": 1678351,
+        "name": "On or near Little Newport Street"
+      },
+      "longitude": "-0.128701"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "614ef960af135b920f0f8513a7200506901da4d801d5e5ee3fb3215cb8edc546",
+    "id": 125860469,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511703",
+      "street": {
+        "id": 1678351,
+        "name": "On or near Little Newport Street"
+      },
+      "longitude": "-0.128701"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "80d62647f2ec5143a82f897de3caeb13b90a923c9c3602b5f71418fed24ae008",
+    "id": 125862168,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677815,
+        "name": "On or near Dansey Place"
+      },
+      "longitude": "-0.131925"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "b6b177c6c450bd3a390cc7b693a70c85899b4f0680225f0064640bf098e95366",
+    "id": 125861367,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511783",
+      "street": {
+        "id": 1678199,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.129778"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "7735aa0a0c22860c0a86e0f8a7c7748364352b1130981b4c42728278bc4c47d6",
+    "id": 125863538,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512416",
+      "street": {
+        "id": 1677661,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133384"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "e4e3b462eab25ed898bf6ec894aa12532905a57ad6eb573cdce6fd9f7a6a4a4c",
+    "id": 125877475,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "dfef7b72b9a9b4c10921917dbee2d081fc7871a0e85085454065063fa4138a3c",
+    "id": 125860475,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511339",
+      "street": {
+        "id": 1678405,
+        "name": "On or near Cranbourn Street"
+      },
+      "longitude": "-0.128427"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "48012dd9ac1ee6cabaf8d85b2e9b11700200594c1edf7a178640ca5e8014bf42",
+    "id": 125930601,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677815,
+        "name": "On or near Dansey Place"
+      },
+      "longitude": "-0.131925"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "7458852a3d057f56b7b21e55ce71754ca27c828f5384e1e05674392758438e2c",
+    "id": 125936534,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511030",
+      "street": {
+        "id": 1678574,
+        "name": "On or near B404"
+      },
+      "longitude": "-0.127085"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "5cce8c17904090f8220e104721f53978953b402c47eb2c1a834f1aae5e501e3a",
+    "id": 125937033,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677815,
+        "name": "On or near Dansey Place"
+      },
+      "longitude": "-0.131925"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "b2e444f8d1c0e5f5f86db3f6df4d7ab2d31d7411ee0fd46e013b7cfd9986ce01",
+    "id": 125860095,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511703",
+      "street": {
+        "id": 1678351,
+        "name": "On or near Little Newport Street"
+      },
+      "longitude": "-0.128701"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "2356adc9c339e19bf018945a67f6e1e533d39622c4a204ab21200de24c7537d8",
+    "id": 125864961,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "055a2fbe9feebd9b93d36bf92ee71820f189c6206ac4a23e0b3eb243557d8634",
+    "id": 125862702,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "eb7f62ed535986d20e125045f42a8c573d84158e6ee6d5343d6e9f651f1c27e7",
+    "id": 125936902,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511997",
+      "street": {
+        "id": 1677958,
+        "name": "On or near Macclesfield Street"
+      },
+      "longitude": "-0.131355"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "422007ea74db7e1dddd71f16fde7573578897659cb27dc9a1519e1a25c6f3c70",
+    "id": 125935231,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "4a04e7200806eae3da289aadcbf9adea71d35dd086c5cca04adc38dab2b548e1",
+    "id": 125935347,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511703",
+      "street": {
+        "id": 1678351,
+        "name": "On or near Little Newport Street"
+      },
+      "longitude": "-0.128701"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "39359b4618dc6f579eb3cd7267383b463fc1825c8ba370d7b4cc150790313084",
+    "id": 125933158,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677815,
+        "name": "On or near Dansey Place"
+      },
+      "longitude": "-0.131925"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "04ba4abcb2f6f85e802df1011b011b8f28bf550591dc5d005fee0c08d37d0537",
+    "id": 125932810,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511997",
+      "street": {
+        "id": 1677958,
+        "name": "On or near Macclesfield Street"
+      },
+      "longitude": "-0.131355"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "69aa5212ff66e19f34a9fe5b5bd474ae91648bb845ceb691e0819852ff28be22",
+    "id": 125877420,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511108",
+      "street": {
+        "id": 1678575,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.127486"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "0941b8a39c14d0ec9cdad9913e8821ebb108faacc79c91c11e7eab579a3f3ded",
+    "id": 125876310,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

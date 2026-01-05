@@ -1,0 +1,1052 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125854702,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510295",
+      "street": {
+        "id": 1677826,
+        "name": "On or near Coventry Street"
+      },
+      "longitude": "-0.132318"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125857473,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125853893,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510295",
+      "street": {
+        "id": 1677826,
+        "name": "On or near Coventry Street"
+      },
+      "longitude": "-0.132318"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125852029,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125859510,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125853531,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510295",
+      "street": {
+        "id": 1677826,
+        "name": "On or near Coventry Street"
+      },
+      "longitude": "-0.132318"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125839393,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510295",
+      "street": {
+        "id": 1677826,
+        "name": "On or near Coventry Street"
+      },
+      "longitude": "-0.132318"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "ac8516b4b4e2c886cb370df072b4199c11830f82b3d0aed356967d2a1ff4a920",
+    "id": 125867844,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510295",
+      "street": {
+        "id": 1677826,
+        "name": "On or near Coventry Street"
+      },
+      "longitude": "-0.132318"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "764c25e85a08d7688da06d6f65fe31ea59050c32cb7e6414b787edd996c1cbdd",
+    "id": 125867205,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "5d7b2b1119bb2f02d153a083e5ffdeac15afd9ed91638f1441ed4096ed5ac929",
+    "id": 125932085,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510295",
+      "street": {
+        "id": 1677826,
+        "name": "On or near Coventry Street"
+      },
+      "longitude": "-0.132318"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "a47c8e74746e2df85614425d5466495590ec0df1221fec945a752f5d030b7ff5",
+    "id": 125867875,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "14dbbe853629bceb49495d249e8334cbfc4a4bca88f456d5a9092a5b66ade59f",
+    "id": 125939906,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512495",
+      "street": {
+        "id": 1676635,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.138915"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "650438be16edd69ddff1e07d57a6172e45acc51613ab01bb69e22218e5c49541",
+    "id": 125930428,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511860",
+      "street": {
+        "id": 1676890,
+        "name": "On or near Upper John Street"
+      },
+      "longitude": "-0.137975"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "a6f2231c01e6688e7401c05a40e1cc5dfe43b9ec65f30f495cd874508776ab93",
+    "id": 125671730,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510910",
+      "street": {
+        "id": 1678401,
+        "name": "On or near Bear Street"
+      },
+      "longitude": "-0.128604"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "59c09751d1af72d86d23d45e565c67852f33bfc78a5c5add4cd0225f5c7c6528",
+    "id": 125935163,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "88bad4ee09ff3759b93884bbb6be499ca21e3efe20a99a813800a749c0fbf20c",
+    "id": 125881043,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "2885b78c794405b42d192ad01f26b8f6a7c7038b0cc0a09919031f6c62b487db",
+    "id": 125862785,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Offender given a caution",
+      "date": "2025-01"
+    },
+    "persistent_id": "7fc8282adaded44cf3daae86c78aa08063e8598fb88384221e3bf236c5a875c8",
+    "id": 125862457,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "82a89e34607f9c4690f67b013e3642865a0b3690857b0de3ad5de4acad60fa3c",
+    "id": 125881044,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511860",
+      "street": {
+        "id": 1676890,
+        "name": "On or near Upper John Street"
+      },
+      "longitude": "-0.137975"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "6a6b72668ec85191b34d7ed1290b0937d6bd6acf87afbb1770666222836506af",
+    "id": 125877471,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510295",
+      "street": {
+        "id": 1677826,
+        "name": "On or near Coventry Street"
+      },
+      "longitude": "-0.132318"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "f238a31e7028186aa32b5068e28f09d7608ebcf662c2304a9895d5b5a92497cc",
+    "id": 125862035,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510152",
+      "street": {
+        "id": 1677738,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.132382"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "c1254e02ba3abbd894d9e927e64dedca46df4390288a82f52940449c75394c25",
+    "id": 125860719,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "f6d126bb262cb392dcb8eec848c328988a0b313d9cbc71a308ab31abaa78f59a",
+    "id": 125881211,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "2d372eea995fef82205c5f93e236f44bc6374dd0662d1daae0f467176bd0675b",
+    "id": 125880881,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "dd340fd528b864a9ef258f1d15560bd0bb13b9b49fb659a84f25e6d0a01f6c51",
+    "id": 125876242,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "ace49af9a931be4dee5e7f5278ec17ebd2c7f658809a2015bb0c736bfb2587b2",
+    "id": 125936811,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "f4b6a485c619128bf4c5886f9ee50e4f3a3b30f1e8083747fcab64c2518a4032",
+    "id": 125936431,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "07819415fe256b3fc839045fbe0d52f6bae1e6e3d8650ec74892aa3699bc08f5",
+    "id": 125866178,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512495",
+      "street": {
+        "id": 1676635,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.138915"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "00c973b9d077a72088f0743ba28fdc1cc697a9d962d1e9e1c7ecccb859934bdb",
+    "id": 125864642,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "8f77efc4c40c3a4070578f6d156a01191896c1aecce5ba0ef34ea6be9023a4c1",
+    "id": 125863028,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512495",
+      "street": {
+        "id": 1676635,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.138915"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "eda630b79436e9dfffa4702143cd042c074c1ac4f3b5582dd2caf5d0100b10f6",
+    "id": 125935390,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "abf36c31adce6a0452a7e826b4b79269a2d6e5931d3f4ba7c25524adbd490e44",
+    "id": 125863370,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "87950071616bf9f84577f34fbc8f3b24cecce6d8a54bbcf2dc12f03ff2f3386c",
+    "id": 125863104,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "da45be8c0d7e7998c2e04663fc73c436ac9b5bd7144b0d6e45c9d217f00749c2",
+    "id": 125861814,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "ff2254434da5b76b2a4714795a74e0fa23fb8900b1bef6bbfa2c1f09ef07b5ba",
+    "id": 125934380,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "1d6e0fe0249cd61b9fd5316457c71104d4ec2e9f29c9cb7987ab5acaf96d6560",
+    "id": 125933179,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "2ef92020ff2a4be49c7acf405ddbdab14a5c6ed30058e7a3b8c9936659a5a028",
+    "id": 125938055,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "595f114d2f03204aa33e30986077128bab658cf706237962a53386de59a874aa",
+    "id": 125861314,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511264",
+      "street": {
+        "id": 1677077,
+        "name": "On or near Lower John Street"
+      },
+      "longitude": "-0.137308"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Local resolution",
+      "date": "2025-02"
+    },
+    "persistent_id": "24337bce520396cf5504e2ea913bbe869837dbde4c473d9b54906b4a9a4d2a15",
+    "id": 125866100,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511860",
+      "street": {
+        "id": 1676890,
+        "name": "On or near Upper John Street"
+      },
+      "longitude": "-0.137975"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "5abe35f0ea24e43876078e01c3c8a01bbe9708e6ff4be4f67aa2621983c82247",
+    "id": 125861409,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "f4e3eeffc4e75e9c5158e71d974e0d1136256bb6e8b88cfa8e73d69fd9820667",
+    "id": 125865819,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510295",
+      "street": {
+        "id": 1677826,
+        "name": "On or near Coventry Street"
+      },
+      "longitude": "-0.132318"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "b322b7caadb1a65b01932a7af2066a7f529b94237e7fa1fcabfcc96db9157023",
+    "id": 125933147,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Offender given a caution",
+      "date": "2025-03"
+    },
+    "persistent_id": "2fb9b6f7d236a42f331ae60ba46a23bd3560362f6d4514ff90caafac912a6a52",
+    "id": 125865242,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "f5679b6edcbd12d2453cdda11763d1ce35378f706a94d550413faccd3d0e8d8d",
+    "id": 125862167,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511860",
+      "street": {
+        "id": 1676890,
+        "name": "On or near Upper John Street"
+      },
+      "longitude": "-0.137975"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "3482769b1cfc77c555e1114430c3cea227431ec15910167fe96d87606e9040df",
+    "id": 125932983,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511339",
+      "street": {
+        "id": 1678405,
+        "name": "On or near Cranbourn Street"
+      },
+      "longitude": "-0.128427"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "48012dd9ac1ee6cabaf8d85b2e9b11700200594c1edf7a178640ca5e8014bf42",
+    "id": 125930601,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Offender given a caution",
+      "date": "2025-01"
+    },
+    "persistent_id": "2308dde270b2a975034e80f70cc2e90d3eddde1691212aaf4313ebcf49d510c4",
+    "id": 125861162,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "86c50562acc59c142f74f9b8ddd9f92eb35000b2fefe54a91df1e7712d02cc87",
+    "id": 125940120,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "8b719e152f9de83fcb81dc5943de8c4e7807ccd867b3e32898274cba92de50c1",
+    "id": 125940009,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510840",
+      "street": {
+        "id": 1678254,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.128984"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "b9fdf43c9377597ea712a7c9136a67a9d3c31a35abdafe78e9cc4d1c05e9108c",
+    "id": 125864113,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510468",
+      "street": {
+        "id": 1678029,
+        "name": "On or near Leicester Square"
+      },
+      "longitude": "-0.130769"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "5c28b7a08a180ac6acf05c77f0a342684f8a2450c4a71071b252063ccd5aa6fd",
+    "id": 125860374,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

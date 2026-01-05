@@ -1,0 +1,662 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125850341,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125835632,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125859948,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512339",
+      "street": {
+        "id": 1677616,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133618"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125857468,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "236dcb3b8556c2acd2a06932eacb781b8842576e37cf8e605238f45980b1c45e",
+    "id": 125869242,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512811",
+      "street": {
+        "id": 1677641,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.133325"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "545327f3faf1a1816e21dbb62679d1876d868b0c86b155a9db283475f0819279",
+    "id": 125867136,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.509609",
+      "street": {
+        "id": 2348094,
+        "name": "Piccadilly Circus (lu Station)"
+      },
+      "longitude": "-0.135151"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126037243,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.509609",
+      "street": {
+        "id": 2348094,
+        "name": "Piccadilly Circus (lu Station)"
+      },
+      "longitude": "-0.135151"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126037242,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512811",
+      "street": {
+        "id": 1677641,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.133325"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-09"
+    },
+    "persistent_id": "082b543309bd646ca2aadddc1e2d32327a2796b5e7af4425f67a2b42ee35131b",
+    "id": 125869400,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "3c6e4f865e7b8b295a44bf112628a4b519a011b4ff641c9cdf9acab0f1a3a60c",
+    "id": 125860444,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "e4cbce63aa8f882164e8ae4a7239c6671f3e7e86faa1310a84d25840a42ef0c1",
+    "id": 125860075,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512416",
+      "street": {
+        "id": 1677661,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133384"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "e4e3b462eab25ed898bf6ec894aa12532905a57ad6eb573cdce6fd9f7a6a4a4c",
+    "id": 125877475,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "e91138101fa8083fe4a7067ce90a7b9a1c6d8c110dee5623a47ef40c88f7b6b1",
+    "id": 125865343,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512416",
+      "street": {
+        "id": 1677661,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133384"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "0470a13c74754740512432e34fc112140871760c78e56c6398444b538414cc85",
+    "id": 125865073,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.509609",
+      "street": {
+        "id": 2348094,
+        "name": "Piccadilly Circus (lu Station)"
+      },
+      "longitude": "-0.135151"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126037247,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.509609",
+      "street": {
+        "id": 2348094,
+        "name": "Piccadilly Circus (lu Station)"
+      },
+      "longitude": "-0.135151"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126037246,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511200",
+      "street": {
+        "id": 1677628,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133288"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "90b129bb763db857000065709d33e2a29a2fc5a2f1bf0c737d37d1c3efc66bf8",
+    "id": 125862430,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "618e810e0d7f0bf31b500d9d6e4e55f9b667ffc71e63db2b62c5dcc05ea0a62d",
+    "id": 125862343,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "055a2fbe9feebd9b93d36bf92ee71820f189c6206ac4a23e0b3eb243557d8634",
+    "id": 125862702,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "eb7f62ed535986d20e125045f42a8c573d84158e6ee6d5343d6e9f651f1c27e7",
+    "id": 125936902,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "4a04e7200806eae3da289aadcbf9adea71d35dd086c5cca04adc38dab2b548e1",
+    "id": 125935347,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511200",
+      "street": {
+        "id": 1677628,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133288"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "0561d6dee96c8af35626a92bee03d1d24b1a560023b5ecce40ec0213f1da8e58",
+    "id": 125934175,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "dfef7b72b9a9b4c10921917dbee2d081fc7871a0e85085454065063fa4138a3c",
+    "id": 125860475,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "5e2ef80d2bba5ab3e91d25f69f61b19b274f7e92d5b10fa2e09cb605e471bd1f",
+    "id": 125876980,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "282350888895d6e59d4ce358e490ca6e7c3a08f2e38ba9f6dbfca2236d3d33d8",
+    "id": 125863773,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512416",
+      "street": {
+        "id": 1677661,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133384"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "498f435869330d2430dd6010ed66d05ab1e348c7032b9927e39343b3d0b428b1",
+    "id": 125863815,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-08"
+    },
+    "persistent_id": "adfc6a54f89f886f12a1c0a96662ffd9afad99706ed63eb76a193c3c4a2fa7b2",
+    "id": 125937175,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511790",
+      "street": {
+        "id": 1677744,
+        "name": "On or near A401"
+      },
+      "longitude": "-0.132459"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "a57036c5c081dea1f2c560349e8ce14c93a36cfa29fbfdaf6820e6b78810184e",
+    "id": 125863979,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510952",
+      "street": {
+        "id": 1677471,
+        "name": "On or near Great Windmill Street"
+      },
+      "longitude": "-0.134064"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "a4bd820acbc7161484cdf178cf5646d9a0ea1dd7250fefa24e8cd5ebd4f2977f",
+    "id": 125863079,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511200",
+      "street": {
+        "id": 1677628,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.133288"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "bdef907d93bc1d4a2096060f3d1fafbe6632c91533880971b79d54ed9a1d73e7",
+    "id": 125941497,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "2242ed1c5e8dc81fbd8301ac9621f76c3a63731309ce9ff6b3225915ec97d4ac",
+    "id": 125861353,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510952",
+      "street": {
+        "id": 1677471,
+        "name": "On or near Great Windmill Street"
+      },
+      "longitude": "-0.134064"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-10"
+    },
+    "persistent_id": "be2cfb5d2e9ed2bb05c940f020d6587146756c3670eab15488e5ceac7c15473e",
+    "id": 125877474,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

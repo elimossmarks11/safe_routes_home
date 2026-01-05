@@ -1,0 +1,398 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125850341,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.509609",
+      "street": {
+        "id": 2348094,
+        "name": "Piccadilly Circus (lu Station)"
+      },
+      "longitude": "-0.135151"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126037242,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.509609",
+      "street": {
+        "id": 2348094,
+        "name": "Piccadilly Circus (lu Station)"
+      },
+      "longitude": "-0.135151"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126037243,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.509609",
+      "street": {
+        "id": 2348094,
+        "name": "Piccadilly Circus (lu Station)"
+      },
+      "longitude": "-0.135151"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126037247,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511860",
+      "street": {
+        "id": 1676890,
+        "name": "On or near Upper John Street"
+      },
+      "longitude": "-0.137975"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "a6f2231c01e6688e7401c05a40e1cc5dfe43b9ec65f30f495cd874508776ab93",
+    "id": 125671730,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-08"
+    },
+    "persistent_id": "adfc6a54f89f886f12a1c0a96662ffd9afad99706ed63eb76a193c3c4a2fa7b2",
+    "id": 125937175,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512495",
+      "street": {
+        "id": 1676635,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.138915"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "eda630b79436e9dfffa4702143cd042c074c1ac4f3b5582dd2caf5d0100b10f6",
+    "id": 125935390,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "5e2ef80d2bba5ab3e91d25f69f61b19b274f7e92d5b10fa2e09cb605e471bd1f",
+    "id": 125876980,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512495",
+      "street": {
+        "id": 1676635,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.138915"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "00c973b9d077a72088f0743ba28fdc1cc697a9d962d1e9e1c7ecccb859934bdb",
+    "id": 125864642,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.509609",
+      "street": {
+        "id": 2348094,
+        "name": "Piccadilly Circus (lu Station)"
+      },
+      "longitude": "-0.135151"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126037246,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511860",
+      "street": {
+        "id": 1676890,
+        "name": "On or near Upper John Street"
+      },
+      "longitude": "-0.137975"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "5abe35f0ea24e43876078e01c3c8a01bbe9708e6ff4be4f67aa2621983c82247",
+    "id": 125861409,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "2242ed1c5e8dc81fbd8301ac9621f76c3a63731309ce9ff6b3225915ec97d4ac",
+    "id": 125861353,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512495",
+      "street": {
+        "id": 1676635,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.138915"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "650438be16edd69ddff1e07d57a6172e45acc51613ab01bb69e22218e5c49541",
+    "id": 125930428,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "3c6e4f865e7b8b295a44bf112628a4b519a011b4ff641c9cdf9acab0f1a3a60c",
+    "id": 125860444,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511860",
+      "street": {
+        "id": 1676890,
+        "name": "On or near Upper John Street"
+      },
+      "longitude": "-0.137975"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "6a6b72668ec85191b34d7ed1290b0937d6bd6acf87afbb1770666222836506af",
+    "id": 125877471,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511860",
+      "street": {
+        "id": 1676890,
+        "name": "On or near Upper John Street"
+      },
+      "longitude": "-0.137975"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "3482769b1cfc77c555e1114430c3cea227431ec15910167fe96d87606e9040df",
+    "id": 125932983,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "e4cbce63aa8f882164e8ae4a7239c6671f3e7e86faa1310a84d25840a42ef0c1",
+    "id": 125860075,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509158",
+      "street": {
+        "id": 1677370,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.134930"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "618e810e0d7f0bf31b500d9d6e4e55f9b667ffc71e63db2b62c5dcc05ea0a62d",
+    "id": 125862343,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.511264",
+      "street": {
+        "id": 1677077,
+        "name": "On or near Lower John Street"
+      },
+      "longitude": "-0.137308"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Local resolution",
+      "date": "2025-02"
+    },
+    "persistent_id": "24337bce520396cf5504e2ea913bbe869837dbde4c473d9b54906b4a9a4d2a15",
+    "id": 125866100,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513150",
+      "street": {
+        "id": 1676870,
+        "name": "On or near Carnaby Street"
+      },
+      "longitude": "-0.138845"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125857350,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125856806,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125840359,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "89abb6ca537e1ebdba978a0ebac640fa704debd9eb302475de716ecad8898ece",
+    "id": 125931610,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "9846dc9d0a11e1a0b5aa6fe73d4a39c3486427be64257c473b8ad79e0f56f3ed",
+    "id": 125869398,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "a15d3a2ea5183a124ab82d27f2d5d7d7f86e7f4bf9063a5d4d1f17fb9138da7e",
+    "id": 125933790,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-10"
+    },
+    "persistent_id": "8fcede2e17d8855834347796a07c4038a6e44339808e5c95b344c8b88974bda1",
+    "id": 125869365,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "51445408a1704ee09f0a3bd3173f5200150e1301085979b3d4eff8d05c51ca1c",
+    "id": 125860205,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.514247",
+      "street": {
+        "id": 1676736,
+        "name": "On or near Great Marlborough Street"
+      },
+      "longitude": "-0.139406"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "782ec9826f973118674e3b8ae1969c51266050f52bdb9f16d9c34dcd3eedd7c2",
+    "id": 125939422,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513114",
+      "street": {
+        "id": 1676865,
+        "name": "On or near Ganton Street"
+      },
+      "longitude": "-0.138803"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "c5345c6312c65ac1a942621f1eea22399582da6029796d755fed3946c87051a5",
+    "id": 125941508,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "a38bf6683201443e8215a6e8c7517f1359d00483215a1a9d7b0fc7a64465cf08",
+    "id": 125932676,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "eee6259d9a3fb93ea00a7b6293677188b3df2f7be21783fe415cd7919db008a9",
+    "id": 125937064,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "260ccd5d904df4916d9dff07425bbf77dd06c01ab4cf3255f9fb24389b92d9b9",
+    "id": 125877040,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513114",
+      "street": {
+        "id": 1676865,
+        "name": "On or near Ganton Street"
+      },
+      "longitude": "-0.138803"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "e028a45d7d402b771a161a8090b37612f139314324b996e32dda56463b62e81f",
+    "id": 125936582,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.513826",
+      "street": {
+        "id": 1676834,
+        "name": "On or near Foubert's Place"
+      },
+      "longitude": "-0.138947"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "4ab68e3e48a70cfa704b32df643c299448961770db42faf9d7593afcb1c07399",
+    "id": 125933589,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "2dd568cb40f7bcad7a026ba112b316e4ce199e4d9a61176640b1a447831fabc0",
+    "id": 125864639,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.515684",
+      "street": {
+        "id": 1677259,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.135874"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "fbd7c5bf4dbeb543cb4ab3f12e5f554e989d417cb3232db3d4035a09a7e684e7",
+    "id": 125864156,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

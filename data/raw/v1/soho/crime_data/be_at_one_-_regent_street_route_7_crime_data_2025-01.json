@@ -1,0 +1,44 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.512078",
+      "street": {
+        "id": 1676378,
+        "name": "On or near New Burlington Place"
+      },
+      "longitude": "-0.141526"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "d0979934afc2566dc80f3c040cd444b341470241ae127dc4830d15a0f26cfda9",
+    "id": 125931796,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510641",
+      "street": {
+        "id": 1676033,
+        "name": "On or near Bruton Street"
+      },
+      "longitude": "-0.144467"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "086f1363ed1046e50f24342eb1e2019e9e381358d65c8f0222f0067c72d0f059",
+    "id": 125863484,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]
