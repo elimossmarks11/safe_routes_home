@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "The Karaoke Hole",
+    "location": {
+      "latitude": 51.5494,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Newington Green (Stop NE)",
+    "location": {
+      "latitude": 51.551611699999995,
+      "longitude": -0.0844808
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 835,
+    "duration_seconds": 696
+  },
+  "police_api": {
+    "param_file": "the_karaoke_hole_route_7_police_api_param.txt"
+  }
+}

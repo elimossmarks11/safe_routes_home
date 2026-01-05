@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "Ridley Road Market Bar",
+    "location": {
+      "latitude": 51.5483,
+      "longitude": -0.0725
+    }
+  },
+  "destination": {
+    "name": "Kingsland High Street / Dalston Junction (Stop L)",
+    "location": {
+      "latitude": 51.5469551,
+      "longitude": -0.075736
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 335,
+    "duration_seconds": 285
+  },
+  "police_api": {
+    "param_file": "ridley_road_market_bar_route_3_police_api_param.txt"
+  }
+}

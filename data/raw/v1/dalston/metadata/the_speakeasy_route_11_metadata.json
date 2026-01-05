@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "The Speakeasy",
+    "location": {
+      "latitude": 51.5465,
+      "longitude": -0.0747
+    }
+  },
+  "destination": {
+    "name": "Shacklewell Lane Dalston (Stop X)",
+    "location": {
+      "latitude": 51.5508653,
+      "longitude": -0.0737985
+    }
+  },
+  "route": {
+    "route_index": 11,
+    "distance_meters": 619,
+    "duration_seconds": 530
+  },
+  "police_api": {
+    "param_file": "the_speakeasy_route_11_police_api_param.txt"
+  }
+}

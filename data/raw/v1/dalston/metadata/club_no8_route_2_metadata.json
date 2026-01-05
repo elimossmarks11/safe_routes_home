@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "Club No8",
+    "location": {
+      "latitude": 51.5509,
+      "longitude": -0.0748
+    }
+  },
+  "destination": {
+    "name": "Rio Cinema (Stop T)",
+    "location": {
+      "latitude": 51.5500602,
+      "longitude": -0.0750841
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 126,
+    "duration_seconds": 107
+  },
+  "police_api": {
+    "param_file": "club_no8_route_2_police_api_param.txt"
+  }
+}

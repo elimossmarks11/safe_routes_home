@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "Dalston Superstore",
+    "location": {
+      "latitude": 51.5501,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Rio Cinema (Stop T)",
+    "location": {
+      "latitude": 51.5500602,
+      "longitude": -0.0750841
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 13,
+    "duration_seconds": 22
+  },
+  "police_api": {
+    "param_file": "dalston_superstore_route_0_police_api_param.txt"
+  }
+}

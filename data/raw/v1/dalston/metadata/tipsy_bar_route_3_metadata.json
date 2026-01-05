@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "Tipsy Bar",
+    "location": {
+      "latitude": 51.5512,
+      "longitude": -0.0749
+    }
+  },
+  "destination": {
+    "name": "Hackney Downs Station (Stop N)",
+    "location": {
+      "latitude": 51.548927,
+      "longitude": -0.061404999999999994
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 1190,
+    "duration_seconds": 950
+  },
+  "police_api": {
+    "param_file": "tipsy_bar_route_3_police_api_param.txt"
+  }
+}

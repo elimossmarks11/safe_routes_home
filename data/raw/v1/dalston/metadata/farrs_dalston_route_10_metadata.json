@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "Farrs Dalston",
+    "location": {
+      "latitude": 51.5464,
+      "longitude": -0.074
+    }
+  },
+  "destination": {
+    "name": "Hackney Downs Station (Stop N)",
+    "location": {
+      "latitude": 51.548927,
+      "longitude": -0.061404999999999994
+    }
+  },
+  "route": {
+    "route_index": 10,
+    "distance_meters": 1034,
+    "duration_seconds": 872
+  },
+  "police_api": {
+    "param_file": "farrs_dalston_route_10_police_api_param.txt"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "Ridley Road Market Bar",
+    "location": {
+      "latitude": 51.5483,
+      "longitude": -0.0725
+    }
+  },
+  "destination": {
+    "name": "Hackney Downs Station (Stop N)",
+    "location": {
+      "latitude": 51.548927,
+      "longitude": -0.061404999999999994
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 794,
+    "duration_seconds": 646
+  },
+  "police_api": {
+    "param_file": "ridley_road_market_bar_route_8_police_api_param.txt"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "The Speakeasy",
+    "location": {
+      "latitude": 51.5465,
+      "longitude": -0.0747
+    }
+  },
+  "destination": {
+    "name": "Kingsland High Street / Dalston Junction (Stop L)",
+    "location": {
+      "latitude": 51.5469551,
+      "longitude": -0.075736
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 180,
+    "duration_seconds": 155
+  },
+  "police_api": {
+    "param_file": "the_speakeasy_route_2_police_api_param.txt"
+  }
+}

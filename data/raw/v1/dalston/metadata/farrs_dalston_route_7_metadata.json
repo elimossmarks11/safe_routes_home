@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "Farrs Dalston",
+    "location": {
+      "latitude": 51.5464,
+      "longitude": -0.074
+    }
+  },
+  "destination": {
+    "name": "Dalston Kingsland Station (Stop P)",
+    "location": {
+      "latitude": 51.5484878,
+      "longitude": -0.0754663
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 359,
+    "duration_seconds": 307
+  },
+  "police_api": {
+    "param_file": "farrs_dalston_route_7_police_api_param.txt"
+  }
+}

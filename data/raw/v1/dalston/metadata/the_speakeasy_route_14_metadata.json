@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "The Speakeasy",
+    "location": {
+      "latitude": 51.5465,
+      "longitude": -0.0747
+    }
+  },
+  "destination": {
+    "name": "Hackney Downs",
+    "location": {
+      "latitude": 51.5487712,
+      "longitude": -0.061084200000000005
+    }
+  },
+  "route": {
+    "route_index": 14,
+    "distance_meters": 1128,
+    "duration_seconds": 942
+  },
+  "police_api": {
+    "param_file": "the_speakeasy_route_14_police_api_param.txt"
+  }
+}

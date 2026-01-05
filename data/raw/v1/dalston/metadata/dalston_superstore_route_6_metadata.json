@@ -1,0 +1,25 @@
+{
+  "area": "dalston",
+  "club": {
+    "name": "Dalston Superstore",
+    "location": {
+      "latitude": 51.5501,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Dalston Kingsland Station (Stop R)",
+    "location": {
+      "latitude": 51.5487566,
+      "longitude": -0.0752673
+    }
+  },
+  "route": {
+    "route_index": 6,
+    "distance_meters": 148,
+    "duration_seconds": 124
+  },
+  "police_api": {
+    "param_file": "dalston_superstore_route_6_police_api_param.txt"
+  }
+}
