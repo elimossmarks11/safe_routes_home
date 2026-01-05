@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Oxford Circus",
+    "location": {
+      "latitude": 51.515211699999995,
+      "longitude": -0.1418553
+    }
+  },
+  "route": {
+    "route_index": 14,
+    "distance_meters": 811,
+    "duration_seconds": 669
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_14_police_api_param.txt"
+  }
+}

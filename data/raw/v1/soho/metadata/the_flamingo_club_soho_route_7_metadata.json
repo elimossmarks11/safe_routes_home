@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "The Flamingo Club Soho",
+    "location": {
+      "latitude": 51.5127,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "Tottenham Court Road",
+    "location": {
+      "latitude": 51.5162811,
+      "longitude": -0.1300406
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 850,
+    "duration_seconds": 712
+  },
+  "police_api": {
+    "param_file": "the_flamingo_club_soho_route_7_police_api_param.txt"
+  }
+}

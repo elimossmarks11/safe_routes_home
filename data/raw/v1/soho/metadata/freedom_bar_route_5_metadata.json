@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Oxford Circus Station (Stop OH)",
+    "location": {
+      "latitude": 51.515171699999996,
+      "longitude": -0.1434531
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 922,
+    "duration_seconds": 787
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_5_police_api_param.txt"
+  }
+}

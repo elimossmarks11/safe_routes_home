@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Tottenham Court Road",
+    "location": {
+      "latitude": 51.5162811,
+      "longitude": -0.1300406
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 661,
+    "duration_seconds": 551
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_2_police_api_param.txt"
+  }
+}

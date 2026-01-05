@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Avenue Q, West End Musical",
+    "location": {
+      "latitude": 51.5110988,
+      "longitude": -0.1272925
+    }
+  },
+  "route": {
+    "route_index": 6,
+    "distance_meters": 664,
+    "duration_seconds": 549
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_6_police_api_param.txt"
+  }
+}

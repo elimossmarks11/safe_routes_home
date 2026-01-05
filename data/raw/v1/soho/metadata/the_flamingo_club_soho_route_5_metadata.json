@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "The Flamingo Club Soho",
+    "location": {
+      "latitude": 51.5127,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "farm street church w1",
+    "location": {
+      "latitude": 51.5083227,
+      "longitude": -0.1452533
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 832,
+    "duration_seconds": 677
+  },
+  "police_api": {
+    "param_file": "the_flamingo_club_soho_route_5_police_api_param.txt"
+  }
+}

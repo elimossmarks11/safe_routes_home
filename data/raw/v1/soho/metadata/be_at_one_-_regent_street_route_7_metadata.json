@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Be At One - Regent Street",
+    "location": {
+      "latitude": 51.5119,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "Berkeley Square (Stop V)",
+    "location": {
+      "latitude": 51.5092922,
+      "longitude": -0.146231
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 813,
+    "duration_seconds": 673
+  },
+  "police_api": {
+    "param_file": "be_at_one_-_regent_street_route_7_police_api_param.txt"
+  }
+}

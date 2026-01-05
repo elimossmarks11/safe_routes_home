@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "The Flamingo Club Soho",
+    "location": {
+      "latitude": 51.5127,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "Oxford Circus",
+    "location": {
+      "latitude": 51.515211699999995,
+      "longitude": -0.1418553
+    }
+  },
+  "route": {
+    "route_index": 13,
+    "distance_meters": 442,
+    "duration_seconds": 363
+  },
+  "police_api": {
+    "param_file": "the_flamingo_club_soho_route_13_police_api_param.txt"
+  }
+}

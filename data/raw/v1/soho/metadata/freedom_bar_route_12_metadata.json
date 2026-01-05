@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Leicester Square",
+    "location": {
+      "latitude": 51.511451,
+      "longitude": -0.128144
+    }
+  },
+  "route": {
+    "route_index": 12,
+    "distance_meters": 551,
+    "duration_seconds": 455
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_12_police_api_param.txt"
+  }
+}

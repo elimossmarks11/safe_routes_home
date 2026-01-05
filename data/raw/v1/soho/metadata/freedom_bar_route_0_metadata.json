@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Denmark Street (Stop A)",
+    "location": {
+      "latitude": 51.5144211,
+      "longitude": -0.1298009
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 402,
+    "duration_seconds": 328
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_0_police_api_param.txt"
+  }
+}

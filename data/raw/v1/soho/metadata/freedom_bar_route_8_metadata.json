@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Trafalgar Square / Charing Cross Station (Stop A)",
+    "location": {
+      "latitude": 51.507693499999995,
+      "longitude": -0.12966760000000002
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 757,
+    "duration_seconds": 622
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_8_police_api_param.txt"
+  }
+}

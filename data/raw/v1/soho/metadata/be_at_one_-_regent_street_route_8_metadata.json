@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Be At One - Regent Street",
+    "location": {
+      "latitude": 51.5119,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "farm street church w1",
+    "location": {
+      "latitude": 51.5083227,
+      "longitude": -0.1452533
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 822,
+    "duration_seconds": 670
+  },
+  "police_api": {
+    "param_file": "be_at_one_-_regent_street_route_8_police_api_param.txt"
+  }
+}

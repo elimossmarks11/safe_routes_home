@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "The Flamingo Club Soho",
+    "location": {
+      "latitude": 51.5127,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "The St James's Partnership",
+    "location": {
+      "latitude": 51.50731,
+      "longitude": -0.1341694
+    }
+  },
+  "route": {
+    "route_index": 10,
+    "distance_meters": 856,
+    "duration_seconds": 702
+  },
+  "police_api": {
+    "param_file": "the_flamingo_club_soho_route_10_police_api_param.txt"
+  }
+}

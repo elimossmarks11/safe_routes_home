@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Be At One - Regent Street",
+    "location": {
+      "latitude": 51.5119,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "Leicester Square",
+    "location": {
+      "latitude": 51.511451,
+      "longitude": -0.128144
+    }
+  },
+  "route": {
+    "route_index": 16,
+    "distance_meters": 878,
+    "duration_seconds": 729
+  },
+  "police_api": {
+    "param_file": "be_at_one_-_regent_street_route_16_police_api_param.txt"
+  }
+}

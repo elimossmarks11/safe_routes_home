@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Be At One - Regent Street",
+    "location": {
+      "latitude": 51.5119,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "Oxford Circus",
+    "location": {
+      "latitude": 51.515211699999995,
+      "longitude": -0.1418553
+    }
+  },
+  "route": {
+    "route_index": 14,
+    "distance_meters": 497,
+    "duration_seconds": 411
+  },
+  "police_api": {
+    "param_file": "be_at_one_-_regent_street_route_14_police_api_param.txt"
+  }
+}

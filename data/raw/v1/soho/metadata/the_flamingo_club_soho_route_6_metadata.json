@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "The Flamingo Club Soho",
+    "location": {
+      "latitude": 51.5127,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "Denmark Street (Stop A)",
+    "location": {
+      "latitude": 51.5144211,
+      "longitude": -0.1298009
+    }
+  },
+  "route": {
+    "route_index": 6,
+    "distance_meters": 881,
+    "duration_seconds": 716
+  },
+  "police_api": {
+    "param_file": "the_flamingo_club_soho_route_6_police_api_param.txt"
+  }
+}

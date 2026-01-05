@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Be At One - Regent Street",
+    "location": {
+      "latitude": 51.5119,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "Wardour Street (Stop OM)",
+    "location": {
+      "latitude": 51.5159107,
+      "longitude": -0.1355313
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 699,
+    "duration_seconds": 575
+  },
+  "police_api": {
+    "param_file": "be_at_one_-_regent_street_route_2_police_api_param.txt"
+  }
+}

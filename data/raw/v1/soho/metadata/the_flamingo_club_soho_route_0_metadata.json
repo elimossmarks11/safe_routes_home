@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "The Flamingo Club Soho",
+    "location": {
+      "latitude": 51.5127,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "Fitness First - Great Marlborough Street",
+    "location": {
+      "latitude": 51.5148191,
+      "longitude": -0.13894220000000002
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 306,
+    "duration_seconds": 244
+  },
+  "police_api": {
+    "param_file": "the_flamingo_club_soho_route_0_police_api_param.txt"
+  }
+}

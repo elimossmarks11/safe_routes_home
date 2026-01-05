@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "The Flamingo Club Soho",
+    "location": {
+      "latitude": 51.5127,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "Oxford Circus Station (Stop OH)",
+    "location": {
+      "latitude": 51.515171699999996,
+      "longitude": -0.1434531
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 553,
+    "duration_seconds": 482
+  },
+  "police_api": {
+    "param_file": "the_flamingo_club_soho_route_2_police_api_param.txt"
+  }
+}

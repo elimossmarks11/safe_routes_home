@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Wardour Street (Stop OM)",
+    "location": {
+      "latitude": 51.5159107,
+      "longitude": -0.1355313
+    }
+  },
+  "route": {
+    "route_index": 1,
+    "distance_meters": 411,
+    "duration_seconds": 339
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_1_police_api_param.txt"
+  }
+}

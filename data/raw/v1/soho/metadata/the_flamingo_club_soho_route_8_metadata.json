@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "The Flamingo Club Soho",
+    "location": {
+      "latitude": 51.5127,
+      "longitude": -0.1385
+    }
+  },
+  "destination": {
+    "name": "Berkeley Square (Stop V)",
+    "location": {
+      "latitude": 51.5092922,
+      "longitude": -0.146231
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 835,
+    "duration_seconds": 689
+  },
+  "police_api": {
+    "param_file": "the_flamingo_club_soho_route_8_police_api_param.txt"
+  }
+}

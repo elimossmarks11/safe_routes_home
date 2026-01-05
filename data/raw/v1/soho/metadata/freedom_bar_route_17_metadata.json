@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Goodge Street",
+    "location": {
+      "latitude": 51.5206203,
+      "longitude": -0.13448420000000003
+    }
+  },
+  "route": {
+    "route_index": 17,
+    "distance_meters": 1097,
+    "duration_seconds": 937
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_17_police_api_param.txt"
+  }
+}

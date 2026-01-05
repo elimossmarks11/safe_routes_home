@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Dover Street Detectives",
+    "location": {
+      "latitude": 51.5078349,
+      "longitude": -0.14146870000000003
+    }
+  },
+  "route": {
+    "route_index": 10,
+    "distance_meters": 962,
+    "duration_seconds": 800
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_10_police_api_param.txt"
+  }
+}

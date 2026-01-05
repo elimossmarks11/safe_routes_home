@@ -1,0 +1,25 @@
+{
+  "area": "Soho",
+  "club": {
+    "name": "Freedom Bar",
+    "location": {
+      "latitude": 51.5128,
+      "longitude": -0.1333
+    }
+  },
+  "destination": {
+    "name": "Trafalgar Square (Stop S)",
+    "location": {
+      "latitude": 51.5074791,
+      "longitude": -0.129389
+    }
+  },
+  "route": {
+    "route_index": 9,
+    "distance_meters": 801,
+    "duration_seconds": 655
+  },
+  "police_api": {
+    "param_file": "freedom_bar_route_9_police_api_param.txt"
+  }
+}
