@@ -1,0 +1,93 @@
+{
+  "area": "Hackney_Wick",
+  "club": "All My Friends",
+  "club_location": {
+    "latitude": 51.5426,
+    "longitude": -0.0219
+  },
+  "places": [
+    {
+      "location": {
+        "latitude": 51.543542099999996,
+        "longitude": -0.0241583
+      },
+      "displayName": {
+        "text": "Hackney Wick",
+        "languageCode": "en"
+      },
+      "primaryType": "train_station",
+      "postalAddress": {
+        "postalCode": "E9 5TS"
+      }
+    },
+    {
+      "location": {
+        "latitude": 51.5426936,
+        "longitude": -0.024996200000000003
+      },
+      "displayName": {
+        "text": "Hackney Wick Station (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.5426625,
+        "longitude": -0.025186999999999998
+      },
+      "displayName": {
+        "text": "Hackney Wick Station (Stop A)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.542984,
+        "longitude": -0.027391
+      },
+      "displayName": {
+        "text": "Hackney Wick Station (Stop G)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.545798,
+        "longitude": -0.030255200000000003
+      },
+      "displayName": {
+        "text": "St Mary Of Eton Church (Stop N)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.535039399999995,
+        "longitude": -0.021743500000000002
+      },
+      "displayName": {
+        "text": "Autumn Street (Stop OV)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.544888099999994,
+        "longitude": -0.0087438
+      },
+      "displayName": {
+        "text": "Stratford International",
+        "languageCode": "en"
+      },
+      "primaryType": "train_station",
+      "postalAddress": {
+        "postalCode": "E20 1YY"
+      }
+    }
+  ]
+}

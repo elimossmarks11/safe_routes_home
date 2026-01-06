@@ -1,0 +1,239 @@
+{
+  "area": "Bermondsey",
+  "club": "The Old School Yard",
+  "club_location": {
+    "latitude": 51.5004,
+    "longitude": -0.088
+  },
+  "places": [
+    {
+      "location": {
+        "latitude": 51.4997202,
+        "longitude": -0.08677499999999999
+      },
+      "displayName": {
+        "text": "Staple Street",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.500282,
+        "longitude": -0.09238800000000001
+      },
+      "displayName": {
+        "text": "Borough Station / Great Dover Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.501244899999996,
+        "longitude": -0.0936138
+      },
+      "displayName": {
+        "text": "Borough",
+        "languageCode": "en"
+      },
+      "primaryType": "subway_station",
+      "postalAddress": {
+        "postalCode": "SE1 1JX"
+      }
+    },
+    {
+      "location": {
+        "latitude": 51.500640999999995,
+        "longitude": -0.0939
+      },
+      "displayName": {
+        "text": "Borough Station (Stop A)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.5008884,
+        "longitude": -0.09388370000000001
+      },
+      "displayName": {
+        "text": "Borough Station (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.5042625,
+        "longitude": -0.0848024
+      },
+      "displayName": {
+        "text": "London Bridge",
+        "languageCode": "en"
+      },
+      "primaryType": "transit_station",
+      "postalAddress": {
+        "postalCode": "SE1 9SP"
+      }
+    },
+    {
+      "location": {
+        "latitude": 51.504642,
+        "longitude": -0.091111
+      },
+      "displayName": {
+        "text": "The Hop Exchange (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.5052378,
+        "longitude": -0.0866815
+      },
+      "displayName": {
+        "text": "London Bridge Bus Station (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.5052526,
+        "longitude": -0.0867129
+      },
+      "displayName": {
+        "text": "London Bridge bus station",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.505306,
+        "longitude": -0.086515
+      },
+      "displayName": {
+        "text": "London Bridge Bus Station (Stop A)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.505084100000005,
+        "longitude": -0.08410379999999999
+      },
+      "displayName": {
+        "text": "Hays Galleria (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.5058624,
+        "longitude": -0.0869692
+      },
+      "displayName": {
+        "text": "London Bridge",
+        "languageCode": "en"
+      },
+      "primaryType": "subway_station",
+      "postalAddress": {
+        "postalCode": "SE1 2SW"
+      }
+    },
+    {
+      "location": {
+        "latitude": 51.4981843,
+        "longitude": -0.07943220000000001
+      },
+      "displayName": {
+        "text": "Abbey Street (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.5007807,
+        "longitude": -0.07818549999999999
+      },
+      "displayName": {
+        "text": "Druid Street (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.5018623,
+        "longitude": -0.0779562
+      },
+      "displayName": {
+        "text": "Druid Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.5027891,
+        "longitude": -0.07796539999999999
+      },
+      "displayName": {
+        "text": "Tower Bridge Road (Stop K)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.499497,
+        "longitude": -0.09961959999999999
+      },
+      "displayName": {
+        "text": "Borough Road",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.501738599999996,
+        "longitude": -0.0763346
+      },
+      "displayName": {
+        "text": "Boss Street (Stop S)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.5031706,
+        "longitude": -0.0768213
+      },
+      "displayName": {
+        "text": "Tower Bridge / City Hall (Stop P)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    },
+    {
+      "location": {
+        "latitude": 51.498332999999995,
+        "longitude": -0.100091
+      },
+      "displayName": {
+        "text": "Borough Road",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station"
+    }
+  ]
+}
