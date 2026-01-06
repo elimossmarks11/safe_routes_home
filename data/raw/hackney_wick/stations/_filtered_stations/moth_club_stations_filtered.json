@@ -1,0 +1,142 @@
+{
+  "area": "Hackney_Wick",
+  "club": "MOTH Club",
+  "club_location": {
+    "latitude": 51.5457,
+    "longitude": -0.0546
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.545935099999994,
+        "longitude": -0.054394399999999996
+      },
+      "displayName": {
+        "text": "Trelawney Estate (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 29.75794504027396,
+      "bearing": 28.53969686836058,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.5452119,
+        "longitude": -0.0551416
+      },
+      "displayName": {
+        "text": "Hackney Town Hall (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 65.94221706550094,
+      "bearing": 214.60815786800043,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.543476,
+        "longitude": -0.05641600000000001
+      },
+      "displayName": {
+        "text": "Richmond Road /Martello Street (Stop LS)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 277.3566980412719,
+      "bearing": 206.92284791359933,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.546717799999996,
+        "longitude": -0.0557024
+      },
+      "displayName": {
+        "text": "Hackney Central / Mare Street (Stop G)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 136.45366361514587,
+      "bearing": 326.0372294333822,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.5471285,
+        "longitude": -0.0567593
+      },
+      "displayName": {
+        "text": "Hackney Central",
+        "languageCode": "en"
+      },
+      "primaryType": "train_station",
+      "postalAddress": {
+        "postalCode": "E8 1LL"
+      },
+      "distance_m": 218.00431577038876,
+      "bearing": 316.77153867255447,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.5466373,
+        "longitude": -0.052916399999999995
+      },
+      "displayName": {
+        "text": "Morning Lane /Trelawney Estate (Stop D)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 156.25747141696863,
+      "bearing": 48.16375592786687,
+      "sector": 1
+    },
+    {
+      "location": {
+        "latitude": 51.5470366,
+        "longitude": -0.0423623
+      },
+      "displayName": {
+        "text": "Homerton",
+        "languageCode": "en"
+      },
+      "primaryType": "train_station",
+      "postalAddress": {
+        "postalCode": "E9 5SE"
+      },
+      "distance_m": 859.1893071406117,
+      "bearing": 80.03404156491337,
+      "sector": 1
+    },
+    {
+      "location": {
+        "latitude": 51.5487712,
+        "longitude": -0.061084200000000005
+      },
+      "displayName": {
+        "text": "Hackney Downs",
+        "languageCode": "en"
+      },
+      "primaryType": "train_station",
+      "distance_m": 563.6158117250483,
+      "bearing": 307.2970713357392,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.548927,
+        "longitude": -0.061404999999999994
+      },
+      "displayName": {
+        "text": "Hackney Downs Station (Stop N)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 591.7593945668655,
+      "bearing": 307.33026277734336,
+      "sector": 6
+    }
+  ]
+}

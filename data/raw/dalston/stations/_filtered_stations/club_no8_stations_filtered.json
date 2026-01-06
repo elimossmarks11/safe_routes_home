@@ -1,0 +1,150 @@
+{
+  "area": "Dalston",
+  "club": "Club No.8",
+  "club_location": {
+    "latitude": 51.5509,
+    "longitude": -0.0748
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.550704700000004,
+        "longitude": -0.0742369
+      },
+      "displayName": {
+        "text": "Shacklewell Lane / Kingsland High Street (Stop W)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 44.581413089330006,
+      "bearing": 119.15105265512062,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.5508653,
+        "longitude": -0.0737985
+      },
+      "displayName": {
+        "text": "Shacklewell Lane Dalston (Stop X)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 69.35428943061949,
+      "bearing": 93.18885400270568,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.5500602,
+        "longitude": -0.0750841
+      },
+      "displayName": {
+        "text": "Rio Cinema (Stop T)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 95.42526486396986,
+      "bearing": 191.87965213166962,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.5487566,
+        "longitude": -0.0752673
+      },
+      "displayName": {
+        "text": "Dalston Kingsland Station (Stop R)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 240.51547455241658,
+      "bearing": 187.72075993619765,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.550218099999995,
+        "longitude": -0.0760735
+      },
+      "displayName": {
+        "text": "Crossway (Stop Z)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 116.2017054762197,
+      "bearing": 229.26870477166094,
+      "sector": 5
+    },
+    {
+      "location": {
+        "latitude": 51.5463044,
+        "longitude": -0.07367209999999999
+      },
+      "displayName": {
+        "text": "Dalston Lane /Dalston Junction Station (Stop K)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 516.9246393709925,
+      "bearing": 171.32197973642872,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.546181,
+        "longitude": -0.074603
+      },
+      "displayName": {
+        "text": "Dalston Junction Station (Stop G)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 524.9056406247809,
+      "bearing": 178.5128646721074,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.551611699999995,
+        "longitude": -0.0844808
+      },
+      "displayName": {
+        "text": "Newington Green (Stop NE)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 674.0175612373977,
+      "bearing": 276.7465285259916,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.551766099999995,
+        "longitude": -0.0856889
+      },
+      "displayName": {
+        "text": "Newington Green (Stop NK)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 759.0200355260231,
+      "bearing": 277.2937116768038,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.557877,
+        "longitude": -0.074528
+      },
+      "displayName": {
+        "text": "Stoke Newington Police Station (Stop R)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 776.0348914019462,
+      "bearing": 1.38846597937561,
+      "sector": 0
+    }
+  ]
+}

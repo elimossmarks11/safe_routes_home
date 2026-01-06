@@ -1,0 +1,125 @@
+{
+  "area": "Bermondsey",
+  "club": "Bermondsey Arts Club",
+  "club_location": {
+    "latitude": 51.4967,
+    "longitude": -0.0814
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.4981843,
+        "longitude": -0.07943220000000001
+      },
+      "displayName": {
+        "text": "Abbey Street (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 214.0004493124042,
+      "bearing": 39.53347104658593,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.5007807,
+        "longitude": -0.07818549999999999
+      },
+      "displayName": {
+        "text": "Druid Street (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 505.37608740868995,
+      "bearing": 26.121546011654004,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.4997202,
+        "longitude": -0.08677499999999999
+      },
+      "displayName": {
+        "text": "Staple Street",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 501.22044919972853,
+      "bearing": 312.0712031347331,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.500282,
+        "longitude": -0.09238800000000001
+      },
+      "displayName": {
+        "text": "Borough Station / Great Dover Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 858.5950136948796,
+      "bearing": 297.6432039562806,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.5002582,
+        "longitude": -0.0752603
+      },
+      "displayName": {
+        "text": "Tanner Street (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 580.665956428418,
+      "bearing": 47.04607359012459,
+      "sector": 1
+    },
+    {
+      "location": {
+        "latitude": 51.4999842,
+        "longitude": -0.0726687
+      },
+      "displayName": {
+        "text": "Dockhead (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 706.1646494519816,
+      "bearing": 58.85594334494914,
+      "sector": 1
+    },
+    {
+      "location": {
+        "latitude": 51.5042625,
+        "longitude": -0.0848024
+      },
+      "displayName": {
+        "text": "London Bridge",
+        "languageCode": "en"
+      },
+      "primaryType": "transit_station",
+      "postalAddress": {
+        "postalCode": "SE1 9SP"
+      },
+      "distance_m": 873.2690644336666,
+      "bearing": 344.35542163834833,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.505084100000005,
+        "longitude": -0.08410379999999999
+      },
+      "displayName": {
+        "text": "Hays Galleria (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 950.869636071763,
+      "bearing": 348.64972010253393,
+      "sector": 7
+    }
+  ]
+}

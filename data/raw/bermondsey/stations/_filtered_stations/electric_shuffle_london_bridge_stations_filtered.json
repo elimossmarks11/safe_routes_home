@@ -1,0 +1,184 @@
+{
+  "area": "Bermondsey",
+  "club": "Electric Shuffle London Bridge",
+  "club_location": {
+    "latitude": 51.504,
+    "longitude": -0.0833
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.5042625,
+        "longitude": -0.0848024
+      },
+      "displayName": {
+        "text": "London Bridge",
+        "languageCode": "en"
+      },
+      "primaryType": "transit_station",
+      "postalAddress": {
+        "postalCode": "SE1 9SP"
+      },
+      "distance_m": 108.0062911873545,
+      "bearing": 285.67971416955515,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.505306,
+        "longitude": -0.086515
+      },
+      "displayName": {
+        "text": "London Bridge Bus Station (Stop A)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 265.7153544212713,
+      "bearing": 303.13032283072704,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.505084100000005,
+        "longitude": -0.08410379999999999
+      },
+      "displayName": {
+        "text": "Hays Galleria (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 132.7650806513292,
+      "bearing": 335.22632644736524,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.509502,
+        "longitude": -0.087002
+      },
+      "displayName": {
+        "text": "Monument (Stop P)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 663.2791593149566,
+      "bearing": 337.2777772657753,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.5027891,
+        "longitude": -0.07796539999999999
+      },
+      "displayName": {
+        "text": "Tower Bridge Road (Stop K)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 393.0200508396941,
+      "bearing": 110.03284789367507,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.5018623,
+        "longitude": -0.0779562
+      },
+      "displayName": {
+        "text": "Druid Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 439.6710336288683,
+      "bearing": 122.72476139947094,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.5007807,
+        "longitude": -0.07818549999999999
+      },
+      "displayName": {
+        "text": "Druid Street (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 503.4532139917276,
+      "bearing": 135.316696656619,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.4981843,
+        "longitude": -0.07943220000000001
+      },
+      "displayName": {
+        "text": "Abbey Street (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 699.9047777585183,
+      "bearing": 157.50889274231633,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.4997202,
+        "longitude": -0.08677499999999999
+      },
+      "displayName": {
+        "text": "Staple Street",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 533.2246740689486,
+      "bearing": 206.81487759874,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.50995640000001,
+        "longitude": -0.0815053
+      },
+      "displayName": {
+        "text": "Great Tower Street (Stop TT)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 673.8679980647908,
+      "bearing": 10.621098999016056,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.500282,
+        "longitude": -0.09238800000000001
+      },
+      "displayName": {
+        "text": "Borough Station / Great Dover Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 752.7398753969783,
+      "bearing": 236.68977017747864,
+      "sector": 5
+    },
+    {
+      "location": {
+        "latitude": 51.501244899999996,
+        "longitude": -0.0936138
+      },
+      "displayName": {
+        "text": "Borough",
+        "languageCode": "en"
+      },
+      "primaryType": "subway_station",
+      "postalAddress": {
+        "postalCode": "SE1 1JX"
+      },
+      "distance_m": 776.8423481030698,
+      "bearing": 246.77816428921085,
+      "sector": 5
+    }
+  ]
+}

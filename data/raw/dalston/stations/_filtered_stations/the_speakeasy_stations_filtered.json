@@ -1,0 +1,206 @@
+{
+  "area": "Dalston",
+  "club": "The Speakeasy",
+  "club_location": {
+    "latitude": 51.5465,
+    "longitude": -0.0747
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.546181,
+        "longitude": -0.074603
+      },
+      "displayName": {
+        "text": "Dalston Junction Station (Stop G)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 36.099806566044194,
+      "bearing": 169.29184166969344,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.546614399999996,
+        "longitude": -0.0755317
+      },
+      "displayName": {
+        "text": "Dalston Junction Station (Stop M)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 58.90184431595176,
+      "bearing": 282.472436479516,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.5469551,
+        "longitude": -0.075736
+      },
+      "displayName": {
+        "text": "Kingsland High Street / Dalston Junction (Stop L)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 87.70959292665502,
+      "bearing": 305.23732124240877,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.5459999,
+        "longitude": -0.0751485
+      },
+      "displayName": {
+        "text": "Dalston Junction",
+        "languageCode": "en"
+      },
+      "primaryType": "transit_station",
+      "distance_m": 63.672398456502904,
+      "bearing": 209.1493370671825,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.5387231,
+        "longitude": -0.07541529999999999
+      },
+      "displayName": {
+        "text": "Haggerston",
+        "languageCode": "en"
+      },
+      "primaryType": "train_station",
+      "distance_m": 866.1655224474232,
+      "bearing": 183.27424863736516,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.5463044,
+        "longitude": -0.07367209999999999
+      },
+      "displayName": {
+        "text": "Dalston Lane /Dalston Junction Station (Stop K)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 74.33243589736327,
+      "bearing": 107.01332191188862,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.546211,
+        "longitude": -0.073362
+      },
+      "displayName": {
+        "text": "Dalston Junction Station (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 97.94457534974825,
+      "bearing": 109.15279558684358,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.546169899999995,
+        "longitude": -0.0762375
+      },
+      "displayName": {
+        "text": "Kingsland High Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 112.4760286713077,
+      "bearing": 250.95381400983743,
+      "sector": 5
+    },
+    {
+      "location": {
+        "latitude": 51.548191300000006,
+        "longitude": -0.0756269
+      },
+      "displayName": {
+        "text": "Dalston Kingsland",
+        "languageCode": "en"
+      },
+      "primaryType": "transit_station",
+      "distance_m": 198.68586451172686,
+      "bearing": 341.1808231420994,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.5484878,
+        "longitude": -0.0754663
+      },
+      "displayName": {
+        "text": "Dalston Kingsland Station (Stop P)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 227.29600532106437,
+      "bearing": 346.5191843241713,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.550704700000004,
+        "longitude": -0.0742369
+      },
+      "displayName": {
+        "text": "Shacklewell Lane / Kingsland High Street (Stop W)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 468.63660824005433,
+      "bearing": 3.9178754579828023,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.5508653,
+        "longitude": -0.0737985
+      },
+      "displayName": {
+        "text": "Shacklewell Lane Dalston (Stop X)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 489.3854513192546,
+      "bearing": 7.3175888015394435,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.548927,
+        "longitude": -0.061404999999999994
+      },
+      "displayName": {
+        "text": "Hackney Downs Station (Stop N)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 958.1145305434674,
+      "bearing": 73.63502012193328,
+      "sector": 1
+    },
+    {
+      "location": {
+        "latitude": 51.5487712,
+        "longitude": -0.061084200000000005
+      },
+      "displayName": {
+        "text": "Hackney Downs",
+        "languageCode": "en"
+      },
+      "primaryType": "train_station",
+      "distance_m": 974.7893039927759,
+      "bearing": 74.97934090800095,
+      "sector": 1
+    }
+  ]
+}

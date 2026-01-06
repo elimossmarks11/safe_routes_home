@@ -1,0 +1,164 @@
+{
+  "area": "Dalston",
+  "club": "Dalston Superstore",
+  "club_location": {
+    "latitude": 51.5501,
+    "longitude": -0.0754
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.5500602,
+        "longitude": -0.0750841
+      },
+      "displayName": {
+        "text": "Rio Cinema (Stop T)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 22.286532514844332,
+      "bearing": 101.45354350798993,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.548927,
+        "longitude": -0.061404999999999994
+      },
+      "displayName": {
+        "text": "Hackney Downs Station (Stop N)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 976.4383264243013,
+      "bearing": 97.67097788797662,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.550218099999995,
+        "longitude": -0.0760735
+      },
+      "displayName": {
+        "text": "Crossway (Stop Z)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 48.38483875747852,
+      "bearing": 285.7484408767533,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.551611699999995,
+        "longitude": -0.0844808
+      },
+      "displayName": {
+        "text": "Newington Green (Stop NE)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 649.987019693282,
+      "bearing": 284.9911770149282,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.550704700000004,
+        "longitude": -0.0742369
+      },
+      "displayName": {
+        "text": "Shacklewell Lane / Kingsland High Street (Stop W)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 104.82718612601971,
+      "bearing": 50.10081826338592,
+      "sector": 1
+    },
+    {
+      "location": {
+        "latitude": 51.5508653,
+        "longitude": -0.0737985
+      },
+      "displayName": {
+        "text": "Shacklewell Lane Dalston (Stop X)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 139.65508563054166,
+      "bearing": 52.45755236932189,
+      "sector": 1
+    },
+    {
+      "location": {
+        "latitude": 51.5487566,
+        "longitude": -0.0752673
+      },
+      "displayName": {
+        "text": "Dalston Kingsland Station (Stop R)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 149.66080353217373,
+      "bearing": 176.48498274358315,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.5463044,
+        "longitude": -0.07367209999999999
+      },
+      "displayName": {
+        "text": "Dalston Lane /Dalston Junction Station (Stop K)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 438.63742461940717,
+      "bearing": 164.19291587322823,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.5484878,
+        "longitude": -0.0754663
+      },
+      "displayName": {
+        "text": "Dalston Kingsland Station (Stop P)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 179.32706793676644,
+      "bearing": 181.46490586681045,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.548191300000006,
+        "longitude": -0.0756269
+      },
+      "displayName": {
+        "text": "Dalston Kingsland",
+        "languageCode": "en"
+      },
+      "primaryType": "transit_station",
+      "distance_m": 212.8168595613702,
+      "bearing": 184.2278562049056,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.557877,
+        "longitude": -0.074528
+      },
+      "displayName": {
+        "text": "Stoke Newington Police Station (Stop R)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 866.861972788806,
+      "bearing": 3.9876982328263466,
+      "sector": 0
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "area": "Bermondsey",
+  "club": "Bermondsey Bierkeller",
+  "club_location": {
+    "latitude": 51.5065,
+    "longitude": -0.0885
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.5058624,
+        "longitude": -0.0869692
+      },
+      "displayName": {
+        "text": "London Bridge",
+        "languageCode": "en"
+      },
+      "primaryType": "subway_station",
+      "postalAddress": {
+        "postalCode": "SE1 2SW"
+      },
+      "distance_m": 127.4815954234436,
+      "bearing": 123.78881845227602,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.505306,
+        "longitude": -0.086515
+      },
+      "displayName": {
+        "text": "London Bridge Bus Station (Stop A)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 191.05392055688665,
+      "bearing": 134.01987891590443,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.5052526,
+        "longitude": -0.0867129
+      },
+      "displayName": {
+        "text": "London Bridge bus station",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 185.84311023292602,
+      "bearing": 138.27473875118062,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.5052378,
+        "longitude": -0.0866815
+      },
+      "displayName": {
+        "text": "London Bridge Bus Station (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 188.5185238077559,
+      "bearing": 138.11463752702025,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.504642,
+        "longitude": -0.091111
+      },
+      "displayName": {
+        "text": "The Hop Exchange (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 274.4825280777847,
+      "bearing": 221.1771128891771,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.501244899999996,
+        "longitude": -0.0936138
+      },
+      "displayName": {
+        "text": "Borough",
+        "languageCode": "en"
+      },
+      "primaryType": "subway_station",
+      "postalAddress": {
+        "postalCode": "SE1 1JX"
+      },
+      "distance_m": 683.1793770863924,
+      "bearing": 211.2063338554472,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.509502,
+        "longitude": -0.087002
+      },
+      "displayName": {
+        "text": "Monument (Stop P)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 349.53617400930915,
+      "bearing": 17.2531985805295,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.510651,
+        "longitude": -0.085225
+      },
+      "displayName": {
+        "text": "Monument (Stop J)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 514.2170766544641,
+      "bearing": 26.152101034162797,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.510401099999996,
+        "longitude": -0.0901613
+      },
+      "displayName": {
+        "text": "Cannon Street Station (Stop 47)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 448.7610167326906,
+      "bearing": 345.1556743884509,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.511080899999996,
+        "longitude": -0.0903503
+      },
+      "displayName": {
+        "text": "Cannon Street",
+        "languageCode": "en"
+      },
+      "primaryType": "subway_station",
+      "postalAddress": {
+        "postalCode": "EC4N 6AP"
+      },
+      "distance_m": 525.2223323107944,
+      "bearing": 345.8892641093116,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.50995640000001,
+        "longitude": -0.0815053
+      },
+      "displayName": {
+        "text": "Great Tower Street (Stop TT)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 618.1058906631986,
+      "bearing": 51.55004829608487,
+      "sector": 1
+    }
+  ]
+}

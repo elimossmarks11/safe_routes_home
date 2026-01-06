@@ -1,0 +1,181 @@
+{
+  "area": "Bermondsey",
+  "club": "Nine Lives Bar",
+  "club_location": {
+    "latitude": 51.5034,
+    "longitude": -0.082
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.5042625,
+        "longitude": -0.0848024
+      },
+      "displayName": {
+        "text": "London Bridge",
+        "languageCode": "en"
+      },
+      "primaryType": "transit_station",
+      "postalAddress": {
+        "postalCode": "SE1 9SP"
+      },
+      "distance_m": 216.3819274071033,
+      "bearing": 296.31085174652014,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.505306,
+        "longitude": -0.086515
+      },
+      "displayName": {
+        "text": "London Bridge Bus Station (Stop A)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 377.58988518083373,
+      "bearing": 304.14684266229796,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.505084100000005,
+        "longitude": -0.08410379999999999
+      },
+      "displayName": {
+        "text": "Hays Galleria (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 237.21417100900055,
+      "bearing": 322.13286037168706,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.509502,
+        "longitude": -0.087002
+      },
+      "displayName": {
+        "text": "Monument (Stop P)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 761.7260155452148,
+      "bearing": 332.970261748895,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.5027891,
+        "longitude": -0.07796539999999999
+      },
+      "displayName": {
+        "text": "Tower Bridge Road (Stop K)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 287.40101733269796,
+      "bearing": 103.66999428386646,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.5018623,
+        "longitude": -0.0779562
+      },
+      "displayName": {
+        "text": "Druid Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 327.99135655356275,
+      "bearing": 121.41843182779655,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.5007807,
+        "longitude": -0.07818549999999999
+      },
+      "displayName": {
+        "text": "Druid Street (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 393.1154321908249,
+      "bearing": 137.80526707669713,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.4981843,
+        "longitude": -0.07943220000000001
+      },
+      "displayName": {
+        "text": "Abbey Street (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 606.5845584276825,
+      "bearing": 162.96016672012843,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.4997202,
+        "longitude": -0.08677499999999999
+      },
+      "displayName": {
+        "text": "Staple Street",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 525.9898888432084,
+      "bearing": 218.9318571605611,
+      "sector": 4
+    },
+    {
+      "location": {
+        "latitude": 51.50995640000001,
+        "longitude": -0.0815053
+      },
+      "displayName": {
+        "text": "Great Tower Street (Stop TT)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 729.8419541386824,
+      "bearing": 2.6886530635058534,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.510117799999996,
+        "longitude": -0.07666089999999999
+      },
+      "displayName": {
+        "text": "Tower Hill",
+        "languageCode": "en"
+      },
+      "primaryType": "subway_station",
+      "distance_m": 833.3859733236953,
+      "bearing": 26.318686032143887,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.500282,
+        "longitude": -0.09238800000000001
+      },
+      "displayName": {
+        "text": "Borough Station / Great Dover Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 798.2566153178258,
+      "bearing": 244.26147750551314,
+      "sector": 5
+    }
+  ]
+}

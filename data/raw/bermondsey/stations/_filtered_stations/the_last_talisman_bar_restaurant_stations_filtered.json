@@ -1,0 +1,139 @@
+{
+  "area": "Bermondsey",
+  "club": "The Last Talisman | Bar & Restaurant",
+  "club_location": {
+    "latitude": 51.4991,
+    "longitude": -0.0809
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.4981843,
+        "longitude": -0.07943220000000001
+      },
+      "displayName": {
+        "text": "Abbey Street (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 143.84400402902088,
+      "bearing": 135.06036497721612,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.5007807,
+        "longitude": -0.07818549999999999
+      },
+      "displayName": {
+        "text": "Druid Street (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 265.01364755834214,
+      "bearing": 45.153938515988955,
+      "sector": 1
+    },
+    {
+      "location": {
+        "latitude": 51.5002582,
+        "longitude": -0.0752603
+      },
+      "displayName": {
+        "text": "Tanner Street (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 411.07980757068003,
+      "bearing": 71.7403600717492,
+      "sector": 1
+    },
+    {
+      "location": {
+        "latitude": 51.5018623,
+        "longitude": -0.0779562
+      },
+      "displayName": {
+        "text": "Druid Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 368.59904500169154,
+      "bearing": 33.559567308129715,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.5027891,
+        "longitude": -0.07796539999999999
+      },
+      "displayName": {
+        "text": "Tower Bridge Road (Stop K)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 457.74825027627224,
+      "bearing": 26.34285712504476,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.4997202,
+        "longitude": -0.08677499999999999
+      },
+      "displayName": {
+        "text": "Staple Street",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 412.4813785916789,
+      "bearing": 279.62682535201805,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.500282,
+        "longitude": -0.09238800000000001
+      },
+      "displayName": {
+        "text": "Borough Station / Great Dover Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 805.9985406047837,
+      "bearing": 279.3895022374562,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.5042625,
+        "longitude": -0.0848024
+      },
+      "displayName": {
+        "text": "London Bridge",
+        "languageCode": "en"
+      },
+      "primaryType": "transit_station",
+      "postalAddress": {
+        "postalCode": "SE1 9SP"
+      },
+      "distance_m": 634.4201641571759,
+      "bearing": 334.8022230776148,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.505084100000005,
+        "longitude": -0.08410379999999999
+      },
+      "displayName": {
+        "text": "Hays Galleria (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 701.3814985983703,
+      "bearing": 341.56957221018797,
+      "sector": 7
+    }
+  ]
+}

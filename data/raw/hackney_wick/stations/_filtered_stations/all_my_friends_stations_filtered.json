@@ -1,0 +1,72 @@
+{
+  "area": "Hackney_Wick",
+  "club": "All My Friends",
+  "club_location": {
+    "latitude": 51.5426,
+    "longitude": -0.0219
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.543542099999996,
+        "longitude": -0.0241583
+      },
+      "displayName": {
+        "text": "Hackney Wick",
+        "languageCode": "en"
+      },
+      "primaryType": "train_station",
+      "postalAddress": {
+        "postalCode": "E9 5TS"
+      },
+      "distance_m": 188.0529745920576,
+      "bearing": 303.8535859980098,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.5426936,
+        "longitude": -0.024996200000000003
+      },
+      "displayName": {
+        "text": "Hackney Wick Station (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 214.37260891838295,
+      "bearing": 272.7840310331282,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.535039399999995,
+        "longitude": -0.021743500000000002
+      },
+      "displayName": {
+        "text": "Autumn Street (Stop OV)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 840.770035977605,
+      "bearing": 179.26231291307477,
+      "sector": 3
+    },
+    {
+      "location": {
+        "latitude": 51.544888099999994,
+        "longitude": -0.0087438
+      },
+      "displayName": {
+        "text": "Stratford International",
+        "languageCode": "en"
+      },
+      "primaryType": "train_station",
+      "postalAddress": {
+        "postalCode": "E20 1YY"
+      },
+      "distance_m": 944.7091738292196,
+      "bearing": 74.37129156302262,
+      "sector": 1
+    }
+  ]
+}

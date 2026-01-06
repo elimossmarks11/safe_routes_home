@@ -1,0 +1,170 @@
+{
+  "area": "Bermondsey",
+  "club": "The Old School Yard",
+  "club_location": {
+    "latitude": 51.5004,
+    "longitude": -0.088
+  },
+  "selected_stations": [
+    {
+      "location": {
+        "latitude": 51.4997202,
+        "longitude": -0.08677499999999999
+      },
+      "displayName": {
+        "text": "Staple Street",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 113.59613070320664,
+      "bearing": 131.71486852361625,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.4981843,
+        "longitude": -0.07943220000000001
+      },
+      "displayName": {
+        "text": "Abbey Street (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 642.2149153857335,
+      "bearing": 112.55552600956588,
+      "sector": 2
+    },
+    {
+      "location": {
+        "latitude": 51.500282,
+        "longitude": -0.09238800000000001
+      },
+      "displayName": {
+        "text": "Borough Station / Great Dover Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 304.02041881779746,
+      "bearing": 267.5281608992243,
+      "sector": 5
+    },
+    {
+      "location": {
+        "latitude": 51.499497,
+        "longitude": -0.09961959999999999
+      },
+      "displayName": {
+        "text": "Borough Road",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 810.5582698689766,
+      "bearing": 262.8886744347973,
+      "sector": 5
+    },
+    {
+      "location": {
+        "latitude": 51.501244899999996,
+        "longitude": -0.0936138
+      },
+      "displayName": {
+        "text": "Borough",
+        "languageCode": "en"
+      },
+      "primaryType": "subway_station",
+      "postalAddress": {
+        "postalCode": "SE1 1JX"
+      },
+      "distance_m": 399.7786586604263,
+      "bearing": 283.5939092443519,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.500640999999995,
+        "longitude": -0.0939
+      },
+      "displayName": {
+        "text": "Borough Station (Stop A)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 409.27437012699465,
+      "bearing": 273.75653897207377,
+      "sector": 6
+    },
+    {
+      "location": {
+        "latitude": 51.5042625,
+        "longitude": -0.0848024
+      },
+      "displayName": {
+        "text": "London Bridge",
+        "languageCode": "en"
+      },
+      "primaryType": "transit_station",
+      "postalAddress": {
+        "postalCode": "SE1 9SP"
+      },
+      "distance_m": 483.16468537239035,
+      "bearing": 27.262027591053993,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.5052378,
+        "longitude": -0.0866815
+      },
+      "displayName": {
+        "text": "London Bridge Bus Station (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 545.6251819889551,
+      "bearing": 9.628061127686578,
+      "sector": 0
+    },
+    {
+      "location": {
+        "latitude": 51.504642,
+        "longitude": -0.091111
+      },
+      "displayName": {
+        "text": "The Hop Exchange (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 518.515848773885,
+      "bearing": 335.4638165171343,
+      "sector": 7
+    },
+    {
+      "location": {
+        "latitude": 51.5007807,
+        "longitude": -0.07818549999999999
+      },
+      "displayName": {
+        "text": "Druid Street (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 680.6731082559116,
+      "bearing": 86.43056262262115,
+      "sector": 1
+    },
+    {
+      "location": {
+        "latitude": 51.5018623,
+        "longitude": -0.0779562
+      },
+      "displayName": {
+        "text": "Druid Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryType": "bus_station",
+      "distance_m": 713.9809084453401,
+      "bearing": 76.83215498341417,
+      "sector": 1
+    }
+  ]
+}
