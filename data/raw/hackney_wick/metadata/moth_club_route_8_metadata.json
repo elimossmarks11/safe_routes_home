@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Moth Club",
+    "location": {
+      "latitude": 51.5457,
+      "longitude": -0.0546
+    }
+  },
+  "destination": {
+    "name": "Hackney Downs Station (Stop N)",
+    "location": {
+      "latitude": 51.548927,
+      "longitude": -0.061404999999999994
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 767,
+    "duration_seconds": 675
+  },
+  "police_api": {
+    "param_file": "moth_club_route_8_police_api_param.txt"
+  }
+}

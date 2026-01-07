@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Amazing Grace London Bridge",
+    "location": {
+      "latitude": 51.505,
+      "longitude": -0.0884
+    }
+  },
+  "destination": {
+    "name": "Staple Street",
+    "location": {
+      "latitude": 51.4997202,
+      "longitude": -0.08677499999999999
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 764,
+    "duration_seconds": 616
+  },
+  "police_api": {
+    "param_file": "amazing_grace_london_bridge_route_8_police_api_param.txt"
+  }
+}

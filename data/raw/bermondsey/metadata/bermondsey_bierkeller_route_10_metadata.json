@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Bermondsey Bierkeller",
+    "location": {
+      "latitude": 51.5065,
+      "longitude": -0.0885
+    }
+  },
+  "destination": {
+    "name": "Great Tower Street (Stop TT)",
+    "location": {
+      "latitude": 51.50995640000001,
+      "longitude": -0.0815053
+    }
+  },
+  "route": {
+    "route_index": 10,
+    "distance_meters": 966,
+    "duration_seconds": 825
+  },
+  "police_api": {
+    "param_file": "bermondsey_bierkeller_route_10_police_api_param.txt"
+  }
+}

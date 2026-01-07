@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Ridley Road Market Bar",
+    "location": {
+      "latitude": 51.5483,
+      "longitude": -0.0725
+    }
+  },
+  "destination": {
+    "name": "Dalston Kingsland Station (Stop R)",
+    "location": {
+      "latitude": 51.5487566,
+      "longitude": -0.0752673
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 273,
+    "duration_seconds": 227
+  },
+  "police_api": {
+    "param_file": "ridley_road_market_bar_route_0_police_api_param.txt"
+  }
+}

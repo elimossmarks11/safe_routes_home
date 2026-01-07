@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "All My Friends",
+    "location": {
+      "latitude": 51.5426,
+      "longitude": -0.0219
+    }
+  },
+  "destination": {
+    "name": "Autumn Street (Stop OV)",
+    "location": {
+      "latitude": 51.535039399999995,
+      "longitude": -0.021743500000000002
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 1212,
+    "duration_seconds": 1009
+  },
+  "police_api": {
+    "param_file": "all_my_friends_route_2_police_api_param.txt"
+  }
+}

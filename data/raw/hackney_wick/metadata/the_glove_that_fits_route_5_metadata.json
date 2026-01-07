@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "The Glove That Fits",
+    "location": {
+      "latitude": 51.5469,
+      "longitude": -0.048
+    }
+  },
+  "destination": {
+    "name": "Hackney Central Station (Stop H)",
+    "location": {
+      "latitude": 51.5479279,
+      "longitude": -0.05654170000000001
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 708,
+    "duration_seconds": 581
+  },
+  "police_api": {
+    "param_file": "the_glove_that_fits_route_5_police_api_param.txt"
+  }
+}

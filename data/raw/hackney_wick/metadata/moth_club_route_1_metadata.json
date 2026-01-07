@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Moth Club",
+    "location": {
+      "latitude": 51.5457,
+      "longitude": -0.0546
+    }
+  },
+  "destination": {
+    "name": "Hackney Town Hall (Stop B)",
+    "location": {
+      "latitude": 51.5452119,
+      "longitude": -0.0551416
+    }
+  },
+  "route": {
+    "route_index": 1,
+    "distance_meters": 135,
+    "duration_seconds": 112
+  },
+  "police_api": {
+    "param_file": "moth_club_route_1_police_api_param.txt"
+  }
+}

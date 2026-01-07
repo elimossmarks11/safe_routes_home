@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Copper Cats",
+    "location": {
+      "latitude": 51.5456,
+      "longitude": -0.0756
+    }
+  },
+  "destination": {
+    "name": "Newington Green (Stop NK)",
+    "location": {
+      "latitude": 51.551766099999995,
+      "longitude": -0.0856889
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 1173,
+    "duration_seconds": 1006
+  },
+  "police_api": {
+    "param_file": "copper_cats_route_8_police_api_param.txt"
+  }
+}

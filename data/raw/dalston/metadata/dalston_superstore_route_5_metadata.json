@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Dalston Superstore",
+    "location": {
+      "latitude": 51.5501,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Shacklewell Lane Dalston (Stop X)",
+    "location": {
+      "latitude": 51.5508653,
+      "longitude": -0.0737985
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 156,
+    "duration_seconds": 149
+  },
+  "police_api": {
+    "param_file": "dalston_superstore_route_5_police_api_param.txt"
+  }
+}

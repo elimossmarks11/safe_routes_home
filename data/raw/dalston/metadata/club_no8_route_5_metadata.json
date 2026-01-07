@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Club No8",
+    "location": {
+      "latitude": 51.5509,
+      "longitude": -0.0748
+    }
+  },
+  "destination": {
+    "name": "Dalston Lane /Dalston Junction Station (Stop K)",
+    "location": {
+      "latitude": 51.5463044,
+      "longitude": -0.07367209999999999
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 686,
+    "duration_seconds": 553
+  },
+  "police_api": {
+    "param_file": "club_no8_route_5_police_api_param.txt"
+  }
+}

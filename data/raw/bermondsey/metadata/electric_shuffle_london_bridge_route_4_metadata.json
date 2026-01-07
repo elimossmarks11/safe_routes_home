@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Electric Shuffle London Bridge",
+    "location": {
+      "latitude": 51.504,
+      "longitude": -0.0833
+    }
+  },
+  "destination": {
+    "name": "Tower Bridge Road (Stop K)",
+    "location": {
+      "latitude": 51.5027891,
+      "longitude": -0.07796539999999999
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 434,
+    "duration_seconds": 373
+  },
+  "police_api": {
+    "param_file": "electric_shuffle_london_bridge_route_4_police_api_param.txt"
+  }
+}

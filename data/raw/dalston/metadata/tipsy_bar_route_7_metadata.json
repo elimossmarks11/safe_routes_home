@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Tipsy Bar",
+    "location": {
+      "latitude": 51.5512,
+      "longitude": -0.0749
+    }
+  },
+  "destination": {
+    "name": "Newington Green (Stop NK)",
+    "location": {
+      "latitude": 51.551766099999995,
+      "longitude": -0.0856889
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 904,
+    "duration_seconds": 796
+  },
+  "police_api": {
+    "param_file": "tipsy_bar_route_7_police_api_param.txt"
+  }
+}

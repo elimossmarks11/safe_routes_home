@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "The Divine",
+    "location": {
+      "latitude": 51.5518,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Aden Grove (Stop NQ)",
+    "location": {
+      "latitude": 51.553230199999994,
+      "longitude": -0.0878646
+    }
+  },
+  "route": {
+    "route_index": 9,
+    "distance_meters": 1045,
+    "duration_seconds": 869
+  },
+  "police_api": {
+    "param_file": "the_divine_route_9_police_api_param.txt"
+  }
+}

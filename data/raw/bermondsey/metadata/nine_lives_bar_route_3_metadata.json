@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Nine Lives Bar",
+    "location": {
+      "latitude": 51.5034,
+      "longitude": -0.082
+    }
+  },
+  "destination": {
+    "name": "Monument (Stop P)",
+    "location": {
+      "latitude": 51.509502,
+      "longitude": -0.087002
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 934,
+    "duration_seconds": 786
+  },
+  "police_api": {
+    "param_file": "nine_lives_bar_route_3_police_api_param.txt"
+  }
+}

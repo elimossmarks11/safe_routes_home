@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Bermondsey Arts Club",
+    "location": {
+      "latitude": 51.4967,
+      "longitude": -0.0814
+    }
+  },
+  "destination": {
+    "name": "Dockhead (Stop E)",
+    "location": {
+      "latitude": 51.4999842,
+      "longitude": -0.0726687
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 882,
+    "duration_seconds": 737
+  },
+  "police_api": {
+    "param_file": "bermondsey_arts_club_route_5_police_api_param.txt"
+  }
+}

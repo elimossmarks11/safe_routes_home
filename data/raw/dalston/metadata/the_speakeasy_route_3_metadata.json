@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "The Speakeasy",
+    "location": {
+      "latitude": 51.5465,
+      "longitude": -0.0747
+    }
+  },
+  "destination": {
+    "name": "Dalston Junction",
+    "location": {
+      "latitude": 51.5459999,
+      "longitude": -0.0751485
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 95,
+    "duration_seconds": 87
+  },
+  "police_api": {
+    "param_file": "the_speakeasy_route_3_police_api_param.txt"
+  }
+}

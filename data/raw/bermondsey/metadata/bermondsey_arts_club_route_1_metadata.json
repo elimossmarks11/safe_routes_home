@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Bermondsey Arts Club",
+    "location": {
+      "latitude": 51.4967,
+      "longitude": -0.0814
+    }
+  },
+  "destination": {
+    "name": "Druid Street (Stop C)",
+    "location": {
+      "latitude": 51.5007807,
+      "longitude": -0.07818549999999999
+    }
+  },
+  "route": {
+    "route_index": 1,
+    "distance_meters": 545,
+    "duration_seconds": 457
+  },
+  "police_api": {
+    "param_file": "bermondsey_arts_club_route_1_police_api_param.txt"
+  }
+}

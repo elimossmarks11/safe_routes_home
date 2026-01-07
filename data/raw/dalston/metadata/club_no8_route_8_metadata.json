@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Club No8",
+    "location": {
+      "latitude": 51.5509,
+      "longitude": -0.0748
+    }
+  },
+  "destination": {
+    "name": "Newington Green (Stop NK)",
+    "location": {
+      "latitude": 51.551766099999995,
+      "longitude": -0.0856889
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 969,
+    "duration_seconds": 837
+  },
+  "police_api": {
+    "param_file": "club_no8_route_8_police_api_param.txt"
+  }
+}

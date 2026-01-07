@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Dalston Superstore",
+    "location": {
+      "latitude": 51.5501,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Shacklewell Lane / Kingsland High Street (Stop W)",
+    "location": {
+      "latitude": 51.550704700000004,
+      "longitude": -0.0742369
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 122,
+    "duration_seconds": 122
+  },
+  "police_api": {
+    "param_file": "dalston_superstore_route_4_police_api_param.txt"
+  }
+}

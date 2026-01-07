@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Farrs Dalston",
+    "location": {
+      "latitude": 51.5464,
+      "longitude": -0.074
+    }
+  },
+  "destination": {
+    "name": "Dalston Junction",
+    "location": {
+      "latitude": 51.5459999,
+      "longitude": -0.0751485
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 91,
+    "duration_seconds": 84
+  },
+  "police_api": {
+    "param_file": "farrs_dalston_route_3_police_api_param.txt"
+  }
+}

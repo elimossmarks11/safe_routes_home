@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Tipsy Bar",
+    "location": {
+      "latitude": 51.5512,
+      "longitude": -0.0749
+    }
+  },
+  "destination": {
+    "name": "Rio Cinema (Stop T)",
+    "location": {
+      "latitude": 51.5500602,
+      "longitude": -0.0750841
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 142,
+    "duration_seconds": 118
+  },
+  "police_api": {
+    "param_file": "tipsy_bar_route_4_police_api_param.txt"
+  }
+}

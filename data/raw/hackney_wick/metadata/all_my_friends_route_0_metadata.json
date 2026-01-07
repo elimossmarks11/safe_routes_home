@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "All My Friends",
+    "location": {
+      "latitude": 51.5426,
+      "longitude": -0.0219
+    }
+  },
+  "destination": {
+    "name": "Hackney Wick",
+    "location": {
+      "latitude": 51.543542099999996,
+      "longitude": -0.0241583
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 640,
+    "duration_seconds": 515
+  },
+  "police_api": {
+    "param_file": "all_my_friends_route_0_police_api_param.txt"
+  }
+}

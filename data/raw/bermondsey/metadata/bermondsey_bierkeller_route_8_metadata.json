@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Bermondsey Bierkeller",
+    "location": {
+      "latitude": 51.5065,
+      "longitude": -0.0885
+    }
+  },
+  "destination": {
+    "name": "Cannon Street Station (Stop 47)",
+    "location": {
+      "latitude": 51.510401099999996,
+      "longitude": -0.0901613
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 750,
+    "duration_seconds": 598
+  },
+  "police_api": {
+    "param_file": "bermondsey_bierkeller_route_8_police_api_param.txt"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "N1 Bar - London Bridge",
+    "location": {
+      "latitude": 51.5061,
+      "longitude": -0.087
+    }
+  },
+  "destination": {
+    "name": "Tower Bridge Road (Stop K)",
+    "location": {
+      "latitude": 51.5027891,
+      "longitude": -0.07796539999999999
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 890,
+    "duration_seconds": 729
+  },
+  "police_api": {
+    "param_file": "n1_bar_-_london_bridge_route_3_police_api_param.txt"
+  }
+}

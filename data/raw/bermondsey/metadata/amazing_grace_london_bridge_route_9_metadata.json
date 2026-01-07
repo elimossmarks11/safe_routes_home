@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Amazing Grace London Bridge",
+    "location": {
+      "latitude": 51.505,
+      "longitude": -0.0884
+    }
+  },
+  "destination": {
+    "name": "Cannon Street Station (Stop 47)",
+    "location": {
+      "latitude": 51.510401099999996,
+      "longitude": -0.0901613
+    }
+  },
+  "route": {
+    "route_index": 9,
+    "distance_meters": 897,
+    "duration_seconds": 798
+  },
+  "police_api": {
+    "param_file": "amazing_grace_london_bridge_route_9_police_api_param.txt"
+  }
+}

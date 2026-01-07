@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "All My Friends",
+    "location": {
+      "latitude": 51.5426,
+      "longitude": -0.0219
+    }
+  },
+  "destination": {
+    "name": "Stratford International",
+    "location": {
+      "latitude": 51.544888099999994,
+      "longitude": -0.0087438
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 1327,
+    "duration_seconds": 1102
+  },
+  "police_api": {
+    "param_file": "all_my_friends_route_3_police_api_param.txt"
+  }
+}

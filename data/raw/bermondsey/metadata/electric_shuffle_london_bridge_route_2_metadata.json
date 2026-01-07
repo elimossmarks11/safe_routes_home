@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Electric Shuffle London Bridge",
+    "location": {
+      "latitude": 51.504,
+      "longitude": -0.0833
+    }
+  },
+  "destination": {
+    "name": "Hays Galleria (Stop H)",
+    "location": {
+      "latitude": 51.505084100000005,
+      "longitude": -0.08410379999999999
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 152,
+    "duration_seconds": 136
+  },
+  "police_api": {
+    "param_file": "electric_shuffle_london_bridge_route_2_police_api_param.txt"
+  }
+}

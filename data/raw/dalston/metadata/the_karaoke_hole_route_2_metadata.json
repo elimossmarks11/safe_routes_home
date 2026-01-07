@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "The Karaoke Hole",
+    "location": {
+      "latitude": 51.5494,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Rio Cinema (Stop T)",
+    "location": {
+      "latitude": 51.5500602,
+      "longitude": -0.0750841
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 75,
+    "duration_seconds": 75
+  },
+  "police_api": {
+    "param_file": "the_karaoke_hole_route_2_police_api_param.txt"
+  }
+}

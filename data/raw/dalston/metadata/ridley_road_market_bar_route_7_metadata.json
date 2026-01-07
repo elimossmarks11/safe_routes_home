@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Ridley Road Market Bar",
+    "location": {
+      "latitude": 51.5483,
+      "longitude": -0.0725
+    }
+  },
+  "destination": {
+    "name": "Shacklewell Lane / Kingsland High Street (Stop W)",
+    "location": {
+      "latitude": 51.550704700000004,
+      "longitude": -0.0742369
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 544,
+    "duration_seconds": 467
+  },
+  "police_api": {
+    "param_file": "ridley_road_market_bar_route_7_police_api_param.txt"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Dalston Superstore",
+    "location": {
+      "latitude": 51.5501,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Dalston Lane /Dalston Junction Station (Stop K)",
+    "location": {
+      "latitude": 51.5463044,
+      "longitude": -0.07367209999999999
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 563,
+    "duration_seconds": 456
+  },
+  "police_api": {
+    "param_file": "dalston_superstore_route_7_police_api_param.txt"
+  }
+}

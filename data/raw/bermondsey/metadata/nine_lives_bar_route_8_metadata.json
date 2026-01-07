@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Nine Lives Bar",
+    "location": {
+      "latitude": 51.5034,
+      "longitude": -0.082
+    }
+  },
+  "destination": {
+    "name": "Staple Street",
+    "location": {
+      "latitude": 51.4997202,
+      "longitude": -0.08677499999999999
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 808,
+    "duration_seconds": 656
+  },
+  "police_api": {
+    "param_file": "nine_lives_bar_route_8_police_api_param.txt"
+  }
+}

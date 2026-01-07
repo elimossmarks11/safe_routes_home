@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "N1 Bar - London Bridge",
+    "location": {
+      "latitude": 51.5061,
+      "longitude": -0.087
+    }
+  },
+  "destination": {
+    "name": "Monument (Stop P)",
+    "location": {
+      "latitude": 51.509502,
+      "longitude": -0.087002
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 440,
+    "duration_seconds": 359
+  },
+  "police_api": {
+    "param_file": "n1_bar_-_london_bridge_route_5_police_api_param.txt"
+  }
+}

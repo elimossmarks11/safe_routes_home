@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Grow",
+    "location": {
+      "latitude": 51.5437,
+      "longitude": -0.0227
+    }
+  },
+  "destination": {
+    "name": "St Mary Of Eton Church (Stop N)",
+    "location": {
+      "latitude": 51.545798,
+      "longitude": -0.030255200000000003
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 734,
+    "duration_seconds": 613
+  },
+  "police_api": {
+    "param_file": "grow_route_2_police_api_param.txt"
+  }
+}

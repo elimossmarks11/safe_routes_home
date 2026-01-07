@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "The Karaoke Hole",
+    "location": {
+      "latitude": 51.5494,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Shacklewell Lane / Kingsland High Street (Stop W)",
+    "location": {
+      "latitude": 51.550704700000004,
+      "longitude": -0.0742369
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 200,
+    "duration_seconds": 188
+  },
+  "police_api": {
+    "param_file": "the_karaoke_hole_route_3_police_api_param.txt"
+  }
+}

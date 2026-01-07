@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Electric Shuffle London Bridge",
+    "location": {
+      "latitude": 51.504,
+      "longitude": -0.0833
+    }
+  },
+  "destination": {
+    "name": "London Bridge Bus Station (Stop A)",
+    "location": {
+      "latitude": 51.505306,
+      "longitude": -0.086515
+    }
+  },
+  "route": {
+    "route_index": 1,
+    "distance_meters": 445,
+    "duration_seconds": 374
+  },
+  "police_api": {
+    "param_file": "electric_shuffle_london_bridge_route_1_police_api_param.txt"
+  }
+}

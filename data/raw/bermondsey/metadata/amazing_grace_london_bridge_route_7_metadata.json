@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Amazing Grace London Bridge",
+    "location": {
+      "latitude": 51.505,
+      "longitude": -0.0884
+    }
+  },
+  "destination": {
+    "name": "Borough Station / Great Dover Street (Stop E)",
+    "location": {
+      "latitude": 51.500282,
+      "longitude": -0.09238800000000001
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 706,
+    "duration_seconds": 597
+  },
+  "police_api": {
+    "param_file": "amazing_grace_london_bridge_route_7_police_api_param.txt"
+  }
+}

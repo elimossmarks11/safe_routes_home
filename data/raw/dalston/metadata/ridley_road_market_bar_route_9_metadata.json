@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Ridley Road Market Bar",
+    "location": {
+      "latitude": 51.5483,
+      "longitude": -0.0725
+    }
+  },
+  "destination": {
+    "name": "Hackney Downs",
+    "location": {
+      "latitude": 51.5487712,
+      "longitude": -0.061084200000000005
+    }
+  },
+  "route": {
+    "route_index": 9,
+    "distance_meters": 819,
+    "duration_seconds": 676
+  },
+  "police_api": {
+    "param_file": "ridley_road_market_bar_route_9_police_api_param.txt"
+  }
+}

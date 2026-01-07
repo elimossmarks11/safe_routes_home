@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "The Speakeasy",
+    "location": {
+      "latitude": 51.5465,
+      "longitude": -0.0747
+    }
+  },
+  "destination": {
+    "name": "Haggerston",
+    "location": {
+      "latitude": 51.5387231,
+      "longitude": -0.07541529999999999
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 1013,
+    "duration_seconds": 847
+  },
+  "police_api": {
+    "param_file": "the_speakeasy_route_4_police_api_param.txt"
+  }
+}

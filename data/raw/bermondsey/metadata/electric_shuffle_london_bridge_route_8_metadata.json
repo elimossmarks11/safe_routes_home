@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Electric Shuffle London Bridge",
+    "location": {
+      "latitude": 51.504,
+      "longitude": -0.0833
+    }
+  },
+  "destination": {
+    "name": "Staple Street",
+    "location": {
+      "latitude": 51.4997202,
+      "longitude": -0.08677499999999999
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 787,
+    "duration_seconds": 638
+  },
+  "police_api": {
+    "param_file": "electric_shuffle_london_bridge_route_8_police_api_param.txt"
+  }
+}

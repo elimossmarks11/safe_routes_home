@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "The Speakeasy",
+    "location": {
+      "latitude": 51.5465,
+      "longitude": -0.0747
+    }
+  },
+  "destination": {
+    "name": "Dalston Kingsland",
+    "location": {
+      "latitude": 51.548191300000006,
+      "longitude": -0.0756269
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 259,
+    "duration_seconds": 223
+  },
+  "police_api": {
+    "param_file": "the_speakeasy_route_8_police_api_param.txt"
+  }
+}

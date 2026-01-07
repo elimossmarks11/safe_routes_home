@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Nine Lives Bar",
+    "location": {
+      "latitude": 51.5034,
+      "longitude": -0.082
+    }
+  },
+  "destination": {
+    "name": "Great Tower Street (Stop TT)",
+    "location": {
+      "latitude": 51.50995640000001,
+      "longitude": -0.0815053
+    }
+  },
+  "route": {
+    "route_index": 9,
+    "distance_meters": 1459,
+    "duration_seconds": 1222
+  },
+  "police_api": {
+    "param_file": "nine_lives_bar_route_9_police_api_param.txt"
+  }
+}

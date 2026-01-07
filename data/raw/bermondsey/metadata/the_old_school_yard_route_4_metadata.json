@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "The Old School Yard",
+    "location": {
+      "latitude": 51.5004,
+      "longitude": -0.088
+    }
+  },
+  "destination": {
+    "name": "Borough",
+    "location": {
+      "latitude": 51.501244899999996,
+      "longitude": -0.0936138
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 418,
+    "duration_seconds": 384
+  },
+  "police_api": {
+    "param_file": "the_old_school_yard_route_4_police_api_param.txt"
+  }
+}

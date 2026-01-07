@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Grow",
+    "location": {
+      "latitude": 51.5437,
+      "longitude": -0.0227
+    }
+  },
+  "destination": {
+    "name": "Hackney Wick",
+    "location": {
+      "latitude": 51.543542099999996,
+      "longitude": -0.0241583
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 247,
+    "duration_seconds": 196
+  },
+  "police_api": {
+    "param_file": "grow_route_0_police_api_param.txt"
+  }
+}

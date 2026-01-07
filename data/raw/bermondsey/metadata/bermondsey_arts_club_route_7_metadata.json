@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Bermondsey Arts Club",
+    "location": {
+      "latitude": 51.4967,
+      "longitude": -0.0814
+    }
+  },
+  "destination": {
+    "name": "Hays Galleria (Stop H)",
+    "location": {
+      "latitude": 51.505084100000005,
+      "longitude": -0.08410379999999999
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 1046,
+    "duration_seconds": 900
+  },
+  "police_api": {
+    "param_file": "bermondsey_arts_club_route_7_police_api_param.txt"
+  }
+}

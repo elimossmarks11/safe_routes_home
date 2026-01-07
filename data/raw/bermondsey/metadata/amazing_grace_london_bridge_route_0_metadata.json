@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Amazing Grace London Bridge",
+    "location": {
+      "latitude": 51.505,
+      "longitude": -0.0884
+    }
+  },
+  "destination": {
+    "name": "London Bridge bus station",
+    "location": {
+      "latitude": 51.5052526,
+      "longitude": -0.0867129
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 229,
+    "duration_seconds": 223
+  },
+  "police_api": {
+    "param_file": "amazing_grace_london_bridge_route_0_police_api_param.txt"
+  }
+}

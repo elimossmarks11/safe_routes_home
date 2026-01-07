@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Moth Club",
+    "location": {
+      "latitude": 51.5457,
+      "longitude": -0.0546
+    }
+  },
+  "destination": {
+    "name": "Richmond Road /Martello Street (Stop LS)",
+    "location": {
+      "latitude": 51.543476,
+      "longitude": -0.05641600000000001
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 346,
+    "duration_seconds": 299
+  },
+  "police_api": {
+    "param_file": "moth_club_route_2_police_api_param.txt"
+  }
+}

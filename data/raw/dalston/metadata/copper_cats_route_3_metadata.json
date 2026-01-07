@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Copper Cats",
+    "location": {
+      "latitude": 51.5456,
+      "longitude": -0.0756
+    }
+  },
+  "destination": {
+    "name": "Kingsland High Street / Dalston Junction (Stop L)",
+    "location": {
+      "latitude": 51.5469551,
+      "longitude": -0.075736
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 151,
+    "duration_seconds": 135
+  },
+  "police_api": {
+    "param_file": "copper_cats_route_3_police_api_param.txt"
+  }
+}

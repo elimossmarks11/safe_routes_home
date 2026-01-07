@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Bermondsey Arts Club",
+    "location": {
+      "latitude": 51.4967,
+      "longitude": -0.0814
+    }
+  },
+  "destination": {
+    "name": "Abbey Street (Stop H)",
+    "location": {
+      "latitude": 51.4981843,
+      "longitude": -0.07943220000000001
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 244,
+    "duration_seconds": 215
+  },
+  "police_api": {
+    "param_file": "bermondsey_arts_club_route_0_police_api_param.txt"
+  }
+}

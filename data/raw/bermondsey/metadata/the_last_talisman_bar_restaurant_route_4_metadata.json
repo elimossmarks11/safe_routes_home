@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "The Last Talisman Bar Restaurant",
+    "location": {
+      "latitude": 51.4991,
+      "longitude": -0.0809
+    }
+  },
+  "destination": {
+    "name": "Tower Bridge Road (Stop K)",
+    "location": {
+      "latitude": 51.5027891,
+      "longitude": -0.07796539999999999
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 734,
+    "duration_seconds": 617
+  },
+  "police_api": {
+    "param_file": "the_last_talisman_bar_restaurant_route_4_police_api_param.txt"
+  }
+}

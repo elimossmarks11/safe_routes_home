@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Moth Club",
+    "location": {
+      "latitude": 51.5457,
+      "longitude": -0.0546
+    }
+  },
+  "destination": {
+    "name": "Trelawney Estate (Stop C)",
+    "location": {
+      "latitude": 51.545935099999994,
+      "longitude": -0.054394399999999996
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 43,
+    "duration_seconds": 33
+  },
+  "police_api": {
+    "param_file": "moth_club_route_0_police_api_param.txt"
+  }
+}

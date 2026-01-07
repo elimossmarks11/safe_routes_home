@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Nine Lives Bar",
+    "location": {
+      "latitude": 51.5034,
+      "longitude": -0.082
+    }
+  },
+  "destination": {
+    "name": "Borough Station / Great Dover Street (Stop E)",
+    "location": {
+      "latitude": 51.500282,
+      "longitude": -0.09238800000000001
+    }
+  },
+  "route": {
+    "route_index": 11,
+    "distance_meters": 1128,
+    "duration_seconds": 941
+  },
+  "police_api": {
+    "param_file": "nine_lives_bar_route_11_police_api_param.txt"
+  }
+}

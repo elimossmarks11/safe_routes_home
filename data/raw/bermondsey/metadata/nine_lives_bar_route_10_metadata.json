@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Nine Lives Bar",
+    "location": {
+      "latitude": 51.5034,
+      "longitude": -0.082
+    }
+  },
+  "destination": {
+    "name": "Tower Hill",
+    "location": {
+      "latitude": 51.510117799999996,
+      "longitude": -0.07666089999999999
+    }
+  },
+  "route": {
+    "route_index": 10,
+    "distance_meters": 1450,
+    "duration_seconds": 1220
+  },
+  "police_api": {
+    "param_file": "nine_lives_bar_route_10_police_api_param.txt"
+  }
+}

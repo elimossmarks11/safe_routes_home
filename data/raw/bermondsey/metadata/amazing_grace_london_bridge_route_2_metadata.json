@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Amazing Grace London Bridge",
+    "location": {
+      "latitude": 51.505,
+      "longitude": -0.0884
+    }
+  },
+  "destination": {
+    "name": "The Hop Exchange (Stop E)",
+    "location": {
+      "latitude": 51.504642,
+      "longitude": -0.091111
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 219,
+    "duration_seconds": 225
+  },
+  "police_api": {
+    "param_file": "amazing_grace_london_bridge_route_2_police_api_param.txt"
+  }
+}

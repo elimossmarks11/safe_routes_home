@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Copper Cats",
+    "location": {
+      "latitude": 51.5456,
+      "longitude": -0.0756
+    }
+  },
+  "destination": {
+    "name": "Dalston Junction",
+    "location": {
+      "latitude": 51.5459999,
+      "longitude": -0.0751485
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 114,
+    "duration_seconds": 94
+  },
+  "police_api": {
+    "param_file": "copper_cats_route_0_police_api_param.txt"
+  }
+}

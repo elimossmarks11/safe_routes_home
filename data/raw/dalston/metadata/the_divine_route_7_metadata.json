@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "The Divine",
+    "location": {
+      "latitude": 51.5518,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Stoke Newington Police Station (Stop R)",
+    "location": {
+      "latitude": 51.557877,
+      "longitude": -0.074528
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 832,
+    "duration_seconds": 711
+  },
+  "police_api": {
+    "param_file": "the_divine_route_7_police_api_param.txt"
+  }
+}

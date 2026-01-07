@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "The Karaoke Hole",
+    "location": {
+      "latitude": 51.5494,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Dalston Junction Station (Stop G)",
+    "location": {
+      "latitude": 51.546181,
+      "longitude": -0.074603
+    }
+  },
+  "route": {
+    "route_index": 1,
+    "distance_meters": 420,
+    "duration_seconds": 348
+  },
+  "police_api": {
+    "param_file": "the_karaoke_hole_route_1_police_api_param.txt"
+  }
+}

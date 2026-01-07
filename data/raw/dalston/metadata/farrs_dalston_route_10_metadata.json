@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Farrs Dalston",
+    "location": {
+      "latitude": 51.5464,
+      "longitude": -0.074
+    }
+  },
+  "destination": {
+    "name": "Haggerston Station Downham Rd",
+    "location": {
+      "latitude": 51.538585999999995,
+      "longitude": -0.076596
+    }
+  },
+  "route": {
+    "route_index": 10,
+    "distance_meters": 971,
+    "duration_seconds": 821
+  },
+  "police_api": {
+    "param_file": "farrs_dalston_route_10_police_api_param.txt"
+  }
+}

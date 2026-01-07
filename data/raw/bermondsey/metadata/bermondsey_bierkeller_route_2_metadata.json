@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Bermondsey Bierkeller",
+    "location": {
+      "latitude": 51.5065,
+      "longitude": -0.0885
+    }
+  },
+  "destination": {
+    "name": "London Bridge bus station",
+    "location": {
+      "latitude": 51.5052526,
+      "longitude": -0.0867129
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 238,
+    "duration_seconds": 251
+  },
+  "police_api": {
+    "param_file": "bermondsey_bierkeller_route_2_police_api_param.txt"
+  }
+}

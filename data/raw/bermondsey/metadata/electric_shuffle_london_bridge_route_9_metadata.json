@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Electric Shuffle London Bridge",
+    "location": {
+      "latitude": 51.504,
+      "longitude": -0.0833
+    }
+  },
+  "destination": {
+    "name": "Great Tower Street (Stop TT)",
+    "location": {
+      "latitude": 51.50995640000001,
+      "longitude": -0.0815053
+    }
+  },
+  "route": {
+    "route_index": 9,
+    "distance_meters": 1375,
+    "duration_seconds": 1155
+  },
+  "police_api": {
+    "param_file": "electric_shuffle_london_bridge_route_9_police_api_param.txt"
+  }
+}

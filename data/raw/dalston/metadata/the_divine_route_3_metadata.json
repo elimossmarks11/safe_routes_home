@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "The Divine",
+    "location": {
+      "latitude": 51.5518,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Crossway (Stop Z)",
+    "location": {
+      "latitude": 51.550218099999995,
+      "longitude": -0.0760735
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 246,
+    "duration_seconds": 194
+  },
+  "police_api": {
+    "param_file": "the_divine_route_3_police_api_param.txt"
+  }
+}

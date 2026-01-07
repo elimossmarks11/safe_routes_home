@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Nine Lives Bar",
+    "location": {
+      "latitude": 51.5034,
+      "longitude": -0.082
+    }
+  },
+  "destination": {
+    "name": "Abbey Street (Stop H)",
+    "location": {
+      "latitude": 51.4981843,
+      "longitude": -0.07943220000000001
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 878,
+    "duration_seconds": 724
+  },
+  "police_api": {
+    "param_file": "nine_lives_bar_route_7_police_api_param.txt"
+  }
+}

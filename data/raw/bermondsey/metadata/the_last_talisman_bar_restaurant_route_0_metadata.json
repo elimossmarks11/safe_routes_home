@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "The Last Talisman Bar Restaurant",
+    "location": {
+      "latitude": 51.4991,
+      "longitude": -0.0809
+    }
+  },
+  "destination": {
+    "name": "Abbey Street (Stop H)",
+    "location": {
+      "latitude": 51.4981843,
+      "longitude": -0.07943220000000001
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 394,
+    "duration_seconds": 336
+  },
+  "police_api": {
+    "param_file": "the_last_talisman_bar_restaurant_route_0_police_api_param.txt"
+  }
+}

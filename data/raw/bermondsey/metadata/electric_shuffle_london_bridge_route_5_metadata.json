@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Electric Shuffle London Bridge",
+    "location": {
+      "latitude": 51.504,
+      "longitude": -0.0833
+    }
+  },
+  "destination": {
+    "name": "Druid Street (Stop E)",
+    "location": {
+      "latitude": 51.5018623,
+      "longitude": -0.0779562
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 552,
+    "duration_seconds": 459
+  },
+  "police_api": {
+    "param_file": "electric_shuffle_london_bridge_route_5_police_api_param.txt"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "The Last Talisman Bar Restaurant",
+    "location": {
+      "latitude": 51.4991,
+      "longitude": -0.0809
+    }
+  },
+  "destination": {
+    "name": "Druid Street (Stop C)",
+    "location": {
+      "latitude": 51.5007807,
+      "longitude": -0.07818549999999999
+    }
+  },
+  "route": {
+    "route_index": 1,
+    "distance_meters": 494,
+    "duration_seconds": 415
+  },
+  "police_api": {
+    "param_file": "the_last_talisman_bar_restaurant_route_1_police_api_param.txt"
+  }
+}

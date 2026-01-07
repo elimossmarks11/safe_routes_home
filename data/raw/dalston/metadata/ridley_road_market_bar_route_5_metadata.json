@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Ridley Road Market Bar",
+    "location": {
+      "latitude": 51.5483,
+      "longitude": -0.0725
+    }
+  },
+  "destination": {
+    "name": "Dalston Junction Station (Stop H)",
+    "location": {
+      "latitude": 51.546211,
+      "longitude": -0.073362
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 569,
+    "duration_seconds": 469
+  },
+  "police_api": {
+    "param_file": "ridley_road_market_bar_route_5_police_api_param.txt"
+  }
+}

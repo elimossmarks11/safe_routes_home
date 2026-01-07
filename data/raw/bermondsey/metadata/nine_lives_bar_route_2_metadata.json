@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Nine Lives Bar",
+    "location": {
+      "latitude": 51.5034,
+      "longitude": -0.082
+    }
+  },
+  "destination": {
+    "name": "Hays Galleria (Stop H)",
+    "location": {
+      "latitude": 51.505084100000005,
+      "longitude": -0.08410379999999999
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 236,
+    "duration_seconds": 201
+  },
+  "police_api": {
+    "param_file": "nine_lives_bar_route_2_police_api_param.txt"
+  }
+}

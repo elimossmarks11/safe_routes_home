@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Bermondsey Arts Club",
+    "location": {
+      "latitude": 51.4967,
+      "longitude": -0.0814
+    }
+  },
+  "destination": {
+    "name": "Staple Street",
+    "location": {
+      "latitude": 51.4997202,
+      "longitude": -0.08677499999999999
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 563,
+    "duration_seconds": 491
+  },
+  "police_api": {
+    "param_file": "bermondsey_arts_club_route_2_police_api_param.txt"
+  }
+}

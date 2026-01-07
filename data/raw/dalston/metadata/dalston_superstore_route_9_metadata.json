@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Dalston Superstore",
+    "location": {
+      "latitude": 51.5501,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Dalston Kingsland",
+    "location": {
+      "latitude": 51.548191300000006,
+      "longitude": -0.0756269
+    }
+  },
+  "route": {
+    "route_index": 9,
+    "distance_meters": 233,
+    "duration_seconds": 180
+  },
+  "police_api": {
+    "param_file": "dalston_superstore_route_9_police_api_param.txt"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Grow",
+    "location": {
+      "latitude": 51.5437,
+      "longitude": -0.0227
+    }
+  },
+  "destination": {
+    "name": "Autumn Street (Stop OV)",
+    "location": {
+      "latitude": 51.535039399999995,
+      "longitude": -0.021743500000000002
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 1489,
+    "duration_seconds": 1228
+  },
+  "police_api": {
+    "param_file": "grow_route_3_police_api_param.txt"
+  }
+}

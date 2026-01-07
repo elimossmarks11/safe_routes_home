@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Bermondsey Bierkeller",
+    "location": {
+      "latitude": 51.5065,
+      "longitude": -0.0885
+    }
+  },
+  "destination": {
+    "name": "Borough",
+    "location": {
+      "latitude": 51.501244899999996,
+      "longitude": -0.0936138
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 732,
+    "duration_seconds": 667
+  },
+  "police_api": {
+    "param_file": "bermondsey_bierkeller_route_5_police_api_param.txt"
+  }
+}

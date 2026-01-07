@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Bermondsey Bierkeller",
+    "location": {
+      "latitude": 51.5065,
+      "longitude": -0.0885
+    }
+  },
+  "destination": {
+    "name": "Monument (Stop J)",
+    "location": {
+      "latitude": 51.510651,
+      "longitude": -0.085225
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 682,
+    "duration_seconds": 589
+  },
+  "police_api": {
+    "param_file": "bermondsey_bierkeller_route_7_police_api_param.txt"
+  }
+}

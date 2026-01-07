@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "Nine Lives Bar",
+    "location": {
+      "latitude": 51.5034,
+      "longitude": -0.082
+    }
+  },
+  "destination": {
+    "name": "London Bridge",
+    "location": {
+      "latitude": 51.5042625,
+      "longitude": -0.0848024
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 236,
+    "duration_seconds": 189
+  },
+  "police_api": {
+    "param_file": "nine_lives_bar_route_0_police_api_param.txt"
+  }
+}
