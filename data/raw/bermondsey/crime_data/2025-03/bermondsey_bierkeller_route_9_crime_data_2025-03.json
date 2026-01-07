@@ -1,0 +1,23 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506722",
+      "street": {
+        "id": 1684669,
+        "name": "On or near Conference/exhibition Centre"
+      },
+      "longitude": "-0.088586"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "be13eb88d48fd03ebef77a1fcb9fa8761531e3d8bf5dadb4d14370e01d836a61",
+    "id": 127105659,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127544693,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504316",
+      "street": {
+        "id": 1684865,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.087202"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127561110,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127562206,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127555015,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504316",
+      "street": {
+        "id": 1684865,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.087202"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127563502,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127563693,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504316",
+      "street": {
+        "id": 1684865,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.087202"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127545609,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504387",
+      "street": {
+        "id": 1684993,
+        "name": "On or near Joiner Street"
+      },
+      "longitude": "-0.087127"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "e1e0a1cc5c8654f411f7bdf373a40edd54e51fc290308eb237551e1b775f002c",
+    "id": 127611487,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "03e884a0f2e09b46fb9456ab10baf6428134bd055c33b18f743b7574db72ff64",
+    "id": 127659549,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "e5ffc80c1320051765936c0ccdad45dce40cc434e9db5cfde499fe8c7967e162",
+    "id": 127625249,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

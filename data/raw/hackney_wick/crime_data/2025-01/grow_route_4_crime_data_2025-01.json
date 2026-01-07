@@ -1,0 +1,86 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.543483",
+      "street": {
+        "id": 1695160,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.009647"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Local resolution",
+      "date": "2025-01"
+    },
+    "persistent_id": "84ff7b8d55ea68c097c860bd4b99bb146f6c168567757bb5faa08257e0867910",
+    "id": 125861899,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.544853",
+      "street": {
+        "id": 2345161,
+        "name": "Stratford International (dlr)"
+      },
+      "longitude": "-0.008776"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126037766,
+    "location_subtype": "DLRSTN",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.543483",
+      "street": {
+        "id": 1695160,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.009647"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "8a909d3777dafa5a749a48ba70b412c9c959571f6f0c0c596496e47ba42776f6",
+    "id": 125934350,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.543483",
+      "street": {
+        "id": 1695160,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.009647"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Local resolution",
+      "date": "2025-01"
+    },
+    "persistent_id": "775f60a5078329e56f49c4a19c4f2a9e25c1a23b8dcfe461c5ccdf21358018fc",
+    "id": 125861878,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546823",
+      "street": {
+        "id": 1686776,
+        "name": "On or near Ashwin Street"
+      },
+      "longitude": "-0.075050"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "ed999eced11adc28d6a4451d4a361c14a101f96842bd7dcf72fbcf80a4afd30f",
+    "id": 129487478,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

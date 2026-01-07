@@ -1,0 +1,161 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546794",
+      "street": {
+        "id": 1690483,
+        "name": "On or near Homerton Terrace"
+      },
+      "longitude": "-0.049350"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129445089,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129461060,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129455635,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.544907",
+      "street": {
+        "id": 1691028,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.046185"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "0c9cc3d79b97145c35e64e72dba7f34924ca132ee38299f29d68053e086df162",
+    "id": 129491384,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546808",
+      "street": {
+        "id": 1691373,
+        "name": "On or near Berger Road"
+      },
+      "longitude": "-0.043176"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "c7010f0f67b81e7bd38a4018ba335a77322adcfdfb88476cbcf09b066889075d",
+    "id": 129547422,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546808",
+      "street": {
+        "id": 1691373,
+        "name": "On or near Berger Road"
+      },
+      "longitude": "-0.043176"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "b5cd578e92bf20fe7a0d2cb77f43470cd6719f24c1e48635119c8a970a70cfb4",
+    "id": 129498289,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.544971",
+      "street": {
+        "id": 1691073,
+        "name": "On or near B113"
+      },
+      "longitude": "-0.045707"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-11"
+    },
+    "persistent_id": "8c3c00a6bbe1d8bd629ff3e38bc60d2f86c9c4512eb3d859f70ae723bbfa6657",
+    "id": 129519589,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "04306df9a45c82fb964a09b4b9d0504b39d3291ed1982c7f2a26a9b739aae821",
+    "id": 129516585,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

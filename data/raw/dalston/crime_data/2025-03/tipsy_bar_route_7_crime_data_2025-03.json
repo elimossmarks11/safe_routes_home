@@ -1,0 +1,284 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127070936,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552455",
+      "street": {
+        "id": 1685279,
+        "name": "On or near Watson Close"
+      },
+      "longitude": "-0.083467"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127086238,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127076307,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551654",
+      "street": {
+        "id": 1686428,
+        "name": "On or near Pellerin Road"
+      },
+      "longitude": "-0.077356"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127075517,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551353",
+      "street": {
+        "id": 1686626,
+        "name": "On or near Salcombe Road"
+      },
+      "longitude": "-0.076013"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "ff1fad472b20d8f2eeb5521d8ac8d6b4dbb69587f94ffc722a0e0358ff5c339f",
+    "id": 127117347,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552124",
+      "street": {
+        "id": 1685096,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.085241"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "a140aa05301bfddb4132c836d221e1e2c5ffaf1753ff9893fcec916fca1f6b08",
+    "id": 127122496,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551688",
+      "street": {
+        "id": 1686100,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.079460"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "68049387b385398641c0a1ca4f725afe6b14ab22906a3d78ef55f3c565522e04",
+    "id": 127117692,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551688",
+      "street": {
+        "id": 1686100,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.079460"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "26d312632ee722f48e948053861004114d52c3e5ccdc29e47943867bf5bd6a10",
+    "id": 127116731,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "f33406ae10a1c920be34c2a99b75b69e4a6190e55577e9521e672566d12e67b6",
+    "id": 127148463,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "915e10f86e89d1ca3e6190af6322e6dcfbb6cce8f4148439c53f6aa6c240638a",
+    "id": 127192908,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552124",
+      "street": {
+        "id": 1685096,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.085241"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "8b2464e7f9502e8f6859a8bbe136bf5bfe233321213793e7f9e1546aa2bf44bb",
+    "id": 127196470,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "dde20b493715007557ab84e13c1641b5ab4fb193b0ad75fe54d1b3b15a9c0c6e",
+    "id": 127196891,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551055",
+      "street": {
+        "id": 1686641,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.075405"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "18307c7081633beca742bb364aa083a89de40045836135c32a3aa63dc67be19f",
+    "id": 127193942,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "93241e12e7cbb5590dd25034ae17e30e11c4f3641e9baee10a5196a65b2d0879",
+    "id": 127140804,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

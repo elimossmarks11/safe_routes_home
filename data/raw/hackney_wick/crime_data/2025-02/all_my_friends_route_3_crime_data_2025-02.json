@@ -1,0 +1,23 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.543483",
+      "street": {
+        "id": 1695160,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.009647"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "86c06d6ea779a9ab4f77122c85923488e653d622943e8c57ee92e92946566bbb",
+    "id": 126419190,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

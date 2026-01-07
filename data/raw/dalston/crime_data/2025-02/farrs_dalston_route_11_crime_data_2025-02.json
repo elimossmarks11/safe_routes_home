@@ -1,0 +1,221 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546669",
+      "street": {
+        "id": 1687418,
+        "name": "On or near Atlas Mews"
+      },
+      "longitude": "-0.071133"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126345850,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546669",
+      "street": {
+        "id": 1687418,
+        "name": "On or near Atlas Mews"
+      },
+      "longitude": "-0.071133"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126350996,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546669",
+      "street": {
+        "id": 1687418,
+        "name": "On or near Atlas Mews"
+      },
+      "longitude": "-0.071133"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126350544,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548321",
+      "street": {
+        "id": 1688567,
+        "name": "On or near Navarino Road"
+      },
+      "longitude": "-0.063895"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126348816,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547487",
+      "street": {
+        "id": 1687484,
+        "name": "On or near Martel Place"
+      },
+      "longitude": "-0.069498"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "0f9c40f86634e9b7c4ab3459012e6d9c5399148538cd456b85cbae8a57f50952",
+    "id": 126367422,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548763",
+      "street": {
+        "id": 1688853,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061799"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "9720a19013bf346975970c59a7250631cc6210c450653fe1c460b73b1cb47fb9",
+    "id": 126369922,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548763",
+      "street": {
+        "id": 1688853,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061799"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "7c6a7de11218970b84784042744d0297fedeece4561804c27b05036b8732e22e",
+    "id": 126425195,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548321",
+      "street": {
+        "id": 1688567,
+        "name": "On or near Navarino Road"
+      },
+      "longitude": "-0.063895"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "e451e3275fbc3a3fa06357ae63686fd53ac844f273027516c2f9c7373f60e5cd",
+    "id": 126368423,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547487",
+      "street": {
+        "id": 1687484,
+        "name": "On or near Martel Place"
+      },
+      "longitude": "-0.069498"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "e83569e3ec29ef886fc6c81e81eb4e2d327b22ce526b84c37d3add06b5c86966",
+    "id": 126414532,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "3084d501a7c77f913f0eb90c6e6f9ada80e33acdb88627d5e29bac8758017447",
+    "id": 126424376,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546496",
+      "street": {
+        "id": 1687208,
+        "name": "On or near Ghent Way"
+      },
+      "longitude": "-0.072107"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "546941883d16416328dfd574d925a6731b4fdc5c8902dc14818bac8cb6414612",
+    "id": 126420439,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

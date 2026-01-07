@@ -1,0 +1,167 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509485",
+      "street": {
+        "id": 1686335,
+        "name": "On or near A3211"
+      },
+      "longitude": "-0.076667"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127543858,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508588",
+      "street": {
+        "id": 1686590,
+        "name": "On or near Tower Bridge Approach"
+      },
+      "longitude": "-0.074039"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Local resolution",
+      "date": "2025-04"
+    },
+    "persistent_id": "bdbee451f43ec1c4d14f2565e2c74c3a7e7ab104a657c4082ca12096e1186907",
+    "id": 127493774,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508588",
+      "street": {
+        "id": 1686590,
+        "name": "On or near Tower Bridge Approach"
+      },
+      "longitude": "-0.074039"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "0dfd0d29bd0f0e34f956cced7502622fcbc3169557eb8061c485208637801bba",
+    "id": 127493967,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504062",
+      "street": {
+        "id": 1685989,
+        "name": "On or near Weaver's Lane"
+      },
+      "longitude": "-0.079360"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "7425486d3e8929d9acee741b6eda7a5c658a1eb540040abf8e5cca8dc7eb27d5",
+    "id": 127658598,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508588",
+      "street": {
+        "id": 1686590,
+        "name": "On or near Tower Bridge Approach"
+      },
+      "longitude": "-0.074039"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "d08b7b98f338cd9306ee82eef984dcd41627e88ff381ecfe9f0eb662b4a03fb3",
+    "id": 127493484,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509485",
+      "street": {
+        "id": 1686335,
+        "name": "On or near A3211"
+      },
+      "longitude": "-0.076667"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-10"
+    },
+    "persistent_id": "38b5a2a0d820a8c5b1a26de8b1f9332f1838238c000b6edd672468c33453a27f",
+    "id": 127661350,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508588",
+      "street": {
+        "id": 1686590,
+        "name": "On or near Tower Bridge Approach"
+      },
+      "longitude": "-0.074039"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "840a0618e1a0d5f33f78f498e7b9324550e8bc51eba2e284c98d725bc908092b",
+    "id": 127658042,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509485",
+      "street": {
+        "id": 1686335,
+        "name": "On or near A3211"
+      },
+      "longitude": "-0.076667"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "77223a391bf22296eae6a290e7fcc9f9062bfe232065312779354dcc2a8c7c3a",
+    "id": 127625172,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

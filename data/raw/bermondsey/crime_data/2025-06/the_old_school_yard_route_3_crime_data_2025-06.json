@@ -1,0 +1,344 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500072",
+      "street": {
+        "id": 1683773,
+        "name": "On or near Hulme Place"
+      },
+      "longitude": "-0.094987"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129466064,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500922",
+      "street": {
+        "id": 1683968,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.094159"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129457059,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500072",
+      "street": {
+        "id": 1683773,
+        "name": "On or near Hulme Place"
+      },
+      "longitude": "-0.094987"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129453741,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500072",
+      "street": {
+        "id": 1683773,
+        "name": "On or near Hulme Place"
+      },
+      "longitude": "-0.094987"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129459126,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500072",
+      "street": {
+        "id": 1683773,
+        "name": "On or near Hulme Place"
+      },
+      "longitude": "-0.094987"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129447942,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500926",
+      "street": {
+        "id": 1684141,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.092171"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "daa2d4627018bb857834a57406f2e7ea50dd77ec8c40c7ad7ce39373e5a41971",
+    "id": 129535916,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499371",
+      "street": {
+        "id": 1683576,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.096126"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "9282b52ad35bf8aa71d0ac4cf9b8e5e5cd4165da61f0c977500360228a58620c",
+    "id": 129540247,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500926",
+      "street": {
+        "id": 1684141,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.092171"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-10"
+    },
+    "persistent_id": "b63da48d8415dbfd1d181cac7ec5d5740d477d9768ac5d1589b6d2da5ad0214c",
+    "id": 129507883,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501229",
+      "street": {
+        "id": 1684062,
+        "name": "On or near Borough"
+      },
+      "longitude": "-0.093642"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-08"
+    },
+    "persistent_id": "5370a12a7d940eb665d5b40af14c071d71b56d63d22a64c83811407676e56d12",
+    "id": 129469222,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499371",
+      "street": {
+        "id": 1683576,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.096126"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "014b66e4ecd8786e176945a92b1b8796ed752f1e547936a5f6cc5b07d3d8b196",
+    "id": 129477943,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499371",
+      "street": {
+        "id": 1683576,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.096126"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "fa3caf4694c9ff17cd3fd288fa5d1c67c94edc660b51f1e9e1e3de0a98dc9dcd",
+    "id": 129506479,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499371",
+      "street": {
+        "id": 1683576,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.096126"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "07eda768157c8db3a71246c2c7a7cd1b34047a2f9f710c9c0b219003dd470b45",
+    "id": 129480828,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499670",
+      "street": {
+        "id": 1683318,
+        "name": "On or near Stones End Street"
+      },
+      "longitude": "-0.096776"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "a2df20028b9a06c63c3650597e40af93c2793f6b8b83c579506eccaa1d7a990c",
+    "id": 129474739,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499371",
+      "street": {
+        "id": 1683576,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.096126"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-11"
+    },
+    "persistent_id": "64d169ab28d6047a15fd9f027deb79ef8d4c89f3da354f6dce727a981f53ea10",
+    "id": 129539477,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500922",
+      "street": {
+        "id": 1683968,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.094159"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "a93daf290262f1d1d4e13cbf4ae96a91626c39513176c34505befeb8be078778",
+    "id": 129544083,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499371",
+      "street": {
+        "id": 1683576,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.096126"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "aff994150d6a7f96bcc683a6f78fcca499fc6ad56fe8bcf5fc0e2f451e974d70",
+    "id": 129550215,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499371",
+      "street": {
+        "id": 1683576,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.096126"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "e35ac8941b7f2c3f77147d66ca1a4a9426fc5fb66d4afc8d4d0528b07b02c946",
+    "id": 129524823,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

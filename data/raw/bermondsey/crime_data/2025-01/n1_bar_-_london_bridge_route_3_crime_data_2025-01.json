@@ -1,0 +1,167 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503558",
+      "street": {
+        "id": 1686124,
+        "name": "On or near Potters Fields"
+      },
+      "longitude": "-0.078805"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125857134,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.505587",
+      "street": {
+        "id": 2344281,
+        "name": "London Bridge (lu Station)"
+      },
+      "longitude": "-0.086493"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126036798,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504238",
+      "street": {
+        "id": 1685718,
+        "name": "On or near Abbots Lane"
+      },
+      "longitude": "-0.081298"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "ff25cf42291534f3ee7982113a1ae0776e65e3fd0592b6cd77b04fb9fb2835ce",
+    "id": 125860254,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.505587",
+      "street": {
+        "id": 2344281,
+        "name": "London Bridge (lu Station)"
+      },
+      "longitude": "-0.086493"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126036803,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504826",
+      "street": {
+        "id": 1685270,
+        "name": "On or near London Bridge"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "aeefa1b3af8df3b8c6583b554bf70f7b943f6d26d7e5dcf15df1197309a8bb41",
+    "id": 125864849,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503558",
+      "street": {
+        "id": 1686124,
+        "name": "On or near Potters Fields"
+      },
+      "longitude": "-0.078805"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "f40eccde87a2629fa8fa5d0beb0e43ad8acf16b01d380b6ca5494f77dc83af17",
+    "id": 125860490,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.505587",
+      "street": {
+        "id": 2344281,
+        "name": "London Bridge (lu Station)"
+      },
+      "longitude": "-0.086493"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126036804,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504238",
+      "street": {
+        "id": 1685718,
+        "name": "On or near Abbots Lane"
+      },
+      "longitude": "-0.081298"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "5aede52c0a0da76a87f108c0d68b4701c4d5ab211b88ea3d7bb3743fa08ec697",
+    "id": 125936760,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

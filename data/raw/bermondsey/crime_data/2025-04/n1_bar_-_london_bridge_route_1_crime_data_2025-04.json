@@ -1,0 +1,62 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505578",
+      "street": {
+        "id": 1684868,
+        "name": "On or near Railway Approach"
+      },
+      "longitude": "-0.087409"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127553859,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505578",
+      "street": {
+        "id": 1684868,
+        "name": "On or near Railway Approach"
+      },
+      "longitude": "-0.087409"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "cfdaa0f8cfdeb833d3f8a83185976c9dd6b4626a2b532871fe50b868a9087758",
+    "id": 127570836,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505578",
+      "street": {
+        "id": 1684868,
+        "name": "On or near Railway Approach"
+      },
+      "longitude": "-0.087409"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "657d017d1e968b141f8b53ea3b1225a7da449ae1e4287803b5b4fb76a99cb0c0",
+    "id": 127570856,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

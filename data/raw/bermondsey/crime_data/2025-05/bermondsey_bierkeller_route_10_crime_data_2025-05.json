@@ -1,0 +1,227 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510441",
+      "street": {
+        "id": 1490899,
+        "name": "On or near Lovat Lane"
+      },
+      "longitude": "-0.083977"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 128165438,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510070",
+      "street": {
+        "id": 1490902,
+        "name": "On or near Great Tower Street"
+      },
+      "longitude": "-0.081643"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 128165485,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510441",
+      "street": {
+        "id": 1490899,
+        "name": "On or near Lovat Lane"
+      },
+      "longitude": "-0.083977"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "9c012ab0c48177a55415492c14c369d24db9772abd9fbe4533bcbd339415f5cd",
+    "id": 128165341,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510725",
+      "street": {
+        "id": 1490897,
+        "name": "On or near Eastcheap"
+      },
+      "longitude": "-0.084844"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "66c4e0ef26760af38545206276b199b572ffa066caa829acde33b2664430c9b2",
+    "id": 128166032,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510441",
+      "street": {
+        "id": 1490899,
+        "name": "On or near Lovat Lane"
+      },
+      "longitude": "-0.083977"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-08"
+    },
+    "persistent_id": "e569f7510572bbb1fd50aec884311a7d2ca8ef873a39372b69f74a45de47fb3d",
+    "id": 128166044,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510441",
+      "street": {
+        "id": 1490899,
+        "name": "On or near Lovat Lane"
+      },
+      "longitude": "-0.083977"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-11"
+    },
+    "persistent_id": "66c4e0ef26760af38545206276b199b572ffa066caa829acde33b2664430c9b2",
+    "id": 128166033,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506419",
+      "street": {
+        "id": 1684816,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.088195"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "b9b307b5031469fcfdac3de504d1c441376422c430a7da7897fe5e75e8fde488",
+    "id": 129688267,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510070",
+      "street": {
+        "id": 1490902,
+        "name": "On or near Great Tower Street"
+      },
+      "longitude": "-0.081643"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-11"
+    },
+    "persistent_id": "32a17adbc0becaef671c9223e35f3f13b144c3f7542e7b2195d982bdd4510faf",
+    "id": 128165593,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506439",
+      "street": {
+        "id": 1684768,
+        "name": "On or near Tooley Street"
+      },
+      "longitude": "-0.088367"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-10"
+    },
+    "persistent_id": "b067e4e2d0810060edea851be93daed9310870034cccae272015b87363f1214b",
+    "id": 129630083,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510070",
+      "street": {
+        "id": 1490902,
+        "name": "On or near Great Tower Street"
+      },
+      "longitude": "-0.081643"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "18be727ebd7e2246f92cdd62a26d4e5aa75be7ea7cf44f147f2ee683652aa764",
+    "id": 128165782,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506171",
+      "street": {
+        "id": 1684785,
+        "name": "On or near Duke Street Hill"
+      },
+      "longitude": "-0.088479"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-10"
+    },
+    "persistent_id": "97dbab33374b61f7c7ac7216269f1bd4d78cfafdb0c7f4ab47526f82d4349cee",
+    "id": 129605608,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

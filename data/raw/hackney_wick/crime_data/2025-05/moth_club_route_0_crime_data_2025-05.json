@@ -1,0 +1,83 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129592423,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "621df660455e69fd94971cb77536bb83aefba46392dabbe7f9a00d0cd8ba06e2",
+    "id": 129612703,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "bc19bae7755eac3d5d7e72254747097cde4ccdafb91908727d43a5a9b2d6e3af",
+    "id": 129613234,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-06"
+    },
+    "persistent_id": "3e183fe548893902ae52366975458ef0384adb668855f326129d6630fb9b5745",
+    "id": 129688122,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

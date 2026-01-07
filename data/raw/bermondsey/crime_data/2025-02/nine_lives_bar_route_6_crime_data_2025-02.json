@@ -1,0 +1,23 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503297",
+      "street": {
+        "id": 1685673,
+        "name": "On or near Holyrood Street"
+      },
+      "longitude": "-0.082072"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "2c65a32496de64abca51af3798764bf8a75cf176bfc568d2c0221f0dff0f06f4",
+    "id": 126422582,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

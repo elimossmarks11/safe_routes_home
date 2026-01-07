@@ -1,0 +1,56 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499847",
+      "street": {
+        "id": 1684964,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.087216"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129594444,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499847",
+      "street": {
+        "id": 1684964,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.087216"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129601990,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499847",
+      "street": {
+        "id": 1684964,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.087216"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129602069,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548321",
+      "street": {
+        "id": 1688567,
+        "name": "On or near Navarino Road"
+      },
+      "longitude": "-0.063895"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127077626,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548424",
+      "street": {
+        "id": 1687408,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.070699"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127087597,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548634",
+      "street": {
+        "id": 1688154,
+        "name": "On or near Lewis Place"
+      },
+      "longitude": "-0.065944"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127090958,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548321",
+      "street": {
+        "id": 1688567,
+        "name": "On or near Navarino Road"
+      },
+      "longitude": "-0.063895"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "c9f6f07907772d1beff0ffe307e185051c7a3b0f7fa23f17bd783ede25d23b08",
+    "id": 127191418,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548314",
+      "street": {
+        "id": 1687134,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.072189"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "4f34599a6aaeae55aeed326d4d1adca5b152ae449300bca8381dad122f4f2f8e",
+    "id": 127138640,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548471",
+      "street": {
+        "id": 1688962,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061552"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "f5da0d8f2fa88023f7ef625c377ce9de3cd7784c3706c1d549e8b1512f5c7029",
+    "id": 127101879,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548471",
+      "street": {
+        "id": 1688962,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061552"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "956dbb9f2fac5e5f82f44a7b1e4ea84abba3ba6be55ab320b9412051cf5c20cd",
+    "id": 127101559,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548763",
+      "street": {
+        "id": 1688853,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061799"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "50bd8e98e28eafb7ea9bcd8f13bcde0c2948c781b7d2438a6e761abf7ec02d6a",
+    "id": 127101589,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548424",
+      "street": {
+        "id": 1687408,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.070699"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "e91ca3963d201d82ff28644f6501e7e26d4846bc33d5a25ea05b794f42a8ed2c",
+    "id": 127149379,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

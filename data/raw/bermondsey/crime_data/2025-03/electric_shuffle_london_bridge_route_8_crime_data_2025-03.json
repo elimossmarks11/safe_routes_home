@@ -1,0 +1,20 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502173",
+      "street": {
+        "id": 1685334,
+        "name": "On or near Melior Place"
+      },
+      "longitude": "-0.084295"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127079466,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

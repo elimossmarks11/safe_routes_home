@@ -1,0 +1,104 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504826",
+      "street": {
+        "id": 1685270,
+        "name": "On or near London Bridge"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129462657,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502286",
+      "street": {
+        "id": 1685108,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.085673"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-10"
+    },
+    "persistent_id": "8d9ead027dfc204cfc7926e59c3aa6f072c1c7e2eb5973dc4b11a65da8481b17",
+    "id": 129493406,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504826",
+      "street": {
+        "id": 1685270,
+        "name": "On or near London Bridge"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "3a66236beabc20c14c98340b521028b264df7b7759c1c0d71ea627111e5d0777",
+    "id": 129519229,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504826",
+      "street": {
+        "id": 1685270,
+        "name": "On or near London Bridge"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "cbaea2288a7bf33d430db6aaf79e61549c109d3d40ecd36335a696969dc8d108",
+    "id": 129501998,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500448",
+      "street": {
+        "id": 1684882,
+        "name": "On or near Lockyer Street"
+      },
+      "longitude": "-0.087652"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Formal action is not in the public interest",
+      "date": "2025-09"
+    },
+    "persistent_id": "6dc0bfabda11fac210ddf9fc2176b67d468101e8c241e1da264556af039c30e3",
+    "id": 129476592,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

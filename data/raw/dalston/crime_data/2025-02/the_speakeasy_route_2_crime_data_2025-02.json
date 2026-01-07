@@ -1,0 +1,23 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546371",
+      "street": {
+        "id": 1686586,
+        "name": "On or near Kingsland Passage"
+      },
+      "longitude": "-0.075992"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "5d72dd2ce74e0614a69e35b1cce299d801170cabeb4e300b2e1b7d4e6f46a419",
+    "id": 126418522,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

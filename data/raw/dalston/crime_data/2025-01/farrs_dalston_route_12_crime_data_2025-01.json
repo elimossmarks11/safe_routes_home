@@ -1,0 +1,101 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548321",
+      "street": {
+        "id": 1688567,
+        "name": "On or near Navarino Road"
+      },
+      "longitude": "-0.063895"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125851241,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546496",
+      "street": {
+        "id": 1687208,
+        "name": "On or near Ghent Way"
+      },
+      "longitude": "-0.072107"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125857080,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546496",
+      "street": {
+        "id": 1687208,
+        "name": "On or near Ghent Way"
+      },
+      "longitude": "-0.072107"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Offender given a caution",
+      "date": "2025-02"
+    },
+    "persistent_id": "67b5dcbb55fe89b7897e37ed04404abea6706715bc2be414da55aeb0dde7c9b3",
+    "id": 125931747,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547487",
+      "street": {
+        "id": 1687484,
+        "name": "On or near Martel Place"
+      },
+      "longitude": "-0.069498"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "bd884fe871f253d204fdd2b0bcdb6f876ce823c08aaf2506a8c300187faf014d",
+    "id": 125865886,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546669",
+      "street": {
+        "id": 1687418,
+        "name": "On or near Atlas Mews"
+      },
+      "longitude": "-0.071133"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "1357b02ebeda0467d58256bd2a0807a142d4cd7535a3d25cb3b9e5eeb8fec0cd",
+    "id": 125862864,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

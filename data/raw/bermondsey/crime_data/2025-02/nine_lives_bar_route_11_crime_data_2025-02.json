@@ -1,0 +1,209 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501926",
+      "street": {
+        "id": 1685211,
+        "name": "On or near Ship And Mermaid Row"
+      },
+      "longitude": "-0.085141"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126348077,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502044",
+      "street": {
+        "id": 1684700,
+        "name": "On or near Crosby Row"
+      },
+      "longitude": "-0.088508"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126349148,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501028",
+      "street": {
+        "id": 1684344,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.090697"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126346688,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502044",
+      "street": {
+        "id": 1684700,
+        "name": "On or near Crosby Row"
+      },
+      "longitude": "-0.088508"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126348246,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501028",
+      "street": {
+        "id": 1684344,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.090697"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126359381,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500582",
+      "street": {
+        "id": 1684240,
+        "name": "On or near Silvester Street"
+      },
+      "longitude": "-0.092012"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126348627,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502189",
+      "street": {
+        "id": 1684832,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.088040"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126357483,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502189",
+      "street": {
+        "id": 1684832,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.088040"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126348952,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500926",
+      "street": {
+        "id": 1684141,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.092171"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "527e04c227c22c43d5b524ceba05b425457b92c00174fa11bfc42da5cc797e02",
+    "id": 126368262,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501926",
+      "street": {
+        "id": 1685211,
+        "name": "On or near Ship And Mermaid Row"
+      },
+      "longitude": "-0.085141"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-06"
+    },
+    "persistent_id": "09364a4dfc96ee1e49985f8d47caa7bc3a91b5420549789598f7a1693abffc99",
+    "id": 126424397,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500582",
+      "street": {
+        "id": 1684240,
+        "name": "On or near Silvester Street"
+      },
+      "longitude": "-0.092012"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "c56eef03d558ce35f5e6be52ac85a363020eb1d9a986ffb4274435435084808b",
+    "id": 126418163,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500193",
+      "street": {
+        "id": 1684974,
+        "name": "On or near Dunsterville Way"
+      },
+      "longitude": "-0.086366"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129591904,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502083",
+      "street": {
+        "id": 1685289,
+        "name": "On or near Kirby Grove"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129598802,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500193",
+      "street": {
+        "id": 1684974,
+        "name": "On or near Dunsterville Way"
+      },
+      "longitude": "-0.086366"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129591082,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500193",
+      "street": {
+        "id": 1684974,
+        "name": "On or near Dunsterville Way"
+      },
+      "longitude": "-0.086366"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129591357,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501926",
+      "street": {
+        "id": 1685211,
+        "name": "On or near Ship And Mermaid Row"
+      },
+      "longitude": "-0.085141"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "c893afceae2358bf188a70ab44dbc19357c197eb8edbf227cbe58a564b2eaa1e",
+    "id": 129608801,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

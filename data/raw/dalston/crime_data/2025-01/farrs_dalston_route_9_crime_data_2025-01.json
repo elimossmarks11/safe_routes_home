@@ -1,0 +1,128 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546371",
+      "street": {
+        "id": 1686586,
+        "name": "On or near Kingsland Passage"
+      },
+      "longitude": "-0.075992"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "1174ec4434e722241b97b7e56a3a3e3a416a6f6cd15e71a6e3ffb65b8e8da107",
+    "id": 125869020,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546371",
+      "street": {
+        "id": 1686586,
+        "name": "On or near Kingsland Passage"
+      },
+      "longitude": "-0.075992"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "8ebaa3f5136ad00d2116a2208c3eafdd810bd4b7baa3401fdb62207b5f314448",
+    "id": 125866050,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546371",
+      "street": {
+        "id": 1686586,
+        "name": "On or near Kingsland Passage"
+      },
+      "longitude": "-0.075992"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "4665e485cb6220790971d72d1031edba6072dc73c170376385c4611d49fda549",
+    "id": 125865768,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545166",
+      "street": {
+        "id": 1686487,
+        "name": "On or near Nimrod Passage"
+      },
+      "longitude": "-0.076562"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "867172d75908dfce6ef556f6c387797aee8ebe7b8cc95e05ab337d154981e085",
+    "id": 125861459,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545166",
+      "street": {
+        "id": 1686487,
+        "name": "On or near Nimrod Passage"
+      },
+      "longitude": "-0.076562"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "c6d7084f54abce940845f9e01dbf600ee3d2a6fdfda0e57086bcd4e6fa9f2380",
+    "id": 125866400,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545580",
+      "street": {
+        "id": 1686636,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.075477"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "d3060e393be2d315b36bf08cb29db452e44d61e8ed67307bdb157eb67ffa5490",
+    "id": 125861039,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

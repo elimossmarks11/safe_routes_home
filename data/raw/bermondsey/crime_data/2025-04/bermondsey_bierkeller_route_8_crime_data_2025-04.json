@@ -1,0 +1,65 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510665",
+      "street": {
+        "id": 1490884,
+        "name": "On or near Martin Lane"
+      },
+      "longitude": "-0.087772"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "09c01690e56f8cffd6c12b0c9e0022793e0d868f56ec156e4f8f47d74bc0c256",
+    "id": 127494058,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506722",
+      "street": {
+        "id": 1684669,
+        "name": "On or near Conference/exhibition Centre"
+      },
+      "longitude": "-0.088586"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "dbcd31b096cb5104464b5fe5fb65c20f9509ceea7605b9e3cae4f09ffd3732c9",
+    "id": 127572350,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506722",
+      "street": {
+        "id": 1684669,
+        "name": "On or near Conference/exhibition Centre"
+      },
+      "longitude": "-0.088586"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "155c65397d359fa21df7ff54fb3eb1f53fa0a8a224947328c215bb91aeda3dc6",
+    "id": 127604318,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

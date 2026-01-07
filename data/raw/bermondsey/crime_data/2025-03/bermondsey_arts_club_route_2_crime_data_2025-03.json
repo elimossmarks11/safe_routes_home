@@ -1,0 +1,41 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497411",
+      "street": {
+        "id": 1685428,
+        "name": "On or near Decima Street"
+      },
+      "longitude": "-0.083443"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127097513,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499007",
+      "street": {
+        "id": 1685209,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.085335"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "ccbd5dce3061255604bfceb9949c868a6b7a84f80d3e9d4459c3ce8fbf359f35",
+    "id": 127108898,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

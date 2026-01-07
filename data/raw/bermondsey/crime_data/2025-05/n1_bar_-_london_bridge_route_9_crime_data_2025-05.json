@@ -1,0 +1,386 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503329",
+      "street": {
+        "id": 1684255,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091725"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129602386,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503329",
+      "street": {
+        "id": 1684255,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091725"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129588063,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503329",
+      "street": {
+        "id": 1684255,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091725"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129584830,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505414",
+      "street": {
+        "id": 1684743,
+        "name": "On or near London Bridge Street"
+      },
+      "longitude": "-0.088338"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129585917,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505414",
+      "street": {
+        "id": 1684743,
+        "name": "On or near London Bridge Street"
+      },
+      "longitude": "-0.088338"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129600832,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503329",
+      "street": {
+        "id": 1684255,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091725"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "3a16f2e2ef24ec3d8489b7ca5d8720c61624cc22cbeb8bc33eb1ea0f7ce17f11",
+    "id": 129680478,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503329",
+      "street": {
+        "id": 1684255,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091725"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "0540cebea8139a16cbc46e91f8f493330850a359ab474628609f8860dcb71ae9",
+    "id": 129680379,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501229",
+      "street": {
+        "id": 1684062,
+        "name": "On or near Borough"
+      },
+      "longitude": "-0.093642"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "649d121eb1b36113c844c4dbde2c3b89b6e357aa018bad6ed5d552146ed3e9cf",
+    "id": 129612894,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503391",
+      "street": {
+        "id": 1684343,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091679"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "8cff19109382a601f4e85daf72755c1101252833e895022459b4e86f58f52d31",
+    "id": 129607468,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506419",
+      "street": {
+        "id": 1684816,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.088195"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "b9b307b5031469fcfdac3de504d1c441376422c430a7da7897fe5e75e8fde488",
+    "id": 129688267,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503391",
+      "street": {
+        "id": 1684343,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091679"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "e4d20b25619ec66089bada5f1265ae2f0ce63e235ef357f6f3fa8eb066944a39",
+    "id": 129689614,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505208",
+      "street": {
+        "id": 1684629,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.089485"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-08"
+    },
+    "persistent_id": "6dfd3e484c4ba6f7889586835ad8c3493c6be59976829b36deed6a47907d77fe",
+    "id": 129606816,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503329",
+      "street": {
+        "id": 1684255,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091725"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "6bbb52a418e87c6fee4bdc1263d83a4b63d4ae895d57b8814df9a6740ec75cf2",
+    "id": 129607433,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503329",
+      "street": {
+        "id": 1684255,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091725"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "b6537a8132f2fcdb1a2e21f49750d7bb7b8feecfcc7c37aadcd50f78e6fdf7f9",
+    "id": 129608089,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505414",
+      "street": {
+        "id": 1684743,
+        "name": "On or near London Bridge Street"
+      },
+      "longitude": "-0.088338"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "b9742ef62e700259e64f9dcd5d53a3b710b47266b53f1c3345e02dd147f254c1",
+    "id": 129609690,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506171",
+      "street": {
+        "id": 1684785,
+        "name": "On or near Duke Street Hill"
+      },
+      "longitude": "-0.088479"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-10"
+    },
+    "persistent_id": "97dbab33374b61f7c7ac7216269f1bd4d78cfafdb0c7f4ab47526f82d4349cee",
+    "id": 129605608,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503391",
+      "street": {
+        "id": 1684343,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091679"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "d5b9e5beaeef1d2a183fbae7fdc4564a2a2d1f79e86c7d8b7fe1af3249ffad0f",
+    "id": 129681065,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505208",
+      "street": {
+        "id": 1684629,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.089485"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "6d51404b578ef21dd078aaf49159f5abad5b94f6a90c3b4fc8de5ee7159bd079",
+    "id": 129681706,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503391",
+      "street": {
+        "id": 1684343,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091679"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "d0e9350f99b7b8742ea626ac319be60cf8a2c9dffb261dbe54fe7e4345fe7648",
+    "id": 129689609,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

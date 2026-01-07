@@ -1,0 +1,239 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547047",
+      "street": {
+        "id": 1690339,
+        "name": "On or near Morning Lane"
+      },
+      "longitude": "-0.051055"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126355303,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126351380,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.544907",
+      "street": {
+        "id": 1691028,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.046185"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126357003,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.544907",
+      "street": {
+        "id": 1691028,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.046185"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126353726,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126350931,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "e9efc6d22489737cf774d63c75d60722d32ad25ebdf637a54c74d5fd41a7156b",
+    "id": 126367641,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546712",
+      "street": {
+        "id": 1690293,
+        "name": "On or near Ram Place"
+      },
+      "longitude": "-0.050882"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "01deebedcdf3f7c5f597d0fc301fd2b4f924880e3ba4a2340c5d5a07537bf741",
+    "id": 126368098,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "545f2cdc8603fd6597ee00bce8e8d508d4a1445d054a23d2cef0d340a84b99a4",
+    "id": 126367787,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "91ec6d1e24bed127bb0aa62c8b6ba858bda2106911a5e888438d8c3af6f8dd05",
+    "id": 126376807,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546808",
+      "street": {
+        "id": 1691373,
+        "name": "On or near Berger Road"
+      },
+      "longitude": "-0.043176"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "507271b908f69f726262e29223143cb9f948887a07c348642a4d77208dcc34cb",
+    "id": 126424319,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546712",
+      "street": {
+        "id": 1690293,
+        "name": "On or near Ram Place"
+      },
+      "longitude": "-0.050882"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "5f16fb640b6134fac1a8eadb92072f5c322e731cc8a454f6d2ceeaff346dd9ad",
+    "id": 126366450,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "e2daccb0f048bb3a5b057e1007413a20606c8ea3192a3e05284ec1956f95b109",
+    "id": 126360513,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

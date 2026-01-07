@@ -1,0 +1,41 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551248",
+      "street": {
+        "id": 1686874,
+        "name": "On or near Miller's Terrace"
+      },
+      "longitude": "-0.074575"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127559607,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551188",
+      "street": {
+        "id": 1686767,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074750"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "0ef28ba44b68f65e543b9797dfa393f0166f5e86f158b4a2366119df0354bcac",
+    "id": 127656345,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

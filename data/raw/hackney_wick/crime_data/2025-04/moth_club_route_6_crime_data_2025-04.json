@@ -1,0 +1,278 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.544907",
+      "street": {
+        "id": 1691028,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.046185"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127550347,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127547942,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546794",
+      "street": {
+        "id": 1690483,
+        "name": "On or near Homerton Terrace"
+      },
+      "longitude": "-0.049350"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127549203,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.544907",
+      "street": {
+        "id": 1691028,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.046185"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127551136,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547047",
+      "street": {
+        "id": 1690339,
+        "name": "On or near Morning Lane"
+      },
+      "longitude": "-0.051055"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127556605,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127545803,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547119",
+      "street": {
+        "id": 1690288,
+        "name": "On or near Nursery Road"
+      },
+      "longitude": "-0.051615"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "4bc70cb6f039f80a5f3fc4d9bbaa4f0daa2de3afb3ca91cc86dc1914a4aae612",
+    "id": 127581087,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.544971",
+      "street": {
+        "id": 1691073,
+        "name": "On or near B113"
+      },
+      "longitude": "-0.045707"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "5149d002911a95f2c1d0f6780a0745fb7138981270e88c31c80ed5d807237102",
+    "id": 127664842,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.544971",
+      "street": {
+        "id": 1691073,
+        "name": "On or near B113"
+      },
+      "longitude": "-0.045707"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "e000c7b3c5eee3429877bcac02758bdffc7beb84e304f207cced0a896f1793bb",
+    "id": 127576515,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547119",
+      "street": {
+        "id": 1690288,
+        "name": "On or near Nursery Road"
+      },
+      "longitude": "-0.051615"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "545a3fa71e5cd411baa2130aa3e9578ba4312ec8eb5dc13de2db8ff180768ea6",
+    "id": 127662819,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546712",
+      "street": {
+        "id": 1690293,
+        "name": "On or near Ram Place"
+      },
+      "longitude": "-0.050882"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "ada6d88f96aa07449eb5aac749be07a914be50857fd6f3c98b4ea6ec2d8c149d",
+    "id": 127604188,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.544971",
+      "street": {
+        "id": 1691073,
+        "name": "On or near B113"
+      },
+      "longitude": "-0.045707"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "9b4ec29051249665c074dd4f321b9c995a89586ac9171d2bdd3b88d996d094a1",
+    "id": 127578784,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.544971",
+      "street": {
+        "id": 1691073,
+        "name": "On or near B113"
+      },
+      "longitude": "-0.045707"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "916ebfd178e9472e7d00c728676604b1bdfb30c8e46cbe11c352b51a2282526e",
+    "id": 127664449,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "c670ce9fda1759b9eb3c19c743305400139407ffcd31e9d48d7f5d355895a39b",
+    "id": 127571770,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

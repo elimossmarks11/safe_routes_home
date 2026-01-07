@@ -1,0 +1,23 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502237",
+      "street": {
+        "id": 1685751,
+        "name": "On or near Crucifix Lane"
+      },
+      "longitude": "-0.081598"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "644ae0c76f2860c63887031378793de7b7d6e92decdd0ed1dbbfc937253f9c2b",
+    "id": 129679070,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

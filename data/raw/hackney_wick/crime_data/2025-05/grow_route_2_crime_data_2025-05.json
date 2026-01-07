@@ -1,0 +1,38 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545258",
+      "street": {
+        "id": 1693044,
+        "name": "On or near Beanacre Close"
+      },
+      "longitude": "-0.027941"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129591656,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545140",
+      "street": {
+        "id": 1693223,
+        "name": "On or near Berkshire Road"
+      },
+      "longitude": "-0.025710"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129587660,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

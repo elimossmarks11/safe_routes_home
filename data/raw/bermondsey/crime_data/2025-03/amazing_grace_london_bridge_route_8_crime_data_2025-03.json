@@ -1,0 +1,224 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500448",
+      "street": {
+        "id": 1684882,
+        "name": "On or near Lockyer Street"
+      },
+      "longitude": "-0.087652"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127079599,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500296",
+      "street": {
+        "id": 1684800,
+        "name": "On or near Hankey Place"
+      },
+      "longitude": "-0.088264"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127097382,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502189",
+      "street": {
+        "id": 1684832,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.088040"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127077467,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503340",
+      "street": {
+        "id": 1684827,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.088007"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "bad150f3d927dfc4a81e821cc8d82a325ddbca6748aa107f286cf229880700c0",
+    "id": 127106837,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500482",
+      "street": {
+        "id": 1684664,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.088688"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "b4f305743d63a2841bae1605fc975f7582ced4c76aedd62b59929b62170620cc",
+    "id": 127109104,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503340",
+      "street": {
+        "id": 1684827,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.088007"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "8b34f086bb2b2449a6ceeb4b3cc48e1349737b213b7cfe1d856609f43a61dcad",
+    "id": 127148870,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502189",
+      "street": {
+        "id": 1684832,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.088040"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "febf1b58846d60211129cd60f3be559890f48764e39ed4b4a4676a2054f2a958",
+    "id": 127140897,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503340",
+      "street": {
+        "id": 1684827,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.088007"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "b3f5f85915224b35e47d2d628898dd116c76b3fb95708e955bd5eff3c1f93898",
+    "id": 127193696,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499706",
+      "street": {
+        "id": 1684925,
+        "name": "On or near Staple Street"
+      },
+      "longitude": "-0.087366"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "9b067ff7b91f07151a68a0b78ff383e2a85745968e703c08abdc217ae3d407d5",
+    "id": 127191974,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500296",
+      "street": {
+        "id": 1684800,
+        "name": "On or near Hankey Place"
+      },
+      "longitude": "-0.088264"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "738922c40a7a60b34cdb2e6ceb86aac5ce252288594fbdbfcbc28ab9d06b8d3e",
+    "id": 127195375,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499706",
+      "street": {
+        "id": 1684925,
+        "name": "On or near Staple Street"
+      },
+      "longitude": "-0.087366"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-10"
+    },
+    "persistent_id": "5a131b2d3aa4f2124b84112806f9d75cb4bbda8871d406a185f9977f5637c03b",
+    "id": 127157383,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

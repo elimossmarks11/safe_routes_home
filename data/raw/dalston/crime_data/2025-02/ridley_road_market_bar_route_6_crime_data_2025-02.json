@@ -1,0 +1,62 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548418",
+      "street": {
+        "id": 1686770,
+        "name": "On or near Winchester Place"
+      },
+      "longitude": "-0.074723"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126353600,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549307",
+      "street": {
+        "id": 1686753,
+        "name": "On or near Birkbeck Mews"
+      },
+      "longitude": "-0.074642"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "c5d5c3938fd9b2ecab7b9a93734cbf1b9ed0d1a5341cd153d59637bad9f604f2",
+    "id": 126420316,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548124",
+      "street": {
+        "id": 1686919,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.074137"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "47acf4db942e3df67e23c0b2c9c66956c68837ce637128d6ccd93a56a3c3bac8",
+    "id": 126365325,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551378",
+      "street": {
+        "id": 1685226,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.084695"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126348352,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550549",
+      "street": {
+        "id": 1685723,
+        "name": "On or near Woodville Road"
+      },
+      "longitude": "-0.081845"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126349480,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551378",
+      "street": {
+        "id": 1685226,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.084695"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126354809,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549752",
+      "street": {
+        "id": 1686625,
+        "name": "On or near John Campbell Road"
+      },
+      "longitude": "-0.075994"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "b803562434b35d0fca0504c537b429e459bc5ec86429de222bc71c03698570e5",
+    "id": 126422651,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551378",
+      "street": {
+        "id": 1685226,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.084695"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "873f0718d386246ee9b7794f61f0f2793c0a21f3d1f41010176060c930c2bb27",
+    "id": 126419082,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550194",
+      "street": {
+        "id": 1685552,
+        "name": "On or near Mildmay Road"
+      },
+      "longitude": "-0.082091"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "6790f5ee27ac2e0c2a3228ab3b6daf200043182eb6c0f68b1981721bac42251a",
+    "id": 126363584,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550549",
+      "street": {
+        "id": 1685723,
+        "name": "On or near Woodville Road"
+      },
+      "longitude": "-0.081845"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "e30f753ad05a8f3db98961e7861379a7750fd8ef3ee12edcc72b16c9b4d8c626",
+    "id": 126376099,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549752",
+      "street": {
+        "id": 1686625,
+        "name": "On or near John Campbell Road"
+      },
+      "longitude": "-0.075994"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "53edc912054f8a6e0b1eddca973ef64f1ebf785fbd1a5b48e859e5aacef09cb8",
+    "id": 126360716,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550549",
+      "street": {
+        "id": 1685723,
+        "name": "On or near Woodville Road"
+      },
+      "longitude": "-0.081845"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "a9431dba1578d90cf0be55c0ebb68d7ec396127f344a1dc697e16d12cc397b3c",
+    "id": 126422598,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

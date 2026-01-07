@@ -1,0 +1,86 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547496",
+      "street": {
+        "id": 1690725,
+        "name": "On or near Ponsford Street"
+      },
+      "longitude": "-0.047776"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "41bf722cd2d087c983ee4a8199ea3b7ef607ab18e8aa4b051d61e7a59ce5d2b2",
+    "id": 129680617,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547814",
+      "street": {
+        "id": 1690924,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.045787"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "9b1bd53d60ce1d34f449d4893d965b8ac75470c8f30db49a3d6ed9be51eaeafd",
+    "id": 129604550,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548254",
+      "street": {
+        "id": 1691180,
+        "name": "On or near Homerton High Street"
+      },
+      "longitude": "-0.044138"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "a9f6cabbe55646144e453e821abfa15c0c626090d4255161df762f97e9b57f14",
+    "id": 129609855,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547814",
+      "street": {
+        "id": 1690924,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.045787"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "43f992d198ca6a96eff30e9a67f8f39a18f4403153d32c2c9d757e9f1828ad0d",
+    "id": 129679376,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

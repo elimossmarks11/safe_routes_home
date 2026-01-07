@@ -1,0 +1,323 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546794",
+      "street": {
+        "id": 1690483,
+        "name": "On or near Homerton Terrace"
+      },
+      "longitude": "-0.049350"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129445089,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129466678,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548119",
+      "street": {
+        "id": 1689705,
+        "name": "On or near Brett Road"
+      },
+      "longitude": "-0.056058"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129450902,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548119",
+      "street": {
+        "id": 1689705,
+        "name": "On or near Brett Road"
+      },
+      "longitude": "-0.056058"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129450696,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129458346,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "6610e6a15cd78516d9260106a1f5d5291cb7e049c1908ad221c09c71c62e8799",
+    "id": 129541974,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "703e75f5c2be9115de5f611f652cfd482ddfbab2e3c9f75884cb622aec8fa43d",
+    "id": 129480595,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "058d23823e8f143bcf9aeba0225b702ba73d4a6fd7d79c10d0f8770c30de39b1",
+    "id": 129481577,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "a6d24b25c73865a02c8da570fb3adb83a72fc5b2de106490f88eff8ad70d430e",
+    "id": 129542286,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "3f441561879a9f83dcf06a9ec16babc36e706867f72f57e8c9ae7ab1bf51e4b6",
+    "id": 129492451,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "3c25f269bc3c285efe83dcec463c6ced77d3d8bcfea5dafcb515350d3dcb5850",
+    "id": 129542069,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "362cbc7f5d747e2d404f046b8420fb93fb36a4e1a9ed5d5f41782da49a40f399",
+    "id": 129541230,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "5098dad15b1f47e53db485a0a92bf3ea9f428885cfddba9fdf06f41acf487ede",
+    "id": 129481901,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "4c9a7f1888a89487bac80f8652b0bbd7d7ccb2c293aa743008e0bbea9c4ad6da",
+    "id": 129483562,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "5a42c61706d085eb55abe71df4ae7d9a33b1eed4487b23cdf42a4146a599dcdd",
+    "id": 129481581,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "6f79273159c00266c68be30a025c943dee89c0bada81ef20e86da4da4abf4c6c",
+    "id": 129532659,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

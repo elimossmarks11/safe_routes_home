@@ -1,0 +1,107 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549307",
+      "street": {
+        "id": 1686753,
+        "name": "On or near Birkbeck Mews"
+      },
+      "longitude": "-0.074642"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "f01a8451e7e57bcf90cd33ab671ba01f5f7543b6f9fb058c67fb96d9cac0451f",
+    "id": 129615404,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549267",
+      "street": {
+        "id": 1686697,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.075541"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "3bb9ab535f0b411525869c46ae901ea89ab60553db848cf87181c3bba603842b",
+    "id": 129617435,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549307",
+      "street": {
+        "id": 1686753,
+        "name": "On or near Birkbeck Mews"
+      },
+      "longitude": "-0.074642"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-10"
+    },
+    "persistent_id": "a0275a0d403837de45fa78df68d534f74db7a4c214a85238bcbd21e4f39671e8",
+    "id": 129603969,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549267",
+      "street": {
+        "id": 1686697,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.075541"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "1f522a657dba46f08b6387fca2dc466fe1bb89b483b3825f75ad5b06587831fe",
+    "id": 129638759,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549267",
+      "street": {
+        "id": 1686697,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.075541"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "b0df7e7d7ec980ea662b04a5e51efce1393f4056a4d8a63a8ef45c2958cf7d62",
+    "id": 129638748,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

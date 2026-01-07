@@ -1,0 +1,164 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546794",
+      "street": {
+        "id": 1690483,
+        "name": "On or near Homerton Terrace"
+      },
+      "longitude": "-0.049350"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127549203,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547047",
+      "street": {
+        "id": 1690339,
+        "name": "On or near Morning Lane"
+      },
+      "longitude": "-0.051055"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127556605,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547119",
+      "street": {
+        "id": 1690288,
+        "name": "On or near Nursery Road"
+      },
+      "longitude": "-0.051615"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "4bc70cb6f039f80a5f3fc4d9bbaa4f0daa2de3afb3ca91cc86dc1914a4aae612",
+    "id": 127581087,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547119",
+      "street": {
+        "id": 1690288,
+        "name": "On or near Nursery Road"
+      },
+      "longitude": "-0.051615"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "545a3fa71e5cd411baa2130aa3e9578ba4312ec8eb5dc13de2db8ff180768ea6",
+    "id": 127662819,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "aa75d2e79d476cce1587176817f80757f550c6a02cf14815516222928eeaf258",
+    "id": 127569826,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-11"
+    },
+    "persistent_id": "a1d9937584bbd7c6c6cabded1891555ff331219aed684693df08bf177d19f64e",
+    "id": 127566100,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "c493b6f6849f2481ebe24e8d16e6f6bd011a8f2b7b4a42dcadff57fe318ef71c",
+    "id": 127572228,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "a830766cb81b8c9d4deb7ecaa7c7cd052ae30adccee709f4877574ade19c3609",
+    "id": 127566533,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

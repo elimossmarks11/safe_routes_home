@@ -1,0 +1,62 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499193",
+      "street": {
+        "id": 1686152,
+        "name": "On or near Tower Bridge Road"
+      },
+      "longitude": "-0.079089"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126348215,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501461",
+      "street": {
+        "id": 1685599,
+        "name": "On or near Carmarthen Place"
+      },
+      "longitude": "-0.082538"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "fa777d9bef3604e6edcc9633202a69d940a58d0a97d42dcad16b259ca80374af",
+    "id": 126376825,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499193",
+      "street": {
+        "id": 1686152,
+        "name": "On or near Tower Bridge Road"
+      },
+      "longitude": "-0.079089"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "59771fedc64483ab873f0484d90cb61533bed0d5f56bf9e53a03718834b1f9f7",
+    "id": 126419955,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126355553,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126353688,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552114",
+      "street": {
+        "id": 1685258,
+        "name": "On or near Church Walk"
+      },
+      "longitude": "-0.085140"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "3d0e8b19f37bb4fa49afe76d3446f6da25c07c0997705d52cd179c36650ab1b3",
+    "id": 126362672,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552114",
+      "street": {
+        "id": 1685258,
+        "name": "On or near Church Walk"
+      },
+      "longitude": "-0.085140"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "82da60d126d64dd266755abadb7acafb3e5a1d570f503676f3ab4bba1e2201a5",
+    "id": 126422439,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

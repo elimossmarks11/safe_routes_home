@@ -1,0 +1,326 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548424",
+      "street": {
+        "id": 1687408,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.070699"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127554523,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548321",
+      "street": {
+        "id": 1688567,
+        "name": "On or near Navarino Road"
+      },
+      "longitude": "-0.063895"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127564213,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548471",
+      "street": {
+        "id": 1688962,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061552"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127551167,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548077",
+      "street": {
+        "id": 1687280,
+        "name": "On or near Ridley Road"
+      },
+      "longitude": "-0.072011"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127545299,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548471",
+      "street": {
+        "id": 1688962,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061552"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "b915c6f7f4229ef8ed2f0e09894f181a1733bfcbf9dcb1bab7f0056d786ec488",
+    "id": 127581726,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548471",
+      "street": {
+        "id": 1688962,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061552"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "c3ce2700739582882c299e9f321e8ea591569642343cae76fd2052716096c7e3",
+    "id": 127581725,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548077",
+      "street": {
+        "id": 1687280,
+        "name": "On or near Ridley Road"
+      },
+      "longitude": "-0.072011"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "6bdde5551f22dbe71da8f18f91e7c759ff85c6a0ab7e77f735e9c6a34a389db6",
+    "id": 127566401,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548314",
+      "street": {
+        "id": 1687134,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.072189"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "d498c7c37ad27bb658cbd28a0f48a52f074e28a9a09716a183686a4cbb02f5d2",
+    "id": 127569201,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548634",
+      "street": {
+        "id": 1688154,
+        "name": "On or near Lewis Place"
+      },
+      "longitude": "-0.065944"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "ef32d9e0de19e7022389dc4068e094701dad2c2bad81466547e8bf2f15e188dc",
+    "id": 127657458,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "9bd4e5a7148f67e9dbbf5f0a3472423d9e0fd8e7a9c49ff78c938e8285422612",
+    "id": 127661400,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "c5eeb3aa9725ee26d859552c78047dc6b2520ce18c04a29906c3e413f696dc74",
+    "id": 127662078,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548424",
+      "street": {
+        "id": 1687408,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.070699"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "6844f1bde7ed3824b28c1b00ea2d45a16d33f250feaa57d65c0fd66da239201d",
+    "id": 127660930,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548424",
+      "street": {
+        "id": 1687408,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.070699"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "4a2dfae00fdb65ac95638213e3e902f0cb3a0da741a9f5b85dcdcb260403f02e",
+    "id": 127619926,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548485",
+      "street": {
+        "id": 1687734,
+        "name": "On or near Chester Crescent"
+      },
+      "longitude": "-0.069456"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "1bc4932363b841cc85cccb5fe4f9abd111ec1bfeb9f3fc5b904d4e2b6b0f36e9",
+    "id": 127667217,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "aa7c134981a10989a1557a99df0902f8ae2dcaf63ee6f88fa97e5095cdc499c8",
+    "id": 127661613,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "3cf7b76264f6a0298d4226184c4436cc154412b8fd80d32e8661c4198588a0b0",
+    "id": 127568354,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

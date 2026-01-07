@@ -1,0 +1,83 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503558",
+      "street": {
+        "id": 1686124,
+        "name": "On or near Potters Fields"
+      },
+      "longitude": "-0.078805"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127550963,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503558",
+      "street": {
+        "id": 1686124,
+        "name": "On or near Potters Fields"
+      },
+      "longitude": "-0.078805"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "572fe91fc1f47d31c49d52f60be5e92fb07bed9a09270dea73105fa14d1798ac",
+    "id": 127663068,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503558",
+      "street": {
+        "id": 1686124,
+        "name": "On or near Potters Fields"
+      },
+      "longitude": "-0.078805"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "1903e052f0b1fb493924f660013bffc2bb5026f474a75000d60bf255c4fa274d",
+    "id": 127656923,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503558",
+      "street": {
+        "id": 1686124,
+        "name": "On or near Potters Fields"
+      },
+      "longitude": "-0.078805"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Action to be taken by another organisation",
+      "date": "2025-09"
+    },
+    "persistent_id": "2fc98f4fe8889e7c6b20dcb95665ff69bd2365b8626a016f300aa5c277e5b768",
+    "id": 127580192,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

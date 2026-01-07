@@ -1,0 +1,80 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499007",
+      "street": {
+        "id": 1685209,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.085335"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126351516,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497411",
+      "street": {
+        "id": 1685428,
+        "name": "On or near Decima Street"
+      },
+      "longitude": "-0.083443"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126354687,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497411",
+      "street": {
+        "id": 1685428,
+        "name": "On or near Decima Street"
+      },
+      "longitude": "-0.083443"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "e8eb700a0a0a83e7dcc34fbd17f3a38396c4f490f3893db72205f45ac002deb9",
+    "id": 126367306,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497411",
+      "street": {
+        "id": 1685428,
+        "name": "On or near Decima Street"
+      },
+      "longitude": "-0.083443"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-10"
+    },
+    "persistent_id": "7108cdb0cc7d872e0d4ab816925e41629a3e04fafec15bb22ab46f9d037841a5",
+    "id": 126364314,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

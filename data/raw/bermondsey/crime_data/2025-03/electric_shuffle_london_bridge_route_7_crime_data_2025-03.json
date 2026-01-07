@@ -1,0 +1,128 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501428",
+      "street": {
+        "id": 1685745,
+        "name": "On or near Black Swan Yard"
+      },
+      "longitude": "-0.081632"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127081735,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501428",
+      "street": {
+        "id": 1685745,
+        "name": "On or near Black Swan Yard"
+      },
+      "longitude": "-0.081632"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127071780,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501428",
+      "street": {
+        "id": 1685745,
+        "name": "On or near Black Swan Yard"
+      },
+      "longitude": "-0.081632"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127074873,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501428",
+      "street": {
+        "id": 1685745,
+        "name": "On or near Black Swan Yard"
+      },
+      "longitude": "-0.081632"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127081138,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501428",
+      "street": {
+        "id": 1685745,
+        "name": "On or near Black Swan Yard"
+      },
+      "longitude": "-0.081632"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127080922,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499193",
+      "street": {
+        "id": 1686152,
+        "name": "On or near Tower Bridge Road"
+      },
+      "longitude": "-0.079089"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127076851,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501428",
+      "street": {
+        "id": 1685745,
+        "name": "On or near Black Swan Yard"
+      },
+      "longitude": "-0.081632"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127071484,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.553879",
+      "street": {
+        "id": 1686731,
+        "name": "On or near Stoke Newington Road"
+      },
+      "longitude": "-0.074853"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126353625,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.556356",
+      "street": {
+        "id": 1686726,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074865"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126352241,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.556356",
+      "street": {
+        "id": 1686726,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074865"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126347041,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.553879",
+      "street": {
+        "id": 1686731,
+        "name": "On or near Stoke Newington Road"
+      },
+      "longitude": "-0.074853"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126345773,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551576",
+      "street": {
+        "id": 1686831,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074792"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126358969,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551576",
+      "street": {
+        "id": 1686831,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074792"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "5c48341e1b613af54ebb7218260e06ac7727e2ab00e88520b1fc3ac28e123b71",
+    "id": 126368359,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.558378",
+      "street": {
+        "id": 1687757,
+        "name": "On or near Nile Close"
+      },
+      "longitude": "-0.068445"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "d9598d8b5a3d2a44aa6ef598d28ce6ac1a24747da17f1127729ba56ed3c7d1b4",
+    "id": 126368947,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.555334",
+      "street": {
+        "id": 1686858,
+        "name": "On or near Petrol Station"
+      },
+      "longitude": "-0.074229"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "7ad0dd66056c9caeed89f142df6c2dd0dd0e24503d0ea025c725db0cdf6110ad",
+    "id": 126368652,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.556975",
+      "street": {
+        "id": 1687128,
+        "name": "On or near Sports/recreation Area"
+      },
+      "longitude": "-0.072203"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-08"
+    },
+    "persistent_id": "1f07aba4e319528a1e7b163e2398d2109ee6ed5f825694402f85a4944bbaaa76",
+    "id": 126377027,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.553101",
+      "street": {
+        "id": 1686855,
+        "name": "On or near Courthouse Lane"
+      },
+      "longitude": "-0.074612"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "cee54c0516a670095ff3860de3dec4de07f5fe2a780eb0e56d74382b399aeae6",
+    "id": 126364684,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551576",
+      "street": {
+        "id": 1686831,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074792"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "089e69218b8d89ef49a51e4dabaf8d7e10d30ce330e7c6f675af14d6edfd5a11",
+    "id": 126424430,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.558378",
+      "street": {
+        "id": 1687757,
+        "name": "On or near Nile Close"
+      },
+      "longitude": "-0.068445"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "fb688a44caf6b3fa7dfcda393eef3cee4b68cd086ddfeedb08181fa8e2f6582c",
+    "id": 126414482,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552008",
+      "street": {
+        "id": 1686728,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.075350"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "d1c911d82a359d77e9acf25f8882331fbcc08db4d09ef0d9ac699a1d2a438ea0",
+    "id": 126366723,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.555987",
+      "street": {
+        "id": 1686893,
+        "name": "On or near Foulden Terrace"
+      },
+      "longitude": "-0.073999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "4bd9bbdb97e0385c90f0e1d37a29355ca9c309f396b9427d34b6e83b67afb1de",
+    "id": 126363030,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.555987",
+      "street": {
+        "id": 1686893,
+        "name": "On or near Foulden Terrace"
+      },
+      "longitude": "-0.073999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "f713fe05564a0cc0ec80d8da07016407dd9e2805d3a2cf7f1c48d0c239f7afc0",
+    "id": 126363012,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

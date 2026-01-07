@@ -1,0 +1,80 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548996",
+      "street": {
+        "id": 1686597,
+        "name": "On or near Gillett Place"
+      },
+      "longitude": "-0.075982"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129458512,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548996",
+      "street": {
+        "id": 1686597,
+        "name": "On or near Gillett Place"
+      },
+      "longitude": "-0.075982"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129445988,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548996",
+      "street": {
+        "id": 1686597,
+        "name": "On or near Gillett Place"
+      },
+      "longitude": "-0.075982"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "4bf294244397ef52578684852429f38ff7ad1eb8fdbe224e0800c3ca09d4cc1f",
+    "id": 129522883,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549267",
+      "street": {
+        "id": 1686697,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.075541"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "f996a05c1ef0af37b3fffc4fec79f1ef07141e7fbb16f6fc1bf01bc278677faa",
+    "id": 129467431,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

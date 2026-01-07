@@ -1,0 +1,59 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546808",
+      "street": {
+        "id": 1691373,
+        "name": "On or near Berger Road"
+      },
+      "longitude": "-0.043176"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129602783,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547125",
+      "street": {
+        "id": 1691095,
+        "name": "On or near Digby Road"
+      },
+      "longitude": "-0.044374"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129582892,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547496",
+      "street": {
+        "id": 1690725,
+        "name": "On or near Ponsford Street"
+      },
+      "longitude": "-0.047776"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "41bf722cd2d087c983ee4a8199ea3b7ef607ab18e8aa4b051d61e7a59ce5d2b2",
+    "id": 129680617,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

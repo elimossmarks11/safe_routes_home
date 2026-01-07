@@ -1,0 +1,143 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509485",
+      "street": {
+        "id": 1686335,
+        "name": "On or near A3211"
+      },
+      "longitude": "-0.076667"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129587981,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504017",
+      "street": {
+        "id": 1685517,
+        "name": "On or near Bursar Street"
+      },
+      "longitude": "-0.082128"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129591867,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508588",
+      "street": {
+        "id": 1686590,
+        "name": "On or near Tower Bridge Approach"
+      },
+      "longitude": "-0.074039"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "e31855ad2467b1afa6dd4bc01220dc01d26a9f9b9a50b53d1618529839e08203",
+    "id": 128165862,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509485",
+      "street": {
+        "id": 1686335,
+        "name": "On or near A3211"
+      },
+      "longitude": "-0.076667"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "bcd94389059c2ba80e14783af8e192a493a5e174863cf70259ec91adc7f0e563",
+    "id": 129614443,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508588",
+      "street": {
+        "id": 1686590,
+        "name": "On or near Tower Bridge Approach"
+      },
+      "longitude": "-0.074039"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "2fc9f0fc69317ebe13518103c85394780c95039af34899683276ba893bc0c9c8",
+    "id": 129848855,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508588",
+      "street": {
+        "id": 1686590,
+        "name": "On or near Tower Bridge Approach"
+      },
+      "longitude": "-0.074039"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "b337013557a34fab494c8e6d84a8198a0cd292bd7bf8192294b35f01a617ad0b",
+    "id": 128165858,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509485",
+      "street": {
+        "id": 1686335,
+        "name": "On or near A3211"
+      },
+      "longitude": "-0.076667"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "b5463384c8d6acd31d8304f28b6fd10f23766c643e0d1ee0be192bfd8550b5ba",
+    "id": 129678717,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

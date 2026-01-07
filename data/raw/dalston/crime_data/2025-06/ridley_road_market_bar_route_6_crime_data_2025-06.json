@@ -1,0 +1,146 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549307",
+      "street": {
+        "id": 1686753,
+        "name": "On or near Birkbeck Mews"
+      },
+      "longitude": "-0.074642"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129466124,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548124",
+      "street": {
+        "id": 1686919,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.074137"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "6662db1344b9c9070984a049e11a284bdff89b258e6d690bc1a8d4ed291f977a",
+    "id": 129540106,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548418",
+      "street": {
+        "id": 1686770,
+        "name": "On or near Winchester Place"
+      },
+      "longitude": "-0.074723"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "c9650dbe82d6de6c9c1007e253b91071b72b60074de1747e919043a658644952",
+    "id": 129492105,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548124",
+      "street": {
+        "id": 1686919,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.074137"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "628f0ae3c6d041c4fe2c31f69e6da7f1618bc2f73e252c76b56ba973ca3041ea",
+    "id": 129480891,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549307",
+      "street": {
+        "id": 1686753,
+        "name": "On or near Birkbeck Mews"
+      },
+      "longitude": "-0.074642"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "fb3368f3108f38e9bd3ccfd4bd6058e062486e1712b144f77617a1584e64e0d0",
+    "id": 129506886,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549307",
+      "street": {
+        "id": 1686753,
+        "name": "On or near Birkbeck Mews"
+      },
+      "longitude": "-0.074642"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "0a61fcdb58bab276ed57433a35a0e1d7f9fe91b1aa38725539f98ad6d03ca6df",
+    "id": 129506672,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548124",
+      "street": {
+        "id": 1686919,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.074137"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "1a3610e4a2d57e0910eb8b90bc6d4f2b08f73125350bb4361960d8f215f2311b",
+    "id": 129508768,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

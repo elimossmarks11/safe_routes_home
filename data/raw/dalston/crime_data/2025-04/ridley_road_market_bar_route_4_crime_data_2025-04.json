@@ -1,0 +1,191 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547401",
+      "street": {
+        "id": 1686696,
+        "name": "On or near Stanborough Passage"
+      },
+      "longitude": "-0.075199"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "7c2a9b3a6107c7afb9d5795e4e654b13e30c76251b472ab6cd32d4068fae79e7",
+    "id": 127581301,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547803",
+      "street": {
+        "id": 1686890,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.074489"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "1c1fa33bf1d397c1881f269e2ec2572890852185e6e342f503664f64592a8187",
+    "id": 127583597,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548124",
+      "street": {
+        "id": 1686919,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.074137"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "f9c374981d0128e1840633575e54d79c3a6190edd5b297f747aa30ec5f52ad9c",
+    "id": 127582642,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548124",
+      "street": {
+        "id": 1686919,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.074137"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "a5e0442ee3349b7f21e01865bc5b8348b23fdd2589073afcc97525f124099d37",
+    "id": 127582522,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546076",
+      "street": {
+        "id": 1686813,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.075009"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "a860adb3f4960c5a05da1bfde60739532c7d7a887d502bcd452358745698056f",
+    "id": 127664555,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546076",
+      "street": {
+        "id": 1686813,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.075009"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "e9eaf4dd06f2eedb841bdd6bee8e21800389c7f4ef211daeeb87828ca44c231c",
+    "id": 127608585,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547401",
+      "street": {
+        "id": 1686696,
+        "name": "On or near Stanborough Passage"
+      },
+      "longitude": "-0.075199"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "9eacfe10066f617604d543632eeaf254a3149bc1579eaf8e83ce813f2b4d8762",
+    "id": 127565802,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547803",
+      "street": {
+        "id": 1686890,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.074489"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "48e535e9a246bc8c109988cc15f72fd0a877324a9ae65cc7be1138bb7824e7ed",
+    "id": 127656994,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547401",
+      "street": {
+        "id": 1686696,
+        "name": "On or near Stanborough Passage"
+      },
+      "longitude": "-0.075199"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "0f77fc3a3581c763744f325d7f31a230be42308bc4162de01718641d044ea01f",
+    "id": 127575508,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

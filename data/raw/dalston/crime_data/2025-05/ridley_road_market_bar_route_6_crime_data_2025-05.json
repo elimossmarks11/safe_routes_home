@@ -1,0 +1,44 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549307",
+      "street": {
+        "id": 1686753,
+        "name": "On or near Birkbeck Mews"
+      },
+      "longitude": "-0.074642"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "f01a8451e7e57bcf90cd33ab671ba01f5f7543b6f9fb058c67fb96d9cac0451f",
+    "id": 129615404,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549307",
+      "street": {
+        "id": 1686753,
+        "name": "On or near Birkbeck Mews"
+      },
+      "longitude": "-0.074642"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-10"
+    },
+    "persistent_id": "a0275a0d403837de45fa78df68d534f74db7a4c214a85238bcbd21e4f39671e8",
+    "id": 129603969,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

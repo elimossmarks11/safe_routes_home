@@ -1,0 +1,44 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508588",
+      "street": {
+        "id": 1686590,
+        "name": "On or near Tower Bridge Approach"
+      },
+      "longitude": "-0.074039"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "644043a1b1c21342bdd47bceada0f2ac09a9885f7c0a76427953716df643174c",
+    "id": 125985046,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.508588",
+      "street": {
+        "id": 1686590,
+        "name": "On or near Tower Bridge Approach"
+      },
+      "longitude": "-0.074039"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "868ba65ec8a4a9d93732a941777aece3519d724d04b420b886ae022f9bfe4143",
+    "id": 125863463,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

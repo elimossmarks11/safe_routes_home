@@ -1,0 +1,137 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501028",
+      "street": {
+        "id": 1684344,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.090697"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126346688,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500582",
+      "street": {
+        "id": 1684240,
+        "name": "On or near Silvester Street"
+      },
+      "longitude": "-0.092012"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126348627,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500433",
+      "street": {
+        "id": 1684581,
+        "name": "On or near Southall Place"
+      },
+      "longitude": "-0.089526"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126357633,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501028",
+      "street": {
+        "id": 1684344,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.090697"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126359381,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500926",
+      "street": {
+        "id": 1684141,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.092171"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "527e04c227c22c43d5b524ceba05b425457b92c00174fa11bfc42da5cc797e02",
+    "id": 126368262,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500582",
+      "street": {
+        "id": 1684240,
+        "name": "On or near Silvester Street"
+      },
+      "longitude": "-0.092012"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "c56eef03d558ce35f5e6be52ac85a363020eb1d9a986ffb4274435435084808b",
+    "id": 126418163,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500296",
+      "street": {
+        "id": 1684800,
+        "name": "On or near Hankey Place"
+      },
+      "longitude": "-0.088264"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "ab88782f2467e1adad30aeb4e6b20428d3356596543ad14e3cb34103861219ea",
+    "id": 126376725,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

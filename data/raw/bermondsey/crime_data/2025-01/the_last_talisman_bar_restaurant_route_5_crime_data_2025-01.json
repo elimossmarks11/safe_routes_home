@@ -1,0 +1,119 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499007",
+      "street": {
+        "id": 1685209,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.085335"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125858185,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498396",
+      "street": {
+        "id": 1685675,
+        "name": "On or near Market Yard Mews"
+      },
+      "longitude": "-0.081500"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125854031,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499007",
+      "street": {
+        "id": 1685209,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.085335"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125854908,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499221",
+      "street": {
+        "id": 1685121,
+        "name": "On or near A2198"
+      },
+      "longitude": "-0.085802"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "1a2730ee5fc8efdf3453edebc3868b06aae73af1c5d9e51812aac8afcee382e7",
+    "id": 125867373,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499221",
+      "street": {
+        "id": 1685121,
+        "name": "On or near A2198"
+      },
+      "longitude": "-0.085802"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Further investigation is not in the public interest",
+      "date": "2025-01"
+    },
+    "persistent_id": "a1cfc97ce7f47b006713602d1e1e23d564eb34e884d808665314c7b6a5854868",
+    "id": 125939782,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499221",
+      "street": {
+        "id": 1685121,
+        "name": "On or near A2198"
+      },
+      "longitude": "-0.085802"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "94c363f5a29a9084642429a1250ab59450b79c927b528d0a0232466a8892fefb",
+    "id": 125940150,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

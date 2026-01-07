@@ -1,0 +1,239 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500433",
+      "street": {
+        "id": 1684581,
+        "name": "On or near Southall Place"
+      },
+      "longitude": "-0.089526"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129456877,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499007",
+      "street": {
+        "id": 1685209,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.085335"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129449708,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498396",
+      "street": {
+        "id": 1685675,
+        "name": "On or near Market Yard Mews"
+      },
+      "longitude": "-0.081500"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129460067,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498910",
+      "street": {
+        "id": 1685784,
+        "name": "On or near Newham's Row"
+      },
+      "longitude": "-0.080513"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129466275,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500582",
+      "street": {
+        "id": 1684240,
+        "name": "On or near Silvester Street"
+      },
+      "longitude": "-0.092012"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129453447,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500926",
+      "street": {
+        "id": 1684141,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.092171"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "daa2d4627018bb857834a57406f2e7ea50dd77ec8c40c7ad7ce39373e5a41971",
+    "id": 129535916,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498591",
+      "street": {
+        "id": 1685411,
+        "name": "On or near Bluelion Place"
+      },
+      "longitude": "-0.083004"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "85348d4c7c45959aef5aaf080fd8d50599cb9e51406615a5fd132e916fdd94d7",
+    "id": 129470842,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500448",
+      "street": {
+        "id": 1684882,
+        "name": "On or near Lockyer Street"
+      },
+      "longitude": "-0.087652"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Formal action is not in the public interest",
+      "date": "2025-09"
+    },
+    "persistent_id": "6dc0bfabda11fac210ddf9fc2176b67d468101e8c241e1da264556af039c30e3",
+    "id": 129476592,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500926",
+      "street": {
+        "id": 1684141,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.092171"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-10"
+    },
+    "persistent_id": "b63da48d8415dbfd1d181cac7ec5d5740d477d9768ac5d1589b6d2da5ad0214c",
+    "id": 129507883,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500433",
+      "street": {
+        "id": 1684581,
+        "name": "On or near Southall Place"
+      },
+      "longitude": "-0.089526"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "4f9943291ec0d2dc1ceac0d0393a4b9305842a64a4ebc9f4550fd171fa30d05d",
+    "id": 129472252,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500433",
+      "street": {
+        "id": 1684581,
+        "name": "On or near Southall Place"
+      },
+      "longitude": "-0.089526"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "ee7665f6eb384d805bdb9ad5a7fe8ca3ad006064a69f8c0a4049333d4224f528",
+    "id": 129469216,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498396",
+      "street": {
+        "id": 1685675,
+        "name": "On or near Market Yard Mews"
+      },
+      "longitude": "-0.081500"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "95219e51bd53892d432be95b524a0877b543854054164233ffeff946a2a94ccd",
+    "id": 129543969,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

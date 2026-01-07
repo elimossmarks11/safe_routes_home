@@ -1,0 +1,23 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549376",
+      "street": {
+        "id": 1688655,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.062999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "6cbcaf950eb0b75ac70ecabeed873139bba65742f25da3b5a77805117287065a",
+    "id": 125937687,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

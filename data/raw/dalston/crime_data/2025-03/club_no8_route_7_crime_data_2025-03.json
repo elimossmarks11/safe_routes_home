@@ -1,0 +1,245 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549456",
+      "street": {
+        "id": 1686338,
+        "name": "On or near Boleyn Road"
+      },
+      "longitude": "-0.077679"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127077155,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550549",
+      "street": {
+        "id": 1685723,
+        "name": "On or near Woodville Road"
+      },
+      "longitude": "-0.081845"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127094606,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549456",
+      "street": {
+        "id": 1686338,
+        "name": "On or near Boleyn Road"
+      },
+      "longitude": "-0.077679"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127071050,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550736",
+      "street": {
+        "id": 1685372,
+        "name": "On or near Auriga Mews"
+      },
+      "longitude": "-0.083395"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "e5b002a009eee566e04a46d8a2e8cd6c61d8a690bbc3be399a279b503c8f9795",
+    "id": 127121605,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549752",
+      "street": {
+        "id": 1686625,
+        "name": "On or near John Campbell Road"
+      },
+      "longitude": "-0.075994"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "8898a0329a9ffbe0e6d3fca8e453b4135eca9559e1184300344304c082ec457d",
+    "id": 127194485,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551378",
+      "street": {
+        "id": 1685226,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.084695"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "560735d54dcb2884070e9ddfe395f5cb3ac00f05a63d1b861a90dcd43d4ea1e2",
+    "id": 127109980,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550736",
+      "street": {
+        "id": 1685372,
+        "name": "On or near Auriga Mews"
+      },
+      "longitude": "-0.083395"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "2ba35f60630d11842e812bc7f6ad4dc2eaf1c0a6f3c6844d684999973d9af167",
+    "id": 127138727,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549752",
+      "street": {
+        "id": 1686625,
+        "name": "On or near John Campbell Road"
+      },
+      "longitude": "-0.075994"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "4e426869f526648ea247ccec437e55897785512c9f2349ceb551f0cc265ecb31",
+    "id": 127135891,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550394",
+      "street": {
+        "id": 1686549,
+        "name": "On or near Selsea Place"
+      },
+      "longitude": "-0.076197"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "83f2c90e8e8fdfba4883da19cc6ba7e7f15ec38d57c04139f18cc68b8e292148",
+    "id": 127203108,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551378",
+      "street": {
+        "id": 1685226,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.084695"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "cd5838c7048b847d21dc797a17903f04ab5e382bc72fc081ddd0f5e01b7d02ec",
+    "id": 127189769,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549752",
+      "street": {
+        "id": 1686625,
+        "name": "On or near John Campbell Road"
+      },
+      "longitude": "-0.075994"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "181f1dc5d1924a576c583e235d7988c72706996b9c5637c1ec3e4536daadce47",
+    "id": 127192667,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549456",
+      "street": {
+        "id": 1686338,
+        "name": "On or near Boleyn Road"
+      },
+      "longitude": "-0.077679"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "c4f5378ad52c714a33e2636c27ec79757b2c8208d6a8ce4de48be8d05b04adc8",
+    "id": 127194037,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

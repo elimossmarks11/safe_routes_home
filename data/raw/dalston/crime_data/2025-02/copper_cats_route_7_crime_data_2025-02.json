@@ -1,0 +1,44 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.538900",
+      "street": {
+        "id": 1686553,
+        "name": "On or near Arbutus Street"
+      },
+      "longitude": "-0.076134"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "58251dfe66b95a2c91d06f4084f6617f4619a5834207b9ca05450db61510cfd3",
+    "id": 126370020,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.538900",
+      "street": {
+        "id": 1686553,
+        "name": "On or near Arbutus Street"
+      },
+      "longitude": "-0.076134"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "a681b48dc2ece8c66f6733eff2af6a26ff15a23380eb2f01d22cfc69f9f357cf",
+    "id": 126418541,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

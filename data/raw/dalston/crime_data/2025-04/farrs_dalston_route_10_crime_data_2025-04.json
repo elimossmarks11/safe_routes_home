@@ -1,0 +1,164 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545517",
+      "street": {
+        "id": 1686675,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.075480"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127559895,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546371",
+      "street": {
+        "id": 1686586,
+        "name": "On or near Kingsland Passage"
+      },
+      "longitude": "-0.075992"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127558147,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545517",
+      "street": {
+        "id": 1686675,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.075480"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "c522d782e0adae235cf1c9e3fb0ee8916d610a56975b4e18ebfc009308652003",
+    "id": 127584217,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546371",
+      "street": {
+        "id": 1686586,
+        "name": "On or near Kingsland Passage"
+      },
+      "longitude": "-0.075992"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "c8a62b86c0205623a83462cb7556785f0e3c9a895403decb1481dfec8901b561",
+    "id": 127580538,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546371",
+      "street": {
+        "id": 1686586,
+        "name": "On or near Kingsland Passage"
+      },
+      "longitude": "-0.075992"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "9b7bbfd863309dcd787b60551d8c64e8112e81a3959293840a0ea847cdabfeba",
+    "id": 127583822,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.538900",
+      "street": {
+        "id": 1686553,
+        "name": "On or near Arbutus Street"
+      },
+      "longitude": "-0.076134"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "f6651cebad005e9cda3961ae69785ba4ed67bae5418ec008cb63133b917477f0",
+    "id": 127577333,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546371",
+      "street": {
+        "id": 1686586,
+        "name": "On or near Kingsland Passage"
+      },
+      "longitude": "-0.075992"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "5fb1233afabd27d7b600cb817d39941628542d3cb402eea19471e0f604ffcc28",
+    "id": 127566029,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545517",
+      "street": {
+        "id": 1686675,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.075480"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "0f65906b5a1fbea8ca81f5945af530d4c15f60efd40ba7bd94fd47aeda07d24e",
+    "id": 127620052,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

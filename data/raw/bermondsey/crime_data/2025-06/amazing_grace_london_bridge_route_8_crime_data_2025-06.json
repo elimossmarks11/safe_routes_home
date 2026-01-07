@@ -1,0 +1,140 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502189",
+      "street": {
+        "id": 1684832,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.088040"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129446811,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504316",
+      "street": {
+        "id": 1684865,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.087202"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129445634,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504316",
+      "street": {
+        "id": 1684865,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.087202"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129452580,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501511",
+      "street": {
+        "id": 1684663,
+        "name": "On or near Crosby Row"
+      },
+      "longitude": "-0.088876"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "4c92b31c2225db0399dce4b61e7af613fb31f759f8125427eda3eb7d61e09795",
+    "id": 129522189,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503340",
+      "street": {
+        "id": 1684827,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.088007"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "a468aea94389a1075a884f589bb75524fbdae9e81bcec5a71b4fdbc64bd9a3f5",
+    "id": 129548134,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500448",
+      "street": {
+        "id": 1684882,
+        "name": "On or near Lockyer Street"
+      },
+      "longitude": "-0.087652"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Formal action is not in the public interest",
+      "date": "2025-09"
+    },
+    "persistent_id": "6dc0bfabda11fac210ddf9fc2176b67d468101e8c241e1da264556af039c30e3",
+    "id": 129476592,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501511",
+      "street": {
+        "id": 1684663,
+        "name": "On or near Crosby Row"
+      },
+      "longitude": "-0.088876"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "0597de1c531ae71404f5c9b18144bccb0d43dd4315c028af4b459037c859a289",
+    "id": 129527306,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

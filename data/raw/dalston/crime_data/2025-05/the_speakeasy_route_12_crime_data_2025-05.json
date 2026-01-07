@@ -1,0 +1,227 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546496",
+      "street": {
+        "id": 1687208,
+        "name": "On or near Ghent Way"
+      },
+      "longitude": "-0.072107"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129594077,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548321",
+      "street": {
+        "id": 1688567,
+        "name": "On or near Navarino Road"
+      },
+      "longitude": "-0.063895"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129582693,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546263",
+      "street": {
+        "id": 1687163,
+        "name": "On or near Woodland Street"
+      },
+      "longitude": "-0.072694"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "cc202a4dc9ae6e1da4642cf508dfecba8e7ee4cbd292f76d8283bb23a37406f6",
+    "id": 129616399,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546496",
+      "street": {
+        "id": 1687208,
+        "name": "On or near Ghent Way"
+      },
+      "longitude": "-0.072107"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "be2b69bfc7e9e38ec412bf5ec0afd00390ceed79856b08b2982e712ce83d9b1e",
+    "id": 129617718,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548321",
+      "street": {
+        "id": 1688567,
+        "name": "On or near Navarino Road"
+      },
+      "longitude": "-0.063895"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "468da74953e68a8565d70986010d76cc98d8163624cd4702ae8b9daf26022c96",
+    "id": 129678309,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "fe2f4448836e2c84d818ebc61c5a0ed769deb7f558395466f02e72c6eac2cef1",
+    "id": 129612629,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546496",
+      "street": {
+        "id": 1687208,
+        "name": "On or near Ghent Way"
+      },
+      "longitude": "-0.072107"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "2935a84573abd4dbf635353f526a0804a39018353c8654696690b4dcb62366b2",
+    "id": 129606809,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "89b8ea14893412ccc1bcb52dab489ae1bc318e9825234c4b6d524f80909d143d",
+    "id": 129684035,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548321",
+      "street": {
+        "id": 1688567,
+        "name": "On or near Navarino Road"
+      },
+      "longitude": "-0.063895"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "c39b2177ba98a973730b0c9ddd1f82500613aa3423ffdaa4c84d0b7c1f4e2eca",
+    "id": 129686524,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548634",
+      "street": {
+        "id": 1688154,
+        "name": "On or near Lewis Place"
+      },
+      "longitude": "-0.065944"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "bc6475ab2cbca6e7299819a8bcb76198c4f134a7157b86cd086641120e7ceb1b",
+    "id": 129609729,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546496",
+      "street": {
+        "id": 1687208,
+        "name": "On or near Ghent Way"
+      },
+      "longitude": "-0.072107"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "71a84acb3a9aa716cda2b0f9b02234c7d41379fc9c83c2eb80de3d94b817a9da",
+    "id": 129633311,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

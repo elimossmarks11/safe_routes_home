@@ -1,0 +1,344 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497425",
+      "street": {
+        "id": 1685985,
+        "name": "On or near Long Walk"
+      },
+      "longitude": "-0.079869"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129586203,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497825",
+      "street": {
+        "id": 1686438,
+        "name": "On or near Abbey Street"
+      },
+      "longitude": "-0.075732"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129596267,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497425",
+      "street": {
+        "id": 1685985,
+        "name": "On or near Long Walk"
+      },
+      "longitude": "-0.079869"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129590160,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497978",
+      "street": {
+        "id": 1686084,
+        "name": "On or near Stevens Street"
+      },
+      "longitude": "-0.079615"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129588613,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497825",
+      "street": {
+        "id": 1686438,
+        "name": "On or near Abbey Street"
+      },
+      "longitude": "-0.075732"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129586396,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497825",
+      "street": {
+        "id": 1686438,
+        "name": "On or near Abbey Street"
+      },
+      "longitude": "-0.075732"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129585502,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497425",
+      "street": {
+        "id": 1685985,
+        "name": "On or near Long Walk"
+      },
+      "longitude": "-0.079869"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129585637,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497825",
+      "street": {
+        "id": 1686438,
+        "name": "On or near Abbey Street"
+      },
+      "longitude": "-0.075732"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129590452,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498387",
+      "street": {
+        "id": 1686899,
+        "name": "On or near Gedling Place"
+      },
+      "longitude": "-0.073850"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129596908,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497825",
+      "street": {
+        "id": 1686438,
+        "name": "On or near Abbey Street"
+      },
+      "longitude": "-0.075732"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129600368,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497978",
+      "street": {
+        "id": 1686084,
+        "name": "On or near Stevens Street"
+      },
+      "longitude": "-0.079615"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129600880,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497825",
+      "street": {
+        "id": 1686438,
+        "name": "On or near Abbey Street"
+      },
+      "longitude": "-0.075732"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129601048,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497246",
+      "street": {
+        "id": 1685689,
+        "name": "On or near Bermondsey Square"
+      },
+      "longitude": "-0.081058"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "53c471838674bd0a622963767abc8a40366920d7a142839772718bda0a100700",
+    "id": 129612957,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497246",
+      "street": {
+        "id": 1685689,
+        "name": "On or near Bermondsey Square"
+      },
+      "longitude": "-0.081058"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-10"
+    },
+    "persistent_id": "25458c455f2b7b1253b653f92e939fc9e9a5374f849d24c8d3aa1371898957d0",
+    "id": 129680637,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497425",
+      "street": {
+        "id": 1685985,
+        "name": "On or near Long Walk"
+      },
+      "longitude": "-0.079869"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "dcc7a98a6c523ebbb7491aec9b7ae843ba9fddc7de3f1a36572710a2072a2501",
+    "id": 129688654,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497924",
+      "street": {
+        "id": 1686834,
+        "name": "On or near B202"
+      },
+      "longitude": "-0.074676"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "9d33c63d676ea266c2a68598d460c945fc9ba953ca0ce8e303923c59acb2fccd",
+    "id": 129688037,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497246",
+      "street": {
+        "id": 1685689,
+        "name": "On or near Bermondsey Square"
+      },
+      "longitude": "-0.081058"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "cc708585deb3366478dd7a35aa8ebaf64d79fc8140710d0bad3592c7fb1f4e4b",
+    "id": 129607990,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497825",
+      "street": {
+        "id": 1686438,
+        "name": "On or near Abbey Street"
+      },
+      "longitude": "-0.075732"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-11"
+    },
+    "persistent_id": "8019bcc8c066c92ecc3554477db3f2cf12d0d68907158d87489c80831311a3d1",
+    "id": 129683307,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

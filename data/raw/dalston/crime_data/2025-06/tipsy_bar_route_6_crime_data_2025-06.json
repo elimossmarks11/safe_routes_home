@@ -1,0 +1,20 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551654",
+      "street": {
+        "id": 1686428,
+        "name": "On or near Pellerin Road"
+      },
+      "longitude": "-0.077356"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129455525,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

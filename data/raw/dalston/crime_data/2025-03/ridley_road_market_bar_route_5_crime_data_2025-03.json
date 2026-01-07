@@ -1,0 +1,167 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546371",
+      "street": {
+        "id": 1686586,
+        "name": "On or near Kingsland Passage"
+      },
+      "longitude": "-0.075992"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127072330,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547401",
+      "street": {
+        "id": 1686696,
+        "name": "On or near Stanborough Passage"
+      },
+      "longitude": "-0.075199"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "c5e227d869dff431205486e7bbd020e7ac8b9fbb3a8ff25542bb9c08921df01e",
+    "id": 127117533,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547803",
+      "street": {
+        "id": 1686890,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.074489"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "adabc1e771f02142baa3c7074382d43dac8aaeef46f04f911cabfd942a88414d",
+    "id": 127123709,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546076",
+      "street": {
+        "id": 1686813,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.075009"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "d9dc57a617043be562c60c5f463ed2a5721f352085eda31cc187513b0bc23476",
+    "id": 127196098,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547401",
+      "street": {
+        "id": 1686696,
+        "name": "On or near Stanborough Passage"
+      },
+      "longitude": "-0.075199"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "0b248ac3198411967cc4c72d32a6de4c7d23d4ad621a837c571ea90baebc3a4a",
+    "id": 127113308,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546912",
+      "street": {
+        "id": 1686783,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074974"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "59fb5b61f6eecfd446fa3e4c630699c19d574b291e7debcac53149a26d94d47f",
+    "id": 127149367,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546076",
+      "street": {
+        "id": 1686813,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.075009"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "a30f692bdd6941f9804839059ee85e56e3663ea8afbc66295c9403d503734a6c",
+    "id": 127107273,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546076",
+      "street": {
+        "id": 1686813,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.075009"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "91cfd5b99ae49885d4e1f606c002482c67d3ed2498b964031eace4fd2186fff5",
+    "id": 127098244,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

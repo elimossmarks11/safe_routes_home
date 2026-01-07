@@ -1,0 +1,56 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.542373",
+      "street": {
+        "id": 1693399,
+        "name": "On or near Hepscott Road"
+      },
+      "longitude": "-0.024849"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129599958,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.542373",
+      "street": {
+        "id": 1693399,
+        "name": "On or near Hepscott Road"
+      },
+      "longitude": "-0.024849"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129601144,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.543465",
+      "street": {
+        "id": 1693386,
+        "name": "On or near Wallis Road"
+      },
+      "longitude": "-0.025581"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129602038,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

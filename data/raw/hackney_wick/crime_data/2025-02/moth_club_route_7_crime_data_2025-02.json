@@ -1,0 +1,269 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126356153,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549228",
+      "street": {
+        "id": 1689227,
+        "name": "On or near Dalston Lane"
+      },
+      "longitude": "-0.059472"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126349563,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "fcb72f74fd4fc85ba96c83f666c48fb1aaf2d2786c3c17a712d9c7d315c2abc2",
+    "id": 126367538,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "d655f5f7839ca5c4afdeb76aef330e9773ff2a01bddddc26446ec1df0a7aa282",
+    "id": 126367566,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "a816a514233883b7f5bba83457e061d653d9ae489d853a8836635e3b5c85d8ab",
+    "id": 126369658,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549480",
+      "street": {
+        "id": 1689076,
+        "name": "On or near A107"
+      },
+      "longitude": "-0.060009"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "c46a8938e5b0c2544009f1ac74f65bd5a13a10bc98e03f1659aa16a9a2d64d27",
+    "id": 126364530,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548877",
+      "street": {
+        "id": 1689186,
+        "name": "On or near Institute Place"
+      },
+      "longitude": "-0.059472"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "d2b5b70f8a7d39a46104de0e4e3c771f1fb779892cbaddf12b9dbbd077b8bc2d",
+    "id": 126375660,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549228",
+      "street": {
+        "id": 1689227,
+        "name": "On or near Dalston Lane"
+      },
+      "longitude": "-0.059472"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "6463d60018ac1250da4aa02f7ee1347bebf8b54a106d07e5a9cb7703b7c09119",
+    "id": 126364609,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "84c987891829cc20a2a8236b849cabc45ca71725616b37536b912506724a8d0b",
+    "id": 126360855,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549480",
+      "street": {
+        "id": 1689076,
+        "name": "On or near A107"
+      },
+      "longitude": "-0.060009"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "1d92af66846f14df4bcaedd8476fc62ef1c79938699324539c66f344aaf08cab",
+    "id": 126414206,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548877",
+      "street": {
+        "id": 1689186,
+        "name": "On or near Institute Place"
+      },
+      "longitude": "-0.059472"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "0b7ce24ee518c2f6e40cc46373bcb968e26523d9c94878a3e07435e20ad59bd7",
+    "id": 126418967,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-10"
+    },
+    "persistent_id": "1fb672dc119dced6b231fb4aa920c3a19fc41dc0a5c6e71adb4d42531b9d1be4",
+    "id": 126366490,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547611",
+      "street": {
+        "id": 1689688,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.055243"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "c236563552a20a20d6ad3c27bcb02bc6c31ff7edda70eaf4ab460cd4c58ff7bc",
+    "id": 126366799,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

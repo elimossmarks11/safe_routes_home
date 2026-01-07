@@ -1,0 +1,128 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509744",
+      "street": {
+        "id": 1490881,
+        "name": "On or near Angel Lane"
+      },
+      "longitude": "-0.089208"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "03714b64e0804f0c07d7ade743c1cc6fd710ea55409be4285ff2ca98b0177658",
+    "id": 128165746,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509744",
+      "street": {
+        "id": 1490881,
+        "name": "On or near Angel Lane"
+      },
+      "longitude": "-0.089208"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "eb8be46e165cff1567880cbe6cb63072e623d127c0f2e402073edb10d2eb6fa7",
+    "id": 128165310,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509744",
+      "street": {
+        "id": 1490881,
+        "name": "On or near Angel Lane"
+      },
+      "longitude": "-0.089208"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "eb8be46e165cff1567880cbe6cb63072e623d127c0f2e402073edb10d2eb6fa7",
+    "id": 128165311,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506439",
+      "street": {
+        "id": 1684768,
+        "name": "On or near Tooley Street"
+      },
+      "longitude": "-0.088367"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-10"
+    },
+    "persistent_id": "b067e4e2d0810060edea851be93daed9310870034cccae272015b87363f1214b",
+    "id": 129630083,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506419",
+      "street": {
+        "id": 1684816,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.088195"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "b9b307b5031469fcfdac3de504d1c441376422c430a7da7897fe5e75e8fde488",
+    "id": 129688267,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.509744",
+      "street": {
+        "id": 1490881,
+        "name": "On or near Angel Lane"
+      },
+      "longitude": "-0.089208"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "32d9f4a4ea5ca9f9b71789a173bb5b872d2a4d96165f9f9fe67e94913c8f9ac1",
+    "id": 128165309,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.505587",
+      "street": {
+        "id": 2344281,
+        "name": "London Bridge (lu Station)"
+      },
+      "longitude": "-0.086493"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126036798,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504826",
+      "street": {
+        "id": 1685270,
+        "name": "On or near London Bridge"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "aeefa1b3af8df3b8c6583b554bf70f7b943f6d26d7e5dcf15df1197309a8bb41",
+    "id": 125864849,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.505587",
+      "street": {
+        "id": 2344281,
+        "name": "London Bridge (lu Station)"
+      },
+      "longitude": "-0.086493"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126036804,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.505587",
+      "street": {
+        "id": 2344281,
+        "name": "London Bridge (lu Station)"
+      },
+      "longitude": "-0.086493"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126036803,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  }
+]

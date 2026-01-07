@@ -1,0 +1,212 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548763",
+      "street": {
+        "id": 1688853,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061799"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "9720a19013bf346975970c59a7250631cc6210c450653fe1c460b73b1cb47fb9",
+    "id": 126369922,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "3084d501a7c77f913f0eb90c6e6f9ada80e33acdb88627d5e29bac8758017447",
+    "id": 126424376,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548763",
+      "street": {
+        "id": 1688853,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061799"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "7c6a7de11218970b84784042744d0297fedeece4561804c27b05036b8732e22e",
+    "id": 126425195,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549376",
+      "street": {
+        "id": 1688655,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.062999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Action to be taken by another organisation",
+      "date": "2025-09"
+    },
+    "persistent_id": "aa922307831883c9f1fa67d62b381fe67d74b65a9d2bd850802a5513bbf26f50",
+    "id": 126367138,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549376",
+      "street": {
+        "id": 1688655,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.062999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "98c8490bc8b190f315096e9ae0258c0f7c8f45b95cbe82daf89bb78ba2e78eca",
+    "id": 126364134,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549376",
+      "street": {
+        "id": 1688655,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.062999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "231925d51cddadda6e951b361c61818a4ed21b34452b61b34ba07e2190de4ac7",
+    "id": 126421433,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551188",
+      "street": {
+        "id": 1686767,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074750"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "f7394ab5faf43f1fe1edc61d62b24d82864caed77107f2364e23ea8f49cb07f5",
+    "id": 126361882,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549376",
+      "street": {
+        "id": 1688655,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.062999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "9dd7df189f3d4c98c7696ab3ad778d7334a3e3a90e4acb3847ffc82e492a00f6",
+    "id": 126376095,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549376",
+      "street": {
+        "id": 1688655,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.062999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-11"
+    },
+    "persistent_id": "686f561d1e8c5ee8569055dd11f98f5f37ce873206d2769f125791ae599c41e8",
+    "id": 126414461,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551248",
+      "street": {
+        "id": 1686874,
+        "name": "On or near Miller's Terrace"
+      },
+      "longitude": "-0.074575"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "6fcee201d92019ccd93aa2ae87ccf80839f3f7ea561d47466d2e7cd0f3eced02",
+    "id": 126418613,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

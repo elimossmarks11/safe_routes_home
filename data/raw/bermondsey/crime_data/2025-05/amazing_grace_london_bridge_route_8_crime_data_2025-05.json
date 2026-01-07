@@ -1,0 +1,134 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504316",
+      "street": {
+        "id": 1684865,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.087202"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129589328,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499847",
+      "street": {
+        "id": 1684964,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.087216"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129594444,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502189",
+      "street": {
+        "id": 1684832,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.088040"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129601180,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499847",
+      "street": {
+        "id": 1684964,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.087216"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129601990,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499847",
+      "street": {
+        "id": 1684964,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.087216"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129602069,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502189",
+      "street": {
+        "id": 1684832,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.088040"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-08"
+    },
+    "persistent_id": "59ed12cb4f3f093d7bdc4ff4109e8a4249186e7f03ddda5b97369c18df61ccb9",
+    "id": 129685092,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503340",
+      "street": {
+        "id": 1684827,
+        "name": "On or near Great Maze Pond"
+      },
+      "longitude": "-0.088007"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "45df77f255fd36ba585a246977727ec26824e9b4b7364f9f4ab6a62a79239ba1",
+    "id": 129611464,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545520",
+      "street": {
+        "id": 1689753,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.055505"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127072417,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.540520",
+      "street": {
+        "id": 1689849,
+        "name": "On or near Pemberton Place"
+      },
+      "longitude": "-0.054939"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127081166,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546794",
+      "street": {
+        "id": 1690483,
+        "name": "On or near Homerton Terrace"
+      },
+      "longitude": "-0.049350"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127086269,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.540520",
+      "street": {
+        "id": 1689849,
+        "name": "On or near Pemberton Place"
+      },
+      "longitude": "-0.054939"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127086575,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547047",
+      "street": {
+        "id": 1690339,
+        "name": "On or near Morning Lane"
+      },
+      "longitude": "-0.051055"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127070313,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.540520",
+      "street": {
+        "id": 1689849,
+        "name": "On or near Pemberton Place"
+      },
+      "longitude": "-0.054939"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127093999,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127097324,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127071070,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127076100,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127078814,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547047",
+      "street": {
+        "id": 1690339,
+        "name": "On or near Morning Lane"
+      },
+      "longitude": "-0.051055"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127075023,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127096174,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.540248",
+      "street": {
+        "id": 1689774,
+        "name": "On or near Weston Walk"
+      },
+      "longitude": "-0.055311"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-10"
+    },
+    "persistent_id": "67eda96a052e394f8a1cd1ac8099c4e9b76416f289adcb281600ac2c72f827d1",
+    "id": 127188848,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546794",
+      "street": {
+        "id": 1690483,
+        "name": "On or near Homerton Terrace"
+      },
+      "longitude": "-0.049350"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "568637b06bce75d1d802e7660327c0c894bd0326c6fa0f1a0ac204e7e6451a16",
+    "id": 127117833,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "fc17e32b18548923678df75c5b99c1d6246fd1b125d256c02227b8954a7b954a",
+    "id": 127191711,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "7b5c5448c1845fa1fd9f34f05e90c9f77f067ea1efe4055ad60560db9dcc9804",
+    "id": 127121110,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "9bacbe53733ed2a929acc1300635d63d925e371eab985814f28dbde876968708",
+    "id": 127098332,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "9df52c2feb9947d1324fb5525a843391823479f19b79295805f89ef6933f6fca",
+    "id": 127192245,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.540248",
+      "street": {
+        "id": 1689774,
+        "name": "On or near Weston Walk"
+      },
+      "longitude": "-0.055311"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "4a9f21b1632ad8634e0bc6fdf4e98bb163ce67836ea0bffdf40b27ad0be132e0",
+    "id": 127109787,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-11"
+    },
+    "persistent_id": "b1bd6723f49c1c57cc6600b9ad687f4d83e8581527adec99e317073431a0dc26",
+    "id": 127140974,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547433",
+      "street": {
+        "id": 1690581,
+        "name": "On or near Link Street"
+      },
+      "longitude": "-0.049351"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "3f7213362e3952661cc46583703861d51e8b36097bf84f065c092b78e805de6c",
+    "id": 127198855,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.541178",
+      "street": {
+        "id": 1689692,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.055575"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-11"
+    },
+    "persistent_id": "1b14ddd12c3a3a9334bd83c999771a699b08a64d078f7c9aed77e1d23effc685",
+    "id": 127196216,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "e098e39169907e2359ad751d06bd713ca26467c51cc03751e6c2296a439d9e4a",
+    "id": 127138529,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.541929",
+      "street": {
+        "id": 1689735,
+        "name": "On or near Mare Street"
+      },
+      "longitude": "-0.055312"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "1f533270a77a237db8d476f1d3d2c37f74ce48b7c9c9e930dc42bec61536f50b",
+    "id": 127194677,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "7ec4351090388ab9228f9ecd0c603cb88767cd6fcf696bdb31e39601c882b1ea",
+    "id": 127192040,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "e3c1d425f57d32fafe92ad8f687ef188b0c5bd64a2e46f24c047b7f8181994c9",
+    "id": 127193429,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.540248",
+      "street": {
+        "id": 1689774,
+        "name": "On or near Weston Walk"
+      },
+      "longitude": "-0.055311"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "568668344cfd13658576edcede0c4efe6866e5734da7c05ed984e9a28fb0c1d7",
+    "id": 127193083,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

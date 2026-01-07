@@ -1,0 +1,98 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499007",
+      "street": {
+        "id": 1685209,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.085335"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129449708,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498396",
+      "street": {
+        "id": 1685675,
+        "name": "On or near Market Yard Mews"
+      },
+      "longitude": "-0.081500"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129460067,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498910",
+      "street": {
+        "id": 1685784,
+        "name": "On or near Newham's Row"
+      },
+      "longitude": "-0.080513"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129466275,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498591",
+      "street": {
+        "id": 1685411,
+        "name": "On or near Bluelion Place"
+      },
+      "longitude": "-0.083004"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "85348d4c7c45959aef5aaf080fd8d50599cb9e51406615a5fd132e916fdd94d7",
+    "id": 129470842,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498396",
+      "street": {
+        "id": 1685675,
+        "name": "On or near Market Yard Mews"
+      },
+      "longitude": "-0.081500"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "95219e51bd53892d432be95b524a0877b543854054164233ffeff946a2a94ccd",
+    "id": 129543969,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

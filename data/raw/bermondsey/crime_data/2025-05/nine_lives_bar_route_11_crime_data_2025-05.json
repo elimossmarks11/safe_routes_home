@@ -1,0 +1,224 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502286",
+      "street": {
+        "id": 1685108,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.085673"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129586953,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502189",
+      "street": {
+        "id": 1684832,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.088040"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129601180,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502083",
+      "street": {
+        "id": 1685289,
+        "name": "On or near Kirby Grove"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129598802,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501028",
+      "street": {
+        "id": 1684344,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.090697"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-08"
+    },
+    "persistent_id": "3bd58c537072a8f63ef0f7bc0381157e26e5038f6d923f7f71c26e7483b50026",
+    "id": 129610743,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501926",
+      "street": {
+        "id": 1685211,
+        "name": "On or near Ship And Mermaid Row"
+      },
+      "longitude": "-0.085141"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "c893afceae2358bf188a70ab44dbc19357c197eb8edbf227cbe58a564b2eaa1e",
+    "id": 129608801,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501028",
+      "street": {
+        "id": 1684344,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.090697"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "da1bdda43ce68cabfe7fc70c99348af5ca1b680b674744f174d4d16bb7184c2d",
+    "id": 129681865,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502189",
+      "street": {
+        "id": 1684832,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.088040"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-08"
+    },
+    "persistent_id": "59ed12cb4f3f093d7bdc4ff4109e8a4249186e7f03ddda5b97369c18df61ccb9",
+    "id": 129685092,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502286",
+      "street": {
+        "id": 1685108,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.085673"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "2fb84095d2684f2075b9a83c5c899fda0e8c0e55049cf32bf231c225efb492d8",
+    "id": 129688712,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502286",
+      "street": {
+        "id": 1685108,
+        "name": "On or near Snowsfields"
+      },
+      "longitude": "-0.085673"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "74083d90d61009152c67137740ea896fb2d065189b45a968c877a23c2d0fd7ee",
+    "id": 129627818,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.501028",
+      "street": {
+        "id": 1684344,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.090697"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "75f772e3554b8f2666c7069d0ce3f30de5f2781d69ae5c0638330ea16eb2f569",
+    "id": 129608200,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500926",
+      "street": {
+        "id": 1684141,
+        "name": "On or near Further/higher Educational Building"
+      },
+      "longitude": "-0.092171"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "ed7f5eee3b26cbd274b8bcf6b9054df28889e39818feb2d2619a32e2c48e87c7",
+    "id": 129609257,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

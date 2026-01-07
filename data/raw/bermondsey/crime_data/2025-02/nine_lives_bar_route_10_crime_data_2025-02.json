@@ -1,0 +1,23 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504017",
+      "street": {
+        "id": 1685517,
+        "name": "On or near Bursar Street"
+      },
+      "longitude": "-0.082128"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "f069d3e92827a9f5f9ba5009f92db0d17ccba28522399f5e1caa22f44a4ef41b",
+    "id": 126415916,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

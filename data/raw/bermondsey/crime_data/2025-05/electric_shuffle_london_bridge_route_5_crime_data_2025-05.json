@@ -1,0 +1,41 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504017",
+      "street": {
+        "id": 1685517,
+        "name": "On or near Bursar Street"
+      },
+      "longitude": "-0.082128"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129591867,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502094",
+      "street": {
+        "id": 1686340,
+        "name": "On or near A100"
+      },
+      "longitude": "-0.077771"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "cb561802e9ed1da7ad1fa09b99830ac1947b20f195ea2681d45ad38cc1ba0893",
+    "id": 129679033,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

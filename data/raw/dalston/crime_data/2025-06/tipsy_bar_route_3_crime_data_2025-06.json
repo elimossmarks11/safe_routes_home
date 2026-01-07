@@ -1,0 +1,149 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549376",
+      "street": {
+        "id": 1688655,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.062999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "1cfc862f39ec8100c9268b8e9abd9d05cc439454a4c73eafedb18b482a9d025d",
+    "id": 129531050,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549849",
+      "street": {
+        "id": 1687609,
+        "name": "On or near Sandringham Road"
+      },
+      "longitude": "-0.069326"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "0bdbd958388f7b25b8dac69045ca99804e6684b8888e50adb88fe482b542e7d3",
+    "id": 129538312,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548763",
+      "street": {
+        "id": 1688853,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061799"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "d9799bb4dafd00fca179d8d0ac4a4a938a74e08cdd484d3524a8f3c00e263c64",
+    "id": 129512286,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-11"
+    },
+    "persistent_id": "993c1e5f580d73a2184513e412b726efc94f6d5b7b84f11a7c0a0e9a9e43dbda",
+    "id": 129519871,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549849",
+      "street": {
+        "id": 1687609,
+        "name": "On or near Sandringham Road"
+      },
+      "longitude": "-0.069326"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "0bdbd958388f7b25b8dac69045ca99804e6684b8888e50adb88fe482b542e7d3",
+    "id": 129538313,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551188",
+      "street": {
+        "id": 1686767,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074750"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "3f5c565f6cf3ea943c929dc242d8e55bbfa9453683713eea95517c94a3f7e8fb",
+    "id": 129530011,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549376",
+      "street": {
+        "id": 1688655,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.062999"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "dff04c22d267bafa97af3f0213ca69446e939c4a059768a919765b9166ed1905",
+    "id": 129532410,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

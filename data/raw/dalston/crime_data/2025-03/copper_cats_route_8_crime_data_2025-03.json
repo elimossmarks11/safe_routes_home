@@ -1,0 +1,257 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549456",
+      "street": {
+        "id": 1686338,
+        "name": "On or near Boleyn Road"
+      },
+      "longitude": "-0.077679"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127077155,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546998",
+      "street": {
+        "id": 1686484,
+        "name": "On or near Kingsland Green"
+      },
+      "longitude": "-0.076398"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127080557,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548684",
+      "street": {
+        "id": 1686526,
+        "name": "On or near Sports/recreation Area"
+      },
+      "longitude": "-0.076702"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127071696,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546371",
+      "street": {
+        "id": 1686586,
+        "name": "On or near Kingsland Passage"
+      },
+      "longitude": "-0.075992"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127072330,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548925",
+      "street": {
+        "id": 1686409,
+        "name": "On or near Bailey Place"
+      },
+      "longitude": "-0.077139"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127072469,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549456",
+      "street": {
+        "id": 1686338,
+        "name": "On or near Boleyn Road"
+      },
+      "longitude": "-0.077679"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127071050,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548684",
+      "street": {
+        "id": 1686526,
+        "name": "On or near Sports/recreation Area"
+      },
+      "longitude": "-0.076702"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "80a5962e3da6dc8fbd27ced6bddce6716b9a86b4928fe330d9c512e0ed42120c",
+    "id": 127117940,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550736",
+      "street": {
+        "id": 1685372,
+        "name": "On or near Auriga Mews"
+      },
+      "longitude": "-0.083395"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "e5b002a009eee566e04a46d8a2e8cd6c61d8a690bbc3be399a279b503c8f9795",
+    "id": 127121605,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550736",
+      "street": {
+        "id": 1685372,
+        "name": "On or near Auriga Mews"
+      },
+      "longitude": "-0.083395"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "2ba35f60630d11842e812bc7f6ad4dc2eaf1c0a6f3c6844d684999973d9af167",
+    "id": 127138727,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551378",
+      "street": {
+        "id": 1685226,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.084695"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "560735d54dcb2884070e9ddfe395f5cb3ac00f05a63d1b861a90dcd43d4ea1e2",
+    "id": 127109980,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551378",
+      "street": {
+        "id": 1685226,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.084695"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "cd5838c7048b847d21dc797a17903f04ab5e382bc72fc081ddd0f5e01b7d02ec",
+    "id": 127189769,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549456",
+      "street": {
+        "id": 1686338,
+        "name": "On or near Boleyn Road"
+      },
+      "longitude": "-0.077679"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "c4f5378ad52c714a33e2636c27ec79757b2c8208d6a8ce4de48be8d05b04adc8",
+    "id": 127194037,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548684",
+      "street": {
+        "id": 1686526,
+        "name": "On or near Sports/recreation Area"
+      },
+      "longitude": "-0.076702"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "53015fdedd971c3be39e4f39b8748ceed45a07ad37ea96e9c6c1b057b6cee5da",
+    "id": 127141387,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500433",
+      "street": {
+        "id": 1684581,
+        "name": "On or near Southall Place"
+      },
+      "longitude": "-0.089526"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125852391,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499007",
+      "street": {
+        "id": 1685209,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.085335"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125854908,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499007",
+      "street": {
+        "id": 1685209,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.085335"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125858185,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500582",
+      "street": {
+        "id": 1684240,
+        "name": "On or near Silvester Street"
+      },
+      "longitude": "-0.092012"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125838521,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500582",
+      "street": {
+        "id": 1684240,
+        "name": "On or near Silvester Street"
+      },
+      "longitude": "-0.092012"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125851949,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499221",
+      "street": {
+        "id": 1685121,
+        "name": "On or near A2198"
+      },
+      "longitude": "-0.085802"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "1a2730ee5fc8efdf3453edebc3868b06aae73af1c5d9e51812aac8afcee382e7",
+    "id": 125867373,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499847",
+      "street": {
+        "id": 1684964,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.087216"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "b222b1cc8c6945d9efb468e081fa4d2a071c56150baadc26f7f00fe8f4027f5e",
+    "id": 125867406,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500433",
+      "street": {
+        "id": 1684581,
+        "name": "On or near Southall Place"
+      },
+      "longitude": "-0.089526"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "2fa1af72cca7e3a3f4c7e708e6cbf9a29b76a6c59ad6b823f0a008f127a0c4ea",
+    "id": 125866675,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499221",
+      "street": {
+        "id": 1685121,
+        "name": "On or near A2198"
+      },
+      "longitude": "-0.085802"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Further investigation is not in the public interest",
+      "date": "2025-01"
+    },
+    "persistent_id": "a1cfc97ce7f47b006713602d1e1e23d564eb34e884d808665314c7b6a5854868",
+    "id": 125939782,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.500433",
+      "street": {
+        "id": 1684581,
+        "name": "On or near Southall Place"
+      },
+      "longitude": "-0.089526"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "3542c32011de5f3691f5fcfeb99b82a7d211c61c162bbc4512f26c657cef1e2d",
+    "id": 125939348,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499847",
+      "street": {
+        "id": 1684964,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.087216"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "8dff4ab5a2d877c5cf1a173aa28fdeae493aa5ba154f14b58d442ebdc4c1f461",
+    "id": 125936446,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499221",
+      "street": {
+        "id": 1685121,
+        "name": "On or near A2198"
+      },
+      "longitude": "-0.085802"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "94c363f5a29a9084642429a1250ab59450b79c927b528d0a0232466a8892fefb",
+    "id": 125940150,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

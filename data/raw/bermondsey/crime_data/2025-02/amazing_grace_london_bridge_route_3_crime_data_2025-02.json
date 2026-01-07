@@ -1,0 +1,254 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126345763,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126358264,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126357025,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126358924,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126347625,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126347372,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126353187,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "ec55a1988b3b168230a184a017163260a557815d00d172db3013498ed32ca756",
+    "id": 126368005,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "5455d1b78eaa08dd0ed6ea6c24a03008c86050388659f777a18b0e60e4bc09f7",
+    "id": 126369868,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503785",
+      "street": {
+        "id": 1685065,
+        "name": "On or near St Thomas Street"
+      },
+      "longitude": "-0.086043"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "31ef6e47c77eb328982587d2926b2c2f3c71cd81acbaca81278b15c89bb6fe92",
+    "id": 126365509,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "cdc8e166f6935d81876e2acc8558f303604736dd4084a63018fb2510a572ad18",
+    "id": 126376986,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "d05b9aec1789e2cdabfa5888fa2e5aa9a97656cf5f007df481951999545234eb",
+    "id": 126375394,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504452",
+      "street": {
+        "id": 1684986,
+        "name": "On or near Hospital"
+      },
+      "longitude": "-0.086692"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "3f4a52f9708a8450231b899752717995d7760e4c8c7b84414a30e7e002ec9aec",
+    "id": 126421535,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

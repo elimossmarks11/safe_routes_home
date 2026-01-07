@@ -1,0 +1,263 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547047",
+      "street": {
+        "id": 1690339,
+        "name": "On or near Morning Lane"
+      },
+      "longitude": "-0.051055"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127075023,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546794",
+      "street": {
+        "id": 1690483,
+        "name": "On or near Homerton Terrace"
+      },
+      "longitude": "-0.049350"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127086269,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549568",
+      "street": {
+        "id": 1689787,
+        "name": "On or near Mare Street"
+      },
+      "longitude": "-0.055015"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127092821,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547047",
+      "street": {
+        "id": 1690339,
+        "name": "On or near Morning Lane"
+      },
+      "longitude": "-0.051055"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127070313,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549568",
+      "street": {
+        "id": 1689787,
+        "name": "On or near Mare Street"
+      },
+      "longitude": "-0.055015"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "6321dcf7f36d5bd41ad6fea0d1028acce28fecfaa32e32bb7884cebe5ab2b31f",
+    "id": 127120050,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546794",
+      "street": {
+        "id": 1690483,
+        "name": "On or near Homerton Terrace"
+      },
+      "longitude": "-0.049350"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "568637b06bce75d1d802e7660327c0c894bd0326c6fa0f1a0ac204e7e6451a16",
+    "id": 127117833,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549568",
+      "street": {
+        "id": 1689787,
+        "name": "On or near Mare Street"
+      },
+      "longitude": "-0.055015"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "c2c33bbf1db6d3a0401135b35626fb66c39f72162d25a3e85ab21cda1c4aad08",
+    "id": 127120699,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549568",
+      "street": {
+        "id": 1689787,
+        "name": "On or near Mare Street"
+      },
+      "longitude": "-0.055015"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "2d9a133fd3297f2ca6101ac9b40933b97364a5ed50eca7c4f4dbcd32660d1d70",
+    "id": 127196480,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549568",
+      "street": {
+        "id": 1689787,
+        "name": "On or near Mare Street"
+      },
+      "longitude": "-0.055015"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "df9d8c02a2088b4fc5a83efb503d01395d13446c10319f37066ca4d68029ba7a",
+    "id": 127108415,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549568",
+      "street": {
+        "id": 1689787,
+        "name": "On or near Mare Street"
+      },
+      "longitude": "-0.055015"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "997e8e6cf47a8efa47f765b19e17dbb57bc2f0e90c48b04bac43a06a3b072de0",
+    "id": 127141738,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549568",
+      "street": {
+        "id": 1689787,
+        "name": "On or near Mare Street"
+      },
+      "longitude": "-0.055015"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "d32cb256439a9556c0d12a0564095514769605850177b81e1706718615867315",
+    "id": 127192353,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549568",
+      "street": {
+        "id": 1689787,
+        "name": "On or near Mare Street"
+      },
+      "longitude": "-0.055015"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "94d6c8572126c4ce24c4b88ed74be077eb893f452ffae337ae4b4df31a2d98a0",
+    "id": 127196754,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549568",
+      "street": {
+        "id": 1689787,
+        "name": "On or near Mare Street"
+      },
+      "longitude": "-0.055015"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "86522076b51dc089a040d266df69396220efc79c69cad90201e82ee7d7f35e5a",
+    "id": 127201723,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

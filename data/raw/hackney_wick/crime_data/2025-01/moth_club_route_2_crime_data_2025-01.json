@@ -1,0 +1,188 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125838625,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125843020,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125847822,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125850197,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125837508,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125851027,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125851175,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125844374,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "d567a4cbb99b88523cf78b154045bddc574d16ebcbdd5ccec0ea786aaf44b3f4",
+    "id": 125867034,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "357a5acc1ddd2b19cd0653c22a0442ffe581459d76a402cedbbcf91485c56ef0",
+    "id": 125877138,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

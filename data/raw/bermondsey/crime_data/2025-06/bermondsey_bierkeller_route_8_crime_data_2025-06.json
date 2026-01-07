@@ -1,0 +1,23 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510665",
+      "street": {
+        "id": 1490884,
+        "name": "On or near Martin Lane"
+      },
+      "longitude": "-0.087772"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "8a100a231294e21570a7423be1d16ea1fe3823313ed6b2c18478468f44844df6",
+    "id": 130450998,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

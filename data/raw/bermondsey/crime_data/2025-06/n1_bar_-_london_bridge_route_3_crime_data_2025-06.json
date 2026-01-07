@@ -1,0 +1,140 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503558",
+      "street": {
+        "id": 1686124,
+        "name": "On or near Potters Fields"
+      },
+      "longitude": "-0.078805"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129448827,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503558",
+      "street": {
+        "id": 1686124,
+        "name": "On or near Potters Fields"
+      },
+      "longitude": "-0.078805"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129460076,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504826",
+      "street": {
+        "id": 1685270,
+        "name": "On or near London Bridge"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129462657,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503558",
+      "street": {
+        "id": 1686124,
+        "name": "On or near Potters Fields"
+      },
+      "longitude": "-0.078805"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "1ad226ec2ec3ca9a25b5daf7f36e9cde84d27c0e24e8789da57e8afbe9c763dc",
+    "id": 129494321,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504826",
+      "street": {
+        "id": 1685270,
+        "name": "On or near London Bridge"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "3a66236beabc20c14c98340b521028b264df7b7759c1c0d71ea627111e5d0777",
+    "id": 129519229,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504411",
+      "street": {
+        "id": 1685627,
+        "name": "On or near Braidwood Street"
+      },
+      "longitude": "-0.082011"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "c86252be5f204c39aa0b14361c5171f87c235d428b137df842984ad2792a16e9",
+    "id": 129522325,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504826",
+      "street": {
+        "id": 1685270,
+        "name": "On or near London Bridge"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "cbaea2288a7bf33d430db6aaf79e61549c109d3d40ecd36335a696969dc8d108",
+    "id": 129501998,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

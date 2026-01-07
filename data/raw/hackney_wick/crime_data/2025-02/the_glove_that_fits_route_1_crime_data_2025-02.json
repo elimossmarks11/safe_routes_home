@@ -1,0 +1,41 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547047",
+      "street": {
+        "id": 1690339,
+        "name": "On or near Morning Lane"
+      },
+      "longitude": "-0.051055"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126355303,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546922",
+      "street": {
+        "id": 1690012,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.052690"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-08"
+    },
+    "persistent_id": "431d1532d37a794225be480f09e369a52e2ecd8ba1dd31232f8bf8ac59b357d2",
+    "id": 126416947,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

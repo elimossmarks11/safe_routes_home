@@ -1,0 +1,77 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499007",
+      "street": {
+        "id": 1685209,
+        "name": "On or near Long Lane"
+      },
+      "longitude": "-0.085335"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126351516,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498591",
+      "street": {
+        "id": 1685411,
+        "name": "On or near Bluelion Place"
+      },
+      "longitude": "-0.083004"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126353423,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498396",
+      "street": {
+        "id": 1685675,
+        "name": "On or near Market Yard Mews"
+      },
+      "longitude": "-0.081500"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126356025,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498591",
+      "street": {
+        "id": 1685411,
+        "name": "On or near Bluelion Place"
+      },
+      "longitude": "-0.083004"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "1e17232817115c15e1fd7471f152e6eb2c15e6b785fcafd41585928338bd00a8",
+    "id": 126416092,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

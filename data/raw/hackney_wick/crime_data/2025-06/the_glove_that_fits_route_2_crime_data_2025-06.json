@@ -1,0 +1,86 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546808",
+      "street": {
+        "id": 1691373,
+        "name": "On or near Berger Road"
+      },
+      "longitude": "-0.043176"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "c7010f0f67b81e7bd38a4018ba335a77322adcfdfb88476cbcf09b066889075d",
+    "id": 129547422,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546808",
+      "street": {
+        "id": 1691373,
+        "name": "On or near Berger Road"
+      },
+      "longitude": "-0.043176"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "b5cd578e92bf20fe7a0d2cb77f43470cd6719f24c1e48635119c8a970a70cfb4",
+    "id": 129498289,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547496",
+      "street": {
+        "id": 1690725,
+        "name": "On or near Ponsford Street"
+      },
+      "longitude": "-0.047776"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "aec1b1bb69ab40dafb8f455e336ea7af1a559e6a1c379d54faf232bfeb8f5329",
+    "id": 129550375,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547125",
+      "street": {
+        "id": 1691095,
+        "name": "On or near Digby Road"
+      },
+      "longitude": "-0.044374"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-09"
+    },
+    "persistent_id": "49dec6e8f3fbe3d9eaf4a74213f8cd0452e742de778b06f936089a11f9616d42",
+    "id": 129477589,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

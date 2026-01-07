@@ -1,0 +1,167 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552455",
+      "street": {
+        "id": 1685279,
+        "name": "On or near Watson Close"
+      },
+      "longitude": "-0.083467"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129597796,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-08"
+    },
+    "persistent_id": "e3d39b5a8a4138be7d331f3c8f0e7f61e09a472d0a0d80d6dd3a32d370220793",
+    "id": 129617945,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552124",
+      "street": {
+        "id": 1685096,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.085241"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "7b0aaa38040a4f6da7f56968009fcec957678e9155942aba7f0e0885dd52f1cc",
+    "id": 129629817,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552124",
+      "street": {
+        "id": 1685096,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.085241"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "7a3f0a7b4a7fe27f968042b00d8c985656eeca5ad9eb83d3f95611e1b65893ad",
+    "id": 129629815,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552124",
+      "street": {
+        "id": 1685096,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.085241"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "8934dcddecdf49897d1e47449bb83969536e56933ec4f45ea8b2d1b1cba7d052",
+    "id": 129629816,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "58e431e8cfe138675ea411d4b82fb59ee71853ad74531cef247e649c3f585016",
+    "id": 129605091,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "31b4dd6564870476a14f86359a9c302b3a2d1705329adc65675b8909cc6400f4",
+    "id": 129685642,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552124",
+      "street": {
+        "id": 1685096,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.085241"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-10"
+    },
+    "persistent_id": "e8b53554ffde5af1cd75e3c3ecd30498875f39cf6de580276d12f671a1fd212b",
+    "id": 129609810,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

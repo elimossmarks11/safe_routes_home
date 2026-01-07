@@ -1,0 +1,125 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.536735",
+      "street": {
+        "id": 1693393,
+        "name": "On or near Hart Yard"
+      },
+      "longitude": "-0.023767"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126350825,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.535472",
+      "street": {
+        "id": 1693736,
+        "name": "On or near Iceland Road"
+      },
+      "longitude": "-0.021947"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "17f31698c68136d84a0d02ed60dbdf74c6169691893d20f32056c5360c9cc588",
+    "id": 126367984,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.535472",
+      "street": {
+        "id": 1693736,
+        "name": "On or near Iceland Road"
+      },
+      "longitude": "-0.021947"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "bfde9ee41fb682d26376dbd0bdc34587d7e548844c19ad095c90b9ff36729023",
+    "id": 126375483,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.535725",
+      "street": {
+        "id": 1693744,
+        "name": "On or near Wick Lane"
+      },
+      "longitude": "-0.022023"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "468090077a85680cedf0729107a3188243baf46d3da14635014d32f48a0c2342",
+    "id": 126364170,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.535472",
+      "street": {
+        "id": 1693736,
+        "name": "On or near Iceland Road"
+      },
+      "longitude": "-0.021947"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "41d65a985bcd843b6936754f0007cd6dfa8ed597738139b07ab9f754a07aa138",
+    "id": 126377292,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.535472",
+      "street": {
+        "id": 1693736,
+        "name": "On or near Iceland Road"
+      },
+      "longitude": "-0.021947"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "19c97a679bce30b3b3a6273d8f5143b798c95021fe08e4bb061fbe7e3b4be737",
+    "id": 126417017,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

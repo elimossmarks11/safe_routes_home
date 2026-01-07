@@ -1,0 +1,44 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546823",
+      "street": {
+        "id": 1686776,
+        "name": "On or near Ashwin Street"
+      },
+      "longitude": "-0.075050"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "ba0500176e9af3573360f35bccbb99665b4fd521f8d14ae6b711fc4f56c10a6a",
+    "id": 126368448,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546823",
+      "street": {
+        "id": 1686776,
+        "name": "On or near Ashwin Street"
+      },
+      "longitude": "-0.075050"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "0ee0a66fb6a6b24ac0ae04cfa156854162eb95855ff26374a67ba63c700f0f33",
+    "id": 126416551,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]
