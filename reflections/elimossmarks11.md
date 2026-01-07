@@ -2,6 +2,11 @@
 
 **Most significant commits:**
 
+[6a4af79b586470950c8589096f8efb6a135e4060](https://github.com/lse-ds105/group-project-ds105a-2025-ctraltelite/commit/6a4af79b586470950c8589096f8efb6a135e4060) Fully automated data collection approach finalised.
+
+[e357c185dcfce456e9b7a062550258c31735c20f](https://github.com/lse-ds105/group-project-ds105a-2025-ctraltelite/commit/e357c185dcfce456e9b7a062550258c31735c20f) Provisional Database Schema completed.
+
+
 **What I implemented**
 
 I designed and implemented a reproducible, cost-limiting, multi-stage data collection and preprocessing pipeline that integrates Google Places API, Google Routes API, and UK Police API responses. Additionally, I designed a preliminary database schema mapping table relationships. 
