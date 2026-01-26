@@ -63,20 +63,41 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.504826",
+      "latitude": "51.510441",
       "street": {
-        "id": 1685270,
-        "name": "On or near London Bridge"
+        "id": 1490899,
+        "name": "On or near Lovat Lane"
       },
-      "longitude": "-0.084299"
+      "longitude": "-0.083977"
     },
     "context": "",
     "outcome_status": {
-      "category": "Court result unavailable",
-      "date": "2025-09"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
     },
-    "persistent_id": "7913f7f59b8d35ed9e601839b4ff782b107906cfeef7cbf98c56164f6335265c",
-    "id": 126360614,
+    "persistent_id": "2998a94b570494a6e93e382d71f752fa561b0c0100b4a71fbcf27e043b6959e0",
+    "id": 126435004,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510441",
+      "street": {
+        "id": 1490899,
+        "name": "On or near Lovat Lane"
+      },
+      "longitude": "-0.083977"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "3334d066b49c1e079232b25d44e8dfc84f41ed5c56d758ccc797c786216d6a14",
+    "id": 126434986,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -147,41 +168,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.510441",
+      "latitude": "51.504826",
       "street": {
-        "id": 1490899,
-        "name": "On or near Lovat Lane"
+        "id": 1685270,
+        "name": "On or near London Bridge"
       },
-      "longitude": "-0.083977"
+      "longitude": "-0.084299"
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-06"
+      "category": "Court result unavailable",
+      "date": "2025-09"
     },
-    "persistent_id": "3334d066b49c1e079232b25d44e8dfc84f41ed5c56d758ccc797c786216d6a14",
-    "id": 126434986,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.510441",
-      "street": {
-        "id": 1490899,
-        "name": "On or near Lovat Lane"
-      },
-      "longitude": "-0.083977"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
-    },
-    "persistent_id": "2998a94b570494a6e93e382d71f752fa561b0c0100b4a71fbcf27e043b6959e0",
-    "id": 126435004,
+    "persistent_id": "7913f7f59b8d35ed9e601839b4ff782b107906cfeef7cbf98c56164f6335265c",
+    "id": 126360614,
     "location_subtype": "",
     "month": "2025-02"
   }

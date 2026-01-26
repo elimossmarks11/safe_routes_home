@@ -1,133 +1,22 @@
 [
   {
-    "category": "anti-social-behaviour",
+    "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.504452",
+      "latitude": "51.504387",
       "street": {
-        "id": 1684986,
-        "name": "On or near Hospital"
+        "id": 1684993,
+        "name": "On or near Joiner Street"
       },
-      "longitude": "-0.086692"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129456664,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.504316",
-      "street": {
-        "id": 1684865,
-        "name": "On or near Great Maze Pond"
-      },
-      "longitude": "-0.087202"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129445634,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.504316",
-      "street": {
-        "id": 1684865,
-        "name": "On or near Great Maze Pond"
-      },
-      "longitude": "-0.087202"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129452580,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.504452",
-      "street": {
-        "id": 1684986,
-        "name": "On or near Hospital"
-      },
-      "longitude": "-0.086692"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129460466,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.504452",
-      "street": {
-        "id": 1684986,
-        "name": "On or near Hospital"
-      },
-      "longitude": "-0.086692"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129452667,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.504452",
-      "street": {
-        "id": 1684986,
-        "name": "On or near Hospital"
-      },
-      "longitude": "-0.086692"
+      "longitude": "-0.087127"
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-08"
+      "category": "Awaiting court outcome",
+      "date": "2025-10"
     },
-    "persistent_id": "c986498d90f07fdb46e3b0388a855e2bd46ddff076db2b0c517916088589e82c",
-    "id": 129473427,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.504452",
-      "street": {
-        "id": 1684986,
-        "name": "On or near Hospital"
-      },
-      "longitude": "-0.086692"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-08"
-    },
-    "persistent_id": "ea3532ad9e0e520122ae06a7618592deb1cee6d695e648b26a3a2ee6d4ec7ca0",
-    "id": 129543637,
+    "persistent_id": "d3e7da30860e6139499e952ae250599b0ac34943e2953bf52ae98f70bdda47c5",
+    "id": 129549326,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -149,48 +38,6 @@
     },
     "persistent_id": "807717a06ae618011298e0ac593f08a062f00d14fdea6287cae98db966dd357d",
     "id": 129547061,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.504452",
-      "street": {
-        "id": 1684986,
-        "name": "On or near Hospital"
-      },
-      "longitude": "-0.086692"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-06"
-    },
-    "persistent_id": "317a7414768926bd9bd480e316573c22b05b558ef37beb3300feb5152e318536",
-    "id": 129531678,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.504387",
-      "street": {
-        "id": 1684993,
-        "name": "On or near Joiner Street"
-      },
-      "longitude": "-0.087127"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-10"
-    },
-    "persistent_id": "d3e7da30860e6139499e952ae250599b0ac34943e2953bf52ae98f70bdda47c5",
-    "id": 129549326,
     "location_subtype": "",
     "month": "2025-06"
   }

@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "London Bridge Rooftop Bar",
+    "location": {
+      "latitude": 51.5061,
+      "longitude": -0.0873
+    }
+  },
+  "destination": {
+    "name": "Cannon Street Station (Stop 47)",
+    "location": {
+      "latitude": 51.510401099999996,
+      "longitude": -0.0901613
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 701,
+    "duration_seconds": 608
+  },
+  "police_api": {
+    "param_file": "london_bridge_rooftop_bar_route_7_police_api_param.txt"
+  }
+}

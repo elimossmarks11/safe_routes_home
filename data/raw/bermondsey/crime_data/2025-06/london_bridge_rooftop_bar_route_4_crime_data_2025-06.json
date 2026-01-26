@@ -1,0 +1,62 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506100",
+      "street": {
+        "id": 1684794,
+        "name": "On or near Duke Street Hill"
+      },
+      "longitude": "-0.088540"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129457133,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505208",
+      "street": {
+        "id": 1684629,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.089485"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "3e018424d61bf8de3e366966a9243f3a297d077187b1fafba5497f2171ffd06d",
+    "id": 129474595,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506092",
+      "street": {
+        "id": 1684728,
+        "name": "On or near Railway Approach"
+      },
+      "longitude": "-0.088554"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "fa9bb6c6c24c388cbeb27e8d3e98dfbfcd380cacd6ec25688e54a690c22ae31b",
+    "id": 129507690,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

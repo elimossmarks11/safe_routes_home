@@ -1,0 +1,44 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504238",
+      "street": {
+        "id": 1685718,
+        "name": "On or near Abbots Lane"
+      },
+      "longitude": "-0.081298"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "5aede52c0a0da76a87f108c0d68b4701c4d5ab211b88ea3d7bb3743fa08ec697",
+    "id": 125936760,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504238",
+      "street": {
+        "id": 1685718,
+        "name": "On or near Abbots Lane"
+      },
+      "longitude": "-0.081298"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "ff25cf42291534f3ee7982113a1ae0776e65e3fd0592b6cd77b04fb9fb2835ce",
+    "id": 125860254,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

@@ -7,6 +7,13 @@
   },
   "selected_stations": [
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 6NA, UK",
       "location": {
         "latitude": 51.545935099999994,
         "longitude": -0.054394399999999996
@@ -15,12 +22,22 @@
         "text": "Trelawney Estate (Stop C)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 29.75794504027396,
       "bearing": 28.53969686836058,
       "sector": 0
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1HE, UK",
       "location": {
         "latitude": 51.5452119,
         "longitude": -0.0551416
@@ -29,12 +46,22 @@
         "text": "Hackney Town Hall (Stop B)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 65.94221706550094,
       "bearing": 214.60815786800043,
       "sector": 4
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 3NS, UK",
       "location": {
         "latitude": 51.543476,
         "longitude": -0.05641600000000001
@@ -43,12 +70,22 @@
         "text": "Richmond Road /Martello Street (Stop LS)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 277.3566980412719,
       "bearing": 206.92284791359933,
       "sector": 4
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1PE, UK",
       "location": {
         "latitude": 51.546717799999996,
         "longitude": -0.0557024
@@ -57,12 +94,22 @@
         "text": "Hackney Central / Mare Street (Stop G)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 136.45366361514587,
       "bearing": 326.0372294333822,
       "sector": 7
     },
     {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "off Amhurst Rd, London E8 1LL, UK",
       "location": {
         "latitude": 51.5471285,
         "longitude": -0.0567593
@@ -71,15 +118,22 @@
         "text": "Hackney Central",
         "languageCode": "en"
       },
-      "primaryType": "train_station",
-      "postalAddress": {
-        "postalCode": "E8 1LL"
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
       },
       "distance_m": 218.00431577038876,
       "bearing": 316.77153867255447,
       "sector": 7
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 6ND, UK",
       "location": {
         "latitude": 51.5466373,
         "longitude": -0.052916399999999995
@@ -88,12 +142,22 @@
         "text": "Morning Lane /Trelawney Estate (Stop D)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 156.25747141696863,
       "bearing": 48.16375592786687,
       "sector": 1
     },
     {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Homerton, London E9 5SE, UK",
       "location": {
         "latitude": 51.5470366,
         "longitude": -0.0423623
@@ -102,15 +166,22 @@
         "text": "Homerton",
         "languageCode": "en"
       },
-      "primaryType": "train_station",
-      "postalAddress": {
-        "postalCode": "E9 5SE"
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
       },
       "distance_m": 859.1893071406117,
       "bearing": 80.03404156491337,
       "sector": 1
     },
     {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1LA, UK",
       "location": {
         "latitude": 51.5487712,
         "longitude": -0.061084200000000005
@@ -119,12 +190,22 @@
         "text": "Hackney Downs",
         "languageCode": "en"
       },
-      "primaryType": "train_station",
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 563.6158117250483,
       "bearing": 307.2970713357392,
       "sector": 6
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1AL, UK",
       "location": {
         "latitude": 51.548927,
         "longitude": -0.061404999999999994
@@ -133,7 +214,10 @@
         "text": "Hackney Downs Station (Stop N)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 591.7593945668655,
       "bearing": 307.33026277734336,
       "sector": 6

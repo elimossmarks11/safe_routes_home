@@ -1,0 +1,154 @@
+{
+  "area": "Hackney_Wick",
+  "club": "Fabwick",
+  "club_location": {
+    "latitude": 51.5428,
+    "longitude": -0.0233
+  },
+  "selected_stations": [
+    {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "White Post Ln, London E9 5TS, UK",
+      "location": {
+        "latitude": 51.543542099999996,
+        "longitude": -0.0241583
+      },
+      "displayName": {
+        "text": "Hackney Wick",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 101.647780053669,
+      "bearing": 324.2725911781779,
+      "sector": 7
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 5HB, UK",
+      "location": {
+        "latitude": 51.5426936,
+        "longitude": -0.024996200000000003
+      },
+      "displayName": {
+        "text": "Hackney Wick Station (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 117.89674181029628,
+      "bearing": 264.2412399993479,
+      "sector": 5
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 5HA, UK",
+      "location": {
+        "latitude": 51.5426625,
+        "longitude": -0.025186999999999998
+      },
+      "displayName": {
+        "text": "Hackney Wick Station (Stop A)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 131.38913477867465,
+      "bearing": 263.3182860770008,
+      "sector": 5
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 5DW, UK",
+      "location": {
+        "latitude": 51.542984,
+        "longitude": -0.027391
+      },
+      "displayName": {
+        "text": "Hackney Wick Station (Stop G)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 283.6531973486843,
+      "bearing": 274.13793054317216,
+      "sector": 6
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 5JA, UK",
+      "location": {
+        "latitude": 51.545798,
+        "longitude": -0.030255200000000003
+      },
+      "displayName": {
+        "text": "St Mary Of Eton Church (Stop N)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 585.2064339798685,
+      "bearing": 304.728491796611,
+      "sector": 6
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Fish Island, London E3 2JG, UK",
+      "location": {
+        "latitude": 51.535039399999995,
+        "longitude": -0.021743500000000002
+      },
+      "displayName": {
+        "text": "Autumn Street (Stop OV)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 869.6279434878902,
+      "bearing": 172.8886126715181,
+      "sector": 3
+    }
+  ]
+}

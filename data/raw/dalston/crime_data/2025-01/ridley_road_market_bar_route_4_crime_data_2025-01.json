@@ -36,24 +36,6 @@
     "month": "2025-01"
   },
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546076",
-      "street": {
-        "id": 1686813,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075009"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 125835653,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
     "category": "public-order",
     "location_type": "Force",
     "location": {
@@ -99,27 +81,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547803",
-      "street": {
-        "id": 1686890,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.074489"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-01"
-    },
-    "persistent_id": "9e9dfeac8663eff3ce49d3d222a785e55e798c56e13fbb976be2d323028ed9ab",
-    "id": 125862600,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.547401",
       "street": {
         "id": 1686696,
@@ -134,48 +95,6 @@
     },
     "persistent_id": "a095605ff38eb008d3ac1cf9495781390642024b8ce4364c63a1c2f3ae165237",
     "id": 125881334,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547803",
-      "street": {
-        "id": 1686890,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.074489"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-01"
-    },
-    "persistent_id": "3eb88eff093ab2ca52f9e6507dd1656acade1d8c5562905d7597c91943f32c7f",
-    "id": 125864865,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546076",
-      "street": {
-        "id": 1686813,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075009"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-02"
-    },
-    "persistent_id": "b7c8f6b868026857be9c4e719329643f6b17c34b6e2f8198ad3c42ef7882eb9d",
-    "id": 125935919,
     "location_subtype": "",
     "month": "2025-01"
   },

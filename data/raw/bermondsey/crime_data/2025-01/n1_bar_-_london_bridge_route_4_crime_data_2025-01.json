@@ -18,41 +18,23 @@
     "month": "2025-01"
   },
   {
-    "category": "anti-social-behaviour",
+    "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.506419",
+      "latitude": "51.505208",
       "street": {
-        "id": 1684816,
+        "id": 1684629,
         "name": "On or near Borough High Street"
       },
-      "longitude": "-0.088195"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 125851479,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.505386",
-      "street": {
-        "id": 1684575,
-        "name": "On or near Bedale Street"
-      },
-      "longitude": "-0.089938"
+      "longitude": "-0.089485"
     },
     "context": "",
     "outcome_status": {
-      "category": "Further action is not in the public interest",
-      "date": "2025-01"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
     },
-    "persistent_id": "f06569e37aed767935f72cfe7ad4006d9f08ec9560e7c2c805de460842cd9e59",
-    "id": 125931798,
+    "persistent_id": "46991a025738da2c5b909e0afb9cced7931471ba1821114627b3f3e97307654a",
+    "id": 125935598,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -74,48 +56,6 @@
     },
     "persistent_id": "e23727060a4615683711f8c5f431d1b250688d5212bc5af6ff46cf59161f714e",
     "id": 125934992,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506419",
-      "street": {
-        "id": 1684816,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.088195"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-01"
-    },
-    "persistent_id": "8d84dcd06776d6d62f9d9bfcb0a2f9cb5f0044f3c3bb9a4f2c75762eea836801",
-    "id": 125936667,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.505208",
-      "street": {
-        "id": 1684629,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.089485"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-03"
-    },
-    "persistent_id": "46991a025738da2c5b909e0afb9cced7931471ba1821114627b3f3e97307654a",
-    "id": 125935598,
     "location_subtype": "",
     "month": "2025-01"
   },

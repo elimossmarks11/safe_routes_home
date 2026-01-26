@@ -16,8 +16,8 @@
   },
   "route": {
     "route_index": 9,
-    "distance_meters": 819,
-    "duration_seconds": 676
+    "distance_meters": 804,
+    "duration_seconds": 663
   },
   "police_api": {
     "param_file": "ridley_road_market_bar_route_9_police_api_param.txt"

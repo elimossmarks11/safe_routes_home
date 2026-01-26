@@ -49,7 +49,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 126348129,
+    "id": 126349637,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -193,7 +193,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 126349637,
+    "id": 126348129,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -246,69 +246,6 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Court result unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "2bbb0da00719aba6b6e3c639902283b91361298deb3f71d9061d4b95e7b25241",
-    "id": 126367454,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547401",
-      "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
-      },
-      "longitude": "-0.075199"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
-    },
-    "persistent_id": "f8e179c98feae5cdc1899018237ee64f1c6ef3914b994268b50b432b5e44926d",
-    "id": 126367552,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547401",
-      "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
-      },
-      "longitude": "-0.075199"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
-    },
-    "persistent_id": "1ebc107b3a31b743022df8763c7058262aacd179e906dba02ef92da8902e893a",
-    "id": 126367611,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
       "category": "Unable to prosecute suspect",
       "date": "2025-02"
     },
@@ -321,69 +258,6 @@
     "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547401",
-      "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
-      },
-      "longitude": "-0.075199"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-02"
-    },
-    "persistent_id": "da34e2862df00c30a292d13bf9c483a2e0bf5b6e413cef702695727cac743514",
-    "id": 126368964,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546076",
-      "street": {
-        "id": 1686813,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075009"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-03"
-    },
-    "persistent_id": "e8268dce55ffc0929c58655da9680bc3f0b8ce30391755b63c65cc447f5b48a2",
-    "id": 126417848,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547401",
-      "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
-      },
-      "longitude": "-0.075199"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
-    },
-    "persistent_id": "3d8af92a10e064772bbab715e36253ca8398e2874aafa8d172bf0a70caadc997",
-    "id": 126367762,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.547939",
       "street": {
         "id": 1686633,
@@ -393,116 +267,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
+      "category": "Court result unavailable",
+      "date": "2025-09"
     },
-    "persistent_id": "9bc7f3f21b2c66aa26b39cb00041b714ddc526b7fd4755c512d862030b5a3457",
-    "id": 126365674,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547401",
-      "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
-      },
-      "longitude": "-0.075199"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-02"
-    },
-    "persistent_id": "91053b5d5afaedde075a4e09f1a9a3b725dbb4e5400bef5cd6b0c75c8d8d4909",
-    "id": 126366447,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.549267",
-      "street": {
-        "id": 1686697,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.075541"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-03"
-    },
-    "persistent_id": "3f5dce415b3096e1e85dd30d516601ccecfdfaaa3fef1371398997a893c16e57",
-    "id": 126417440,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548996",
-      "street": {
-        "id": 1686597,
-        "name": "On or near Gillett Place"
-      },
-      "longitude": "-0.075982"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
-    },
-    "persistent_id": "ffd0a1dcd0fe25b01bb4f1091162fc18aefca1828eb4e22d185979c2136dbfed",
-    "id": 126366105,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-04"
-    },
-    "persistent_id": "2349aa26f521ea59f6de7c9bb01a3916ce9876c3def993f8585f9cf2d5bda665",
-    "id": 126419674,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546076",
-      "street": {
-        "id": 1686813,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075009"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
-    },
-    "persistent_id": "ec2564cae4c0cc27879f686dbf7d89e7aaa1634e85d392530ff6bd624b0cecad",
-    "id": 126420781,
+    "persistent_id": "2bbb0da00719aba6b6e3c639902283b91361298deb3f71d9061d4b95e7b25241",
+    "id": 126367454,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -540,11 +309,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
     },
-    "persistent_id": "4eb97554d0e60d2cec2d1ac33a544890f3c003506efc9096daa4867b11ee7cf9",
-    "id": 126366694,
+    "persistent_id": "2349aa26f521ea59f6de7c9bb01a3916ce9876c3def993f8585f9cf2d5bda665",
+    "id": 126419674,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -594,20 +363,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.546076",
+      "latitude": "51.547939",
       "street": {
-        "id": 1686813,
-        "name": "On or near Supermarket"
+        "id": 1686633,
+        "name": "On or near Shopping Area"
       },
-      "longitude": "-0.075009"
+      "longitude": "-0.075678"
     },
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
       "date": "2025-02"
     },
-    "persistent_id": "a0885b6f9c9df753d8e642cca1455bf6388b6e1bf84302f72002bf7f83fbac8d",
-    "id": 126363851,
+    "persistent_id": "9bc7f3f21b2c66aa26b39cb00041b714ddc526b7fd4755c512d862030b5a3457",
+    "id": 126365674,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -615,20 +384,41 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547401",
+      "latitude": "51.547939",
       "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
+        "id": 1686633,
+        "name": "On or near Shopping Area"
       },
-      "longitude": "-0.075199"
+      "longitude": "-0.075678"
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
+      "category": "Unable to prosecute suspect",
       "date": "2025-02"
     },
-    "persistent_id": "a6a92a6b1bb235ea00fca7bbfdc604648ee2a0320f0269cb71aad8165b8038df",
-    "id": 126376516,
+    "persistent_id": "4eb97554d0e60d2cec2d1ac33a544890f3c003506efc9096daa4867b11ee7cf9",
+    "id": 126366694,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.549267",
+      "street": {
+        "id": 1686697,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.075541"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "3f5dce415b3096e1e85dd30d516601ccecfdfaaa3fef1371398997a893c16e57",
+    "id": 126417440,
     "location_subtype": "",
     "month": "2025-02"
   }

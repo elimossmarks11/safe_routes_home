@@ -3,24 +3,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.545711",
-      "street": {
-        "id": 1689897,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.054530"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 125848962,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.546808",
       "street": {
         "id": 1691373,
@@ -32,42 +14,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 125852814,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546808",
-      "street": {
-        "id": 1691373,
-        "name": "On or near Berger Road"
-      },
-      "longitude": "-0.043176"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 125859177,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546808",
-      "street": {
-        "id": 1691373,
-        "name": "On or near Berger Road"
-      },
-      "longitude": "-0.043176"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 125854618,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -111,6 +57,24 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.545711",
+      "street": {
+        "id": 1689897,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.054530"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125848962,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.547047",
       "street": {
         "id": 1690339,
@@ -122,6 +86,42 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 125853129,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546808",
+      "street": {
+        "id": 1691373,
+        "name": "On or near Berger Road"
+      },
+      "longitude": "-0.043176"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125854618,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546808",
+      "street": {
+        "id": 1691373,
+        "name": "On or near Berger Road"
+      },
+      "longitude": "-0.043176"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125859177,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -143,48 +143,6 @@
     },
     "persistent_id": "ad591d074020333edb5d9451a5f9515d5d98dc1da84d7886ea6b3a27ec9121e7",
     "id": 125930611,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.544907",
-      "street": {
-        "id": 1691028,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.046185"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-04"
-    },
-    "persistent_id": "093a32ffff04c5e65ed1fad82a1568132bb18474de42088af264e3f12535846c",
-    "id": 125863913,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546712",
-      "street": {
-        "id": 1690293,
-        "name": "On or near Ram Place"
-      },
-      "longitude": "-0.050882"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-03"
-    },
-    "persistent_id": "406a3a0c6c1a6c7cbd5acfcac318fe36746caf9a1609f0db457a38e88c5e5856",
-    "id": 125861134,
     "location_subtype": "",
     "month": "2025-01"
   },

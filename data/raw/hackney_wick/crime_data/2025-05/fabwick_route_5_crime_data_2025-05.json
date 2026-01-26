@@ -1,0 +1,101 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.542373",
+      "street": {
+        "id": 1693399,
+        "name": "On or near Hepscott Road"
+      },
+      "longitude": "-0.024849"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129599958,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.542373",
+      "street": {
+        "id": 1693399,
+        "name": "On or near Hepscott Road"
+      },
+      "longitude": "-0.024849"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129601144,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.542147",
+      "street": {
+        "id": 1693363,
+        "name": "On or near Rothbury Road"
+      },
+      "longitude": "-0.025840"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "7935d7a8d07312bc6cc39f8b04ed5abe9f7128ca47ec1259d451ea6e3305e59b",
+    "id": 129611415,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.536735",
+      "street": {
+        "id": 1693393,
+        "name": "On or near Hart Yard"
+      },
+      "longitude": "-0.023767"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "a43c6cded88841e2c866e32da29c588508066e25a7bed4e1d099497eb2eeeece",
+    "id": 129680112,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.535472",
+      "street": {
+        "id": 1693736,
+        "name": "On or near Iceland Road"
+      },
+      "longitude": "-0.021947"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-08"
+    },
+    "persistent_id": "f6e7b669f82d1dcb9a8141375ab628eeba03bb3622e34ec62403d1792769cc41",
+    "id": 129680879,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

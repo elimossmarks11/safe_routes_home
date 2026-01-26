@@ -30,11 +30,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-05"
+      "category": "Status update unavailable",
+      "date": "2025-09"
     },
-    "persistent_id": "593439df1fc0d320a48ea02eaf5ee3426482c334f865ee4287e796ce4b1cd512",
-    "id": 129612553,
+    "persistent_id": "fec064306d1ef83147db8951b999c46629c4226b76fcbfda25fb2d02ffc19551",
+    "id": 129615620,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -51,11 +51,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
     },
-    "persistent_id": "fec064306d1ef83147db8951b999c46629c4226b76fcbfda25fb2d02ffc19551",
-    "id": 129615620,
+    "persistent_id": "593439df1fc0d320a48ea02eaf5ee3426482c334f865ee4287e796ce4b1cd512",
+    "id": 129612553,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -77,27 +77,6 @@
     },
     "persistent_id": "2fa2a9ad7e2f7d19b7cf2ed5ec269a7a4386e247f779a9952f70d0c6aee5c0ca",
     "id": 129679105,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.497496",
-      "street": {
-        "id": 1685630,
-        "name": "On or near Cluny Place"
-      },
-      "longitude": "-0.082560"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-05"
-    },
-    "persistent_id": "03b0421892af5543a8f8c63bd9ecb2431fbc66ebce01c895ff2d26fe1c45cc53",
-    "id": 129611441,
     "location_subtype": "",
     "month": "2025-05"
   },

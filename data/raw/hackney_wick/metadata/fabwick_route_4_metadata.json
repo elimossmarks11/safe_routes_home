@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Fabwick",
+    "location": {
+      "latitude": 51.5428,
+      "longitude": -0.0233
+    }
+  },
+  "destination": {
+    "name": "St Mary Of Eton Church (Stop N)",
+    "location": {
+      "latitude": 51.545798,
+      "longitude": -0.030255200000000003
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 783,
+    "duration_seconds": 654
+  },
+  "police_api": {
+    "param_file": "fabwick_route_4_police_api_param.txt"
+  }
+}

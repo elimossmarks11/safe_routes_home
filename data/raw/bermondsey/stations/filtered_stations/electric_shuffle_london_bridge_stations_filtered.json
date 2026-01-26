@@ -7,6 +7,14 @@
   },
   "selected_stations": [
     {
+      "types": [
+        "transit_station",
+        "bus_stop",
+        "train_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Station Approach Rd, London SE1 9SP, UK",
       "location": {
         "latitude": 51.5042625,
         "longitude": -0.0848024
@@ -15,15 +23,22 @@
         "text": "London Bridge",
         "languageCode": "en"
       },
-      "primaryType": "transit_station",
-      "postalAddress": {
-        "postalCode": "SE1 9SP"
+      "primaryTypeDisplayName": {
+        "text": "Transit station",
+        "languageCode": "en-US"
       },
       "distance_m": 108.0062911873545,
       "bearing": 285.67971416955515,
       "sector": 6
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 9GP, UK",
       "location": {
         "latitude": 51.505306,
         "longitude": -0.086515
@@ -32,12 +47,22 @@
         "text": "London Bridge Bus Station (Stop A)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 265.7153544212713,
       "bearing": 303.13032283072704,
       "sector": 6
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2DA, UK",
       "location": {
         "latitude": 51.505084100000005,
         "longitude": -0.08410379999999999
@@ -46,12 +71,22 @@
         "text": "Hays Galleria (Stop H)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 132.7650806513292,
       "bearing": 335.22632644736524,
       "sector": 7
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London EC4R 3TN, UK",
       "location": {
         "latitude": 51.509502,
         "longitude": -0.087002
@@ -60,12 +95,22 @@
         "text": "Monument (Stop P)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 663.2791593149566,
       "bearing": 337.2777772657753,
       "sector": 7
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2JX, UK",
       "location": {
         "latitude": 51.5027891,
         "longitude": -0.07796539999999999
@@ -74,12 +119,22 @@
         "text": "Tower Bridge Road (Stop K)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 393.0200508396941,
       "bearing": 110.03284789367507,
       "sector": 2
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2XA, UK",
       "location": {
         "latitude": 51.5018623,
         "longitude": -0.0779562
@@ -88,12 +143,22 @@
         "text": "Druid Street (Stop E)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 439.6710336288683,
       "bearing": 122.72476139947094,
       "sector": 2
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 3LS, UK",
       "location": {
         "latitude": 51.5007807,
         "longitude": -0.07818549999999999
@@ -102,12 +167,22 @@
         "text": "Druid Street (Stop C)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 503.4532139917276,
       "bearing": 135.316696656619,
       "sector": 3
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 3FT, UK",
       "location": {
         "latitude": 51.4981843,
         "longitude": -0.07943220000000001
@@ -116,12 +191,22 @@
         "text": "Abbey Street (Stop H)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 699.9047777585183,
       "bearing": 157.50889274231633,
       "sector": 3
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Kipling Estate, London SE1 3RQ, UK",
       "location": {
         "latitude": 51.4997202,
         "longitude": -0.08677499999999999
@@ -130,12 +215,22 @@
         "text": "Staple Street",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 533.2246740689486,
       "bearing": 206.81487759874,
       "sector": 4
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London EC3R 7QR, UK",
       "location": {
         "latitude": 51.50995640000001,
         "longitude": -0.0815053
@@ -144,12 +239,22 @@
         "text": "Great Tower Street (Stop TT)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 673.8679980647908,
       "bearing": 10.621098999016056,
       "sector": 0
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 4YB, UK",
       "location": {
         "latitude": 51.500282,
         "longitude": -0.09238800000000001
@@ -158,12 +263,22 @@
         "text": "Borough Station / Great Dover Street (Stop E)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 752.7398753969783,
       "bearing": 236.68977017747864,
       "sector": 5
     },
     {
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Borough High St, London SE1 1JX, UK",
       "location": {
         "latitude": 51.501244899999996,
         "longitude": -0.0936138
@@ -172,9 +287,9 @@
         "text": "Borough",
         "languageCode": "en"
       },
-      "primaryType": "subway_station",
-      "postalAddress": {
-        "postalCode": "SE1 1JX"
+      "primaryTypeDisplayName": {
+        "text": "Subway Station",
+        "languageCode": "en-US"
       },
       "distance_m": 776.8423481030698,
       "bearing": 246.77816428921085,

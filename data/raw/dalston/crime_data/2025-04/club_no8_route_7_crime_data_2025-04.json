@@ -3,24 +3,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.550394",
-      "street": {
-        "id": 1686549,
-        "name": "On or near Selsea Place"
-      },
-      "longitude": "-0.076197"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127557399,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.551378",
       "street": {
         "id": 1685226,
@@ -32,6 +14,27 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 127553135,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.550736",
+      "street": {
+        "id": 1685372,
+        "name": "On or near Auriga Mews"
+      },
+      "longitude": "-0.083395"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-06"
+    },
+    "persistent_id": "7e08c3c5e527aff27c7f5bc31854776f530a9d0e07e1b36bcafa384c1773e119",
+    "id": 127665391,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -91,10 +94,10 @@
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2025-06"
+      "date": "2025-08"
     },
-    "persistent_id": "682c0c6cca9e8a37c87749f1249e925a11d3c1f4e1be1a4f9998873287153d75",
-    "id": 127661426,
+    "persistent_id": "d52b9a5aca0e61ff765133fb9b872cb7713bba7b6920445f8542c20f817b467b",
+    "id": 127660221,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -132,53 +135,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Awaiting court outcome",
+      "category": "Unable to prosecute suspect",
       "date": "2025-06"
     },
-    "persistent_id": "7e08c3c5e527aff27c7f5bc31854776f530a9d0e07e1b36bcafa384c1773e119",
-    "id": 127665391,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.550736",
-      "street": {
-        "id": 1685372,
-        "name": "On or near Auriga Mews"
-      },
-      "longitude": "-0.083395"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-08"
-    },
-    "persistent_id": "d52b9a5aca0e61ff765133fb9b872cb7713bba7b6920445f8542c20f817b467b",
-    "id": 127660221,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.550394",
-      "street": {
-        "id": 1686549,
-        "name": "On or near Selsea Place"
-      },
-      "longitude": "-0.076197"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-09"
-    },
-    "persistent_id": "25cd62e0bf4b7c69612745e4f25bf1da7081425383a26982418eb948ff5f47c1",
-    "id": 127657833,
+    "persistent_id": "682c0c6cca9e8a37c87749f1249e925a11d3c1f4e1be1a4f9998873287153d75",
+    "id": 127661426,
     "location_subtype": "",
     "month": "2025-04"
   }

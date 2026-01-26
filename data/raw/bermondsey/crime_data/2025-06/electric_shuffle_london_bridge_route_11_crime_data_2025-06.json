@@ -18,63 +18,6 @@
     "month": "2025-06"
   },
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506100",
-      "street": {
-        "id": 1684794,
-        "name": "On or near Duke Street Hill"
-      },
-      "longitude": "-0.088540"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129457133,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.505414",
-      "street": {
-        "id": 1684743,
-        "name": "On or near London Bridge Street"
-      },
-      "longitude": "-0.088338"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129459637,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.503329",
-      "street": {
-        "id": 1684255,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.091725"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-09"
-    },
-    "persistent_id": "f75eb766d9a8b0959624cbd2c365b81e58abacb00935c9fbedfd667607ed1e64",
-    "id": 129536389,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
     "category": "public-order",
     "location_type": "Force",
     "location": {
@@ -96,23 +39,23 @@
     "month": "2025-06"
   },
   {
-    "category": "violent-crime",
+    "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.505208",
+      "latitude": "51.503329",
       "street": {
-        "id": 1684629,
+        "id": 1684255,
         "name": "On or near Borough High Street"
       },
-      "longitude": "-0.089485"
+      "longitude": "-0.091725"
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
     },
-    "persistent_id": "3e018424d61bf8de3e366966a9243f3a297d077187b1fafba5497f2171ffd06d",
-    "id": 129474595,
+    "persistent_id": "f75eb766d9a8b0959624cbd2c365b81e58abacb00935c9fbedfd667607ed1e64",
+    "id": 129536389,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -150,32 +93,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-08"
+      "category": "Status update unavailable",
+      "date": "2025-10"
     },
-    "persistent_id": "8aeba0c40e2cb9f34bc74123ccb0bb359d3fe42c048ebee1fcd8eff1ee5892aa",
-    "id": 129547117,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.505414",
-      "street": {
-        "id": 1684743,
-        "name": "On or near London Bridge Street"
-      },
-      "longitude": "-0.088338"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-06"
-    },
-    "persistent_id": "863c81d0a88190b3090029b393fef35c299096f728f23b9c40f6c4bed00e9077",
-    "id": 129544859,
+    "persistent_id": "756cead8733a114f98acc214e8b6fcaea46921e6bfc5c982eb96d67cff635d48",
+    "id": 129504922,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -213,11 +135,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
     },
-    "persistent_id": "1ce47ce71a3ccdbc0a364539dd82de488b586702c631ac9191d9dc8b3891c6bc",
-    "id": 129540649,
+    "persistent_id": "a048152f61c40843433b59112bdb8e35249d55b820c82a695ca12f0d37f1b246",
+    "id": 129538401,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -255,11 +177,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-06"
+      "category": "Status update unavailable",
+      "date": "2025-10"
     },
-    "persistent_id": "a048152f61c40843433b59112bdb8e35249d55b820c82a695ca12f0d37f1b246",
-    "id": 129538401,
+    "persistent_id": "1ce47ce71a3ccdbc0a364539dd82de488b586702c631ac9191d9dc8b3891c6bc",
+    "id": 129540649,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -267,20 +189,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.504826",
+      "latitude": "51.503391",
       "street": {
-        "id": 1685270,
-        "name": "On or near London Bridge"
+        "id": 1684343,
+        "name": "On or near Borough High Street"
       },
-      "longitude": "-0.084299"
+      "longitude": "-0.091679"
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
+      "category": "Awaiting court outcome",
+      "date": "2025-08"
     },
-    "persistent_id": "cbaea2288a7bf33d430db6aaf79e61549c109d3d40ecd36335a696969dc8d108",
-    "id": 129501998,
+    "persistent_id": "8aeba0c40e2cb9f34bc74123ccb0bb359d3fe42c048ebee1fcd8eff1ee5892aa",
+    "id": 129547117,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -302,6 +224,48 @@
     },
     "persistent_id": "af8f4036d2808fd3f936aa6a632c87cce42046a88504a0732054b67036d31965",
     "id": 129481712,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505208",
+      "street": {
+        "id": 1684629,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.089485"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "3e018424d61bf8de3e366966a9243f3a297d077187b1fafba5497f2171ffd06d",
+    "id": 129474595,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504826",
+      "street": {
+        "id": 1685270,
+        "name": "On or near London Bridge"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "3a66236beabc20c14c98340b521028b264df7b7759c1c0d71ea627111e5d0777",
+    "id": 129519229,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -339,53 +303,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-06"
-    },
-    "persistent_id": "3a66236beabc20c14c98340b521028b264df7b7759c1c0d71ea627111e5d0777",
-    "id": 129519229,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506092",
-      "street": {
-        "id": 1684728,
-        "name": "On or near Railway Approach"
-      },
-      "longitude": "-0.088554"
-    },
-    "context": "",
-    "outcome_status": {
       "category": "Status update unavailable",
       "date": "2025-10"
     },
-    "persistent_id": "fa9bb6c6c24c388cbeb27e8d3e98dfbfcd380cacd6ec25688e54a690c22ae31b",
-    "id": 129507690,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.503391",
-      "street": {
-        "id": 1684343,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.091679"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
-    },
-    "persistent_id": "756cead8733a114f98acc214e8b6fcaea46921e6bfc5c982eb96d67cff635d48",
-    "id": 129504922,
+    "persistent_id": "cbaea2288a7bf33d430db6aaf79e61549c109d3d40ecd36335a696969dc8d108",
+    "id": 129501998,
     "location_subtype": "",
     "month": "2025-06"
   }

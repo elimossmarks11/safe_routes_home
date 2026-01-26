@@ -1,22 +1,22 @@
 [
   {
-    "category": "public-order",
+    "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.505386",
+      "latitude": "51.505208",
       "street": {
-        "id": 1684575,
-        "name": "On or near Bedale Street"
+        "id": 1684629,
+        "name": "On or near Borough High Street"
       },
-      "longitude": "-0.089938"
+      "longitude": "-0.089485"
     },
     "context": "",
     "outcome_status": {
-      "category": "Further action is not in the public interest",
-      "date": "2025-01"
+      "category": "Court result unavailable",
+      "date": "2025-11"
     },
-    "persistent_id": "f06569e37aed767935f72cfe7ad4006d9f08ec9560e7c2c805de460842cd9e59",
-    "id": 125931798,
+    "persistent_id": "5d43693f31ab901d2bdbe79c8dead95d9ae2857988d458239cc5a690f071648f",
+    "id": 125930199,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -59,27 +59,6 @@
     },
     "persistent_id": "e23727060a4615683711f8c5f431d1b250688d5212bc5af6ff46cf59161f714e",
     "id": 125934992,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.505208",
-      "street": {
-        "id": 1684629,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.089485"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Court result unavailable",
-      "date": "2025-11"
-    },
-    "persistent_id": "5d43693f31ab901d2bdbe79c8dead95d9ae2857988d458239cc5a690f071648f",
-    "id": 125930199,
     "location_subtype": "",
     "month": "2025-01"
   }

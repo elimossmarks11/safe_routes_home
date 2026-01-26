@@ -24,20 +24,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.506171",
+      "latitude": "51.505578",
       "street": {
-        "id": 1684785,
-        "name": "On or near Duke Street Hill"
+        "id": 1684868,
+        "name": "On or near Railway Approach"
       },
-      "longitude": "-0.088479"
+      "longitude": "-0.087409"
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-10"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-11"
     },
-    "persistent_id": "97dbab33374b61f7c7ac7216269f1bd4d78cfafdb0c7f4ab47526f82d4349cee",
-    "id": 129605608,
+    "persistent_id": "4d209c413147d5cbe558c6bb7c6d91056e248bceb2e7b31503074ec79ea01927",
+    "id": 129681771,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -59,6 +59,27 @@
     },
     "persistent_id": "5d7a103b2616c02cb26ac832a3b05d5bd9645eecb7b5a1d5fdc2935a938dd2b1",
     "id": 129683747,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506171",
+      "street": {
+        "id": 1684785,
+        "name": "On or near Duke Street Hill"
+      },
+      "longitude": "-0.088479"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-10"
+    },
+    "persistent_id": "97dbab33374b61f7c7ac7216269f1bd4d78cfafdb0c7f4ab47526f82d4349cee",
+    "id": 129605608,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -96,53 +117,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-11"
-    },
-    "persistent_id": "4d209c413147d5cbe558c6bb7c6d91056e248bceb2e7b31503074ec79ea01927",
-    "id": 129681771,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.505578",
-      "street": {
-        "id": 1684868,
-        "name": "On or near Railway Approach"
-      },
-      "longitude": "-0.087409"
-    },
-    "context": "",
-    "outcome_status": {
       "category": "Status update unavailable",
       "date": "2025-09"
     },
     "persistent_id": "b39fa3427ed72bdc3132d325e87d8d3deebabf1e3a65c8a2c136115f55dc9a6b",
     "id": 129689428,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506419",
-      "street": {
-        "id": 1684816,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.088195"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "b9b307b5031469fcfdac3de504d1c441376422c430a7da7897fe5e75e8fde488",
-    "id": 129688267,
     "location_subtype": "",
     "month": "2025-05"
   }

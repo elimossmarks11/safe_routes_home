@@ -3,6 +3,42 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.556356",
+      "street": {
+        "id": 1686726,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074865"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127088285,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551576",
+      "street": {
+        "id": 1686831,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074792"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127092387,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.553879",
       "street": {
         "id": 1686731,
@@ -39,42 +75,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127078616,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.551576",
-      "street": {
-        "id": 1686831,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074792"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127092387,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.551576",
       "street": {
         "id": 1686831,
@@ -103,7 +103,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127073802,
+    "id": 127078616,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -121,7 +121,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127088285,
+    "id": 127073802,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -161,111 +161,6 @@
     },
     "persistent_id": "c8c1c3c4280516830833723c533f409b08f14366309cc16534949e3a43cac4bc",
     "id": 127189208,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Court result unavailable",
-      "date": "2025-11"
-    },
-    "persistent_id": "22054806222b4b1fbae86a26b85571bbed452a27ec1c832b993f7784466e085e",
-    "id": 127119859,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-07"
-    },
-    "persistent_id": "88ecfa67e8e93ae20f88471942c7ec257c6d8d39aea16048fb29a093a36ff510",
-    "id": 127189106,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "fcab41e76f1b7b3562aa6a73ae1c6d343f00492599ba5083484ba66267c1e99d",
-    "id": 127191554,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "51a744648e1bd2f1d34d232fc22bd11fcd0eca652816e1a62691d0f6cdca39e9",
-    "id": 127191591,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "f8a937b48907ca0144dd8a3ee276631e829b45cf5bcfcfd758b6dcaf1ba647ad",
-    "id": 127191428,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -345,6 +240,90 @@
     },
     "context": "",
     "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "f8a937b48907ca0144dd8a3ee276631e829b45cf5bcfcfd758b6dcaf1ba647ad",
+    "id": 127191428,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "51a744648e1bd2f1d34d232fc22bd11fcd0eca652816e1a62691d0f6cdca39e9",
+    "id": 127191591,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "fcab41e76f1b7b3562aa6a73ae1c6d343f00492599ba5083484ba66267c1e99d",
+    "id": 127191554,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-07"
+    },
+    "persistent_id": "88ecfa67e8e93ae20f88471942c7ec257c6d8d39aea16048fb29a093a36ff510",
+    "id": 127189106,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
       "category": "Court result unavailable",
       "date": "2025-09"
     },
@@ -375,7 +354,7 @@
     "month": "2025-03"
   },
   {
-    "category": "violent-crime",
+    "category": "public-order",
     "location_type": "Force",
     "location": {
       "latitude": "51.557857",
@@ -387,53 +366,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
+      "category": "Court result unavailable",
+      "date": "2025-11"
     },
-    "persistent_id": "bad63c5733704e4ca3e8f38794dcc451ceb4e0c040117b2623fed3d1b67175ee",
-    "id": 127157544,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552008",
-      "street": {
-        "id": 1686728,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075350"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-03"
-    },
-    "persistent_id": "97cee6a605713c04e6d299e1a8ce57f1b98f488d48faaad7011e696171a1ddf0",
-    "id": 127112843,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552008",
-      "street": {
-        "id": 1686728,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075350"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "6f15481008bac825bc6048b5a16698793ac44bb97fdd10cb6ca14edb69172918",
-    "id": 127105713,
+    "persistent_id": "22054806222b4b1fbae86a26b85571bbed452a27ec1c832b993f7784466e085e",
+    "id": 127119859,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -453,71 +390,8 @@
       "category": "Investigation complete; no suspect identified",
       "date": "2025-03"
     },
-    "persistent_id": "a47608f96781d7931288f79c596797676c887c065e402ae72d77c6a42e400783",
-    "id": 127189763,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557499",
-      "street": {
-        "id": 1686763,
-        "name": "On or near Victorian Road"
-      },
-      "longitude": "-0.075147"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-07"
-    },
-    "persistent_id": "8bd8ebd557ed1018096eac5beb67d2346540de7c28b440da0839fd330378cb01",
-    "id": 127192384,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-03"
-    },
-    "persistent_id": "45f8858af0cb7d5d1260044ddaca4ef6f08c9c7b614f0522f970937cf381b76f",
-    "id": 127194869,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Court result unavailable",
-      "date": "2025-10"
-    },
-    "persistent_id": "1f475df3ad63642966c3f2098447a65584ab3561ae664b16579b02c18951994a",
-    "id": 127200461,
+    "persistent_id": "0f5e5a96fae4a97410e9d569ba1d2e2bd80db64a3fd3dbac1270c39c4dd825a3",
+    "id": 127191272,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -600,8 +474,8 @@
       "category": "Investigation complete; no suspect identified",
       "date": "2025-03"
     },
-    "persistent_id": "0f5e5a96fae4a97410e9d569ba1d2e2bd80db64a3fd3dbac1270c39c4dd825a3",
-    "id": 127191272,
+    "persistent_id": "a47608f96781d7931288f79c596797676c887c065e402ae72d77c6a42e400783",
+    "id": 127189763,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -609,20 +483,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.557499",
+      "latitude": "51.557857",
       "street": {
-        "id": 1686763,
-        "name": "On or near Victorian Road"
+        "id": 1686850,
+        "name": "On or near Police Station"
       },
-      "longitude": "-0.075147"
+      "longitude": "-0.074819"
     },
     "context": "",
     "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-10"
+      "category": "Status update unavailable",
+      "date": "2025-07"
     },
-    "persistent_id": "7e51f076cb368cd55f1ec85a3b54b95810c3449d2fcc18b58cf0ac025bbabe86",
-    "id": 127193338,
+    "persistent_id": "bad63c5733704e4ca3e8f38794dcc451ceb4e0c040117b2623fed3d1b67175ee",
+    "id": 127157544,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -644,6 +518,48 @@
     },
     "persistent_id": "55e61ad80b07b6bda5f56e733b6d207644b09cc218f632af605ddfcf2f98bb0c",
     "id": 127195247,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "45f8858af0cb7d5d1260044ddaca4ef6f08c9c7b614f0522f970937cf381b76f",
+    "id": 127194869,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "1f475df3ad63642966c3f2098447a65584ab3561ae664b16579b02c18951994a",
+    "id": 127200461,
     "location_subtype": "",
     "month": "2025-03"
   }

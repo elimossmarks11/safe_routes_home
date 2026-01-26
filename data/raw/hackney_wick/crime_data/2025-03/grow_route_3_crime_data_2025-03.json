@@ -13,43 +13,25 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127080911,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.543465",
-      "street": {
-        "id": 1693386,
-        "name": "On or near Wallis Road"
-      },
-      "longitude": "-0.025581"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127081365,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.543465",
-      "street": {
-        "id": 1693386,
-        "name": "On or near Wallis Road"
-      },
-      "longitude": "-0.025581"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
     "id": 127080148,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.543465",
+      "street": {
+        "id": 1693386,
+        "name": "On or near Wallis Road"
+      },
+      "longitude": "-0.025581"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127071057,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -85,25 +67,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127071057,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.537639",
-      "street": {
-        "id": 1693168,
-        "name": "On or near East Cross Route"
-      },
-      "longitude": "-0.025689"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127072168,
+    "id": 127080911,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -144,28 +108,7 @@
     "month": "2025-03"
   },
   {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.535624",
-      "street": {
-        "id": 1693791,
-        "name": "On or near Iceland Road"
-      },
-      "longitude": "-0.021378"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "aa3331c8720a4ee56f293dd5c7d94b69d5eb7a45d540dc9ec1a4cc2db3209141",
-    "id": 127192069,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
+    "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
       "latitude": "51.543465",
@@ -176,12 +119,30 @@
       "longitude": "-0.025581"
     },
     "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-11"
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127081365,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.536735",
+      "street": {
+        "id": 1693393,
+        "name": "On or near Hart Yard"
+      },
+      "longitude": "-0.023767"
     },
-    "persistent_id": "4dfb2a0d0e10bb8c83acae33bfc7ad99b6d300930f8d3c8ffa33c3d57df1f5fe",
-    "id": 127194888,
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "fd34bde4fce5a46c2eb20953f9da921d4573b76e085a2cb8263577b7de5c055b",
+    "id": 127203473,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -210,20 +171,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.536735",
+      "latitude": "51.543465",
       "street": {
-        "id": 1693393,
-        "name": "On or near Hart Yard"
+        "id": 1693386,
+        "name": "On or near Wallis Road"
       },
-      "longitude": "-0.023767"
+      "longitude": "-0.025581"
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-07"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-11"
     },
-    "persistent_id": "fd34bde4fce5a46c2eb20953f9da921d4573b76e085a2cb8263577b7de5c055b",
-    "id": 127203473,
+    "persistent_id": "4dfb2a0d0e10bb8c83acae33bfc7ad99b6d300930f8d3c8ffa33c3d57df1f5fe",
+    "id": 127194888,
     "location_subtype": "",
     "month": "2025-03"
   }

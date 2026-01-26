@@ -31,7 +31,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 125854445,
+    "id": 125840816,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -49,7 +49,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 125840816,
+    "id": 125854445,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -67,31 +67,10 @@
     "context": "",
     "outcome_status": {
       "category": "Awaiting court outcome",
-      "date": "2025-07"
+      "date": "2025-09"
     },
-    "persistent_id": "51224d56867f67a9e872da1fb825697ac993620fb3e2fdf96e83b5749cea879a",
-    "id": 125933831,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.555334",
-      "street": {
-        "id": 1686858,
-        "name": "On or near Petrol Station"
-      },
-      "longitude": "-0.074229"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-02"
-    },
-    "persistent_id": "f6bdbe56e3461fc0b61566924f370e85909f1c9dc9adb049c4d030661070386f",
-    "id": 125867316,
+    "persistent_id": "bdf46e0d861fceadc524fc50357936b695219fb7a40d67ba5a89e4a6017bf8e7",
+    "id": 125931946,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -130,10 +109,10 @@
     "context": "",
     "outcome_status": {
       "category": "Awaiting court outcome",
-      "date": "2025-09"
+      "date": "2025-07"
     },
-    "persistent_id": "bdf46e0d861fceadc524fc50357936b695219fb7a40d67ba5a89e4a6017bf8e7",
-    "id": 125931946,
+    "persistent_id": "51224d56867f67a9e872da1fb825697ac993620fb3e2fdf96e83b5749cea879a",
+    "id": 125933831,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -267,27 +246,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.552453",
-      "street": {
-        "id": 1686478,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075634"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-10"
-    },
-    "persistent_id": "fc7f6a7bb7d03fdee9a502d429bc83d850874c427b402c151069bde1b36e2e89",
-    "id": 125930220,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.557857",
       "street": {
         "id": 1686850,
@@ -330,27 +288,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.552453",
-      "street": {
-        "id": 1686478,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075634"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-03"
-    },
-    "persistent_id": "3237b00e3090fc09d39477c6f98b5a2d047bdfa0973d5cb23e6a8e9da6e9b0fc",
-    "id": 125861569,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.553879",
       "street": {
         "id": 1686731,
@@ -365,27 +302,6 @@
     },
     "persistent_id": "3b00d4103f59921856a44077eee2418479c42324edcfed2c93cef33aa8f9a233",
     "id": 125864161,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552453",
-      "street": {
-        "id": 1686478,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075634"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-10"
-    },
-    "persistent_id": "79279f480b048fd7a1fe2a3536d2ba782ecc6a9c60dee41edcc9e8ec70baefad",
-    "id": 125861070,
     "location_subtype": "",
     "month": "2025-01"
   },

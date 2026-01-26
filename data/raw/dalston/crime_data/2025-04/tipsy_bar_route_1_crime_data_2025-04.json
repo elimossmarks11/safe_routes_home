@@ -13,7 +13,79 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127558216,
+    "id": 127551108,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127556286,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127564046,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127551616,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127562937,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -49,7 +121,25 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127562937,
+    "id": 127558216,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127557846,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -111,42 +201,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127546367,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127547558,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548448",
       "street": {
         "id": 1686720,
@@ -180,168 +234,6 @@
     "month": "2025-04"
   },
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127550016,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127551108,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127551616,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127553888,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127557846,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127561280,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127556286,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127564046,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127543031,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
     "category": "public-order",
     "location_type": "Force",
     "location": {
@@ -359,27 +251,6 @@
     },
     "persistent_id": "7c2a9b3a6107c7afb9d5795e4e654b13e30c76251b472ab6cd32d4068fae79e7",
     "id": 127581301,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "b644cace8c68dd55bbe50a95b8c2ed638961def2f17dfaa5d71ef9f8b43c1682",
-    "id": 127581355,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -408,27 +279,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.548418",
-      "street": {
-        "id": 1686770,
-        "name": "On or near Winchester Place"
-      },
-      "longitude": "-0.074723"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-07"
-    },
-    "persistent_id": "c943e99c30734b11bca4ba45257d886573ee130fb66267325c843677081e0a71",
-    "id": 127576358,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548448",
       "street": {
         "id": 1686720,
@@ -443,90 +293,6 @@
     },
     "persistent_id": "da8c6beb45e21f2324b6049185e94ade342af245f04c3d1491000d0467ed7496",
     "id": 127574280,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-08"
-    },
-    "persistent_id": "9c1ea9f88370e743545c3ca1aaf1a05c827f60506c3426af10dc9f82b64dfd2d",
-    "id": 127570832,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-04"
-    },
-    "persistent_id": "db404a7a34916ec48420b8d379a232bf9c86614b7b1cce9e49408033ca317c4e",
-    "id": 127566568,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "b197b84ec059630827d893c97400a2a439079506a01d1267ba057868293ec0ec",
-    "id": 127565953,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546076",
-      "street": {
-        "id": 1686813,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075009"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "e9eaf4dd06f2eedb841bdd6bee8e21800389c7f4ef211daeeb87828ca44c231c",
-    "id": 127608585,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -555,27 +321,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-04"
-    },
-    "persistent_id": "7b16c8fd6964cedfc3eccb91934b7e326ec6a3a500d55d7f94306d827faf77e7",
-    "id": 127664983,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.547401",
       "street": {
         "id": 1686696,
@@ -597,251 +342,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.546076",
+      "latitude": "51.548448",
       "street": {
-        "id": 1686813,
-        "name": "On or near Supermarket"
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
       },
-      "longitude": "-0.075009"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "a860adb3f4960c5a05da1bfde60739532c7d7a887d502bcd452358745698056f",
-    "id": 127664555,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-08"
-    },
-    "persistent_id": "a3d18aa0686ad07af931da9c23107a769fe91be3067eefc4fe15c8ea03cb2ea8",
-    "id": 127661715,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548418",
-      "street": {
-        "id": 1686770,
-        "name": "On or near Winchester Place"
-      },
-      "longitude": "-0.074723"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-08"
-    },
-    "persistent_id": "2ae19aabc8de6ce67e81252478cb0148b545b1f43a93c1faeca6d1968f5947a4",
-    "id": 127659653,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548418",
-      "street": {
-        "id": 1686770,
-        "name": "On or near Winchester Place"
-      },
-      "longitude": "-0.074723"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-07"
-    },
-    "persistent_id": "101d4647618bd29d6c9d041aed9907a716b2d710a78b6604ed87817cd67444a6",
-    "id": 127659350,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548418",
-      "street": {
-        "id": 1686770,
-        "name": "On or near Winchester Place"
-      },
-      "longitude": "-0.074723"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-06"
-    },
-    "persistent_id": "467ca766899593253845321eb939e4567d8cf467eef6bee0fb6dc3e2db90b7da",
-    "id": 127659349,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.549307",
-      "street": {
-        "id": 1686753,
-        "name": "On or near Birkbeck Mews"
-      },
-      "longitude": "-0.074642"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-09"
-    },
-    "persistent_id": "e12580681d278415344ebb6f15c23f10cc085fa4f531e4fa613abe9b456d4b2b",
-    "id": 127612524,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "5310b1d72dd8ea15db8530a4963b1ac397caeabd88700e8a0b754458259b4543",
-    "id": 127579088,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.549267",
-      "street": {
-        "id": 1686697,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.075541"
+      "longitude": "-0.075414"
     },
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
       "date": "2025-07"
     },
-    "persistent_id": "888ad09d188a55218b09d5fb4afda8089f5adbe32d4ce9a2a9e279589a6800a5",
-    "id": 127577828,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.551055",
-      "street": {
-        "id": 1686641,
-        "name": "On or near Theatre/concert Hall"
-      },
-      "longitude": "-0.075405"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-07"
-    },
-    "persistent_id": "b60252f1d526836eaf755024684a63db1ef352698b8a21f3375217076020caec",
-    "id": 127576312,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548418",
-      "street": {
-        "id": 1686770,
-        "name": "On or near Winchester Place"
-      },
-      "longitude": "-0.074723"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-08"
-    },
-    "persistent_id": "aa1aab189f7293ba45a1b1c37f4cc518a35b6f5446b77ca4f71d0288fbe88567",
-    "id": 127659348,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.549267",
-      "street": {
-        "id": 1686697,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.075541"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-11"
-    },
-    "persistent_id": "2bfb630182b2d4d2aac37714ff2cb5ccee4fca0733589bc002f686d9df292438",
-    "id": 127663313,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.549267",
-      "street": {
-        "id": 1686697,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.075541"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-08"
-    },
-    "persistent_id": "ebf540dd55c4c44aee4e29d9281cc5fb6ccb5828587e73d056ae12803cef7659",
-    "id": 127659773,
+    "persistent_id": "b197b84ec059630827d893c97400a2a439079506a01d1267ba057868293ec0ec",
+    "id": 127565953,
     "location_subtype": "",
     "month": "2025-04"
   }

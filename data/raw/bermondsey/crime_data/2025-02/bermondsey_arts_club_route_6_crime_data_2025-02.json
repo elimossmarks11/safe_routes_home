@@ -16,26 +16,5 @@
     "id": 126356025,
     "location_subtype": "",
     "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501461",
-      "street": {
-        "id": 1685599,
-        "name": "On or near Carmarthen Place"
-      },
-      "longitude": "-0.082538"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-03"
-    },
-    "persistent_id": "fa777d9bef3604e6edcc9633202a69d940a58d0a97d42dcad16b259ca80374af",
-    "id": 126376825,
-    "location_subtype": "",
-    "month": "2025-02"
   }
 ]

@@ -16,8 +16,8 @@
   },
   "route": {
     "route_index": 13,
-    "distance_meters": 1128,
-    "duration_seconds": 942
+    "distance_meters": 1112,
+    "duration_seconds": 929
   },
   "police_api": {
     "param_file": "the_speakeasy_route_13_police_api_param.txt"

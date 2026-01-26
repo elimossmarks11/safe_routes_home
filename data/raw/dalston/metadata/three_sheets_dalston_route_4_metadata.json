@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Three Sheets Dalston",
+    "location": {
+      "latitude": 51.544,
+      "longitude": -0.0759
+    }
+  },
+  "destination": {
+    "name": "Haggerston",
+    "location": {
+      "latitude": 51.5387231,
+      "longitude": -0.07541529999999999
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 659,
+    "duration_seconds": 555
+  },
+  "police_api": {
+    "param_file": "three_sheets_dalston_route_4_police_api_param.txt"
+  }
+}

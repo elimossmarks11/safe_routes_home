@@ -1,0 +1,23 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.538983",
+      "street": {
+        "id": 1684969,
+        "name": "On or near Park Place"
+      },
+      "longitude": "-0.086167"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "7d388d22a5b386385fb7583a661a5fc53910c212af54b1cc2d3ba0342f720e3f",
+    "id": 126377422,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

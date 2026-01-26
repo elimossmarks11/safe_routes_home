@@ -19,26 +19,5 @@
     "id": 126417724,
     "location_subtype": "",
     "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.551188",
-      "street": {
-        "id": 1686767,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074750"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-02"
-    },
-    "persistent_id": "f7394ab5faf43f1fe1edc61d62b24d82864caed77107f2364e23ea8f49cb07f5",
-    "id": 126361882,
-    "location_subtype": "",
-    "month": "2025-02"
   }
 ]

@@ -7,6 +7,13 @@
   },
   "selected_stations": [
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 3DF, UK",
       "location": {
         "latitude": 51.5463044,
         "longitude": -0.07367209999999999
@@ -15,12 +22,22 @@
         "text": "Dalston Lane /Dalston Junction Station (Stop K)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 25.042479512495646,
       "bearing": 115.11813883606635,
       "sector": 2
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 3AZ, UK",
       "location": {
         "latitude": 51.546211,
         "longitude": -0.073362
@@ -29,12 +46,22 @@
         "text": "Dalston Junction Station (Stop H)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 48.86761316874221,
       "bearing": 115.47090439528881,
       "sector": 2
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 3DD, UK",
       "location": {
         "latitude": 51.546181,
         "longitude": -0.074603
@@ -43,12 +70,23 @@
         "text": "Dalston Junction Station (Stop G)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 48.28756692063909,
       "bearing": 239.71497074533025,
       "sector": 5
     },
     {
+      "types": [
+        "transit_station",
+        "bus_stop",
+        "train_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 4AH, UK",
       "location": {
         "latitude": 51.5459999,
         "longitude": -0.0751485
@@ -57,12 +95,22 @@
         "text": "Dalston Junction",
         "languageCode": "en"
       },
-      "primaryType": "transit_station",
+      "primaryTypeDisplayName": {
+        "text": "Transit station",
+        "languageCode": "en-US"
+      },
       "distance_m": 91.03115712285037,
       "bearing": 240.7437166608733,
       "sector": 5
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 2JP, UK",
       "location": {
         "latitude": 51.546614399999996,
         "longitude": -0.0755317
@@ -71,12 +119,22 @@
         "text": "Dalston Junction Station (Stop M)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 108.56664219628273,
       "bearing": 282.6855760473728,
       "sector": 6
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London N16 8EP, UK",
       "location": {
         "latitude": 51.5469551,
         "longitude": -0.075736
@@ -85,12 +143,23 @@
         "text": "Kingsland High Street / Dalston Junction (Stop L)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 134.98281641937288,
       "bearing": 297.21210465378,
       "sector": 6
     },
     {
+      "types": [
+        "transit_station",
+        "bus_stop",
+        "train_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 2JS, UK",
       "location": {
         "latitude": 51.548191300000006,
         "longitude": -0.0756269
@@ -99,12 +168,22 @@
         "text": "Dalston Kingsland",
         "languageCode": "en"
       },
-      "primaryType": "transit_station",
+      "primaryTypeDisplayName": {
+        "text": "Transit station",
+        "languageCode": "en-US"
+      },
       "distance_m": 228.75713737330753,
       "bearing": 330.54308251089293,
       "sector": 7
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 2JS, UK",
       "location": {
         "latitude": 51.5484878,
         "longitude": -0.0754663
@@ -113,12 +192,22 @@
         "text": "Dalston Kingsland Station (Stop P)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 253.32844683265333,
       "bearing": 336.40736607025156,
       "sector": 7
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 2DA, UK",
       "location": {
         "latitude": 51.5508653,
         "longitude": -0.0737985
@@ -127,12 +216,22 @@
         "text": "Shacklewell Lane Dalston (Stop X)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 496.71415808577785,
       "bearing": 1.6073020534471993,
       "sector": 0
     },
     {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 4DY, UK",
       "location": {
         "latitude": 51.5387231,
         "longitude": -0.07541529999999999
@@ -141,12 +240,22 @@
         "text": "Haggerston",
         "languageCode": "en"
       },
-      "primaryType": "train_station",
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 859.2251811518735,
       "bearing": 186.54143938636136,
       "sector": 4
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 4DG, UK",
       "location": {
         "latitude": 51.538585999999995,
         "longitude": -0.076596
@@ -155,12 +264,22 @@
         "text": "Haggerston Station Downham Rd",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 887.2305695978415,
       "bearing": 191.6752751462286,
       "sector": 4
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1AL, UK",
       "location": {
         "latitude": 51.548927,
         "longitude": -0.061404999999999994
@@ -169,12 +288,22 @@
         "text": "Hackney Downs Station (Stop N)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 915.1263926903497,
       "bearing": 72.1135275852676,
       "sector": 1
     },
     {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1LA, UK",
       "location": {
         "latitude": 51.5487712,
         "longitude": -0.061084200000000005
@@ -183,7 +312,10 @@
         "text": "Hackney Downs",
         "languageCode": "en"
       },
-      "primaryType": "train_station",
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 931.2111020440251,
       "bearing": 73.54709582080932,
       "sector": 1

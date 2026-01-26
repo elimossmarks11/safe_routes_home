@@ -7,6 +7,13 @@
   },
   "selected_stations": [
     {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "White Post Ln, London E9 5TS, UK",
       "location": {
         "latitude": 51.543542099999996,
         "longitude": -0.0241583
@@ -15,15 +22,22 @@
         "text": "Hackney Wick",
         "languageCode": "en"
       },
-      "primaryType": "train_station",
-      "postalAddress": {
-        "postalCode": "E9 5TS"
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
       },
       "distance_m": 102.36456159045113,
       "bearing": 260.12430204614463,
       "sector": 5
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 5HB, UK",
       "location": {
         "latitude": 51.5426936,
         "longitude": -0.024996200000000003
@@ -32,12 +46,22 @@
         "text": "Hackney Wick Station (Stop B)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 194.26375982255496,
       "bearing": 234.82736402941845,
       "sector": 5
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 5JA, UK",
       "location": {
         "latitude": 51.545798,
         "longitude": -0.030255200000000003
@@ -46,12 +70,22 @@
         "text": "St Mary Of Eton Church (Stop N)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 572.1784061727558,
       "bearing": 294.0644691237595,
       "sector": 6
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Fish Island, London E3 2JG, UK",
       "location": {
         "latitude": 51.535039399999995,
         "longitude": -0.021743500000000002
@@ -60,12 +94,22 @@
         "text": "Autumn Street (Stop OV)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 965.2841960629422,
       "bearing": 176.0699919159755,
       "sector": 3
     },
     {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Queen Elizabeth Olympic Park, International Wy, London E20 1YY, UK",
       "location": {
         "latitude": 51.544888099999994,
         "longitude": -0.0087438
@@ -74,9 +118,9 @@
         "text": "Stratford International",
         "languageCode": "en"
       },
-      "primaryType": "train_station",
-      "postalAddress": {
-        "postalCode": "E20 1YY"
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
       },
       "distance_m": 974.1156042554485,
       "bearing": 82.19999524608113,

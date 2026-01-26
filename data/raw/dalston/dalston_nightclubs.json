@@ -43,20 +43,6 @@
   },
   {
     "location": {
-      "latitude": 51.5465089,
-      "longitude": -0.0747342
-    },
-    "displayName": {
-      "text": "The Speakeasy",
-      "languageCode": "en"
-    },
-    "primaryType": "bar",
-    "postalAddress": {
-      "postalCode": "E8 3DL"
-    }
-  },
-  {
-    "location": {
       "latitude": 51.546368,
       "longitude": -0.0739591
     },
@@ -67,20 +53,6 @@
     "primaryType": "bar",
     "postalAddress": {
       "postalCode": "E8 3DF"
-    }
-  },
-  {
-    "location": {
-      "latitude": 51.551198899999996,
-      "longitude": -0.074873
-    },
-    "displayName": {
-      "text": "Tipsy Bar",
-      "languageCode": "en"
-    },
-    "primaryType": "bar",
-    "postalAddress": {
-      "postalCode": "N16 7XN"
     }
   },
   {
@@ -99,16 +71,30 @@
   },
   {
     "location": {
-      "latitude": 51.549392,
-      "longitude": -0.07541239999999999
+      "latitude": 51.5465089,
+      "longitude": -0.0747342
     },
     "displayName": {
-      "text": "The Karaoke Hole",
+      "text": "The Speakeasy",
       "languageCode": "en"
     },
     "primaryType": "bar",
     "postalAddress": {
-      "postalCode": "E8 2PB"
+      "postalCode": "E8 3DL"
+    }
+  },
+  {
+    "location": {
+      "latitude": 51.551198899999996,
+      "longitude": -0.074873
+    },
+    "displayName": {
+      "text": "Tipsy Bar",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "N16 7XN"
     }
   },
   {
@@ -123,6 +109,20 @@
     "primaryType": "bar",
     "postalAddress": {
       "postalCode": "E8 4AP"
+    }
+  },
+  {
+    "location": {
+      "latitude": 51.543952,
+      "longitude": -0.0758636
+    },
+    "displayName": {
+      "text": "Three Sheets Dalston",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "E8 4AB"
     }
   }
 ]

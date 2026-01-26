@@ -1,23 +1,5 @@
 [
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.551278",
-      "street": {
-        "id": 1686471,
-        "name": "On or near Lydford Close"
-      },
-      "longitude": "-0.076391"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129591708,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
     "category": "public-order",
     "location_type": "Force",
     "location": {

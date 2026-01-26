@@ -1,34 +1,6 @@
 [
   {
     "location": {
-      "latitude": 51.5457494,
-      "longitude": -0.0545996
-    },
-    "displayName": {
-      "text": "MOTH Club",
-      "languageCode": "en"
-    },
-    "primaryType": "bar",
-    "postalAddress": {
-      "postalCode": "E9 6NU"
-    }
-  },
-  {
-    "location": {
-      "latitude": 51.546934199999995,
-      "longitude": -0.0480154
-    },
-    "displayName": {
-      "text": "The Glove That Fits",
-      "languageCode": "en"
-    },
-    "primaryType": "bar",
-    "postalAddress": {
-      "postalCode": "E9 6LH"
-    }
-  },
-  {
-    "location": {
       "latitude": 51.543717699999995,
       "longitude": -0.022667299999999998
     },
@@ -43,11 +15,39 @@
   },
   {
     "location": {
+      "latitude": 51.5457494,
+      "longitude": -0.0545996
+    },
+    "displayName": {
+      "text": "MOTH Club",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "E9 6NU"
+    }
+  },
+  {
+    "location": {
       "latitude": 51.542575899999996,
       "longitude": -0.021853100000000004
     },
     "displayName": {
       "text": "All My Friends",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "E9 5EN"
+    }
+  },
+  {
+    "location": {
+      "latitude": 51.5427513,
+      "longitude": -0.0233177
+    },
+    "displayName": {
+      "text": "Fabwick",
       "languageCode": "en"
     },
     "primaryType": "bar",

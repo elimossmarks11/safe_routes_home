@@ -1,0 +1,23 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.510796",
+      "street": {
+        "id": 2344434,
+        "name": "Monument (gt London) (lu Station)"
+      },
+      "longitude": "-0.086053"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126036984,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  }
+]

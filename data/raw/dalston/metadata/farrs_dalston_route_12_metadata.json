@@ -16,8 +16,8 @@
   },
   "route": {
     "route_index": 12,
-    "distance_meters": 1060,
-    "duration_seconds": 888
+    "distance_meters": 1044,
+    "duration_seconds": 875
   },
   "police_api": {
     "param_file": "farrs_dalston_route_12_police_api_param.txt"

@@ -84,27 +84,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.510441",
-      "street": {
-        "id": 1490899,
-        "name": "On or near Lovat Lane"
-      },
-      "longitude": "-0.083977"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-07"
-    },
-    "persistent_id": "b42fafde547450a235b7ac7b32bd3b41788d459bdfc910f135e9e36e069d6698",
-    "id": 127493706,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.504826",
       "street": {
         "id": 1685270,
@@ -140,6 +119,27 @@
     },
     "persistent_id": "1999c72a29babc0b4a7e14645623b829d030d3828342550505278af05141cc36",
     "id": 127493476,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510441",
+      "street": {
+        "id": 1490899,
+        "name": "On or near Lovat Lane"
+      },
+      "longitude": "-0.083977"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "b42fafde547450a235b7ac7b32bd3b41788d459bdfc910f135e9e36e069d6698",
+    "id": 127493706,
     "location_subtype": "",
     "month": "2025-04"
   }

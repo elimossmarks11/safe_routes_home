@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "London Bridge Rooftop Bar",
+    "location": {
+      "latitude": 51.5061,
+      "longitude": -0.0873
+    }
+  },
+  "destination": {
+    "name": "London Bridge bus station",
+    "location": {
+      "latitude": 51.5052526,
+      "longitude": -0.0867129
+    }
+  },
+  "route": {
+    "route_index": 1,
+    "distance_meters": 177,
+    "duration_seconds": 160
+  },
+  "police_api": {
+    "param_file": "london_bridge_rooftop_bar_route_1_police_api_param.txt"
+  }
+}

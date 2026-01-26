@@ -13,7 +13,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129584830,
+    "id": 129602386,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -49,43 +49,28 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129602386,
+    "id": 129584830,
     "location_subtype": "",
     "month": "2025-05"
   },
   {
-    "category": "anti-social-behaviour",
+    "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.505414",
+      "latitude": "51.503329",
       "street": {
-        "id": 1684743,
-        "name": "On or near London Bridge Street"
+        "id": 1684255,
+        "name": "On or near Borough High Street"
       },
-      "longitude": "-0.088338"
+      "longitude": "-0.091725"
     },
     "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129600832,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.505414",
-      "street": {
-        "id": 1684743,
-        "name": "On or near London Bridge Street"
-      },
-      "longitude": "-0.088338"
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
     },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129585917,
+    "persistent_id": "3a16f2e2ef24ec3d8489b7ca5d8720c61624cc22cbeb8bc33eb1ea0f7ce17f11",
+    "id": 129680478,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -128,69 +113,6 @@
     },
     "persistent_id": "0540cebea8139a16cbc46e91f8f493330850a359ab474628609f8860dcb71ae9",
     "id": 129680379,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.503329",
-      "street": {
-        "id": 1684255,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.091725"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-05"
-    },
-    "persistent_id": "3a16f2e2ef24ec3d8489b7ca5d8720c61624cc22cbeb8bc33eb1ea0f7ce17f11",
-    "id": 129680478,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506171",
-      "street": {
-        "id": 1684785,
-        "name": "On or near Duke Street Hill"
-      },
-      "longitude": "-0.088479"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-10"
-    },
-    "persistent_id": "97dbab33374b61f7c7ac7216269f1bd4d78cfafdb0c7f4ab47526f82d4349cee",
-    "id": 129605608,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.503391",
-      "street": {
-        "id": 1684343,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.091679"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-05"
-    },
-    "persistent_id": "8cff19109382a601f4e85daf72755c1101252833e895022459b4e86f58f52d31",
-    "id": 129607468,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -282,48 +204,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.505414",
-      "street": {
-        "id": 1684743,
-        "name": "On or near London Bridge Street"
-      },
-      "longitude": "-0.088338"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-05"
-    },
-    "persistent_id": "b9742ef62e700259e64f9dcd5d53a3b710b47266b53f1c3345e02dd147f254c1",
-    "id": 129609690,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.504826",
-      "street": {
-        "id": 1685270,
-        "name": "On or near London Bridge"
-      },
-      "longitude": "-0.084299"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-08"
-    },
-    "persistent_id": "e5a06fea93ab668b4fac91453987e2929067b39e72cfea01c34039c4899d13ed",
-    "id": 129633737,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.503329",
       "street": {
         "id": 1684255,
@@ -401,6 +281,48 @@
     },
     "persistent_id": "e4d20b25619ec66089bada5f1265ae2f0ce63e235ef357f6f3fa8eb066944a39",
     "id": 129689614,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504826",
+      "street": {
+        "id": 1685270,
+        "name": "On or near London Bridge"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-08"
+    },
+    "persistent_id": "e5a06fea93ab668b4fac91453987e2929067b39e72cfea01c34039c4899d13ed",
+    "id": 129633737,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.503391",
+      "street": {
+        "id": 1684343,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091679"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "8cff19109382a601f4e85daf72755c1101252833e895022459b4e86f58f52d31",
+    "id": 129607468,
     "location_subtype": "",
     "month": "2025-05"
   }

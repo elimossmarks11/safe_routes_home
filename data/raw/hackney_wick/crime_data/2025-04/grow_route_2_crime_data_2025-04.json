@@ -13,25 +13,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127558820,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.545140",
-      "street": {
-        "id": 1693223,
-        "name": "On or near Berkshire Road"
-      },
-      "longitude": "-0.025710"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127544450,
+    "id": 127555115,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -49,70 +31,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127555115,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.545140",
-      "street": {
-        "id": 1693223,
-        "name": "On or near Berkshire Road"
-      },
-      "longitude": "-0.025710"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "ecdc2c0f5a0eb144fa8e7bd4dcdeb8376d356032b449c210eca79efba7175c73",
-    "id": 127583629,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.545140",
-      "street": {
-        "id": 1693223,
-        "name": "On or near Berkshire Road"
-      },
-      "longitude": "-0.025710"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-08"
-    },
-    "persistent_id": "3f3036ee3e485a9f34be0c07d1ea3e21838d0ea9e728cafa7b50c3c8b23b9637",
-    "id": 127584566,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.545140",
-      "street": {
-        "id": 1693223,
-        "name": "On or near Berkshire Road"
-      },
-      "longitude": "-0.025710"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "3e57bc321e4e3c350d442865fe42439b81ab8300150f71fff134db997763f223",
-    "id": 127583546,
+    "id": 127558820,
     "location_subtype": "",
     "month": "2025-04"
   }

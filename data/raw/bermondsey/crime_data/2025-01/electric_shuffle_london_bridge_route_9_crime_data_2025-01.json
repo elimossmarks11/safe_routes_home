@@ -39,48 +39,6 @@
     "month": "2025-01"
   },
   {
-    "category": "public-order",
-    "location_type": "BTP",
-    "location": {
-      "latitude": "51.505587",
-      "street": {
-        "id": 2344281,
-        "name": "London Bridge (lu Station)"
-      },
-      "longitude": "-0.086493"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-05"
-    },
-    "persistent_id": "",
-    "id": 126036798,
-    "location_subtype": "LU STATION",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "BTP",
-    "location": {
-      "latitude": "51.505587",
-      "street": {
-        "id": 2344281,
-        "name": "London Bridge (lu Station)"
-      },
-      "longitude": "-0.086493"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-05"
-    },
-    "persistent_id": "",
-    "id": 126036804,
-    "location_subtype": "LU STATION",
-    "month": "2025-01"
-  },
-  {
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
@@ -98,27 +56,6 @@
     },
     "persistent_id": "2be8ba7c1f878f8a8a6af7f533d16cfb6ed291ba4939ed6e17cee2c4727bc8df",
     "id": 125985507,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.510725",
-      "street": {
-        "id": 1490897,
-        "name": "On or near Eastcheap"
-      },
-      "longitude": "-0.084844"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
-    },
-    "persistent_id": "51ba68aab6ec06b89eb26ff86527108b26f98ed1fb8f6585893e74f0b75bc500",
-    "id": 125985506,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -201,30 +138,30 @@
       "category": "Unable to prosecute suspect",
       "date": "2025-02"
     },
-    "persistent_id": "0e62bd0fae602e53cf1725eebc62e4e80e5d146a188d7cdcd7edba64e3402807",
-    "id": 125985505,
+    "persistent_id": "51ba68aab6ec06b89eb26ff86527108b26f98ed1fb8f6585893e74f0b75bc500",
+    "id": 125985506,
     "location_subtype": "",
     "month": "2025-01"
   },
   {
     "category": "violent-crime",
-    "location_type": "BTP",
+    "location_type": "Force",
     "location": {
-      "latitude": "51.505587",
+      "latitude": "51.510725",
       "street": {
-        "id": 2344281,
-        "name": "London Bridge (lu Station)"
+        "id": 1490897,
+        "name": "On or near Eastcheap"
       },
-      "longitude": "-0.086493"
+      "longitude": "-0.084844"
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-05"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
     },
-    "persistent_id": "",
-    "id": 126036803,
-    "location_subtype": "LU STATION",
+    "persistent_id": "0e62bd0fae602e53cf1725eebc62e4e80e5d146a188d7cdcd7edba64e3402807",
+    "id": 125985505,
+    "location_subtype": "",
     "month": "2025-01"
   }
 ]

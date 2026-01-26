@@ -1,23 +1,5 @@
 [
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552455",
-      "street": {
-        "id": 1685279,
-        "name": "On or near Watson Close"
-      },
-      "longitude": "-0.083467"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129597796,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
     "category": "public-order",
     "location_type": "Force",
     "location": {
@@ -42,41 +24,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.552124",
+      "latitude": "51.552052",
       "street": {
-        "id": 1685096,
-        "name": "On or near Newington Green"
+        "id": 1685530,
+        "name": "On or near Matthias Road"
       },
-      "longitude": "-0.085241"
+      "longitude": "-0.081897"
     },
     "context": "",
     "outcome_status": {
       "category": "Status update unavailable",
       "date": "2025-09"
     },
-    "persistent_id": "8934dcddecdf49897d1e47449bb83969536e56933ec4f45ea8b2d1b1cba7d052",
-    "id": 129629816,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552124",
-      "street": {
-        "id": 1685096,
-        "name": "On or near Newington Green"
-      },
-      "longitude": "-0.085241"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "7a3f0a7b4a7fe27f968042b00d8c985656eeca5ad9eb83d3f95611e1b65893ad",
-    "id": 129629815,
+    "persistent_id": "31b4dd6564870476a14f86359a9c302b3a2d1705329adc65675b8909cc6400f4",
+    "id": 129685642,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -135,6 +96,27 @@
     },
     "context": "",
     "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "7a3f0a7b4a7fe27f968042b00d8c985656eeca5ad9eb83d3f95611e1b65893ad",
+    "id": 129629815,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552124",
+      "street": {
+        "id": 1685096,
+        "name": "On or near Newington Green"
+      },
+      "longitude": "-0.085241"
+    },
+    "context": "",
+    "outcome_status": {
       "category": "Investigation complete; no suspect identified",
       "date": "2025-10"
     },
@@ -147,20 +129,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.552052",
+      "latitude": "51.552124",
       "street": {
-        "id": 1685530,
-        "name": "On or near Matthias Road"
+        "id": 1685096,
+        "name": "On or near Newington Green"
       },
-      "longitude": "-0.081897"
+      "longitude": "-0.085241"
     },
     "context": "",
     "outcome_status": {
       "category": "Status update unavailable",
       "date": "2025-09"
     },
-    "persistent_id": "31b4dd6564870476a14f86359a9c302b3a2d1705329adc65675b8909cc6400f4",
-    "id": 129685642,
+    "persistent_id": "8934dcddecdf49897d1e47449bb83969536e56933ec4f45ea8b2d1b1cba7d052",
+    "id": 129629816,
     "location_subtype": "",
     "month": "2025-05"
   }

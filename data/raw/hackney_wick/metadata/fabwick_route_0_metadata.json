@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Fabwick",
+    "location": {
+      "latitude": 51.5428,
+      "longitude": -0.0233
+    }
+  },
+  "destination": {
+    "name": "Hackney Wick",
+    "location": {
+      "latitude": 51.543542099999996,
+      "longitude": -0.0241583
+    }
+  },
+  "route": {
+    "route_index": 0,
+    "distance_meters": 520,
+    "duration_seconds": 423
+  },
+  "police_api": {
+    "param_file": "fabwick_route_0_police_api_param.txt"
+  }
+}

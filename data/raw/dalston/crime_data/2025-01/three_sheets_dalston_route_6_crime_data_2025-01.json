@@ -1,0 +1,86 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.538864",
+      "street": {
+        "id": 1685085,
+        "name": "On or near Benyon Road"
+      },
+      "longitude": "-0.086013"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "5658a6f0b3f2201e56feac2569b43b361bea3cbc40e16a66ba0311c97bbce667",
+    "id": 125939789,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.541768",
+      "street": {
+        "id": 1685269,
+        "name": "On or near Southgate Road"
+      },
+      "longitude": "-0.084897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "2c9e15afe58273872255cf0605896845a7cc2506853ea5bd9d66d75d3418921e",
+    "id": 125861782,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.543031",
+      "street": {
+        "id": 1685335,
+        "name": "On or near Englefield Road"
+      },
+      "longitude": "-0.083488"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "d7e3f549c288ad6c6e1268444ce5f4450d79fcb5ef95178dbf82fb5fccbb06ef",
+    "id": 125861369,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.538864",
+      "street": {
+        "id": 1685085,
+        "name": "On or near Benyon Road"
+      },
+      "longitude": "-0.086013"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "a6a93381c7a17a3abf3b68b1c3d06e65083c7fda0c9052892342d3daceb05cdc",
+    "id": 125865328,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

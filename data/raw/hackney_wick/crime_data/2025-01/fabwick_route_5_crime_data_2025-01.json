@@ -1,0 +1,62 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.542147",
+      "street": {
+        "id": 1693363,
+        "name": "On or near Rothbury Road"
+      },
+      "longitude": "-0.025840"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125858362,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.536735",
+      "street": {
+        "id": 1693393,
+        "name": "On or near Hart Yard"
+      },
+      "longitude": "-0.023767"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "f68c3def47fcf73705231923f8905ea3aaa6dd81dfb7f3da216b2bab2df1184a",
+    "id": 125932501,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.535472",
+      "street": {
+        "id": 1693736,
+        "name": "On or near Iceland Road"
+      },
+      "longitude": "-0.021947"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "632a500fed19948ea9ca4843d61a40927ec5828c6a4d35a4e31ef7744b6f5e79",
+    "id": 125865945,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

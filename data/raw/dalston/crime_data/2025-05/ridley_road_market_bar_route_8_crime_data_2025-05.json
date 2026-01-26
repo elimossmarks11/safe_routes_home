@@ -18,42 +18,6 @@
     "month": "2025-05"
   },
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548424",
-      "street": {
-        "id": 1687408,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.070699"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129588854,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548424",
-      "street": {
-        "id": 1687408,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.070699"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129595117,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
     "category": "public-order",
     "location_type": "Force",
     "location": {
@@ -176,48 +140,6 @@
     },
     "persistent_id": "c39b2177ba98a973730b0c9ddd1f82500613aa3423ffdaa4c84d0b7c1f4e2eca",
     "id": 129686524,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548314",
-      "street": {
-        "id": 1687134,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.072189"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-11"
-    },
-    "persistent_id": "83d7d6ce2b8a9f61571db3da8ba30eab8a4b58c15a41c7807cb95f6f2883a258",
-    "id": 129628891,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548634",
-      "street": {
-        "id": 1688154,
-        "name": "On or near Lewis Place"
-      },
-      "longitude": "-0.065944"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-05"
-    },
-    "persistent_id": "bc6475ab2cbca6e7299819a8bcb76198c4f134a7157b86cd086641120e7ceb1b",
-    "id": 129609729,
     "location_subtype": "",
     "month": "2025-05"
   }

@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Fabwick",
+    "location": {
+      "latitude": 51.5428,
+      "longitude": -0.0233
+    }
+  },
+  "destination": {
+    "name": "Autumn Street (Stop OV)",
+    "location": {
+      "latitude": 51.535039399999995,
+      "longitude": -0.021743500000000002
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 1173,
+    "duration_seconds": 976
+  },
+  "police_api": {
+    "param_file": "fabwick_route_5_police_api_param.txt"
+  }
+}

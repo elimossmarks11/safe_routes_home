@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "Fabwick",
+    "location": {
+      "latitude": 51.5428,
+      "longitude": -0.0233
+    }
+  },
+  "destination": {
+    "name": "Hackney Wick Station (Stop B)",
+    "location": {
+      "latitude": 51.5426936,
+      "longitude": -0.024996200000000003
+    }
+  },
+  "route": {
+    "route_index": 1,
+    "distance_meters": 153,
+    "duration_seconds": 126
+  },
+  "police_api": {
+    "param_file": "fabwick_route_1_police_api_param.txt"
+  }
+}

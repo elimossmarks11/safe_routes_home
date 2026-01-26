@@ -13,115 +13,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129466740,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129444819,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129445076,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129447692,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
     "id": 129454063,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129448524,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129448656,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -219,24 +111,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129457887,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548448",
       "street": {
         "id": 1686720,
@@ -273,17 +147,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547939",
+      "latitude": "51.548448",
       "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
       },
-      "longitude": "-0.075678"
+      "longitude": "-0.075414"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129464532,
+    "id": 129465783,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -301,7 +175,61 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129465783,
+    "id": 129466740,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129444819,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129447692,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129448656,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -323,6 +251,27 @@
     },
     "persistent_id": "ed999eced11adc28d6a4451d4a361c14a101f96842bd7dcf72fbcf80a4afd30f",
     "id": 129487478,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547401",
+      "street": {
+        "id": 1686696,
+        "name": "On or near Stanborough Passage"
+      },
+      "longitude": "-0.075199"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "a258b4d046ef3966c9be83aece2312f04d8441611def1376cb3cf9d30632a894",
+    "id": 129502927,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -369,27 +318,6 @@
     "month": "2025-06"
   },
   {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547401",
-      "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
-      },
-      "longitude": "-0.075199"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-06"
-    },
-    "persistent_id": "a258b4d046ef3966c9be83aece2312f04d8441611def1376cb3cf9d30632a894",
-    "id": 129502927,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
@@ -407,48 +335,6 @@
     },
     "persistent_id": "76d1b8a5a445b3d2e50de4adcc45862761b6d58eadfadae9e47d3431db2b858b",
     "id": 129545783,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546912",
-      "street": {
-        "id": 1686783,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074974"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "84c07257e6feba98dce859316f1b04a44bee617f622aac435c93c50bc10d8a2b",
-    "id": 129509290,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "fd1bf4588c1c5fde5a4d1608e688ca013f9be5197018407f4edc78d14170a473",
-    "id": 129547344,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -498,6 +384,48 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
+      "latitude": "51.546912",
+      "street": {
+        "id": 1686783,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074974"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "84c07257e6feba98dce859316f1b04a44bee617f622aac435c93c50bc10d8a2b",
+    "id": 129509290,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547401",
+      "street": {
+        "id": 1686696,
+        "name": "On or near Stanborough Passage"
+      },
+      "longitude": "-0.075199"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-07"
+    },
+    "persistent_id": "2df6a239b3904925ab8909ec5a1c1e2fe6f8d87deda2646720bf88716373add7",
+    "id": 129512974,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.547401",
       "street": {
         "id": 1686696,
@@ -512,48 +440,6 @@
     },
     "persistent_id": "f80480817bb4438b32519f2269c0e4f8d0e24badedb2cce55a2f29d5fd32884a",
     "id": 129523194,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-11"
-    },
-    "persistent_id": "9ec345c08c2c0d2e90d9ba5acde16da784856150bca50e0ecfe59feaefaa53cc",
-    "id": 129477440,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.549267",
-      "street": {
-        "id": 1686697,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.075541"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
-    },
-    "persistent_id": "f996a05c1ef0af37b3fffc4fec79f1ef07141e7fbb16f6fc1bf01bc278677faa",
-    "id": 129467431,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -596,27 +482,6 @@
     },
     "persistent_id": "189011fe56256b17454f15638423e43bcf19e75e8886a497b3d447f7315d365d",
     "id": 129520560,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547401",
-      "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
-      },
-      "longitude": "-0.075199"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-07"
-    },
-    "persistent_id": "2df6a239b3904925ab8909ec5a1c1e2fe6f8d87deda2646720bf88716373add7",
-    "id": 129512974,
     "location_subtype": "",
     "month": "2025-06"
   }

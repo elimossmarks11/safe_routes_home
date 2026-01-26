@@ -3,24 +3,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.506419",
-      "street": {
-        "id": 1684816,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.088195"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126356998,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.506100",
       "street": {
         "id": 1684794,
@@ -32,27 +14,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 126359867,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.505208",
-      "street": {
-        "id": 1684629,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.089485"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Court result unavailable",
-      "date": "2025-08"
-    },
-    "persistent_id": "55c95f143fc3bc1c3170c2535f1b39f306c81a0b92d2f3ef6ac79a3cbf4632de",
-    "id": 126415961,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -78,23 +39,23 @@
     "month": "2025-02"
   },
   {
-    "category": "violent-crime",
+    "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.506419",
+      "latitude": "51.505208",
       "street": {
-        "id": 1684816,
+        "id": 1684629,
         "name": "On or near Borough High Street"
       },
-      "longitude": "-0.088195"
+      "longitude": "-0.089485"
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-05"
+      "category": "Court result unavailable",
+      "date": "2025-08"
     },
-    "persistent_id": "c7c83ee4403bdbb91fac8c1d0ad582572c826858674c00f658b170cfd85cfdec",
-    "id": 126416968,
+    "persistent_id": "55c95f143fc3bc1c3170c2535f1b39f306c81a0b92d2f3ef6ac79a3cbf4632de",
+    "id": 126415961,
     "location_subtype": "",
     "month": "2025-02"
   },

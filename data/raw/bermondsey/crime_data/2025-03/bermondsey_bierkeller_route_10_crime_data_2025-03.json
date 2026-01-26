@@ -18,24 +18,6 @@
     "month": "2025-03"
   },
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506100",
-      "street": {
-        "id": 1684794,
-        "name": "On or near Duke Street Hill"
-      },
-      "longitude": "-0.088540"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127073934,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
     "category": "public-order",
     "location_type": "Force",
     "location": {
@@ -53,6 +35,48 @@
     },
     "persistent_id": "6dffcf2eebdbc5f989e7bb80449394f2e22af1dad70f3ca8ed3f576a2f7260f7",
     "id": 126788649,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510725",
+      "street": {
+        "id": 1490897,
+        "name": "On or near Eastcheap"
+      },
+      "longitude": "-0.084844"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "354f0f6e56bc4a42402220af9eb1509109682535ba1ba40791a3aca3ac4d47cf",
+    "id": 126788626,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506171",
+      "street": {
+        "id": 1684785,
+        "name": "On or near Duke Street Hill"
+      },
+      "longitude": "-0.088479"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "b358207ddf60cb8f39517ceabe626eb71e2b01639b2de6bc6d62df8d621e3bb1",
+    "id": 127193091,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -144,48 +168,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.506171",
-      "street": {
-        "id": 1684785,
-        "name": "On or near Duke Street Hill"
-      },
-      "longitude": "-0.088479"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "b358207ddf60cb8f39517ceabe626eb71e2b01639b2de6bc6d62df8d621e3bb1",
-    "id": 127193091,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.510725",
-      "street": {
-        "id": 1490897,
-        "name": "On or near Eastcheap"
-      },
-      "longitude": "-0.084844"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "354f0f6e56bc4a42402220af9eb1509109682535ba1ba40791a3aca3ac4d47cf",
-    "id": 126788626,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.510725",
       "street": {
         "id": 1490897,
@@ -200,27 +182,6 @@
     },
     "persistent_id": "3b51041294a6123d0dce0b00825f774697537a321881c01a4f2b4b10edcd2877",
     "id": 126788566,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.510316",
-      "street": {
-        "id": 1490900,
-        "name": "On or near Botolph Lane"
-      },
-      "longitude": "-0.084559"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "66acde4609930cd19e3d09fde9cb73723fec27fe971a619f5dda2cd2ebb0837d",
-    "id": 126788032,
     "location_subtype": "",
     "month": "2025-03"
   }

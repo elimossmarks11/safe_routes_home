@@ -1,0 +1,65 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.538983",
+      "street": {
+        "id": 1684969,
+        "name": "On or near Park Place"
+      },
+      "longitude": "-0.086167"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "4a586e12c67a0c2675bdd45e719b137f43b8a40a246f50f5953e068c362da084",
+    "id": 129677576,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.542837",
+      "street": {
+        "id": 1685539,
+        "name": "On or near Culford Road"
+      },
+      "longitude": "-0.081520"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "29903e432df61b8ff3fdf8920379efc969ec62bb33c2ee05e4bb141f0501e553",
+    "id": 129603836,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.542837",
+      "street": {
+        "id": 1685539,
+        "name": "On or near Culford Road"
+      },
+      "longitude": "-0.081520"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "415b1c7729a8136e90ace3d998fcc39c0b1bd25975e18902b0dd47a24e719b89",
+    "id": 129683761,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

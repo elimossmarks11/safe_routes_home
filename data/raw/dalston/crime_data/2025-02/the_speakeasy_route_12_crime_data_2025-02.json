@@ -21,27 +21,6 @@
     "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547487",
-      "street": {
-        "id": 1687484,
-        "name": "On or near Martel Place"
-      },
-      "longitude": "-0.069498"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-02"
-    },
-    "persistent_id": "0f9c40f86634e9b7c4ab3459012e6d9c5399148538cd456b85cbae8a57f50952",
-    "id": 126367422,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548763",
       "street": {
         "id": 1688853,
@@ -56,48 +35,6 @@
     },
     "persistent_id": "9720a19013bf346975970c59a7250631cc6210c450653fe1c460b73b1cb47fb9",
     "id": 126369922,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547487",
-      "street": {
-        "id": 1687484,
-        "name": "On or near Martel Place"
-      },
-      "longitude": "-0.069498"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-06"
-    },
-    "persistent_id": "e83569e3ec29ef886fc6c81e81eb4e2d327b22ce526b84c37d3add06b5c86966",
-    "id": 126414532,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546496",
-      "street": {
-        "id": 1687208,
-        "name": "On or near Ghent Way"
-      },
-      "longitude": "-0.072107"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-09"
-    },
-    "persistent_id": "546941883d16416328dfd574d925a6731b4fdc5c8902dc14818bac8cb6414612",
-    "id": 126420439,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -126,6 +63,27 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
+      "latitude": "51.548763",
+      "street": {
+        "id": 1688853,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061799"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "7c6a7de11218970b84784042744d0297fedeece4561804c27b05036b8732e22e",
+    "id": 126425195,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.548321",
       "street": {
         "id": 1688567,
@@ -147,20 +105,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.548763",
+      "latitude": "51.546496",
       "street": {
-        "id": 1688853,
-        "name": "On or near Spurstowe Terrace"
+        "id": 1687208,
+        "name": "On or near Ghent Way"
       },
-      "longitude": "-0.061799"
+      "longitude": "-0.072107"
     },
     "context": "",
     "outcome_status": {
       "category": "Investigation complete; no suspect identified",
-      "date": "2025-07"
+      "date": "2025-09"
     },
-    "persistent_id": "7c6a7de11218970b84784042744d0297fedeece4561804c27b05036b8732e22e",
-    "id": 126425195,
+    "persistent_id": "546941883d16416328dfd574d925a6731b4fdc5c8902dc14818bac8cb6414612",
+    "id": 126420439,
     "location_subtype": "",
     "month": "2025-02"
   }

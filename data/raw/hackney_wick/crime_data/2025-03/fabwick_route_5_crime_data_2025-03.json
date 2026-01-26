@@ -1,0 +1,44 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.536735",
+      "street": {
+        "id": 1693393,
+        "name": "On or near Hart Yard"
+      },
+      "longitude": "-0.023767"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "fd34bde4fce5a46c2eb20953f9da921d4573b76e085a2cb8263577b7de5c055b",
+    "id": 127203473,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.536735",
+      "street": {
+        "id": 1693393,
+        "name": "On or near Hart Yard"
+      },
+      "longitude": "-0.023767"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-11"
+    },
+    "persistent_id": "6888ad5fe2e48fb99ca3c154b208347871d527ee18453585a590fc725e6d4953",
+    "id": 127195317,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

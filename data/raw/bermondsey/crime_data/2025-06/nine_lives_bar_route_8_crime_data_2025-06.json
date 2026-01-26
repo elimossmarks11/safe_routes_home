@@ -13,6 +13,24 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
+    "id": 129455219,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502083",
+      "street": {
+        "id": 1685289,
+        "name": "On or near Kirby Grove"
+      },
+      "longitude": "-0.084299"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
     "id": 129460972,
     "location_subtype": "",
     "month": "2025-06"
@@ -36,123 +54,6 @@
     "month": "2025-06"
   },
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501435",
-      "street": {
-        "id": 1685053,
-        "name": "On or near Guy Street"
-      },
-      "longitude": "-0.086415"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129466717,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.502083",
-      "street": {
-        "id": 1685289,
-        "name": "On or near Kirby Grove"
-      },
-      "longitude": "-0.084299"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129455219,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501435",
-      "street": {
-        "id": 1685053,
-        "name": "On or near Guy Street"
-      },
-      "longitude": "-0.086415"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129451815,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.502286",
-      "street": {
-        "id": 1685108,
-        "name": "On or near Snowsfields"
-      },
-      "longitude": "-0.085673"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-10"
-    },
-    "persistent_id": "8d9ead027dfc204cfc7926e59c3aa6f072c1c7e2eb5973dc4b11a65da8481b17",
-    "id": 129493406,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501435",
-      "street": {
-        "id": 1685053,
-        "name": "On or near Guy Street"
-      },
-      "longitude": "-0.086415"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
-    },
-    "persistent_id": "30c73d7150671798ac04f9050e52258792ac0c8dd07fb93e804ad1b81157037e",
-    "id": 129504513,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501435",
-      "street": {
-        "id": 1685053,
-        "name": "On or near Guy Street"
-      },
-      "longitude": "-0.086415"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-10"
-    },
-    "persistent_id": "6c856289f5e6abc2df2035a2a85621de0639e913513985b273eff67d17b8bc6d",
-    "id": 129516169,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
@@ -170,27 +71,6 @@
     },
     "persistent_id": "41992b719ee87c22e58c57b6dac8c8394c3d81566cd11e6a6c464d35e8c6f685",
     "id": 129539165,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501435",
-      "street": {
-        "id": 1685053,
-        "name": "On or near Guy Street"
-      },
-      "longitude": "-0.086415"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-10"
-    },
-    "persistent_id": "30c73d7150671798ac04f9050e52258792ac0c8dd07fb93e804ad1b81157037e",
-    "id": 129504514,
     "location_subtype": "",
     "month": "2025-06"
   }

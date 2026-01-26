@@ -1,6 +1,20 @@
 [
   {
     "location": {
+      "latitude": 51.5040002,
+      "longitude": -0.08326689999999999
+    },
+    "displayName": {
+      "text": "Electric Shuffle London Bridge",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "SE1 2ER"
+    }
+  },
+  {
+    "location": {
       "latitude": 51.4967355,
       "longitude": -0.0814023
     },
@@ -29,44 +43,30 @@
   },
   {
     "location": {
-      "latitude": 51.5040002,
-      "longitude": -0.08326689999999999
+      "latitude": 51.5064741,
+      "longitude": -0.08846219999999999
     },
     "displayName": {
-      "text": "Electric Shuffle London Bridge",
+      "text": "Bermondsey Bierkeller",
       "languageCode": "en"
     },
     "primaryType": "bar",
     "postalAddress": {
-      "postalCode": "SE1 2ER"
+      "postalCode": "SE1 2SY"
     }
   },
   {
     "location": {
-      "latitude": 51.499067,
-      "longitude": -0.0808991
+      "latitude": 51.5061488,
+      "longitude": -0.0872646
     },
     "displayName": {
-      "text": "The Last Talisman | Bar & Restaurant",
+      "text": "London Bridge Rooftop Bar",
       "languageCode": "en"
     },
     "primaryType": "bar",
     "postalAddress": {
-      "postalCode": "SE1 3UW"
-    }
-  },
-  {
-    "location": {
-      "latitude": 51.5034111,
-      "longitude": -0.0820472
-    },
-    "displayName": {
-      "text": "Nine Lives Bar",
-      "languageCode": "en"
-    },
-    "primaryType": "bar",
-    "postalAddress": {
-      "postalCode": "SE1 2EL"
+      "postalCode": "SE1 2SX"
     }
   },
   {
@@ -85,30 +85,16 @@
   },
   {
     "location": {
-      "latitude": 51.5064741,
-      "longitude": -0.08846219999999999
+      "latitude": 51.5034111,
+      "longitude": -0.0820472
     },
     "displayName": {
-      "text": "Bermondsey Bierkeller",
+      "text": "Nine Lives Bar",
       "languageCode": "en"
     },
     "primaryType": "bar",
     "postalAddress": {
-      "postalCode": "SE1 2SY"
-    }
-  },
-  {
-    "location": {
-      "latitude": 51.5003938,
-      "longitude": -0.08798450000000001
-    },
-    "displayName": {
-      "text": "The Old School Yard",
-      "languageCode": "en"
-    },
-    "primaryType": "bar",
-    "postalAddress": {
-      "postalCode": "SE1 4PH"
+      "postalCode": "SE1 2EL"
     }
   }
 ]

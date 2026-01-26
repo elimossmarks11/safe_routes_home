@@ -1,86 +1,5 @@
 [
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548877",
-      "street": {
-        "id": 1689186,
-        "name": "On or near Institute Place"
-      },
-      "longitude": "-0.059472"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 125858986,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547611",
-      "street": {
-        "id": 1689688,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.055243"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-01"
-    },
-    "persistent_id": "ac37f9fdf819f70d34c490bbc7eb1318e92e583dd2a8b300583688b3eb65e72f",
-    "id": 125869473,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547611",
-      "street": {
-        "id": 1689688,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.055243"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-03"
-    },
-    "persistent_id": "9ed7b7d2cd17af8b09a784bd192234a7efeae2f68a401720931521bb22cdf4ce",
-    "id": 125868125,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.549228",
-      "street": {
-        "id": 1689227,
-        "name": "On or near Dalston Lane"
-      },
-      "longitude": "-0.059472"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "6a8cebad5bb5d4cc58d60b0b55af202d71059db1c0974b2163697d91235d5cd2",
-    "id": 125930287,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
@@ -98,27 +17,6 @@
     },
     "persistent_id": "0dbc779e6103c5514c5852a8b3ee771829eed3b3da06100875c4291c40da7bb3",
     "id": 125860952,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547611",
-      "street": {
-        "id": 1689688,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.055243"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-01"
-    },
-    "persistent_id": "e57821a36e7b15579046ec8bb554ec8cddfba0ec978800cf16e3a6853158a920",
-    "id": 125862862,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -147,83 +45,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547611",
+      "latitude": "51.549228",
       "street": {
-        "id": 1689688,
-        "name": "On or near Shopping Area"
+        "id": 1689227,
+        "name": "On or near Dalston Lane"
       },
-      "longitude": "-0.055243"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-03"
-    },
-    "persistent_id": "32dc4e136df558a0d20cafeb1c5d3881c51a96226efcba557bc5a7a6ef31df94",
-    "id": 125938603,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "BTP",
-    "location": {
-      "latitude": "51.548828",
-      "street": {
-        "id": 2343787,
-        "name": "Hackney Downs (station)"
-      },
-      "longitude": "-0.060679"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-05"
-    },
-    "persistent_id": "",
-    "id": 126036249,
-    "location_subtype": "STATION",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "BTP",
-    "location": {
-      "latitude": "51.548828",
-      "street": {
-        "id": 2343787,
-        "name": "Hackney Downs (station)"
-      },
-      "longitude": "-0.060679"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-05"
-    },
-    "persistent_id": "",
-    "id": 126036248,
-    "location_subtype": "STATION",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547611",
-      "street": {
-        "id": 1689688,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.055243"
+      "longitude": "-0.059472"
     },
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2025-01"
+      "date": "2025-07"
     },
-    "persistent_id": "e2b9751d1af916867ebff1441e1cd7d1c114761c18e86667ef8cd5ae230e06dd",
-    "id": 125865905,
+    "persistent_id": "6a8cebad5bb5d4cc58d60b0b55af202d71059db1c0974b2163697d91235d5cd2",
+    "id": 125930287,
     "location_subtype": "",
     "month": "2025-01"
   }

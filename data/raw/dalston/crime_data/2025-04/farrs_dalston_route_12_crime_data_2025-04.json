@@ -3,42 +3,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.546669",
-      "street": {
-        "id": 1687418,
-        "name": "On or near Atlas Mews"
-      },
-      "longitude": "-0.071133"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127549707,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546669",
-      "street": {
-        "id": 1687418,
-        "name": "On or near Atlas Mews"
-      },
-      "longitude": "-0.071133"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127559296,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548321",
       "street": {
         "id": 1688567,
@@ -50,126 +14,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 127564213,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547487",
-      "street": {
-        "id": 1687484,
-        "name": "On or near Martel Place"
-      },
-      "longitude": "-0.069498"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127544463,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546669",
-      "street": {
-        "id": 1687418,
-        "name": "On or near Atlas Mews"
-      },
-      "longitude": "-0.071133"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127553125,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547487",
-      "street": {
-        "id": 1687484,
-        "name": "On or near Martel Place"
-      },
-      "longitude": "-0.069498"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "6574dd169c71bd9b7ab1d4d2181c8134a6ca895d3b128ef2a5da2235648d16ed",
-    "id": 127657598,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548771",
-      "street": {
-        "id": 1688929,
-        "name": "On or near Sigdon Road"
-      },
-      "longitude": "-0.061756"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-08"
-    },
-    "persistent_id": "aa7c134981a10989a1557a99df0902f8ae2dcaf63ee6f88fa97e5095cdc499c8",
-    "id": 127661613,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547487",
-      "street": {
-        "id": 1687484,
-        "name": "On or near Martel Place"
-      },
-      "longitude": "-0.069498"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-08"
-    },
-    "persistent_id": "ed0b9a7d91586f7ec85a5e491de3d9fd730d60ff1eb7b1e3badbf4a6d3aa7015",
-    "id": 127658061,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548771",
-      "street": {
-        "id": 1688929,
-        "name": "On or near Sigdon Road"
-      },
-      "longitude": "-0.061756"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "3cf7b76264f6a0298d4226184c4436cc154412b8fd80d32e8661c4198588a0b0",
-    "id": 127568354,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -212,6 +56,48 @@
     },
     "persistent_id": "c5eeb3aa9725ee26d859552c78047dc6b2520ce18c04a29906c3e413f696dc74",
     "id": 127662078,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "3cf7b76264f6a0298d4226184c4436cc154412b8fd80d32e8661c4198588a0b0",
+    "id": 127568354,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "aa7c134981a10989a1557a99df0902f8ae2dcaf63ee6f88fa97e5095cdc499c8",
+    "id": 127661613,
     "location_subtype": "",
     "month": "2025-04"
   }

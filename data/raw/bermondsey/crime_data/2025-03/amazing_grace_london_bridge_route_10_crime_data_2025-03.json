@@ -33,29 +33,8 @@
       "category": "Status update unavailable",
       "date": "2025-07"
     },
-    "persistent_id": "57e18f9de845b8c31139232d215a50d724321e26e7895e32af2593939b7227ac",
-    "id": 127194766,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506419",
-      "street": {
-        "id": 1684816,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.088195"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "a3d0f31070d0bd872f2bcc2cf5e82184521bf970b385bf948eea2b2d3e9c8fff",
-    "id": 127192416,
+    "persistent_id": "b358207ddf60cb8f39517ceabe626eb71e2b01639b2de6bc6d62df8d621e3bb1",
+    "id": 127193091,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -75,8 +54,8 @@
       "category": "Status update unavailable",
       "date": "2025-07"
     },
-    "persistent_id": "b358207ddf60cb8f39517ceabe626eb71e2b01639b2de6bc6d62df8d621e3bb1",
-    "id": 127193091,
+    "persistent_id": "57e18f9de845b8c31139232d215a50d724321e26e7895e32af2593939b7227ac",
+    "id": 127194766,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -98,27 +77,6 @@
     },
     "persistent_id": "be13eb88d48fd03ebef77a1fcb9fa8761531e3d8bf5dadb4d14370e01d836a61",
     "id": 127105659,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506419",
-      "street": {
-        "id": 1684816,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.088195"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-11"
-    },
-    "persistent_id": "b9ef9bfeb53250ecc762c6fc0bff757291aae932a835e721088f82aefa3fb58e",
-    "id": 127190040,
     "location_subtype": "",
     "month": "2025-03"
   }

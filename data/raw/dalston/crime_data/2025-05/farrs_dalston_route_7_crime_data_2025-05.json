@@ -13,7 +13,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129600896,
+    "id": 129588403,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -31,7 +31,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129597914,
+    "id": 129595473,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -49,7 +49,25 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129595334,
+    "id": 129598899,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129603536,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -93,42 +111,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129592912,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129603536,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548448",
       "street": {
         "id": 1686720,
@@ -140,6 +122,78 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 129583534,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129595334,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129597914,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129600896,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547939",
+      "street": {
+        "id": 1686633,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.075678"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129592912,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -176,60 +230,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 129595284,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129588403,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129595473,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129598899,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -279,27 +279,6 @@
     "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547401",
-      "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
-      },
-      "longitude": "-0.075199"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-05"
-    },
-    "persistent_id": "a6c1c8fdc6107d9d09fe9ab3561aadc8d1fb82e51caf5a47b70b93a5b51e0b7b",
-    "id": 129617084,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.547939",
       "street": {
         "id": 1686633,
@@ -335,237 +314,6 @@
     },
     "persistent_id": "e34be8002a2bcf860a33032907c9d29fb0dd215ebc6e94878e303e838c42618f",
     "id": 129615747,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547401",
-      "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
-      },
-      "longitude": "-0.075199"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-05"
-    },
-    "persistent_id": "44a791f71fd61c03e81047e4c9ac0e82b3ad6e0a3e13ec8774e8aaf0cbee517a",
-    "id": 129618806,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "f5a601ce282e36b976e6fbd0cecba66ed2381a4cd071fc8f1131e0a3e0d5826d",
-    "id": 129687363,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "03339be2eb1107c4c65822c77322bef860ee8895aceaf920a4f56d700d032247",
-    "id": 129686974,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "ba51221ac5f4b110649ba53036918782846b15c78433b5ffcaa43b3144d06418",
-    "id": 129680873,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546371",
-      "street": {
-        "id": 1686586,
-        "name": "On or near Kingsland Passage"
-      },
-      "longitude": "-0.075992"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-05"
-    },
-    "persistent_id": "32eea19121000aadbf654e220ee9f207871111957b63f206414ee1e4892a2ba7",
-    "id": 129682053,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546371",
-      "street": {
-        "id": 1686586,
-        "name": "On or near Kingsland Passage"
-      },
-      "longitude": "-0.075992"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-08"
-    },
-    "persistent_id": "6c623ae0ba3f6793757771f1205ed5e217cdd336b101d163284a678939fc9a89",
-    "id": 129681988,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-07"
-    },
-    "persistent_id": "a66b3dece16ae96e5e16f1ef90438e66e7a47c2848140ffb79bdbe4e3774757e",
-    "id": 129676178,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546371",
-      "street": {
-        "id": 1686586,
-        "name": "On or near Kingsland Passage"
-      },
-      "longitude": "-0.075992"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "1689fc0d62c9e53f4c4e75a9d5eb8b239cba8aa6b92ec4a225554e999ae18e84",
-    "id": 129681990,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-07"
-    },
-    "persistent_id": "871455c22a2fa98facf888cf291674474d4809c75037f8b684723ab0b1935d4d",
-    "id": 129683086,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548431",
-      "street": {
-        "id": 1686561,
-        "name": "On or near Bradbury Street"
-      },
-      "longitude": "-0.076021"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "d360e68cbfdce653d22408fe2e8d189d36b5dceac1bca3815add6af2167b1129",
-    "id": 129684056,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547401",
-      "street": {
-        "id": 1686696,
-        "name": "On or near Stanborough Passage"
-      },
-      "longitude": "-0.075199"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-10"
-    },
-    "persistent_id": "a5944ce952fcf123f7cd7e77796c8fa8e7a14cbccbfd64992a89b02aa9380f40",
-    "id": 129611482,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -615,20 +363,104 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.546371",
+      "latitude": "51.547939",
       "street": {
-        "id": 1686586,
-        "name": "On or near Kingsland Passage"
+        "id": 1686633,
+        "name": "On or near Shopping Area"
       },
-      "longitude": "-0.075992"
+      "longitude": "-0.075678"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "a66b3dece16ae96e5e16f1ef90438e66e7a47c2848140ffb79bdbe4e3774757e",
+    "id": 129676178,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "ba51221ac5f4b110649ba53036918782846b15c78433b5ffcaa43b3144d06418",
+    "id": 129680873,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "03339be2eb1107c4c65822c77322bef860ee8895aceaf920a4f56d700d032247",
+    "id": 129686974,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
     },
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2025-09"
+      "date": "2025-07"
     },
-    "persistent_id": "200d9007fac5e54e6c26f6d5bd4bef1d215580ed43fd99b7c87dc1884c66b594",
-    "id": 129604887,
+    "persistent_id": "f5a601ce282e36b976e6fbd0cecba66ed2381a4cd071fc8f1131e0a3e0d5826d",
+    "id": 129687363,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "871455c22a2fa98facf888cf291674474d4809c75037f8b684723ab0b1935d4d",
+    "id": 129683086,
     "location_subtype": "",
     "month": "2025-05"
   }

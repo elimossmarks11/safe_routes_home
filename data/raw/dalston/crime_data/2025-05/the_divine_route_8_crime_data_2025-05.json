@@ -3,24 +3,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129596038,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.557272",
       "street": {
         "id": 1686859,
@@ -60,69 +42,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-06"
-    },
-    "persistent_id": "47acc20676e794803e2ee2f74c77c562c445a84e457b3862c3fae309e4d801a6",
-    "id": 129609339,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.558477",
-      "street": {
-        "id": 1687637,
-        "name": "On or near Nile Close"
-      },
-      "longitude": "-0.068499"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-05"
-    },
-    "persistent_id": "597cb0aa72806afc81d85da42b6abc3559885273eaf45c270857badb05622d50",
-    "id": 129608111,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "06dde7e8bf6b04ee0a32af2676ddf754fc677b549a4b72b519f6bb72e038c0db",
-    "id": 129684248,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.553879",
       "street": {
         "id": 1686731,
@@ -144,41 +63,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.556356",
+      "latitude": "51.558477",
       "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
+        "id": 1687637,
+        "name": "On or near Nile Close"
       },
-      "longitude": "-0.074865"
+      "longitude": "-0.068499"
     },
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2025-08"
+      "date": "2025-05"
     },
-    "persistent_id": "c28404e5581c849a2cbda6d82ad111b8c579ee109bba6466a10e1d91f07b3b3f",
-    "id": 129604455,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552453",
-      "street": {
-        "id": 1686478,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075634"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-06"
-    },
-    "persistent_id": "c9ab74a7206b229f40f7766535310f10ac84d1fa868995d1b019e8dcaa8d247d",
-    "id": 129686050,
+    "persistent_id": "597cb0aa72806afc81d85da42b6abc3559885273eaf45c270857badb05622d50",
+    "id": 129608111,
     "location_subtype": "",
     "month": "2025-05"
   }

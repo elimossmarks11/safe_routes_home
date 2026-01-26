@@ -3,6 +3,24 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129587529,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.556356",
       "street": {
         "id": 1686726,
@@ -18,38 +36,23 @@
     "month": "2025-05"
   },
   {
-    "category": "anti-social-behaviour",
+    "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.551576",
+      "latitude": "51.553101",
       "street": {
-        "id": 1686831,
-        "name": "On or near Nightclub"
+        "id": 1686855,
+        "name": "On or near Courthouse Lane"
       },
-      "longitude": "-0.074792"
+      "longitude": "-0.074612"
     },
     "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129586191,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
     },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129587529,
+    "persistent_id": "e7d23e1592f7e20b25510087969aa6d505eefefca27e1a7c11826e4d67199108",
+    "id": 129617257,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -99,27 +102,6 @@
     "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.553101",
-      "street": {
-        "id": 1686855,
-        "name": "On or near Courthouse Lane"
-      },
-      "longitude": "-0.074612"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-07"
-    },
-    "persistent_id": "e7d23e1592f7e20b25510087969aa6d505eefefca27e1a7c11826e4d67199108",
-    "id": 129617257,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.557857",
       "street": {
         "id": 1686850,
@@ -134,6 +116,48 @@
     },
     "persistent_id": "4a0b9680ded65eae504b77a702576cb08e4214de892a62710e0bb5877b1de6a7",
     "id": 129616237,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-07"
+    },
+    "persistent_id": "312f678b0712122b62652d3632628aecc6291fb73d335c702a3a66ebfc699bba",
+    "id": 129629891,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "b140b8a8a2d6de73202ee0eb069ee246fc5859a00decb92d1cf7a4d183dc7c27",
+    "id": 129638802,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -288,6 +312,27 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "4669db6b79d6a62895774d26b596de7db21a97bfb237405bb1ee579a7e4ce738",
+    "id": 129689618,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.551055",
       "street": {
         "id": 1686641,
@@ -386,69 +431,6 @@
     },
     "persistent_id": "f2f2e2adf218c1685c77cf2e5255d5ace38cf9a5ae24a86ce6c98cf0316748d1",
     "id": 129611017,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-07"
-    },
-    "persistent_id": "312f678b0712122b62652d3632628aecc6291fb73d335c702a3a66ebfc699bba",
-    "id": 129629891,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "4669db6b79d6a62895774d26b596de7db21a97bfb237405bb1ee579a7e4ce738",
-    "id": 129689618,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "b140b8a8a2d6de73202ee0eb069ee246fc5859a00decb92d1cf7a4d183dc7c27",
-    "id": 129638802,
     "location_subtype": "",
     "month": "2025-05"
   }

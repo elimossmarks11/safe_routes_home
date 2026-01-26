@@ -3,24 +3,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.506100",
-      "street": {
-        "id": 1684794,
-        "name": "On or near Duke Street Hill"
-      },
-      "longitude": "-0.088540"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 125850201,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.506419",
       "street": {
         "id": 1684816,

@@ -54,48 +54,6 @@
     "month": "2025-01"
   },
   {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Court result unavailable",
-      "date": "2025-08"
-    },
-    "persistent_id": "2cbb397eb0a3052a8498d69fe17905e18d6c1eb7e85bece87eb11a2b330bf453",
-    "id": 125932107,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548077",
-      "street": {
-        "id": 1687280,
-        "name": "On or near Ridley Road"
-      },
-      "longitude": "-0.072011"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-05"
-    },
-    "persistent_id": "ddd108e58e7e6f7ee356fd065607c07ed67d5a1023525f03bc69c327262eda65",
-    "id": 125866212,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
@@ -120,20 +78,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.548471",
+      "latitude": "51.548077",
       "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
+        "id": 1687280,
+        "name": "On or near Ridley Road"
       },
-      "longitude": "-0.061552"
+      "longitude": "-0.072011"
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
+      "category": "Status update unavailable",
+      "date": "2025-05"
     },
-    "persistent_id": "e6cb64ce2aee0d8bfd5f926a30e28398ec58cd23ccb8e5e12b91dd56fc56553c",
-    "id": 125933558,
+    "persistent_id": "ddd108e58e7e6f7ee356fd065607c07ed67d5a1023525f03bc69c327262eda65",
+    "id": 125866212,
     "location_subtype": "",
     "month": "2025-01"
   }

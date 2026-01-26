@@ -3,35 +3,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.556356",
+      "latitude": "51.553879",
       "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
+        "id": 1686731,
+        "name": "On or near Stoke Newington Road"
       },
-      "longitude": "-0.074865"
+      "longitude": "-0.074853"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 126352241,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126347041,
+    "id": 126353625,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -54,45 +36,6 @@
     "month": "2025-02"
   },
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.553879",
-      "street": {
-        "id": 1686731,
-        "name": "On or near Stoke Newington Road"
-      },
-      "longitude": "-0.074853"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126353625,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.555334",
-      "street": {
-        "id": 1686858,
-        "name": "On or near Petrol Station"
-      },
-      "longitude": "-0.074229"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
-    },
-    "persistent_id": "7ad0dd66056c9caeed89f142df6c2dd0dd0e24503d0ea025c725db0cdf6110ad",
-    "id": 126368652,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
     "category": "public-order",
     "location_type": "Force",
     "location": {
@@ -110,48 +53,6 @@
     },
     "persistent_id": "d9598d8b5a3d2a44aa6ef598d28ce6ac1a24747da17f1127729ba56ed3c7d1b4",
     "id": 126368947,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.556975",
-      "street": {
-        "id": 1687128,
-        "name": "On or near Sports/recreation Area"
-      },
-      "longitude": "-0.072203"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-08"
-    },
-    "persistent_id": "1f07aba4e319528a1e7b163e2398d2109ee6ed5f825694402f85a4944bbaaa76",
-    "id": 126377027,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.553101",
-      "street": {
-        "id": 1686855,
-        "name": "On or near Courthouse Lane"
-      },
-      "longitude": "-0.074612"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "cee54c0516a670095ff3860de3dec4de07f5fe2a780eb0e56d74382b399aeae6",
-    "id": 126364684,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -201,41 +102,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.555987",
+      "latitude": "51.553101",
       "street": {
-        "id": 1686893,
-        "name": "On or near Foulden Terrace"
+        "id": 1686855,
+        "name": "On or near Courthouse Lane"
       },
-      "longitude": "-0.073999"
+      "longitude": "-0.074612"
     },
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2025-09"
+      "date": "2025-07"
     },
-    "persistent_id": "4bd9bbdb97e0385c90f0e1d37a29355ca9c309f396b9427d34b6e83b67afb1de",
-    "id": 126363030,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.555987",
-      "street": {
-        "id": 1686893,
-        "name": "On or near Foulden Terrace"
-      },
-      "longitude": "-0.073999"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-09"
-    },
-    "persistent_id": "f713fe05564a0cc0ec80d8da07016407dd9e2805d3a2cf7f1c48d0c239f7afc0",
-    "id": 126363012,
+    "persistent_id": "cee54c0516a670095ff3860de3dec4de07f5fe2a780eb0e56d74382b399aeae6",
+    "id": 126364684,
     "location_subtype": "",
     "month": "2025-02"
   }

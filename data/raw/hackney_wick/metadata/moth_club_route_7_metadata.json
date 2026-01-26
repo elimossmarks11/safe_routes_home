@@ -16,8 +16,8 @@
   },
   "route": {
     "route_index": 7,
-    "distance_meters": 774,
-    "duration_seconds": 668
+    "distance_meters": 758,
+    "duration_seconds": 655
   },
   "police_api": {
     "param_file": "moth_club_route_7_police_api_param.txt"

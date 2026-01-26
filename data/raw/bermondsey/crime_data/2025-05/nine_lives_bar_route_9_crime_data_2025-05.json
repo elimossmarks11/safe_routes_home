@@ -60,27 +60,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.506419",
-      "street": {
-        "id": 1684816,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.088195"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "b9b307b5031469fcfdac3de504d1c441376422c430a7da7897fe5e75e8fde488",
-    "id": 129688267,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.510725",
       "street": {
         "id": 1490897,
@@ -165,6 +144,27 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
+      "latitude": "51.510070",
+      "street": {
+        "id": 1490902,
+        "name": "On or near Great Tower Street"
+      },
+      "longitude": "-0.081643"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-11"
+    },
+    "persistent_id": "32a17adbc0becaef671c9223e35f3f13b144c3f7542e7b2195d982bdd4510faf",
+    "id": 128165593,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.504826",
       "street": {
         "id": 1685270,
@@ -195,53 +195,32 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-11"
-    },
-    "persistent_id": "32a17adbc0becaef671c9223e35f3f13b144c3f7542e7b2195d982bdd4510faf",
-    "id": 128165593,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506439",
-      "street": {
-        "id": 1684768,
-        "name": "On or near Tooley Street"
-      },
-      "longitude": "-0.088367"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-10"
-    },
-    "persistent_id": "b067e4e2d0810060edea851be93daed9310870034cccae272015b87363f1214b",
-    "id": 129630083,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.510070",
-      "street": {
-        "id": 1490902,
-        "name": "On or near Great Tower Street"
-      },
-      "longitude": "-0.081643"
-    },
-    "context": "",
-    "outcome_status": {
       "category": "Investigation complete; no suspect identified",
       "date": "2025-06"
     },
     "persistent_id": "18be727ebd7e2246f92cdd62a26d4e5aa75be7ea7cf44f147f2ee683652aa764",
     "id": 128165782,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506419",
+      "street": {
+        "id": 1684816,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.088195"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-09"
+    },
+    "persistent_id": "b9b307b5031469fcfdac3de504d1c441376422c430a7da7897fe5e75e8fde488",
+    "id": 129688267,
     "location_subtype": "",
     "month": "2025-05"
   }

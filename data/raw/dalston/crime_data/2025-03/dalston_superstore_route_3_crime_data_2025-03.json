@@ -36,24 +36,6 @@
     "month": "2025-03"
   },
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.550549",
-      "street": {
-        "id": 1685723,
-        "name": "On or near Woodville Road"
-      },
-      "longitude": "-0.081845"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127094606,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
     "category": "public-order",
     "location_type": "Force",
     "location": {

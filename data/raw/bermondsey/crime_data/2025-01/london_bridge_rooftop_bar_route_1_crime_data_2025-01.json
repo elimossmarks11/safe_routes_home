@@ -1,0 +1,65 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.505587",
+      "street": {
+        "id": 2344281,
+        "name": "London Bridge (lu Station)"
+      },
+      "longitude": "-0.086493"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126036798,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.505587",
+      "street": {
+        "id": 2344281,
+        "name": "London Bridge (lu Station)"
+      },
+      "longitude": "-0.086493"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126036803,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "BTP",
+    "location": {
+      "latitude": "51.505587",
+      "street": {
+        "id": 2344281,
+        "name": "London Bridge (lu Station)"
+      },
+      "longitude": "-0.086493"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-05"
+    },
+    "persistent_id": "",
+    "id": 126036804,
+    "location_subtype": "LU STATION",
+    "month": "2025-01"
+  }
+]

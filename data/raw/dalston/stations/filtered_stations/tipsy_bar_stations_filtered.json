@@ -7,6 +7,13 @@
   },
   "selected_stations": [
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 2EZ, UK",
       "location": {
         "latitude": 51.550704700000004,
         "longitude": -0.0742369
@@ -15,12 +22,22 @@
         "text": "Shacklewell Lane / Kingsland High Street (Stop W)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 71.66133916517848,
       "bearing": 140.2230047668818,
       "sector": 3
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 3DF, UK",
       "location": {
         "latitude": 51.5463044,
         "longitude": -0.07367209999999999
@@ -29,12 +46,22 @@
         "text": "Dalston Lane /Dalston Junction Station (Stop K)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 550.9474113896458,
       "bearing": 171.1345092840554,
       "sector": 3
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 2DA, UK",
       "location": {
         "latitude": 51.5508653,
         "longitude": -0.0737985
@@ -43,12 +70,22 @@
         "text": "Shacklewell Lane Dalston (Stop X)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 84.76785687985465,
       "bearing": 116.04256167617768,
       "sector": 2
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1AL, UK",
       "location": {
         "latitude": 51.548927,
         "longitude": -0.061404999999999994
@@ -57,12 +94,22 @@
         "text": "Hackney Downs Station (Stop N)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 966.7280809218676,
       "bearing": 105.15052669754311,
       "sector": 2
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 2NS, UK",
       "location": {
         "latitude": 51.5500602,
         "longitude": -0.0750841
@@ -71,12 +118,22 @@
         "text": "Rio Cinema (Stop T)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 127.37761821400846,
       "bearing": 185.73542916868251,
       "sector": 4
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London N16 8LA, UK",
       "location": {
         "latitude": 51.550218099999995,
         "longitude": -0.0760735
@@ -85,12 +142,22 @@
         "text": "Crossway (Stop Z)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 136.03103617177203,
       "bearing": 216.6186778814414,
       "sector": 4
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Mayville Estate, London N16 9PU, UK",
       "location": {
         "latitude": 51.551611699999995,
         "longitude": -0.0844808
@@ -99,12 +166,22 @@
         "text": "Newington Green (Stop NE)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 664.0191029085609,
       "bearing": 273.956985791033,
       "sector": 6
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Newington Green, London N16 9PX, UK",
       "location": {
         "latitude": 51.551766099999995,
         "longitude": -0.0856889
@@ -113,12 +190,22 @@
         "text": "Newington Green (Stop NK)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 748.6199487943393,
       "bearing": 274.8276156000904,
       "sector": 6
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London N16 8ES, UK",
       "location": {
         "latitude": 51.557877,
         "longitude": -0.074528
@@ -127,12 +214,23 @@
         "text": "Stoke Newington Police Station (Stop R)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station",
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
       "distance_m": 742.8938613540599,
       "bearing": 1.9838463363905703,
       "sector": 0
     },
     {
+      "types": [
+        "transit_station",
+        "bus_stop",
+        "train_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Evering Rd, London N16 7SJ, UK",
       "location": {
         "latitude": 51.558502,
         "longitude": -0.068241
@@ -141,9 +239,9 @@
         "text": "Rectory Road",
         "languageCode": "en"
       },
-      "primaryType": "transit_station",
-      "postalAddress": {
-        "postalCode": "N16 7SJ"
+      "primaryTypeDisplayName": {
+        "text": "Transit station",
+        "languageCode": "en-US"
       },
       "distance_m": 933.3856724349658,
       "bearing": 29.55122306027488,

@@ -13,7 +13,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129464103,
+    "id": 129461600,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -67,49 +67,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129461600,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.497425",
-      "street": {
-        "id": 1685985,
-        "name": "On or near Long Walk"
-      },
-      "longitude": "-0.079869"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-06"
-    },
-    "persistent_id": "88c24e161b921cc861f2cfe37d0915479e852d48bf932d096065a67ef6f5dff8",
-    "id": 129481574,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.497246",
-      "street": {
-        "id": 1685689,
-        "name": "On or near Bermondsey Square"
-      },
-      "longitude": "-0.081058"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-06"
-    },
-    "persistent_id": "f1222adc1a022a37b9722eed608d342d5bba10312a4ff1dd5478f2c847b0c9b3",
-    "id": 129534188,
+    "id": 129464103,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -131,6 +89,27 @@
     },
     "persistent_id": "52d8676c9368e9f93c183b267f748d86be816bf5145cc5f17858ec8a3e5ee4e9",
     "id": 129551573,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497425",
+      "street": {
+        "id": 1685985,
+        "name": "On or near Long Walk"
+      },
+      "longitude": "-0.079869"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "88c24e161b921cc861f2cfe37d0915479e852d48bf932d096065a67ef6f5dff8",
+    "id": 129481574,
     "location_subtype": "",
     "month": "2025-06"
   },

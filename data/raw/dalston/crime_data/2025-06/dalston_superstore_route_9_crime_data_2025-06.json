@@ -13,78 +13,6 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129447692,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129459572,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129454063,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129451771,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
     "id": 129448656,
     "location_subtype": "",
     "month": "2025-06"
@@ -122,24 +50,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 129451764,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548431",
-      "street": {
-        "id": 1686561,
-        "name": "On or near Bradbury Street"
-      },
-      "longitude": "-0.076021"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129452008,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -211,7 +121,61 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129449022,
+    "id": 129447692,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129459572,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129466740,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129454063,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -237,35 +201,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.548996",
+      "latitude": "51.548448",
       "street": {
-        "id": 1686597,
-        "name": "On or near Gillett Place"
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
       },
-      "longitude": "-0.075982"
+      "longitude": "-0.075414"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129445988,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548996",
-      "street": {
-        "id": 1686597,
-        "name": "On or near Gillett Place"
-      },
-      "longitude": "-0.075982"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129458512,
+    "id": 129451771,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -283,7 +229,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129466740,
+    "id": 129449022,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -309,23 +255,23 @@
     "month": "2025-06"
   },
   {
-    "category": "public-order",
+    "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.548996",
+      "latitude": "51.549267",
       "street": {
-        "id": 1686597,
-        "name": "On or near Gillett Place"
+        "id": 1686697,
+        "name": "On or near Nightclub"
       },
-      "longitude": "-0.075982"
+      "longitude": "-0.075541"
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-06"
+      "category": "Status update unavailable",
+      "date": "2025-10"
     },
-    "persistent_id": "4bf294244397ef52578684852429f38ff7ad1eb8fdbe224e0800c3ca09d4cc1f",
-    "id": 129522883,
+    "persistent_id": "f996a05c1ef0af37b3fffc4fec79f1ef07141e7fbb16f6fc1bf01bc278677faa",
+    "id": 129467431,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -347,27 +293,6 @@
     },
     "persistent_id": "76d1b8a5a445b3d2e50de4adcc45862761b6d58eadfadae9e47d3431db2b858b",
     "id": 129545783,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.549267",
-      "street": {
-        "id": 1686697,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.075541"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
-    },
-    "persistent_id": "f996a05c1ef0af37b3fffc4fec79f1ef07141e7fbb16f6fc1bf01bc278677faa",
-    "id": 129467431,
     "location_subtype": "",
     "month": "2025-06"
   },

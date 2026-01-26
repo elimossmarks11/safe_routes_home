@@ -1,0 +1,23 @@
+[
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504411",
+      "street": {
+        "id": 1685627,
+        "name": "On or near Braidwood Street"
+      },
+      "longitude": "-0.082011"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "6d013022f54ef68a44a713906adc418620ddcf7ee44b7f6f143201134a6e4543",
+    "id": 126416998,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

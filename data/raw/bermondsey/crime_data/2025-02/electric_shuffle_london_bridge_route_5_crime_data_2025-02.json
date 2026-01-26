@@ -3,27 +3,6 @@
     "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.502094",
-      "street": {
-        "id": 1686340,
-        "name": "On or near A100"
-      },
-      "longitude": "-0.077771"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-08"
-    },
-    "persistent_id": "c78d2e9193596a923d69c666f90a0df21bb0036ec62532950f758f772e7c62e6",
-    "id": 126417569,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.504017",
       "street": {
         "id": 1685517,
@@ -42,23 +21,23 @@
     "month": "2025-02"
   },
   {
-    "category": "violent-crime",
+    "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.502026",
+      "latitude": "51.502094",
       "street": {
-        "id": 1686384,
-        "name": "On or near Fair Street"
+        "id": 1686340,
+        "name": "On or near A100"
       },
-      "longitude": "-0.077500"
+      "longitude": "-0.077771"
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
+      "category": "Awaiting court outcome",
+      "date": "2025-08"
     },
-    "persistent_id": "3017cb7537e4f190db2f288bf9a6ac863c7af56e4806a0d38f6f0e443d82da85",
-    "id": 126416956,
+    "persistent_id": "c78d2e9193596a923d69c666f90a0df21bb0036ec62532950f758f772e7c62e6",
+    "id": 126417569,
     "location_subtype": "",
     "month": "2025-02"
   }

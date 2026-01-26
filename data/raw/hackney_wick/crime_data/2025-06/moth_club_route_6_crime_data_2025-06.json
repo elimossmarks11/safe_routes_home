@@ -3,24 +3,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.546794",
-      "street": {
-        "id": 1690483,
-        "name": "On or near Homerton Terrace"
-      },
-      "longitude": "-0.049350"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129445089,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.545711",
       "street": {
         "id": 1689897,
@@ -54,44 +36,23 @@
     "month": "2025-06"
   },
   {
-    "category": "public-order",
+    "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.544907",
+      "latitude": "51.545711",
       "street": {
-        "id": 1691028,
-        "name": "On or near Shopping Area"
+        "id": 1689897,
+        "name": "On or near Nightclub"
       },
-      "longitude": "-0.046185"
+      "longitude": "-0.054530"
     },
     "context": "",
     "outcome_status": {
       "category": "Investigation complete; no suspect identified",
-      "date": "2025-06"
+      "date": "2025-09"
     },
-    "persistent_id": "0c9cc3d79b97145c35e64e72dba7f34924ca132ee38299f29d68053e086df162",
-    "id": 129491384,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.546808",
-      "street": {
-        "id": 1691373,
-        "name": "On or near Berger Road"
-      },
-      "longitude": "-0.043176"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "c7010f0f67b81e7bd38a4018ba335a77322adcfdfb88476cbcf09b066889075d",
-    "id": 129547422,
+    "persistent_id": "04306df9a45c82fb964a09b4b9d0504b39d3291ed1982c7f2a26a9b739aae821",
+    "id": 129516585,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -141,20 +102,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.545711",
+      "latitude": "51.546808",
       "street": {
-        "id": 1689897,
-        "name": "On or near Nightclub"
+        "id": 1691373,
+        "name": "On or near Berger Road"
       },
-      "longitude": "-0.054530"
+      "longitude": "-0.043176"
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-09"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
     },
-    "persistent_id": "04306df9a45c82fb964a09b4b9d0504b39d3291ed1982c7f2a26a9b739aae821",
-    "id": 129516585,
+    "persistent_id": "c7010f0f67b81e7bd38a4018ba335a77322adcfdfb88476cbcf09b066889075d",
+    "id": 129547422,
     "location_subtype": "",
     "month": "2025-06"
   }

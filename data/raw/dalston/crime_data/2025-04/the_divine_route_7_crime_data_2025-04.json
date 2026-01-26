@@ -135,90 +135,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Court result unavailable",
-      "date": "2025-11"
-    },
-    "persistent_id": "f8fe65cac56c0bb51e140967dc8843a89c910773238181e9d8c9e797b58efac7",
-    "id": 127665366,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552008",
-      "street": {
-        "id": 1686728,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075350"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-08"
-    },
-    "persistent_id": "522dcaf427444f106d88e9a624b2662e1c3b8116f84dde3577dcdfc738fe2d07",
-    "id": 127570960,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552008",
-      "street": {
-        "id": 1686728,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075350"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-08"
-    },
-    "persistent_id": "c51a75a9abaae06475e5a757647280febec8d191b102ae04ccadf8dc9c5dd66b",
-    "id": 127570966,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552008",
-      "street": {
-        "id": 1686728,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075350"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-06"
-    },
-    "persistent_id": "fea72ef79cb5539cda4897c3e0f135171834ab5d66caf8eebcb0bb0cbc3b1512",
-    "id": 127573877,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.553879",
       "street": {
         "id": 1686731,
@@ -229,52 +145,10 @@
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "2e2b363bb3f9ed0c12c9bc1f3ef81f88ac16411f4859fe309e37fb359bcde1c8",
-    "id": 127573528,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Court result unavailable",
-      "date": "2025-11"
-    },
-    "persistent_id": "c283bfde5c1d4d1457bcf5c16946e44eda2172bd490374abca79050e4b43b4bd",
-    "id": 127665806,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
       "date": "2025-04"
     },
-    "persistent_id": "e3a59a5ae7d4940f5dd7ebd645864ddefc99134ef1f9a172ae5dae7fae27728e",
-    "id": 127574075,
+    "persistent_id": "81c2cb5e977e4e8f5e76a40ae08204df1466030f3ca3fd4b48b9795daaa508ee",
+    "id": 127661533,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -303,6 +177,27 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
+      "latitude": "51.552008",
+      "street": {
+        "id": 1686728,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.075350"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-08"
+    },
+    "persistent_id": "522dcaf427444f106d88e9a624b2662e1c3b8116f84dde3577dcdfc738fe2d07",
+    "id": 127570960,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.553879",
       "street": {
         "id": 1686731,
@@ -313,52 +208,10 @@
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2025-04"
+      "date": "2025-07"
     },
-    "persistent_id": "81c2cb5e977e4e8f5e76a40ae08204df1466030f3ca3fd4b48b9795daaa508ee",
-    "id": 127661533,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-11"
-    },
-    "persistent_id": "9c809a10e94b726c91db2463f09487961c63616cda5948e5f134c3e4985b741f",
-    "id": 127665415,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.555334",
-      "street": {
-        "id": 1686858,
-        "name": "On or near Petrol Station"
-      },
-      "longitude": "-0.074229"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-08"
-    },
-    "persistent_id": "0c4fd84ba6de9811d5033b5cf34017bf2ab0025b182b1cb401609b0302608356",
-    "id": 127568225,
+    "persistent_id": "2e2b363bb3f9ed0c12c9bc1f3ef81f88ac16411f4859fe309e37fb359bcde1c8",
+    "id": 127573528,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -387,6 +240,27 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
+      "latitude": "51.552008",
+      "street": {
+        "id": 1686728,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.075350"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-08"
+    },
+    "persistent_id": "c51a75a9abaae06475e5a757647280febec8d191b102ae04ccadf8dc9c5dd66b",
+    "id": 127570966,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.557857",
       "street": {
         "id": 1686850,
@@ -408,6 +282,69 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
+      "latitude": "51.552008",
+      "street": {
+        "id": 1686728,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.075350"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "fea72ef79cb5539cda4897c3e0f135171834ab5d66caf8eebcb0bb0cbc3b1512",
+    "id": 127573877,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-11"
+    },
+    "persistent_id": "f8fe65cac56c0bb51e140967dc8843a89c910773238181e9d8c9e797b58efac7",
+    "id": 127665366,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Court result unavailable",
+      "date": "2025-11"
+    },
+    "persistent_id": "c283bfde5c1d4d1457bcf5c16946e44eda2172bd490374abca79050e4b43b4bd",
+    "id": 127665806,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.557857",
       "street": {
         "id": 1686850,
@@ -422,6 +359,48 @@
     },
     "persistent_id": "61ee25cb72c78b9f6661c9026affd13fce05a3b5cd91840ec6be852ec2dfca7d",
     "id": 127625165,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.556356",
+      "street": {
+        "id": 1686726,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074865"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "e3a59a5ae7d4940f5dd7ebd645864ddefc99134ef1f9a172ae5dae7fae27728e",
+    "id": 127574075,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-11"
+    },
+    "persistent_id": "9c809a10e94b726c91db2463f09487961c63616cda5948e5f134c3e4985b741f",
+    "id": 127665415,
     "location_subtype": "",
     "month": "2025-04"
   }

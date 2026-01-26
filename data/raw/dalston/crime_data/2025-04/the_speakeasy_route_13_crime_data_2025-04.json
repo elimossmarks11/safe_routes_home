@@ -18,80 +18,23 @@
     "month": "2025-04"
   },
   {
-    "category": "anti-social-behaviour",
+    "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.547487",
+      "latitude": "51.548771",
       "street": {
-        "id": 1687484,
-        "name": "On or near Martel Place"
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
       },
-      "longitude": "-0.069498"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127544463,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127551167,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
+      "longitude": "-0.061756"
     },
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2025-04"
+      "date": "2025-09"
     },
-    "persistent_id": "c3ce2700739582882c299e9f321e8ea591569642343cae76fd2052716096c7e3",
-    "id": 127581725,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "b915c6f7f4229ef8ed2f0e09894f181a1733bfcbf9dcb1bab7f0056d786ec488",
-    "id": 127581726,
+    "persistent_id": "c5eeb3aa9725ee26d859552c78047dc6b2520ce18c04a29906c3e413f696dc74",
+    "id": 127662078,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -113,48 +56,6 @@
     },
     "persistent_id": "3cf7b76264f6a0298d4226184c4436cc154412b8fd80d32e8661c4198588a0b0",
     "id": 127568354,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547487",
-      "street": {
-        "id": 1687484,
-        "name": "On or near Martel Place"
-      },
-      "longitude": "-0.069498"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "6574dd169c71bd9b7ab1d4d2181c8134a6ca895d3b128ef2a5da2235648d16ed",
-    "id": 127657598,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548771",
-      "street": {
-        "id": 1688929,
-        "name": "On or near Sigdon Road"
-      },
-      "longitude": "-0.061756"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-09"
-    },
-    "persistent_id": "c5eeb3aa9725ee26d859552c78047dc6b2520ce18c04a29906c3e413f696dc74",
-    "id": 127662078,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -197,27 +98,6 @@
     },
     "persistent_id": "9bd4e5a7148f67e9dbbf5f0a3472423d9e0fd8e7a9c49ff78c938e8285422612",
     "id": 127661400,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547487",
-      "street": {
-        "id": 1687484,
-        "name": "On or near Martel Place"
-      },
-      "longitude": "-0.069498"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-08"
-    },
-    "persistent_id": "ed0b9a7d91586f7ec85a5e491de3d9fd730d60ff1eb7b1e3badbf4a6d3aa7015",
-    "id": 127658061,
     "location_subtype": "",
     "month": "2025-04"
   }

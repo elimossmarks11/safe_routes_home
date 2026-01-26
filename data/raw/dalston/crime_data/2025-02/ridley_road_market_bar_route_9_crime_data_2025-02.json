@@ -3,24 +3,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126350111,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548321",
       "street": {
         "id": 1688567,
@@ -32,114 +14,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 126348816,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126357289,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126355123,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126354439,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126352081,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548424",
-      "street": {
-        "id": 1687408,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.070699"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126349789,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126349602,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -168,48 +42,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-05"
-    },
-    "persistent_id": "23a5dd9a2a49271d183a7ec9fa8b99cc5bd156a8f57cfbb14165d61acb7e7823",
-    "id": 126422201,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548763",
-      "street": {
-        "id": 1688853,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061799"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-07"
-    },
-    "persistent_id": "7c6a7de11218970b84784042744d0297fedeece4561804c27b05036b8732e22e",
-    "id": 126425195,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548771",
       "street": {
         "id": 1688929,
@@ -231,27 +63,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.548424",
-      "street": {
-        "id": 1687408,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.070699"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-03"
-    },
-    "persistent_id": "4f175df29b2630b96a9c1ae98cb73353eb35377f1ac64afd38c6c6749af46efa",
-    "id": 126366894,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548321",
       "street": {
         "id": 1688567,
@@ -266,6 +77,27 @@
     },
     "persistent_id": "e451e3275fbc3a3fa06357ae63686fd53ac844f273027516c2f9c7373f60e5cd",
     "id": 126368423,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548763",
+      "street": {
+        "id": 1688853,
+        "name": "On or near Spurstowe Terrace"
+      },
+      "longitude": "-0.061799"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-07"
+    },
+    "persistent_id": "7c6a7de11218970b84784042744d0297fedeece4561804c27b05036b8732e22e",
+    "id": 126425195,
     "location_subtype": "",
     "month": "2025-02"
   }

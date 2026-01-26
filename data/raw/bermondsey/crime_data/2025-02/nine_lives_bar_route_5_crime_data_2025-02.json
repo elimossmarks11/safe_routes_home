@@ -19,47 +19,5 @@
     "id": 126417569,
     "location_subtype": "",
     "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.504017",
-      "street": {
-        "id": 1685517,
-        "name": "On or near Bursar Street"
-      },
-      "longitude": "-0.082128"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-06"
-    },
-    "persistent_id": "f069d3e92827a9f5f9ba5009f92db0d17ccba28522399f5e1caa22f44a4ef41b",
-    "id": 126415916,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.502026",
-      "street": {
-        "id": 1686384,
-        "name": "On or near Fair Street"
-      },
-      "longitude": "-0.077500"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "3017cb7537e4f190db2f288bf9a6ac863c7af56e4806a0d38f6f0e443d82da85",
-    "id": 126416956,
-    "location_subtype": "",
-    "month": "2025-02"
   }
 ]

@@ -3,35 +3,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.501428",
+      "latitude": "51.499193",
       "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
+        "id": 1686152,
+        "name": "On or near Tower Bridge Road"
       },
-      "longitude": "-0.081632"
+      "longitude": "-0.079089"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129589885,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129598316,
+    "id": 129595975,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -54,218 +36,23 @@
     "month": "2025-05"
   },
   {
-    "category": "anti-social-behaviour",
+    "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.501428",
+      "latitude": "51.500794",
       "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
+        "id": 1685715,
+        "name": "On or near Bermondsey Street"
       },
-      "longitude": "-0.081632"
+      "longitude": "-0.081889"
     },
     "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129583551,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
     },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129583880,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.499193",
-      "street": {
-        "id": 1686152,
-        "name": "On or near Tower Bridge Road"
-      },
-      "longitude": "-0.079089"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129595975,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129589778,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129597692,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129594096,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129600203,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129594996,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129598538,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129599976,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129601869,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501428",
-      "street": {
-        "id": 1685745,
-        "name": "On or near Black Swan Yard"
-      },
-      "longitude": "-0.081632"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129586897,
+    "persistent_id": "cf3569ebe4b76100920b894f4e991848ebb8b56f59c712056ffecbdc58b14c65",
+    "id": 129681677,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -304,31 +91,10 @@
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2025-05"
+      "date": "2025-11"
     },
-    "persistent_id": "cf3569ebe4b76100920b894f4e991848ebb8b56f59c712056ffecbdc58b14c65",
-    "id": 129681677,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501461",
-      "street": {
-        "id": 1685599,
-        "name": "On or near Carmarthen Place"
-      },
-      "longitude": "-0.082538"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "edbedd642a523deedf69d25794a448ae5a6b47d72c168ec6bcb87554ee058c3c",
-    "id": 129608234,
+    "persistent_id": "9fc87210d2d1c2f8956670d70d98c001036df1c0b5220c3e27f31f8e63a4e8a1",
+    "id": 129607095,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -350,69 +116,6 @@
     },
     "persistent_id": "46c585028290664babea6bbdb4d70421fe4052aa15f57967fac188d2cdfafdd3",
     "id": 129609102,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501461",
-      "street": {
-        "id": 1685599,
-        "name": "On or near Carmarthen Place"
-      },
-      "longitude": "-0.082538"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-11"
-    },
-    "persistent_id": "900e08ab310c6b99fe3de2b7e01849cdd3d5f4acfcfa91d95c7276751ebcc38f",
-    "id": 129610772,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.500794",
-      "street": {
-        "id": 1685715,
-        "name": "On or near Bermondsey Street"
-      },
-      "longitude": "-0.081889"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-11"
-    },
-    "persistent_id": "9fc87210d2d1c2f8956670d70d98c001036df1c0b5220c3e27f31f8e63a4e8a1",
-    "id": 129607095,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.501461",
-      "street": {
-        "id": 1685599,
-        "name": "On or near Carmarthen Place"
-      },
-      "longitude": "-0.082538"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-06"
-    },
-    "persistent_id": "06013a8cc54bc7a1efe1ac9882179a65bb37de28eb2797781c5e8deb75c882ea",
-    "id": 129604806,
     "location_subtype": "",
     "month": "2025-05"
   }

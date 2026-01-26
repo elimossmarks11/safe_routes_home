@@ -1,19 +1,22 @@
 [
   {
-    "category": "anti-social-behaviour",
+    "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.500582",
+      "latitude": "51.503329",
       "street": {
-        "id": 1684240,
-        "name": "On or near Silvester Street"
+        "id": 1684255,
+        "name": "On or near Borough High Street"
       },
-      "longitude": "-0.092012"
+      "longitude": "-0.091725"
     },
     "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129453447,
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
+    },
+    "persistent_id": "71f7396871f5dbd571c2e981435cc9026dad4bb9c1e12fe0221b6bf03683876b",
+    "id": 129542612,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -39,48 +42,6 @@
     "month": "2025-06"
   },
   {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.500926",
-      "street": {
-        "id": 1684141,
-        "name": "On or near Further/higher Educational Building"
-      },
-      "longitude": "-0.092171"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-07"
-    },
-    "persistent_id": "daa2d4627018bb857834a57406f2e7ea50dd77ec8c40c7ad7ce39373e5a41971",
-    "id": 129535916,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.503329",
-      "street": {
-        "id": 1684255,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.091725"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-09"
-    },
-    "persistent_id": "71f7396871f5dbd571c2e981435cc9026dad4bb9c1e12fe0221b6bf03683876b",
-    "id": 129542612,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
@@ -93,11 +54,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-06"
+      "category": "Awaiting court outcome",
+      "date": "2025-08"
     },
-    "persistent_id": "a048152f61c40843433b59112bdb8e35249d55b820c82a695ca12f0d37f1b246",
-    "id": 129538401,
+    "persistent_id": "8aeba0c40e2cb9f34bc74123ccb0bb359d3fe42c048ebee1fcd8eff1ee5892aa",
+    "id": 129547117,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -105,20 +66,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.503329",
+      "latitude": "51.505208",
       "street": {
-        "id": 1684255,
+        "id": 1684629,
         "name": "On or near Borough High Street"
       },
-      "longitude": "-0.091725"
+      "longitude": "-0.089485"
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-06"
+      "category": "Status update unavailable",
+      "date": "2025-10"
     },
-    "persistent_id": "1654c23f07c3b37370a99d213ff4dad32153228871149ed2a4f01f7a5cd8c0f9",
-    "id": 129503096,
+    "persistent_id": "3e018424d61bf8de3e366966a9243f3a297d077187b1fafba5497f2171ffd06d",
+    "id": 129474595,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -140,48 +101,6 @@
     },
     "persistent_id": "f5f55549225d1a7e763614c456494eb9a2a75b911f7a3602d6ea6d7c959a3eba",
     "id": 129503864,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.500926",
-      "street": {
-        "id": 1684141,
-        "name": "On or near Further/higher Educational Building"
-      },
-      "longitude": "-0.092171"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-10"
-    },
-    "persistent_id": "b63da48d8415dbfd1d181cac7ec5d5740d477d9768ac5d1589b6d2da5ad0214c",
-    "id": 129507883,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.503391",
-      "street": {
-        "id": 1684343,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.091679"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-08"
-    },
-    "persistent_id": "8aeba0c40e2cb9f34bc74123ccb0bb359d3fe42c048ebee1fcd8eff1ee5892aa",
-    "id": 129547117,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -231,6 +150,27 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
+      "latitude": "51.503329",
+      "street": {
+        "id": 1684255,
+        "name": "On or near Borough High Street"
+      },
+      "longitude": "-0.091725"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "1654c23f07c3b37370a99d213ff4dad32153228871149ed2a4f01f7a5cd8c0f9",
+    "id": 129503096,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.503391",
       "street": {
         "id": 1684343,
@@ -252,20 +192,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.505208",
+      "latitude": "51.503391",
       "street": {
-        "id": 1684629,
+        "id": 1684343,
         "name": "On or near Borough High Street"
       },
-      "longitude": "-0.089485"
+      "longitude": "-0.091679"
     },
     "context": "",
     "outcome_status": {
       "category": "Status update unavailable",
       "date": "2025-10"
     },
-    "persistent_id": "3e018424d61bf8de3e366966a9243f3a297d077187b1fafba5497f2171ffd06d",
-    "id": 129474595,
+    "persistent_id": "fec92f5c1aa735fe0b4a804e5766cb044573de5be8a92893270a68d48c53270e",
+    "id": 129540648,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -282,11 +222,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
     },
-    "persistent_id": "fec92f5c1aa735fe0b4a804e5766cb044573de5be8a92893270a68d48c53270e",
-    "id": 129540648,
+    "persistent_id": "a048152f61c40843433b59112bdb8e35249d55b820c82a695ca12f0d37f1b246",
+    "id": 129538401,
     "location_subtype": "",
     "month": "2025-06"
   }

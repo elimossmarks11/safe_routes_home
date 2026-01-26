@@ -1,0 +1,44 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504238",
+      "street": {
+        "id": 1685718,
+        "name": "On or near Abbots Lane"
+      },
+      "longitude": "-0.081298"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "b3ae4544af43add74736ead6f6b84d904aa1a42b0d6ac1b88452d61400067395",
+    "id": 127191735,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.504411",
+      "street": {
+        "id": 1685627,
+        "name": "On or near Braidwood Street"
+      },
+      "longitude": "-0.082011"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "1868df8a4b402edf206ba84d4f4af21d2c3285472ce44567cae45f8869ae4a51",
+    "id": 127190717,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

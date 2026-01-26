@@ -21,24 +21,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127552434,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.553879",
       "street": {
         "id": 1686731,
@@ -50,24 +32,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 127555477,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127556273,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -96,62 +60,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.557272",
+      "latitude": "51.558378",
       "street": {
-        "id": 1686859,
-        "name": "On or near Glading Terrace"
+        "id": 1687757,
+        "name": "On or near Nile Close"
       },
-      "longitude": "-0.073931"
+      "longitude": "-0.068445"
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
+      "category": "Awaiting court outcome",
       "date": "2025-09"
     },
-    "persistent_id": "7cffa6c4fdfe93da8e58da91a06332df24eb3b5eebabc5d8262572cd880461cb",
-    "id": 127577379,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.553879",
-      "street": {
-        "id": 1686731,
-        "name": "On or near Stoke Newington Road"
-      },
-      "longitude": "-0.074853"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "2e2b363bb3f9ed0c12c9bc1f3ef81f88ac16411f4859fe309e37fb359bcde1c8",
-    "id": 127573528,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552008",
-      "street": {
-        "id": 1686728,
-        "name": "On or near Supermarket"
-      },
-      "longitude": "-0.075350"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-06"
-    },
-    "persistent_id": "fea72ef79cb5539cda4897c3e0f135171834ab5d66caf8eebcb0bb0cbc3b1512",
-    "id": 127573877,
+    "persistent_id": "892aadfdfaa826f1158a82209ea6214a58168cf9d571aa3503811bda6334a567",
+    "id": 127657004,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -201,20 +123,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.555334",
+      "latitude": "51.557272",
       "street": {
-        "id": 1686858,
-        "name": "On or near Petrol Station"
+        "id": 1686859,
+        "name": "On or near Glading Terrace"
       },
-      "longitude": "-0.074229"
+      "longitude": "-0.073931"
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-08"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
     },
-    "persistent_id": "0c4fd84ba6de9811d5033b5cf34017bf2ab0025b182b1cb401609b0302608356",
-    "id": 127568225,
+    "persistent_id": "7cffa6c4fdfe93da8e58da91a06332df24eb3b5eebabc5d8262572cd880461cb",
+    "id": 127577379,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -231,11 +153,32 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-09"
+      "category": "Action to be taken by another organisation",
+      "date": "2025-10"
     },
-    "persistent_id": "892aadfdfaa826f1158a82209ea6214a58168cf9d571aa3503811bda6334a567",
-    "id": 127657004,
+    "persistent_id": "58559b661fc70d4e9f24412c88ed7f1c3312c2621ce71cedd32e5b291472062b",
+    "id": 127579542,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552008",
+      "street": {
+        "id": 1686728,
+        "name": "On or near Supermarket"
+      },
+      "longitude": "-0.075350"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "fea72ef79cb5539cda4897c3e0f135171834ab5d66caf8eebcb0bb0cbc3b1512",
+    "id": 127573877,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -257,48 +200,6 @@
     },
     "persistent_id": "1d84c8426cbe29cce717080aa4e519610d18304e79cece1c3f85f53667a68657",
     "id": 127574893,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.555987",
-      "street": {
-        "id": 1686893,
-        "name": "On or near Foulden Terrace"
-      },
-      "longitude": "-0.073999"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-08"
-    },
-    "persistent_id": "57708f44ef0c1402d693ba2121ed3196ed69994fb4b155bce6dad53fdf143613",
-    "id": 127654981,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "e3a59a5ae7d4940f5dd7ebd645864ddefc99134ef1f9a172ae5dae7fae27728e",
-    "id": 127574075,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -369,20 +270,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.558378",
+      "latitude": "51.553879",
       "street": {
-        "id": 1687757,
-        "name": "On or near Nile Close"
+        "id": 1686731,
+        "name": "On or near Stoke Newington Road"
       },
-      "longitude": "-0.068445"
+      "longitude": "-0.074853"
     },
     "context": "",
     "outcome_status": {
-      "category": "Action to be taken by another organisation",
-      "date": "2025-10"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
     },
-    "persistent_id": "58559b661fc70d4e9f24412c88ed7f1c3312c2621ce71cedd32e5b291472062b",
-    "id": 127579542,
+    "persistent_id": "2e2b363bb3f9ed0c12c9bc1f3ef81f88ac16411f4859fe309e37fb359bcde1c8",
+    "id": 127573528,
     "location_subtype": "",
     "month": "2025-04"
   }

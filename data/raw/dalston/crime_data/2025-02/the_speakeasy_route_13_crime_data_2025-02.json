@@ -3,78 +3,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126355123,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126357289,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126349602,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126350111,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548321",
       "street": {
         "id": 1688567,
@@ -86,63 +14,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 126348816,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126352081,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 126354439,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547487",
-      "street": {
-        "id": 1687484,
-        "name": "On or near Martel Place"
-      },
-      "longitude": "-0.069498"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-02"
-    },
-    "persistent_id": "0f9c40f86634e9b7c4ab3459012e6d9c5399148538cd456b85cbae8a57f50952",
-    "id": 126367422,
     "location_subtype": "",
     "month": "2025-02"
   },
@@ -248,48 +119,6 @@
     },
     "persistent_id": "546941883d16416328dfd574d925a6731b4fdc5c8902dc14818bac8cb6414612",
     "id": 126420439,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548471",
-      "street": {
-        "id": 1688962,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061552"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-05"
-    },
-    "persistent_id": "23a5dd9a2a49271d183a7ec9fa8b99cc5bd156a8f57cfbb14165d61acb7e7823",
-    "id": 126422201,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547487",
-      "street": {
-        "id": 1687484,
-        "name": "On or near Martel Place"
-      },
-      "longitude": "-0.069498"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-06"
-    },
-    "persistent_id": "e83569e3ec29ef886fc6c81e81eb4e2d327b22ce526b84c37d3add06b5c86966",
-    "id": 126414532,
     "location_subtype": "",
     "month": "2025-02"
   }

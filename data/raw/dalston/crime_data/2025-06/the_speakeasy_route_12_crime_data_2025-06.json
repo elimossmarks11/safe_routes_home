@@ -54,24 +54,6 @@
     "month": "2025-06"
   },
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548634",
-      "street": {
-        "id": 1688154,
-        "name": "On or near Lewis Place"
-      },
-      "longitude": "-0.065944"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129466062,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
     "category": "public-order",
     "location_type": "Force",
     "location": {
@@ -96,20 +78,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.548771",
+      "latitude": "51.548763",
       "street": {
-        "id": 1688929,
-        "name": "On or near Sigdon Road"
+        "id": 1688853,
+        "name": "On or near Spurstowe Terrace"
       },
-      "longitude": "-0.061756"
+      "longitude": "-0.061799"
     },
     "context": "",
     "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-11"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
     },
-    "persistent_id": "993c1e5f580d73a2184513e412b726efc94f6d5b7b84f11a7c0a0e9a9e43dbda",
-    "id": 129519871,
+    "persistent_id": "d9799bb4dafd00fca179d8d0ac4a4a938a74e08cdd484d3524a8f3c00e263c64",
+    "id": 129512286,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -138,6 +120,27 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
+      "latitude": "51.548771",
+      "street": {
+        "id": 1688929,
+        "name": "On or near Sigdon Road"
+      },
+      "longitude": "-0.061756"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-11"
+    },
+    "persistent_id": "993c1e5f580d73a2184513e412b726efc94f6d5b7b84f11a7c0a0e9a9e43dbda",
+    "id": 129519871,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.548305",
       "street": {
         "id": 1688309,
@@ -152,27 +155,6 @@
     },
     "persistent_id": "923046a099eacc79ab6cffdeb1fcab91ad8f33d5009f3a7ff5205d69dbe54680",
     "id": 129507942,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548763",
-      "street": {
-        "id": 1688853,
-        "name": "On or near Spurstowe Terrace"
-      },
-      "longitude": "-0.061799"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-06"
-    },
-    "persistent_id": "d9799bb4dafd00fca179d8d0ac4a4a938a74e08cdd484d3524a8f3c00e263c64",
-    "id": 129512286,
     "location_subtype": "",
     "month": "2025-06"
   }

@@ -7,6 +7,13 @@
   },
   "places": [
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 9BZ, UK",
       "location": {
         "latitude": 51.5052526,
         "longitude": -0.0867129
@@ -15,9 +22,19 @@
         "text": "London Bridge bus station",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 9BZ, UK",
       "location": {
         "latitude": 51.5052378,
         "longitude": -0.0866815
@@ -26,9 +43,19 @@
         "text": "London Bridge Bus Station (Stop B)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 9GP, UK",
       "location": {
         "latitude": 51.505306,
         "longitude": -0.086515
@@ -37,9 +64,19 @@
         "text": "London Bridge Bus Station (Stop A)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Bridge Underground Station Underground Ltd, 21 Duke St Hill, London SE1 2SW, UK",
       "location": {
         "latitude": 51.5058624,
         "longitude": -0.0869692
@@ -48,12 +85,19 @@
         "text": "London Bridge",
         "languageCode": "en"
       },
-      "primaryType": "subway_station",
-      "postalAddress": {
-        "postalCode": "SE1 2SW"
+      "primaryTypeDisplayName": {
+        "text": "Subway Station",
+        "languageCode": "en-US"
       }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 1RQ, UK",
       "location": {
         "latitude": 51.504642,
         "longitude": -0.091111
@@ -62,9 +106,20 @@
         "text": "The Hop Exchange (Stop E)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "transit_station",
+        "bus_stop",
+        "train_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Station Approach Rd, London SE1 9SP, UK",
       "location": {
         "latitude": 51.5042625,
         "longitude": -0.0848024
@@ -73,12 +128,19 @@
         "text": "London Bridge",
         "languageCode": "en"
       },
-      "primaryType": "transit_station",
-      "postalAddress": {
-        "postalCode": "SE1 9SP"
+      "primaryTypeDisplayName": {
+        "text": "Transit station",
+        "languageCode": "en-US"
       }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2DA, UK",
       "location": {
         "latitude": 51.505084100000005,
         "longitude": -0.08410379999999999
@@ -87,9 +149,19 @@
         "text": "Hays Galleria (Stop H)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London EC4R 3TN, UK",
       "location": {
         "latitude": 51.509502,
         "longitude": -0.087002
@@ -98,9 +170,19 @@
         "text": "Monument (Stop P)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Borough High St, London SE1 1JX, UK",
       "location": {
         "latitude": 51.501244899999996,
         "longitude": -0.0936138
@@ -109,12 +191,19 @@
         "text": "Borough",
         "languageCode": "en"
       },
-      "primaryType": "subway_station",
-      "postalAddress": {
-        "postalCode": "SE1 1JX"
+      "primaryTypeDisplayName": {
+        "text": "Subway Station",
+        "languageCode": "en-US"
       }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 4YB, UK",
       "location": {
         "latitude": 51.500282,
         "longitude": -0.09238800000000001
@@ -123,9 +212,19 @@
         "text": "Borough Station / Great Dover Street (Stop E)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 1JX, UK",
       "location": {
         "latitude": 51.5008884,
         "longitude": -0.09388370000000001
@@ -134,9 +233,19 @@
         "text": "Borough Station (Stop C)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Kipling Estate, London SE1 3RQ, UK",
       "location": {
         "latitude": 51.4997202,
         "longitude": -0.08677499999999999
@@ -145,9 +254,19 @@
         "text": "Staple Street",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London EC4R 3UE, UK",
       "location": {
         "latitude": 51.510401099999996,
         "longitude": -0.0901613
@@ -156,9 +275,19 @@
         "text": "Cannon Street Station (Stop 47)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 1GA, UK",
       "location": {
         "latitude": 51.500640999999995,
         "longitude": -0.0939
@@ -167,9 +296,19 @@
         "text": "Borough Station (Stop A)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London EC3M 1AE, UK",
       "location": {
         "latitude": 51.510651,
         "longitude": -0.085225
@@ -178,9 +317,19 @@
         "text": "Monument (Stop J)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Monument Station, Underground Ltd, King William St, London EC4R 9AA, UK",
       "location": {
         "latitude": 51.511002299999994,
         "longitude": -0.0866591
@@ -189,12 +338,19 @@
         "text": "Monument",
         "languageCode": "en"
       },
-      "primaryType": "subway_station",
-      "postalAddress": {
-        "postalCode": "EC4R 9AA"
+      "primaryTypeDisplayName": {
+        "text": "Subway Station",
+        "languageCode": "en-US"
       }
     },
     {
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Underground Station Underground Ltd, Cannon St, London EC4N 6AP, UK",
       "location": {
         "latitude": 51.511080899999996,
         "longitude": -0.0903503
@@ -203,12 +359,19 @@
         "text": "Cannon Street",
         "languageCode": "en"
       },
-      "primaryType": "subway_station",
-      "postalAddress": {
-        "postalCode": "EC4N 6AP"
+      "primaryTypeDisplayName": {
+        "text": "Subway Station",
+        "languageCode": "en-US"
       }
     },
     {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Greater, Cannon St, London EC4N 6AP, UK",
       "location": {
         "latitude": 51.511311,
         "longitude": -0.0903167
@@ -217,12 +380,19 @@
         "text": "Cannon Street",
         "languageCode": "en"
       },
-      "primaryType": "train_station",
-      "postalAddress": {
-        "postalCode": "EC4N 6AP"
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
       }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London EC3R 7QR, UK",
       "location": {
         "latitude": 51.50995640000001,
         "longitude": -0.0815053
@@ -231,9 +401,19 @@
         "text": "Great Tower Street (Stop TT)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     },
     {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London EC3V 0EE, UK",
       "location": {
         "latitude": 51.511348999999996,
         "longitude": -0.085397
@@ -242,7 +422,10 @@
         "text": "Fenchurch Street (Stop U)",
         "languageCode": "en"
       },
-      "primaryType": "bus_station"
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
     }
   ]
 }

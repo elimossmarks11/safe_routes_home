@@ -18,24 +18,6 @@
     "month": "2025-01"
   },
   {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506100",
-      "street": {
-        "id": 1684794,
-        "name": "On or near Duke Street Hill"
-      },
-      "longitude": "-0.088540"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 125850201,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
     "category": "public-order",
     "location_type": "BTP",
     "location": {
@@ -72,50 +54,8 @@
       "category": "Unable to prosecute suspect",
       "date": "2025-02"
     },
-    "persistent_id": "51ba68aab6ec06b89eb26ff86527108b26f98ed1fb8f6585893e74f0b75bc500",
-    "id": 125985506,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.510725",
-      "street": {
-        "id": 1490897,
-        "name": "On or near Eastcheap"
-      },
-      "longitude": "-0.084844"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
-    },
     "persistent_id": "2be8ba7c1f878f8a8a6af7f533d16cfb6ed291ba4939ed6e17cee2c4727bc8df",
     "id": 125985507,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.510725",
-      "street": {
-        "id": 1490897,
-        "name": "On or near Eastcheap"
-      },
-      "longitude": "-0.084844"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
-    },
-    "persistent_id": "0e62bd0fae602e53cf1725eebc62e4e80e5d146a188d7cdcd7edba64e3402807",
-    "id": 125985505,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -158,6 +98,48 @@
     },
     "persistent_id": "8d84dcd06776d6d62f9d9bfcb0a2f9cb5f0044f3c3bb9a4f2c75762eea836801",
     "id": 125936667,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510725",
+      "street": {
+        "id": 1490897,
+        "name": "On or near Eastcheap"
+      },
+      "longitude": "-0.084844"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "0e62bd0fae602e53cf1725eebc62e4e80e5d146a188d7cdcd7edba64e3402807",
+    "id": 125985505,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510725",
+      "street": {
+        "id": 1490897,
+        "name": "On or near Eastcheap"
+      },
+      "longitude": "-0.084844"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "51ba68aab6ec06b89eb26ff86527108b26f98ed1fb8f6585893e74f0b75bc500",
+    "id": 125985506,
     "location_subtype": "",
     "month": "2025-01"
   }

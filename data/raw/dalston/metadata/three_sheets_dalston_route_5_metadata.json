@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "Three Sheets Dalston",
+    "location": {
+      "latitude": 51.544,
+      "longitude": -0.0759
+    }
+  },
+  "destination": {
+    "name": "Haggerston Station Downham Rd",
+    "location": {
+      "latitude": 51.538585999999995,
+      "longitude": -0.076596
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 607,
+    "duration_seconds": 516
+  },
+  "police_api": {
+    "param_file": "three_sheets_dalston_route_5_police_api_param.txt"
+  }
+}

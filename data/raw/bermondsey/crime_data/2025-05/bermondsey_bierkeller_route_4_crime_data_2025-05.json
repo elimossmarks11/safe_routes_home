@@ -1,22 +1,22 @@
 [
   {
-    "category": "public-order",
+    "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.505386",
+      "latitude": "51.506171",
       "street": {
-        "id": 1684575,
-        "name": "On or near Bedale Street"
+        "id": 1684785,
+        "name": "On or near Duke Street Hill"
       },
-      "longitude": "-0.089938"
+      "longitude": "-0.088479"
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-05"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-10"
     },
-    "persistent_id": "5f1b10573c5d72a2a6c6d7f9fa001ce6a5841cc28df8ed68a21f2bc8eca176e9",
-    "id": 129612271,
+    "persistent_id": "97dbab33374b61f7c7ac7216269f1bd4d78cfafdb0c7f4ab47526f82d4349cee",
+    "id": 129605608,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -33,32 +33,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-08"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
     },
-    "persistent_id": "6dfd3e484c4ba6f7889586835ad8c3493c6be59976829b36deed6a47907d77fe",
-    "id": 129606816,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506419",
-      "street": {
-        "id": 1684816,
-        "name": "On or near Borough High Street"
-      },
-      "longitude": "-0.088195"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-09"
-    },
-    "persistent_id": "b9b307b5031469fcfdac3de504d1c441376422c430a7da7897fe5e75e8fde488",
-    "id": 129688267,
+    "persistent_id": "6d51404b578ef21dd078aaf49159f5abad5b94f6a90c3b4fc8de5ee7159bd079",
+    "id": 129681706,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -96,32 +75,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-08"
     },
-    "persistent_id": "6d51404b578ef21dd078aaf49159f5abad5b94f6a90c3b4fc8de5ee7159bd079",
-    "id": 129681706,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.506171",
-      "street": {
-        "id": 1684785,
-        "name": "On or near Duke Street Hill"
-      },
-      "longitude": "-0.088479"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-10"
-    },
-    "persistent_id": "97dbab33374b61f7c7ac7216269f1bd4d78cfafdb0c7f4ab47526f82d4349cee",
-    "id": 129605608,
+    "persistent_id": "6dfd3e484c4ba6f7889586835ad8c3493c6be59976829b36deed6a47907d77fe",
+    "id": 129606816,
     "location_subtype": "",
     "month": "2025-05"
   }
