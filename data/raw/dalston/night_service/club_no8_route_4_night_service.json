@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Club No.8",
+  "club_location": {
+    "latitude": 51.5509,
+    "longitude": -0.0748
+  },
+  "route_index": 4,
+  "station_name": "Crossway (Stop Z)",
+  "station_location": {
+    "latitude": 51.550218099999995,
+    "longitude": -0.0760735
+  },
+  "route_viable": true
+}

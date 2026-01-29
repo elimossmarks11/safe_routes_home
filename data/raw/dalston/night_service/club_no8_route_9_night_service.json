@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Club No.8",
+  "club_location": {
+    "latitude": 51.5509,
+    "longitude": -0.0748
+  },
+  "route_index": 9,
+  "station_name": "Stoke Newington Police Station (Stop R)",
+  "station_location": {
+    "latitude": 51.557877,
+    "longitude": -0.074528
+  },
+  "route_viable": true
+}

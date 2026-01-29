@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Ridley Road Market Bar",
+  "club_location": {
+    "latitude": 51.5483,
+    "longitude": -0.0725
+  },
+  "route_index": 9,
+  "station_name": "Hackney Downs",
+  "station_location": {
+    "latitude": 51.5487712,
+    "longitude": -0.061084200000000005
+  },
+  "route_viable": false
+}

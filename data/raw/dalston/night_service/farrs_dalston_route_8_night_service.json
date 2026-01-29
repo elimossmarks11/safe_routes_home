@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Farr's Dalston",
+  "club_location": {
+    "latitude": 51.5464,
+    "longitude": -0.074
+  },
+  "route_index": 8,
+  "station_name": "Shacklewell Lane Dalston (Stop X)",
+  "station_location": {
+    "latitude": 51.5508653,
+    "longitude": -0.0737985
+  },
+  "route_viable": true
+}

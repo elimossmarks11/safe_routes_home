@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Amazing Grace London Bridge",
+  "club_location": {
+    "latitude": 51.505,
+    "longitude": -0.0884
+  },
+  "route_index": 6,
+  "station_name": "Borough",
+  "station_location": {
+    "latitude": 51.501244899999996,
+    "longitude": -0.0936138
+  },
+  "route_viable": true
+}

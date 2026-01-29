@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Three Sheets Dalston",
+  "club_location": {
+    "latitude": 51.544,
+    "longitude": -0.0759
+  },
+  "route_index": 6,
+  "station_name": "Downham Road (Stop XF)",
+  "station_location": {
+    "latitude": 51.5388379,
+    "longitude": -0.0861049
+  },
+  "route_viable": true
+}

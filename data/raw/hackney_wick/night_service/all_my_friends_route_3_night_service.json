@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "All My Friends",
+  "club_location": {
+    "latitude": 51.5426,
+    "longitude": -0.0219
+  },
+  "route_index": 3,
+  "station_name": "Stratford International",
+  "station_location": {
+    "latitude": 51.544888099999994,
+    "longitude": -0.0087438
+  },
+  "route_viable": false
+}

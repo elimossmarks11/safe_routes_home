@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "London Bridge Rooftop Bar",
+  "club_location": {
+    "latitude": 51.5061,
+    "longitude": -0.0873
+  },
+  "route_index": 2,
+  "station_name": "Hays Galleria (Stop H)",
+  "station_location": {
+    "latitude": 51.505084100000005,
+    "longitude": -0.08410379999999999
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "London Bridge Rooftop Bar",
+  "club_location": {
+    "latitude": 51.5061,
+    "longitude": -0.0873
+  },
+  "route_index": 8,
+  "station_name": "Cannon Street",
+  "station_location": {
+    "latitude": 51.511080899999996,
+    "longitude": -0.0903503
+  },
+  "route_viable": true
+}

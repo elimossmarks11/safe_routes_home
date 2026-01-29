@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Divine",
+  "club_location": {
+    "latitude": 51.5518,
+    "longitude": -0.0754
+  },
+  "route_index": 1,
+  "station_name": "Rio Cinema (Stop T)",
+  "station_location": {
+    "latitude": 51.5500602,
+    "longitude": -0.0750841
+  },
+  "route_viable": true
+}

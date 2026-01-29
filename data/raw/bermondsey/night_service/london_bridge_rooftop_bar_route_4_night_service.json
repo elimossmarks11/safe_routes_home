@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "London Bridge Rooftop Bar",
+  "club_location": {
+    "latitude": 51.5061,
+    "longitude": -0.0873
+  },
+  "route_index": 4,
+  "station_name": "The Hop Exchange (Stop E)",
+  "station_location": {
+    "latitude": 51.504642,
+    "longitude": -0.091111
+  },
+  "route_viable": true
+}

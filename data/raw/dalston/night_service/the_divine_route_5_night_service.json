@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Divine",
+  "club_location": {
+    "latitude": 51.5518,
+    "longitude": -0.0754
+  },
+  "route_index": 5,
+  "station_name": "Newington Green (Stop NE)",
+  "station_location": {
+    "latitude": 51.551611699999995,
+    "longitude": -0.0844808
+  },
+  "route_viable": true
+}

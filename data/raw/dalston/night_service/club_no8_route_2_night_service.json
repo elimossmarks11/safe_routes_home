@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Club No.8",
+  "club_location": {
+    "latitude": 51.5509,
+    "longitude": -0.0748
+  },
+  "route_index": 2,
+  "station_name": "Rio Cinema (Stop T)",
+  "station_location": {
+    "latitude": 51.5500602,
+    "longitude": -0.0750841
+  },
+  "route_viable": true
+}

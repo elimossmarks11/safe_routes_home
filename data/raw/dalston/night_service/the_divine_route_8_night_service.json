@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Divine",
+  "club_location": {
+    "latitude": 51.5518,
+    "longitude": -0.0754
+  },
+  "route_index": 8,
+  "station_name": "Rectory Road",
+  "station_location": {
+    "latitude": 51.558502,
+    "longitude": -0.068241
+  },
+  "route_viable": false
+}

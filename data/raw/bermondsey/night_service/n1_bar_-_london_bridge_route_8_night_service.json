@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "N1 Bar - London Bridge",
+  "club_location": {
+    "latitude": 51.5061,
+    "longitude": -0.087
+  },
+  "route_index": 8,
+  "station_name": "Monument",
+  "station_location": {
+    "latitude": 51.511002299999994,
+    "longitude": -0.0866591
+  },
+  "route_viable": true
+}

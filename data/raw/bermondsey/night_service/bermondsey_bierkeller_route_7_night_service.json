@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Bierkeller",
+  "club_location": {
+    "latitude": 51.5065,
+    "longitude": -0.0885
+  },
+  "route_index": 7,
+  "station_name": "Monument (Stop J)",
+  "station_location": {
+    "latitude": 51.510651,
+    "longitude": -0.085225
+  },
+  "route_viable": true
+}

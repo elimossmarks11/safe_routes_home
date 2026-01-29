@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Club No.8",
+  "club_location": {
+    "latitude": 51.5509,
+    "longitude": -0.0748
+  },
+  "route_index": 3,
+  "station_name": "Dalston Kingsland Station (Stop R)",
+  "station_location": {
+    "latitude": 51.5487566,
+    "longitude": -0.0752673
+  },
+  "route_viable": true
+}

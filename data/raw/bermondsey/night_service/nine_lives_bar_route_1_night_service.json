@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Nine Lives Bar",
+  "club_location": {
+    "latitude": 51.5034,
+    "longitude": -0.082
+  },
+  "route_index": 1,
+  "station_name": "London Bridge Bus Station (Stop A)",
+  "station_location": {
+    "latitude": 51.505306,
+    "longitude": -0.086515
+  },
+  "route_viable": true
+}

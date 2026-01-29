@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Copper Cats",
+  "club_location": {
+    "latitude": 51.5456,
+    "longitude": -0.0756
+  },
+  "route_index": 0,
+  "station_name": "Dalston Junction",
+  "station_location": {
+    "latitude": 51.5459999,
+    "longitude": -0.0751485
+  },
+  "route_viable": true
+}

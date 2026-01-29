@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "Grow",
+  "club_location": {
+    "latitude": 51.5437,
+    "longitude": -0.0227
+  },
+  "route_index": 3,
+  "station_name": "Autumn Street (Stop OV)",
+  "station_location": {
+    "latitude": 51.535039399999995,
+    "longitude": -0.021743500000000002
+  },
+  "route_viable": false
+}

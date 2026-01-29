@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "MOTH Club",
+  "club_location": {
+    "latitude": 51.5457,
+    "longitude": -0.0546
+  },
+  "route_index": 2,
+  "station_name": "Richmond Road /Martello Street (Stop LS)",
+  "station_location": {
+    "latitude": 51.543476,
+    "longitude": -0.05641600000000001
+  },
+  "route_viable": true
+}

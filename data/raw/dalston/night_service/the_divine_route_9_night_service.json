@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Divine",
+  "club_location": {
+    "latitude": 51.5518,
+    "longitude": -0.0754
+  },
+  "route_index": 9,
+  "station_name": "Aden Grove (Stop NQ)",
+  "station_location": {
+    "latitude": 51.553230199999994,
+    "longitude": -0.0878646
+  },
+  "route_viable": true
+}

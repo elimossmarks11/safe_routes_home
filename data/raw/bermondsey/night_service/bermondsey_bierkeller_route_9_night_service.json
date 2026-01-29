@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Bierkeller",
+  "club_location": {
+    "latitude": 51.5065,
+    "longitude": -0.0885
+  },
+  "route_index": 9,
+  "station_name": "Cannon Street",
+  "station_location": {
+    "latitude": 51.511080899999996,
+    "longitude": -0.0903503
+  },
+  "route_viable": true
+}

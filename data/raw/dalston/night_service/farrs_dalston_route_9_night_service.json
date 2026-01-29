@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Farr's Dalston",
+  "club_location": {
+    "latitude": 51.5464,
+    "longitude": -0.074
+  },
+  "route_index": 9,
+  "station_name": "Haggerston",
+  "station_location": {
+    "latitude": 51.5387231,
+    "longitude": -0.07541529999999999
+  },
+  "route_viable": true
+}

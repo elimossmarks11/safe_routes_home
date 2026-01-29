@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Nine Lives Bar",
+  "club_location": {
+    "latitude": 51.5034,
+    "longitude": -0.082
+  },
+  "route_index": 10,
+  "station_name": "Tower Hill",
+  "station_location": {
+    "latitude": 51.510117799999996,
+    "longitude": -0.07666089999999999
+  },
+  "route_viable": true
+}

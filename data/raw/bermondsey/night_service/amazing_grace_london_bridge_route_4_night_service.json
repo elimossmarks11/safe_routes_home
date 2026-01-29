@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Amazing Grace London Bridge",
+  "club_location": {
+    "latitude": 51.505,
+    "longitude": -0.0884
+  },
+  "route_index": 4,
+  "station_name": "Monument (Stop P)",
+  "station_location": {
+    "latitude": 51.509502,
+    "longitude": -0.087002
+  },
+  "route_viable": true
+}

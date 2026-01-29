@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Nine Lives Bar",
+  "club_location": {
+    "latitude": 51.5034,
+    "longitude": -0.082
+  },
+  "route_index": 5,
+  "station_name": "Druid Street (Stop E)",
+  "station_location": {
+    "latitude": 51.5018623,
+    "longitude": -0.0779562
+  },
+  "route_viable": true
+}

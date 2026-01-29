@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Three Sheets Dalston",
+  "club_location": {
+    "latitude": 51.544,
+    "longitude": -0.0759
+  },
+  "route_index": 1,
+  "station_name": "Dalston Junction Station (Stop G)",
+  "station_location": {
+    "latitude": 51.546181,
+    "longitude": -0.074603
+  },
+  "route_viable": true
+}

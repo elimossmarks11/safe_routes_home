@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Bierkeller",
+  "club_location": {
+    "latitude": 51.5065,
+    "longitude": -0.0885
+  },
+  "route_index": 5,
+  "station_name": "Borough",
+  "station_location": {
+    "latitude": 51.501244899999996,
+    "longitude": -0.0936138
+  },
+  "route_viable": true
+}

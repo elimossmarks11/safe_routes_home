@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Speakeasy",
+  "club_location": {
+    "latitude": 51.5465,
+    "longitude": -0.0747
+  },
+  "route_index": 4,
+  "station_name": "Haggerston",
+  "station_location": {
+    "latitude": 51.5387231,
+    "longitude": -0.07541529999999999
+  },
+  "route_viable": true
+}

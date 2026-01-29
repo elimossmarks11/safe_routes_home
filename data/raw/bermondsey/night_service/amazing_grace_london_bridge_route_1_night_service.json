@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Amazing Grace London Bridge",
+  "club_location": {
+    "latitude": 51.505,
+    "longitude": -0.0884
+  },
+  "route_index": 1,
+  "station_name": "London Bridge Bus Station (Stop B)",
+  "station_location": {
+    "latitude": 51.5052378,
+    "longitude": -0.0866815
+  },
+  "route_viable": true
+}

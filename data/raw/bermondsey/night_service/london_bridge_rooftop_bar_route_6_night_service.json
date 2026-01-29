@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "London Bridge Rooftop Bar",
+  "club_location": {
+    "latitude": 51.5061,
+    "longitude": -0.0873
+  },
+  "route_index": 6,
+  "station_name": "Monument (Stop J)",
+  "station_location": {
+    "latitude": 51.510651,
+    "longitude": -0.085225
+  },
+  "route_viable": true
+}

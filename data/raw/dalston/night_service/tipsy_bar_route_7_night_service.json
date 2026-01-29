@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Tipsy Bar",
+  "club_location": {
+    "latitude": 51.5512,
+    "longitude": -0.0749
+  },
+  "route_index": 7,
+  "station_name": "Newington Green (Stop NK)",
+  "station_location": {
+    "latitude": 51.551766099999995,
+    "longitude": -0.0856889
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Electric Shuffle London Bridge",
+  "club_location": {
+    "latitude": 51.504,
+    "longitude": -0.0833
+  },
+  "route_index": 1,
+  "station_name": "London Bridge Bus Station (Stop A)",
+  "station_location": {
+    "latitude": 51.505306,
+    "longitude": -0.086515
+  },
+  "route_viable": true
+}

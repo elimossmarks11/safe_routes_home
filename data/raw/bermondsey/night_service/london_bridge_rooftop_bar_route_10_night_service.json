@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "London Bridge Rooftop Bar",
+  "club_location": {
+    "latitude": 51.5061,
+    "longitude": -0.0873
+  },
+  "route_index": 10,
+  "station_name": "Borough Station / Great Dover Street (Stop E)",
+  "station_location": {
+    "latitude": 51.500282,
+    "longitude": -0.09238800000000001
+  },
+  "route_viable": true
+}

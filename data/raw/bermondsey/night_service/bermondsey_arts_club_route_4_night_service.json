@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Arts Club",
+  "club_location": {
+    "latitude": 51.4967,
+    "longitude": -0.0814
+  },
+  "route_index": 4,
+  "station_name": "Tanner Street (Stop B)",
+  "station_location": {
+    "latitude": 51.5002582,
+    "longitude": -0.0752603
+  },
+  "route_viable": true
+}

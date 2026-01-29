@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Tipsy Bar",
+  "club_location": {
+    "latitude": 51.5512,
+    "longitude": -0.0749
+  },
+  "route_index": 8,
+  "station_name": "Stoke Newington Police Station (Stop R)",
+  "station_location": {
+    "latitude": 51.557877,
+    "longitude": -0.074528
+  },
+  "route_viable": true
+}
