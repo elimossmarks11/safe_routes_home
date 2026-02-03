@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Arts Club",
+  "club_location": {
+    "latitude": 51.4967,
+    "longitude": -0.0814
+  },
+  "route_index": 7,
+  "station_name": "Hays Galleria (Stop H)",
+  "station_location": {
+    "latitude": 51.505084100000005,
+    "longitude": -0.08410379999999999
+  },
+  "route_viable": true
+}

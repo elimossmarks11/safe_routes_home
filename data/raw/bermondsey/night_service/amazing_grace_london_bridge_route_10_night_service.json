@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Amazing Grace London Bridge",
+  "club_location": {
+    "latitude": 51.505,
+    "longitude": -0.0884
+  },
+  "route_index": 10,
+  "station_name": "Cannon Street",
+  "station_location": {
+    "latitude": 51.511080899999996,
+    "longitude": -0.0903503
+  },
+  "route_viable": true
+}

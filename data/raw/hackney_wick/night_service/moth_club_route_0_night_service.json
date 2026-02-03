@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "MOTH Club",
+  "club_location": {
+    "latitude": 51.5457,
+    "longitude": -0.0546
+  },
+  "route_index": 0,
+  "station_name": "Trelawney Estate (Stop C)",
+  "station_location": {
+    "latitude": 51.545935099999994,
+    "longitude": -0.054394399999999996
+  },
+  "route_viable": true
+}

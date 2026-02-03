@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Copper Cats",
+  "club_location": {
+    "latitude": 51.5456,
+    "longitude": -0.0756
+  },
+  "route_index": 3,
+  "station_name": "Kingsland High Street / Dalston Junction (Stop L)",
+  "station_location": {
+    "latitude": 51.5469551,
+    "longitude": -0.075736
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Electric Shuffle London Bridge",
+  "club_location": {
+    "latitude": 51.504,
+    "longitude": -0.0833
+  },
+  "route_index": 8,
+  "station_name": "Staple Street",
+  "station_location": {
+    "latitude": 51.4997202,
+    "longitude": -0.08677499999999999
+  },
+  "route_viable": false
+}

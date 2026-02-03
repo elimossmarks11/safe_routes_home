@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "London Bridge Rooftop Bar",
+  "club_location": {
+    "latitude": 51.5061,
+    "longitude": -0.0873
+  },
+  "route_index": 1,
+  "station_name": "London Bridge bus station",
+  "station_location": {
+    "latitude": 51.5052526,
+    "longitude": -0.0867129
+  },
+  "route_viable": true
+}

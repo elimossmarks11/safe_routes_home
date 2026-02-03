@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "Fabwick",
+  "club_location": {
+    "latitude": 51.5428,
+    "longitude": -0.0233
+  },
+  "route_index": 4,
+  "station_name": "St Mary Of Eton Church (Stop N)",
+  "station_location": {
+    "latitude": 51.545798,
+    "longitude": -0.030255200000000003
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Nine Lives Bar",
+  "club_location": {
+    "latitude": 51.5034,
+    "longitude": -0.082
+  },
+  "route_index": 4,
+  "station_name": "Tower Bridge Road (Stop K)",
+  "station_location": {
+    "latitude": 51.5027891,
+    "longitude": -0.07796539999999999
+  },
+  "route_viable": true
+}

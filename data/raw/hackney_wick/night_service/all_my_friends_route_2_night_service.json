@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "All My Friends",
+  "club_location": {
+    "latitude": 51.5426,
+    "longitude": -0.0219
+  },
+  "route_index": 2,
+  "station_name": "Autumn Street (Stop OV)",
+  "station_location": {
+    "latitude": 51.535039399999995,
+    "longitude": -0.021743500000000002
+  },
+  "route_viable": false
+}

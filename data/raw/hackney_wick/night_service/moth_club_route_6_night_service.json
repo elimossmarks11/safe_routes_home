@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "MOTH Club",
+  "club_location": {
+    "latitude": 51.5457,
+    "longitude": -0.0546
+  },
+  "route_index": 6,
+  "station_name": "Homerton",
+  "station_location": {
+    "latitude": 51.5470366,
+    "longitude": -0.0423623
+  },
+  "route_viable": false
+}

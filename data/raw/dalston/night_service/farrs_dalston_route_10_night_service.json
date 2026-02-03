@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Farr's Dalston",
+  "club_location": {
+    "latitude": 51.5464,
+    "longitude": -0.074
+  },
+  "route_index": 10,
+  "station_name": "Haggerston Station Downham Rd",
+  "station_location": {
+    "latitude": 51.538585999999995,
+    "longitude": -0.076596
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Speakeasy",
+  "club_location": {
+    "latitude": 51.5465,
+    "longitude": -0.0747
+  },
+  "route_index": 7,
+  "station_name": "Kingsland High Street (Stop E)",
+  "station_location": {
+    "latitude": 51.546169899999995,
+    "longitude": -0.0762375
+  },
+  "route_viable": true
+}

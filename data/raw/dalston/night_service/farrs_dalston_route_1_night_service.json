@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Farr's Dalston",
+  "club_location": {
+    "latitude": 51.5464,
+    "longitude": -0.074
+  },
+  "route_index": 1,
+  "station_name": "Dalston Junction Station (Stop H)",
+  "station_location": {
+    "latitude": 51.546211,
+    "longitude": -0.073362
+  },
+  "route_viable": true
+}

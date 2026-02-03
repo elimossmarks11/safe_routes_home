@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Club No.8",
+  "club_location": {
+    "latitude": 51.5509,
+    "longitude": -0.0748
+  },
+  "route_index": 5,
+  "station_name": "Dalston Lane /Dalston Junction Station (Stop K)",
+  "station_location": {
+    "latitude": 51.5463044,
+    "longitude": -0.07367209999999999
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Speakeasy",
+  "club_location": {
+    "latitude": 51.5465,
+    "longitude": -0.0747
+  },
+  "route_index": 10,
+  "station_name": "Shacklewell Lane / Kingsland High Street (Stop W)",
+  "station_location": {
+    "latitude": 51.550704700000004,
+    "longitude": -0.0742369
+  },
+  "route_viable": true
+}

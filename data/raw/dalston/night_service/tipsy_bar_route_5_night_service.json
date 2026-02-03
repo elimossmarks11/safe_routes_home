@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Tipsy Bar",
+  "club_location": {
+    "latitude": 51.5512,
+    "longitude": -0.0749
+  },
+  "route_index": 5,
+  "station_name": "Crossway (Stop Z)",
+  "station_location": {
+    "latitude": 51.550218099999995,
+    "longitude": -0.0760735
+  },
+  "route_viable": true
+}

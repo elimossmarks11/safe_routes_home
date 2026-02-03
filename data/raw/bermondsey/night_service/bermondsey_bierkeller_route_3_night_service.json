@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Bierkeller",
+  "club_location": {
+    "latitude": 51.5065,
+    "longitude": -0.0885
+  },
+  "route_index": 3,
+  "station_name": "London Bridge Bus Station (Stop B)",
+  "station_location": {
+    "latitude": 51.5052378,
+    "longitude": -0.0866815
+  },
+  "route_viable": true
+}

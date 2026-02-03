@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Farr's Dalston",
+  "club_location": {
+    "latitude": 51.5464,
+    "longitude": -0.074
+  },
+  "route_index": 11,
+  "station_name": "Hackney Downs Station (Stop N)",
+  "station_location": {
+    "latitude": 51.548927,
+    "longitude": -0.061404999999999994
+  },
+  "route_viable": false
+}

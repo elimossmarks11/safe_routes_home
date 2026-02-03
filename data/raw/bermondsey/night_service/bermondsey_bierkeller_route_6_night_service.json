@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Bierkeller",
+  "club_location": {
+    "latitude": 51.5065,
+    "longitude": -0.0885
+  },
+  "route_index": 6,
+  "station_name": "Monument (Stop P)",
+  "station_location": {
+    "latitude": 51.509502,
+    "longitude": -0.087002
+  },
+  "route_viable": true
+}

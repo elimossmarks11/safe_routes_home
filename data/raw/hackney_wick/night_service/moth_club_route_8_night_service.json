@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "MOTH Club",
+  "club_location": {
+    "latitude": 51.5457,
+    "longitude": -0.0546
+  },
+  "route_index": 8,
+  "station_name": "Hackney Downs Station (Stop N)",
+  "station_location": {
+    "latitude": 51.548927,
+    "longitude": -0.061404999999999994
+  },
+  "route_viable": false
+}

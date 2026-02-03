@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Bierkeller",
+  "club_location": {
+    "latitude": 51.5065,
+    "longitude": -0.0885
+  },
+  "route_index": 0,
+  "station_name": "London Bridge",
+  "station_location": {
+    "latitude": 51.5058624,
+    "longitude": -0.0869692
+  },
+  "route_viable": true
+}

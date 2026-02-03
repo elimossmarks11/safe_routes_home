@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Electric Shuffle London Bridge",
+  "club_location": {
+    "latitude": 51.504,
+    "longitude": -0.0833
+  },
+  "route_index": 7,
+  "station_name": "Abbey Street (Stop H)",
+  "station_location": {
+    "latitude": 51.4981843,
+    "longitude": -0.07943220000000001
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Bierkeller",
+  "club_location": {
+    "latitude": 51.5065,
+    "longitude": -0.0885
+  },
+  "route_index": 4,
+  "station_name": "The Hop Exchange (Stop E)",
+  "station_location": {
+    "latitude": 51.504642,
+    "longitude": -0.091111
+  },
+  "route_viable": true
+}

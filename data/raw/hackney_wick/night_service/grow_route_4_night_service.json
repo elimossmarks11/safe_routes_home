@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "Grow",
+  "club_location": {
+    "latitude": 51.5437,
+    "longitude": -0.0227
+  },
+  "route_index": 4,
+  "station_name": "Stratford International",
+  "station_location": {
+    "latitude": 51.544888099999994,
+    "longitude": -0.0087438
+  },
+  "route_viable": false
+}

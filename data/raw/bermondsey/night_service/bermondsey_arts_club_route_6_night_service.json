@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Arts Club",
+  "club_location": {
+    "latitude": 51.4967,
+    "longitude": -0.0814
+  },
+  "route_index": 6,
+  "station_name": "London Bridge",
+  "station_location": {
+    "latitude": 51.5042625,
+    "longitude": -0.0848024
+  },
+  "route_viable": true
+}

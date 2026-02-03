@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Speakeasy",
+  "club_location": {
+    "latitude": 51.5465,
+    "longitude": -0.0747
+  },
+  "route_index": 13,
+  "station_name": "Hackney Downs",
+  "station_location": {
+    "latitude": 51.5487712,
+    "longitude": -0.061084200000000005
+  },
+  "route_viable": false
+}

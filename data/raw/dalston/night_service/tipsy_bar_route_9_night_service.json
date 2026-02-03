@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Tipsy Bar",
+  "club_location": {
+    "latitude": 51.5512,
+    "longitude": -0.0749
+  },
+  "route_index": 9,
+  "station_name": "Rectory Road",
+  "station_location": {
+    "latitude": 51.558502,
+    "longitude": -0.068241
+  },
+  "route_viable": false
+}

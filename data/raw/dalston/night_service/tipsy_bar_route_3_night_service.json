@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Tipsy Bar",
+  "club_location": {
+    "latitude": 51.5512,
+    "longitude": -0.0749
+  },
+  "route_index": 3,
+  "station_name": "Hackney Downs Station (Stop N)",
+  "station_location": {
+    "latitude": 51.548927,
+    "longitude": -0.061404999999999994
+  },
+  "route_viable": false
+}

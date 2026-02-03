@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Dalston Superstore",
+  "club_location": {
+    "latitude": 51.5501,
+    "longitude": -0.0754
+  },
+  "route_index": 6,
+  "station_name": "Dalston Kingsland Station (Stop R)",
+  "station_location": {
+    "latitude": 51.5487566,
+    "longitude": -0.0752673
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Nine Lives Bar",
+  "club_location": {
+    "latitude": 51.5034,
+    "longitude": -0.082
+  },
+  "route_index": 7,
+  "station_name": "Abbey Street (Stop H)",
+  "station_location": {
+    "latitude": 51.4981843,
+    "longitude": -0.07943220000000001
+  },
+  "route_viable": true
+}

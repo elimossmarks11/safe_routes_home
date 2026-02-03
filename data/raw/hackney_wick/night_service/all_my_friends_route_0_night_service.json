@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "All My Friends",
+  "club_location": {
+    "latitude": 51.5426,
+    "longitude": -0.0219
+  },
+  "route_index": 0,
+  "station_name": "Hackney Wick",
+  "station_location": {
+    "latitude": 51.543542099999996,
+    "longitude": -0.0241583
+  },
+  "route_viable": false
+}

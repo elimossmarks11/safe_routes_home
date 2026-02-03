@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Ridley Road Market Bar",
+  "club_location": {
+    "latitude": 51.5483,
+    "longitude": -0.0725
+  },
+  "route_index": 0,
+  "station_name": "Dalston Kingsland Station (Stop R)",
+  "station_location": {
+    "latitude": 51.5487566,
+    "longitude": -0.0752673
+  },
+  "route_viable": true
+}

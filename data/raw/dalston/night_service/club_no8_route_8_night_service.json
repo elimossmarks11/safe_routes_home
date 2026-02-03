@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "Club No.8",
+  "club_location": {
+    "latitude": 51.5509,
+    "longitude": -0.0748
+  },
+  "route_index": 8,
+  "station_name": "Newington Green (Stop NK)",
+  "station_location": {
+    "latitude": 51.551766099999995,
+    "longitude": -0.0856889
+  },
+  "route_viable": true
+}

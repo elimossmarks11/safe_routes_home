@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Bermondsey Arts Club",
+  "club_location": {
+    "latitude": 51.4967,
+    "longitude": -0.0814
+  },
+  "route_index": 5,
+  "station_name": "Dockhead (Stop E)",
+  "station_location": {
+    "latitude": 51.4999842,
+    "longitude": -0.0726687
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Divine",
+  "club_location": {
+    "latitude": 51.5518,
+    "longitude": -0.0754
+  },
+  "route_index": 3,
+  "station_name": "Crossway (Stop Z)",
+  "station_location": {
+    "latitude": 51.550218099999995,
+    "longitude": -0.0760735
+  },
+  "route_viable": true
+}

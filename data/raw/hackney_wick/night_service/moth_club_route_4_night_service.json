@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "MOTH Club",
+  "club_location": {
+    "latitude": 51.5457,
+    "longitude": -0.0546
+  },
+  "route_index": 4,
+  "station_name": "Hackney Central",
+  "station_location": {
+    "latitude": 51.5471285,
+    "longitude": -0.0567593
+  },
+  "route_viable": true
+}

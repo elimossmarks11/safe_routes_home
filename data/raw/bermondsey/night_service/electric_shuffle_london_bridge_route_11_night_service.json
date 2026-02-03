@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "Electric Shuffle London Bridge",
+  "club_location": {
+    "latitude": 51.504,
+    "longitude": -0.0833
+  },
+  "route_index": 11,
+  "station_name": "Borough",
+  "station_location": {
+    "latitude": 51.501244899999996,
+    "longitude": -0.0936138
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "MOTH Club",
+  "club_location": {
+    "latitude": 51.5457,
+    "longitude": -0.0546
+  },
+  "route_index": 3,
+  "station_name": "Hackney Central / Mare Street (Stop G)",
+  "station_location": {
+    "latitude": 51.546717799999996,
+    "longitude": -0.0557024
+  },
+  "route_viable": true
+}
