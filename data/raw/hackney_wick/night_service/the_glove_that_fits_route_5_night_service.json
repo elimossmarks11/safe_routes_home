@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "The Glove That Fits",
+  "club_location": {
+    "latitude": 51.5469,
+    "longitude": -0.048
+  },
+  "route_index": 5,
+  "station_name": "Hackney Central Station (Stop H)",
+  "station_location": {
+    "latitude": 51.5479279,
+    "longitude": -0.05654170000000001
+  },
+  "route_viable": true
+}

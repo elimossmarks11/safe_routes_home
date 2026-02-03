@@ -1,0 +1,122 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506463",
+      "street": {
+        "id": 1686673,
+        "name": "On or near St Katharine's Way"
+      },
+      "longitude": "-0.071708"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127094384,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506463",
+      "street": {
+        "id": 1686673,
+        "name": "On or near St Katharine's Way"
+      },
+      "longitude": "-0.071708"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127088997,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506463",
+      "street": {
+        "id": 1686673,
+        "name": "On or near St Katharine's Way"
+      },
+      "longitude": "-0.071708"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "e0195937692d2d898fe1152f130319be256865aa8a0d981436857ce09e809ae9",
+    "id": 127116460,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502026",
+      "street": {
+        "id": 1686384,
+        "name": "On or near Fair Street"
+      },
+      "longitude": "-0.077500"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "a6d134b0cbb7f25481753617c412eb9b027f1fbb03922a4ed9d907614d2199d8",
+    "id": 127115778,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502026",
+      "street": {
+        "id": 1686384,
+        "name": "On or near Fair Street"
+      },
+      "longitude": "-0.077500"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-11"
+    },
+    "persistent_id": "1e851138106390eb1e07dbc4862f6b61ff4509fa813acd1d76e16e979751d63e",
+    "id": 127105650,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502026",
+      "street": {
+        "id": 1686384,
+        "name": "On or near Fair Street"
+      },
+      "longitude": "-0.077500"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "7e41c4c06416a2fd48d02ff9da2a9c4b25a9ae850bc843ef447149f80711a79a",
+    "id": 127141756,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499303",
+      "street": {
+        "id": 1686269,
+        "name": "On or near Pope Street"
+      },
+      "longitude": "-0.078119"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129594091,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499303",
+      "street": {
+        "id": 1686269,
+        "name": "On or near Pope Street"
+      },
+      "longitude": "-0.078119"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129586579,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499303",
+      "street": {
+        "id": 1686269,
+        "name": "On or near Pope Street"
+      },
+      "longitude": "-0.078119"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129591230,
+    "location_subtype": "",
+    "month": "2025-05"
+  }
+]

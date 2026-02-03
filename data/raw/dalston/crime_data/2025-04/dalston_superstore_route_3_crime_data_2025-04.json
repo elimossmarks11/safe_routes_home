@@ -114,8 +114,8 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-08"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-12"
     },
     "persistent_id": "c9b57961d3d387c6ec227d16ab17181a718dabe1c3870685729246d5d50a9a46",
     "id": 127661428,
@@ -135,8 +135,8 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Awaiting court outcome",
-      "date": "2025-06"
+      "category": "Court result unavailable",
+      "date": "2025-12"
     },
     "persistent_id": "7e08c3c5e527aff27c7f5bc31854776f530a9d0e07e1b36bcafa384c1773e119",
     "id": 127665391,

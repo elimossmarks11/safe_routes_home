@@ -13,24 +13,6 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129601651,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
     "id": 129592912,
     "location_subtype": "",
     "month": "2025-05"
@@ -50,6 +32,45 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 129591542,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547939",
+      "street": {
+        "id": 1686633,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.075678"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129601651,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547939",
+      "street": {
+        "id": 1686633,
+        "name": "On or near Shopping Area"
+      },
+      "longitude": "-0.075678"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-07"
+    },
+    "persistent_id": "e34be8002a2bcf860a33032907c9d29fb0dd215ebc6e94878e303e838c42618f",
+    "id": 129615747,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -92,27 +113,6 @@
     },
     "persistent_id": "004b5404c7e731b0d899372bf365678bf7b4334d5501d74b982d95415aad4062",
     "id": 129616266,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.547939",
-      "street": {
-        "id": 1686633,
-        "name": "On or near Shopping Area"
-      },
-      "longitude": "-0.075678"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-07"
-    },
-    "persistent_id": "e34be8002a2bcf860a33032907c9d29fb0dd215ebc6e94878e303e838c42618f",
-    "id": 129615747,
     "location_subtype": "",
     "month": "2025-05"
   },

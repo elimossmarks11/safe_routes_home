@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "The Barrel Project",
+  "club_location": {
+    "latitude": 51.4997,
+    "longitude": -0.0752
+  },
+  "route_index": 4,
+  "station_name": "Staple Street",
+  "station_location": {
+    "latitude": 51.4997202,
+    "longitude": -0.08677499999999999
+  },
+  "route_viable": false
+}

@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "The Barrel Project",
+    "location": {
+      "latitude": 51.4997,
+      "longitude": -0.0752
+    }
+  },
+  "destination": {
+    "name": "Dockhead (Stop E)",
+    "location": {
+      "latitude": 51.4999842,
+      "longitude": -0.0726687
+    }
+  },
+  "route": {
+    "route_index": 2,
+    "distance_meters": 242,
+    "duration_seconds": 195
+  },
+  "police_api": {
+    "param_file": "the_barrel_project_route_2_police_api_param.txt"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "The Glove That Fits",
+    "location": {
+      "latitude": 51.5469,
+      "longitude": -0.048
+    }
+  },
+  "destination": {
+    "name": "Mare Street / Well Street (Stop LA)",
+    "location": {
+      "latitude": 51.539551,
+      "longitude": -0.05604899999999999
+    }
+  },
+  "route": {
+    "route_index": 7,
+    "distance_meters": 1253,
+    "duration_seconds": 1062
+  },
+  "police_api": {
+    "param_file": "the_glove_that_fits_route_7_police_api_param.txt"
+  }
+}

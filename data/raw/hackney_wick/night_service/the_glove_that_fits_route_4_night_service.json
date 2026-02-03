@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "The Glove That Fits",
+  "club_location": {
+    "latitude": 51.5469,
+    "longitude": -0.048
+  },
+  "route_index": 4,
+  "station_name": "Mare Street / Narrow Way (Stop R)",
+  "station_location": {
+    "latitude": 51.549575999999995,
+    "longitude": -0.055406
+  },
+  "route_viable": true
+}

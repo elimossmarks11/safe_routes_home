@@ -12,11 +12,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-02"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
     },
-    "persistent_id": "8681c1758270e762fa5b9ee5feee66e868441740976640124acfa20b99005879",
-    "id": 125934448,
+    "persistent_id": "4c19495575558fab2ca7858d1e003f5520ea627989c5fd7ebde78c7787b71cb6",
+    "id": 125934845,
     "location_subtype": "",
     "month": "2025-01"
   },
@@ -75,11 +75,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-01"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
     },
-    "persistent_id": "4c19495575558fab2ca7858d1e003f5520ea627989c5fd7ebde78c7787b71cb6",
-    "id": 125934845,
+    "persistent_id": "8681c1758270e762fa5b9ee5feee66e868441740976640124acfa20b99005879",
+    "id": 125934448,
     "location_subtype": "",
     "month": "2025-01"
   }

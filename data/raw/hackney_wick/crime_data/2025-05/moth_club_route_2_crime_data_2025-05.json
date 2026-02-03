@@ -13,7 +13,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129583756,
+    "id": 129586711,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -32,42 +32,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 129595542,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.545155",
-      "street": {
-        "id": 1689659,
-        "name": "On or near Valette Street"
-      },
-      "longitude": "-0.054641"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129584864,
-    "location_subtype": "",
-    "month": "2025-05"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.545155",
-      "street": {
-        "id": 1689659,
-        "name": "On or near Valette Street"
-      },
-      "longitude": "-0.054641"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129591790,
     "location_subtype": "",
     "month": "2025-05"
   },
@@ -121,7 +85,43 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129586711,
+    "id": 129583756,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129591790,
+    "location_subtype": "",
+    "month": "2025-05"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129584864,
     "location_subtype": "",
     "month": "2025-05"
   },

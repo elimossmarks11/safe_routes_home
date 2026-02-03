@@ -1,0 +1,230 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126350888,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126349177,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126348203,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126346018,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126357267,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126351222,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126349523,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126347025,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497933",
+      "street": {
+        "id": 1688657,
+        "name": "On or near Perryn Road"
+      },
+      "longitude": "-0.063193"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-05"
+    },
+    "persistent_id": "13527db65563f072d1e52a67412178862f577241831f723aa0c8e625d74a611b",
+    "id": 126416937,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497933",
+      "street": {
+        "id": 1688657,
+        "name": "On or near Perryn Road"
+      },
+      "longitude": "-0.063193"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "2f2abbb2a5575add18affced42d13bb4a750fc296014e61d74aea46235dcabcb",
+    "id": 126366833,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497933",
+      "street": {
+        "id": 1688657,
+        "name": "On or near Perryn Road"
+      },
+      "longitude": "-0.063193"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "00f75f5ff5062f6851103fd9b7ab98f8870340345e0a0a6c740b8879dc08dd80",
+    "id": 126366835,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498139",
+      "street": {
+        "id": 1687749,
+        "name": "On or near Jamaica Road"
+      },
+      "longitude": "-0.068040"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "33e03428959b39523259402c38fff08b7c9144153f2d0c9a84b16960f4b11b8d",
+    "id": 126423023,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

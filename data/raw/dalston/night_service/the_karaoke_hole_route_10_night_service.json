@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Karaoke Hole",
+  "club_location": {
+    "latitude": 51.5494,
+    "longitude": -0.0754
+  },
+  "route_index": 10,
+  "station_name": "Hackney Downs Station (Stop D)",
+  "station_location": {
+    "latitude": 51.549693999999995,
+    "longitude": -0.061116899999999995
+  },
+  "route_viable": false
+}

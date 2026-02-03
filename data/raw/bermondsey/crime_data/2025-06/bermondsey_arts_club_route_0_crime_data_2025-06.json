@@ -13,43 +13,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129461600,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.497978",
-      "street": {
-        "id": 1686084,
-        "name": "On or near Stevens Street"
-      },
-      "longitude": "-0.079615"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
     "id": 129461817,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.497978",
-      "street": {
-        "id": 1686084,
-        "name": "On or near Stevens Street"
-      },
-      "longitude": "-0.079615"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 129463249,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -72,7 +36,7 @@
     "month": "2025-06"
   },
   {
-    "category": "violent-crime",
+    "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
       "latitude": "51.497978",
@@ -83,12 +47,27 @@
       "longitude": "-0.079615"
     },
     "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-06"
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129461600,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497978",
+      "street": {
+        "id": 1686084,
+        "name": "On or near Stevens Street"
+      },
+      "longitude": "-0.079615"
     },
-    "persistent_id": "52d8676c9368e9f93c183b267f748d86be816bf5145cc5f17858ec8a3e5ee4e9",
-    "id": 129551573,
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129463249,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -131,6 +110,27 @@
     },
     "persistent_id": "6e95657224252cbaedd838e637f9da7d534b9dc9864b51c9af647bd4fa7c000f",
     "id": 129540205,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497978",
+      "street": {
+        "id": 1686084,
+        "name": "On or near Stevens Street"
+      },
+      "longitude": "-0.079615"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "52d8676c9368e9f93c183b267f748d86be816bf5145cc5f17858ec8a3e5ee4e9",
+    "id": 129551573,
     "location_subtype": "",
     "month": "2025-06"
   }

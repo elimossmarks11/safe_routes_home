@@ -33,27 +33,6 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-01"
-    },
-    "persistent_id": "4c19495575558fab2ca7858d1e003f5520ea627989c5fd7ebde78c7787b71cb6",
-    "id": 125934845,
-    "location_subtype": "",
-    "month": "2025-01"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.551188",
-      "street": {
-        "id": 1686767,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074750"
-    },
-    "context": "",
-    "outcome_status": {
       "category": "Unable to prosecute suspect",
       "date": "2025-02"
     },
@@ -80,6 +59,27 @@
     },
     "persistent_id": "ce368b6eaeb097571aad750f22e88c46100c951fc7288578286ca53cf4502607",
     "id": 125935893,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551188",
+      "street": {
+        "id": 1686767,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074750"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-01"
+    },
+    "persistent_id": "4c19495575558fab2ca7858d1e003f5520ea627989c5fd7ebde78c7787b71cb6",
+    "id": 125934845,
     "location_subtype": "",
     "month": "2025-01"
   }

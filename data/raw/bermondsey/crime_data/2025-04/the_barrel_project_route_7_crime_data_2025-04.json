@@ -1,0 +1,86 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498139",
+      "street": {
+        "id": 1687749,
+        "name": "On or near Jamaica Road"
+      },
+      "longitude": "-0.068040"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "3d20490c58f3bc6fb9ff3d79b8d72fb9ced2f7e27b5bd58362514182a051aa79",
+    "id": 127584271,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497933",
+      "street": {
+        "id": 1688657,
+        "name": "On or near Perryn Road"
+      },
+      "longitude": "-0.063193"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Action to be taken by another organisation",
+      "date": "2025-06"
+    },
+    "persistent_id": "3e0569435c4c82b75b7527f918e187bfb8449908237d5faf6855383a5d21fee9",
+    "id": 127572052,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497933",
+      "street": {
+        "id": 1688657,
+        "name": "On or near Perryn Road"
+      },
+      "longitude": "-0.063193"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-12"
+    },
+    "persistent_id": "aa08c91462b92f82abf3c0bcd0f4abdfbfa7ac0686ccc0772766da3f129ef3db",
+    "id": 127572046,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497933",
+      "street": {
+        "id": 1688657,
+        "name": "On or near Perryn Road"
+      },
+      "longitude": "-0.063193"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-05"
+    },
+    "persistent_id": "48e6c0283a6a83e0c8d88beffc8746ca2b31f81ecc2628f1d3a71412b5e3c553",
+    "id": 127564735,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

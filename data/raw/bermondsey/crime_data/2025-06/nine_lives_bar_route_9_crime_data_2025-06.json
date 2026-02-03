@@ -3,17 +3,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.506419",
+      "latitude": "51.504826",
       "street": {
-        "id": 1684816,
-        "name": "On or near Borough High Street"
+        "id": 1685270,
+        "name": "On or near London Bridge"
       },
-      "longitude": "-0.088195"
+      "longitude": "-0.084299"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129455960,
+    "id": 129462657,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -67,7 +67,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129444490,
+    "id": 129455960,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -93,17 +93,17 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.504826",
+      "latitude": "51.506419",
       "street": {
-        "id": 1685270,
-        "name": "On or near London Bridge"
+        "id": 1684816,
+        "name": "On or near Borough High Street"
       },
-      "longitude": "-0.084299"
+      "longitude": "-0.088195"
     },
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 129462657,
+    "id": 129444490,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -174,27 +174,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.510070",
-      "street": {
-        "id": 1490902,
-        "name": "On or near Great Tower Street"
-      },
-      "longitude": "-0.081643"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
-    },
-    "persistent_id": "b9aac4055e61c151ff7c8edd285320211b8eae48e47680808908736a3617d8b5",
-    "id": 130451171,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.506419",
       "street": {
         "id": 1684816,
@@ -209,6 +188,27 @@
     },
     "persistent_id": "802a1e4e5916913bcfff65aa527b8e7a160c62fedc72e7243aeb408b68d7d5f8",
     "id": 129481537,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.510070",
+      "street": {
+        "id": 1490902,
+        "name": "On or near Great Tower Street"
+      },
+      "longitude": "-0.081643"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-12"
+    },
+    "persistent_id": "b9aac4055e61c151ff7c8edd285320211b8eae48e47680808908736a3617d8b5",
+    "id": 130451171,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -237,20 +237,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.504826",
+      "latitude": "51.510441",
       "street": {
-        "id": 1685270,
-        "name": "On or near London Bridge"
+        "id": 1490899,
+        "name": "On or near Lovat Lane"
       },
-      "longitude": "-0.084299"
+      "longitude": "-0.083977"
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-09"
     },
-    "persistent_id": "cbaea2288a7bf33d430db6aaf79e61549c109d3d40ecd36335a696969dc8d108",
-    "id": 129501998,
+    "persistent_id": "829219810259192bd43d765dd15dd15cf8970305ec9906f90fd9ef861014d420",
+    "id": 130451251,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -279,20 +279,20 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.510441",
+      "latitude": "51.504826",
       "street": {
-        "id": 1490899,
-        "name": "On or near Lovat Lane"
+        "id": 1685270,
+        "name": "On or near London Bridge"
       },
-      "longitude": "-0.083977"
+      "longitude": "-0.084299"
     },
     "context": "",
     "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-09"
+      "category": "Status update unavailable",
+      "date": "2025-10"
     },
-    "persistent_id": "829219810259192bd43d765dd15dd15cf8970305ec9906f90fd9ef861014d420",
-    "id": 130451251,
+    "persistent_id": "cbaea2288a7bf33d430db6aaf79e61549c109d3d40ecd36335a696969dc8d108",
+    "id": 129501998,
     "location_subtype": "",
     "month": "2025-06"
   }

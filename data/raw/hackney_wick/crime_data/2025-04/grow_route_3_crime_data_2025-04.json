@@ -13,7 +13,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127563474,
+    "id": 127553500,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -39,24 +39,6 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
-      "latitude": "51.535725",
-      "street": {
-        "id": 1693744,
-        "name": "On or near Wick Lane"
-      },
-      "longitude": "-0.022023"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127552674,
-    "location_subtype": "",
-    "month": "2025-04"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.543465",
       "street": {
         "id": 1693386,
@@ -67,7 +49,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127553500,
+    "id": 127563474,
     "location_subtype": "",
     "month": "2025-04"
   },
@@ -86,6 +68,24 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 127554148,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.535725",
+      "street": {
+        "id": 1693744,
+        "name": "On or near Wick Lane"
+      },
+      "longitude": "-0.022023"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127552674,
     "location_subtype": "",
     "month": "2025-04"
   }

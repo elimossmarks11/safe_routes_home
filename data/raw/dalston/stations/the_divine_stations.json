@@ -135,8 +135,8 @@
     {
       "types": [
         "transit_station",
-        "bus_stop",
         "train_station",
+        "bus_stop",
         "point_of_interest",
         "establishment"
       ],
@@ -304,8 +304,8 @@
     {
       "types": [
         "transit_station",
-        "bus_stop",
         "train_station",
+        "bus_stop",
         "point_of_interest",
         "establishment"
       ],
@@ -389,8 +389,8 @@
     {
       "types": [
         "transit_station",
-        "bus_stop",
         "train_station",
+        "bus_stop",
         "point_of_interest",
         "establishment"
       ],

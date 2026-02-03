@@ -1,0 +1,25 @@
+{
+  "area": "Dalston",
+  "club": {
+    "name": "The Karaoke Hole",
+    "location": {
+      "latitude": 51.5494,
+      "longitude": -0.0754
+    }
+  },
+  "destination": {
+    "name": "Dalston Kingsland Station (Stop P)",
+    "location": {
+      "latitude": 51.5484878,
+      "longitude": -0.0754663
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 102,
+    "duration_seconds": 81
+  },
+  "police_api": {
+    "param_file": "the_karaoke_hole_route_4_police_api_param.txt"
+  }
+}

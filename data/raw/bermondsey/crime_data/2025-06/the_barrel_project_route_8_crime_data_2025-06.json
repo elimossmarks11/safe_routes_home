@@ -1,0 +1,83 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506463",
+      "street": {
+        "id": 1686673,
+        "name": "On or near St Katharine's Way"
+      },
+      "longitude": "-0.071708"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 129447883,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506463",
+      "street": {
+        "id": 1686673,
+        "name": "On or near St Katharine's Way"
+      },
+      "longitude": "-0.071708"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-06"
+    },
+    "persistent_id": "9bc395b777fe260c2ac27c739b721a916b90df753fea1ee395c04aed71292cc1",
+    "id": 129519957,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502094",
+      "street": {
+        "id": 1686340,
+        "name": "On or near A100"
+      },
+      "longitude": "-0.077771"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
+    },
+    "persistent_id": "0854cc23d425251769fe27d540899fcdce27f15b46a346f6c1d5c4669d8e000a",
+    "id": 129514518,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502094",
+      "street": {
+        "id": 1686340,
+        "name": "On or near A100"
+      },
+      "longitude": "-0.077771"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-08"
+    },
+    "persistent_id": "1d4e6812ad23ca08ab50f7ae5f593ebf909b6cf0fe645e70456d5cc76ea92981",
+    "id": 129533516,
+    "location_subtype": "",
+    "month": "2025-06"
+  }
+]

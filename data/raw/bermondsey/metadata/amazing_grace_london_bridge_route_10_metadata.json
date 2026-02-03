@@ -16,8 +16,8 @@
   },
   "route": {
     "route_index": 10,
-    "distance_meters": 1078,
-    "duration_seconds": 903
+    "distance_meters": 1091,
+    "duration_seconds": 912
   },
   "police_api": {
     "param_file": "amazing_grace_london_bridge_route_10_police_api_param.txt"

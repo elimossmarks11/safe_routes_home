@@ -1,6 +1,20 @@
 [
   {
     "location": {
+      "latitude": 51.505040799999996,
+      "longitude": -0.0884314
+    },
+    "displayName": {
+      "text": "Amazing Grace London Bridge",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "SE1 9RY"
+    }
+  },
+  {
+    "location": {
       "latitude": 51.5040002,
       "longitude": -0.08326689999999999
     },
@@ -29,16 +43,16 @@
   },
   {
     "location": {
-      "latitude": 51.505040799999996,
-      "longitude": -0.0884314
+      "latitude": 51.5061488,
+      "longitude": -0.0872646
     },
     "displayName": {
-      "text": "Amazing Grace London Bridge",
+      "text": "London Bridge Rooftop Bar",
       "languageCode": "en"
     },
     "primaryType": "bar",
     "postalAddress": {
-      "postalCode": "SE1 9RY"
+      "postalCode": "SE1 2SX"
     }
   },
   {
@@ -53,20 +67,6 @@
     "primaryType": "bar",
     "postalAddress": {
       "postalCode": "SE1 2SY"
-    }
-  },
-  {
-    "location": {
-      "latitude": 51.5061488,
-      "longitude": -0.0872646
-    },
-    "displayName": {
-      "text": "London Bridge Rooftop Bar",
-      "languageCode": "en"
-    },
-    "primaryType": "bar",
-    "postalAddress": {
-      "postalCode": "SE1 2SX"
     }
   },
   {
@@ -95,6 +95,20 @@
     "primaryType": "bar",
     "postalAddress": {
       "postalCode": "SE1 2EL"
+    }
+  },
+  {
+    "location": {
+      "latitude": 51.499680999999995,
+      "longitude": -0.0752229
+    },
+    "displayName": {
+      "text": "The Barrel Project",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "SE1 2HQ"
     }
   }
 ]

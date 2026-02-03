@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "The Glove That Fits",
+  "club_location": {
+    "latitude": 51.5469,
+    "longitude": -0.048
+  },
+  "route_index": 2,
+  "station_name": "Homerton",
+  "station_location": {
+    "latitude": 51.5470366,
+    "longitude": -0.0423623
+  },
+  "route_viable": false
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499303",
+      "street": {
+        "id": 1686269,
+        "name": "On or near Pope Street"
+      },
+      "longitude": "-0.078119"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 126352188,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499303",
+      "street": {
+        "id": 1686269,
+        "name": "On or near Pope Street"
+      },
+      "longitude": "-0.078119"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "73d79ddb47166610fdc657449fcb8b854935154faac3b566d8dce768cb8d3ab9",
+    "id": 126369774,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.499303",
+      "street": {
+        "id": 1686269,
+        "name": "On or near Pope Street"
+      },
+      "longitude": "-0.078119"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-06"
+    },
+    "persistent_id": "3c4ddd04006ff74e7e02b3c30899d77fb9c48a009d572bd0ad20c946c4505d90",
+    "id": 126423481,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

@@ -30,11 +30,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
+      "category": "Unable to prosecute suspect",
+      "date": "2025-06"
     },
-    "persistent_id": "073d66a6451c096de183395e4ce735ff5d870594837101f1d0423cabc0c7774e",
-    "id": 129475644,
+    "persistent_id": "7ab15979d4a395d8b0a15401d326251b3fddf01950d3de349338fce3d291ece8",
+    "id": 129517257,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -72,32 +72,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-06"
-    },
-    "persistent_id": "7ab15979d4a395d8b0a15401d326251b3fddf01950d3de349338fce3d291ece8",
-    "id": 129517257,
-    "location_subtype": "",
-    "month": "2025-06"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.505578",
-      "street": {
-        "id": 1684868,
-        "name": "On or near Railway Approach"
-      },
-      "longitude": "-0.087409"
-    },
-    "context": "",
-    "outcome_status": {
       "category": "Status update unavailable",
       "date": "2025-10"
     },
-    "persistent_id": "68413c2a8640235c6af6404b6ad1ce280251c458f62022a58ec5bc55064abc32",
-    "id": 129472627,
+    "persistent_id": "073d66a6451c096de183395e4ce735ff5d870594837101f1d0423cabc0c7774e",
+    "id": 129475644,
     "location_subtype": "",
     "month": "2025-06"
   },
@@ -119,6 +98,27 @@
     },
     "persistent_id": "fa9bb6c6c24c388cbeb27e8d3e98dfbfcd380cacd6ec25688e54a690c22ae31b",
     "id": 129507690,
+    "location_subtype": "",
+    "month": "2025-06"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.505578",
+      "street": {
+        "id": 1684868,
+        "name": "On or near Railway Approach"
+      },
+      "longitude": "-0.087409"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-10"
+    },
+    "persistent_id": "68413c2a8640235c6af6404b6ad1ce280251c458f62022a58ec5bc55064abc32",
+    "id": 129472627,
     "location_subtype": "",
     "month": "2025-06"
   }

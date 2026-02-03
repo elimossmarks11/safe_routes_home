@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "The Glove That Fits",
+  "club_location": {
+    "latitude": 51.5469,
+    "longitude": -0.048
+  },
+  "route_index": 7,
+  "station_name": "Mare Street / Well Street (Stop LA)",
+  "station_location": {
+    "latitude": 51.539551,
+    "longitude": -0.05604899999999999
+  },
+  "route_viable": true
+}

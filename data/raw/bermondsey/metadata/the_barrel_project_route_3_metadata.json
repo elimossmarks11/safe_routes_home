@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "The Barrel Project",
+    "location": {
+      "latitude": 51.4997,
+      "longitude": -0.0752
+    }
+  },
+  "destination": {
+    "name": "Druid Street (Stop C)",
+    "location": {
+      "latitude": 51.5007807,
+      "longitude": -0.07818549999999999
+    }
+  },
+  "route": {
+    "route_index": 3,
+    "distance_meters": 347,
+    "duration_seconds": 280
+  },
+  "police_api": {
+    "param_file": "the_barrel_project_route_3_police_api_param.txt"
+  }
+}

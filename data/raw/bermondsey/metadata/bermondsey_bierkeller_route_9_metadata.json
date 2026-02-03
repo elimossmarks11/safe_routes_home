@@ -16,8 +16,8 @@
   },
   "route": {
     "route_index": 9,
-    "distance_meters": 851,
-    "duration_seconds": 689
+    "distance_meters": 864,
+    "duration_seconds": 697
   },
   "police_api": {
     "param_file": "bermondsey_bierkeller_route_9_police_api_param.txt"

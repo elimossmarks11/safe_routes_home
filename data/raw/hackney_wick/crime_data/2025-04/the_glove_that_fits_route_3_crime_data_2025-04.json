@@ -1,0 +1,86 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547496",
+      "street": {
+        "id": 1690725,
+        "name": "On or near Ponsford Street"
+      },
+      "longitude": "-0.047776"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-08"
+    },
+    "persistent_id": "299f1f37352f6cde4608a41b6d727cc77ee44074d09aa5ba0b67eec594d2b037",
+    "id": 127658505,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547496",
+      "street": {
+        "id": 1690725,
+        "name": "On or near Ponsford Street"
+      },
+      "longitude": "-0.047776"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
+    },
+    "persistent_id": "12fb9665793bb5de3b35e77f18a2a88a81ed6dcd8e47e0fe849fd8be0b3211b1",
+    "id": 127658948,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547496",
+      "street": {
+        "id": 1690725,
+        "name": "On or near Ponsford Street"
+      },
+      "longitude": "-0.047776"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-12"
+    },
+    "persistent_id": "3ad579ac94464b52dd6f2d5964189d7cbcf502c11de7ece6290185bc8d598a9f",
+    "id": 127575309,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547496",
+      "street": {
+        "id": 1690725,
+        "name": "On or near Ponsford Street"
+      },
+      "longitude": "-0.047776"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-12"
+    },
+    "persistent_id": "fd1fbd8eb9afa840389932fd399d06f2a57f9c531332f48f3df4fc5a25e20f67",
+    "id": 127569490,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

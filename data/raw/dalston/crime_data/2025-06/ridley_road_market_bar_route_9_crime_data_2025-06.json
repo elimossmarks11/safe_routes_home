@@ -174,8 +174,8 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-10"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-12"
     },
     "persistent_id": "4afb675218eed72823024b1bd850bcd2b24e0ca36ca800726a18f95cc25bc33d",
     "id": 129538291,
@@ -238,7 +238,7 @@
     "context": "",
     "outcome_status": {
       "category": "Unable to prosecute suspect",
-      "date": "2025-07"
+      "date": "2025-12"
     },
     "persistent_id": "86b2067fc6a3868f12f8594810654cd27fdfc8f90fa95d8c3571302152a5952d",
     "id": 129509554,

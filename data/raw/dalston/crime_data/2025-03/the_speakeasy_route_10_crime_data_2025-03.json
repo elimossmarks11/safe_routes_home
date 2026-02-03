@@ -31,7 +31,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127070845,
+    "id": 127071380,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -139,7 +139,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127071380,
+    "id": 127070845,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -210,48 +210,6 @@
     "category": "violent-crime",
     "location_type": "Force",
     "location": {
-      "latitude": "51.546912",
-      "street": {
-        "id": 1686783,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074974"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Unable to prosecute suspect",
-      "date": "2025-04"
-    },
-    "persistent_id": "59fb5b61f6eecfd446fa3e4c630699c19d574b291e7debcac53149a26d94d47f",
-    "id": 127149367,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.548448",
-      "street": {
-        "id": 1686720,
-        "name": "On or near Kingsland High Street"
-      },
-      "longitude": "-0.075414"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-03"
-    },
-    "persistent_id": "90709355e913d39c281197337bcb68a5f0d186eae7b830f3615931ae26c30de6",
-    "id": 127103413,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.548448",
       "street": {
         "id": 1686720,
@@ -282,11 +240,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-04"
     },
-    "persistent_id": "3d4eb515b995efbf85d63979f582ecc75df8e8e2d02cbdf258079e4a1976cec5",
-    "id": 127098269,
+    "persistent_id": "4279e2f57daf4f5f60281e80c0e0e1e615533330476cb46667600ade8dd56cce",
+    "id": 127101435,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -304,10 +262,10 @@
     "context": "",
     "outcome_status": {
       "category": "Investigation complete; no suspect identified",
-      "date": "2025-04"
+      "date": "2025-03"
     },
-    "persistent_id": "4279e2f57daf4f5f60281e80c0e0e1e615533330476cb46667600ade8dd56cce",
-    "id": 127101435,
+    "persistent_id": "90709355e913d39c281197337bcb68a5f0d186eae7b830f3615931ae26c30de6",
+    "id": 127103413,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -329,6 +287,48 @@
     },
     "persistent_id": "0b248ac3198411967cc4c72d32a6de4c7d23d4ad621a837c571ea90baebc3a4a",
     "id": 127113308,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.546912",
+      "street": {
+        "id": 1686783,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074974"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "59fb5b61f6eecfd446fa3e4c630699c19d574b291e7debcac53149a26d94d47f",
+    "id": 127149367,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548448",
+      "street": {
+        "id": 1686720,
+        "name": "On or near Kingsland High Street"
+      },
+      "longitude": "-0.075414"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "3d4eb515b995efbf85d63979f582ecc75df8e8e2d02cbdf258079e4a1976cec5",
+    "id": 127098269,
     "location_subtype": "",
     "month": "2025-03"
   }

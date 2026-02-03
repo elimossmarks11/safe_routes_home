@@ -1,0 +1,326 @@
+{
+  "area": "Bermondsey",
+  "club": "The Barrel Project",
+  "club_location": {
+    "latitude": 51.4997,
+    "longitude": -0.0752
+  },
+  "places": [
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2XN, UK",
+      "location": {
+        "latitude": 51.5002582,
+        "longitude": -0.0752603
+      },
+      "displayName": {
+        "text": "Tanner Street (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2DR, UK",
+      "location": {
+        "latitude": 51.4999842,
+        "longitude": -0.0726687
+      },
+      "displayName": {
+        "text": "Dockhead (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 3LS, UK",
+      "location": {
+        "latitude": 51.5007807,
+        "longitude": -0.07818549999999999
+      },
+      "displayName": {
+        "text": "Druid Street (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2NR, UK",
+      "location": {
+        "latitude": 51.501738599999996,
+        "longitude": -0.0763346
+      },
+      "displayName": {
+        "text": "Boss Street (Stop S)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2XA, UK",
+      "location": {
+        "latitude": 51.5018623,
+        "longitude": -0.0779562
+      },
+      "displayName": {
+        "text": "Druid Street (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 3FT, UK",
+      "location": {
+        "latitude": 51.4981843,
+        "longitude": -0.07943220000000001
+      },
+      "displayName": {
+        "text": "Abbey Street (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2JX, UK",
+      "location": {
+        "latitude": 51.5027891,
+        "longitude": -0.07796539999999999
+      },
+      "displayName": {
+        "text": "Tower Bridge Road (Stop K)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2UP, UK",
+      "location": {
+        "latitude": 51.5031706,
+        "longitude": -0.0768213
+      },
+      "displayName": {
+        "text": "Tower Bridge / City Hall (Stop P)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE16 4RX, UK",
+      "location": {
+        "latitude": 51.4979668,
+        "longitude": -0.0649063
+      },
+      "displayName": {
+        "text": "Bermondsey Station (Stop A)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Kipling Estate, London SE1 3RQ, UK",
+      "location": {
+        "latitude": 51.4997202,
+        "longitude": -0.08677499999999999
+      },
+      "displayName": {
+        "text": "Staple Street",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE16 4RT, UK",
+      "location": {
+        "latitude": 51.497863599999995,
+        "longitude": -0.0637319
+      },
+      "displayName": {
+        "text": "Bermondsey",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Subway Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "transit_station",
+        "train_station",
+        "bus_stop",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Station Approach Rd, London SE1 9SP, UK",
+      "location": {
+        "latitude": 51.5042625,
+        "longitude": -0.0848024
+      },
+      "displayName": {
+        "text": "London Bridge",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Transit station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2DA, UK",
+      "location": {
+        "latitude": 51.505084100000005,
+        "longitude": -0.08410379999999999
+      },
+      "displayName": {
+        "text": "Hays Galleria (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E1W 1YD, UK",
+      "location": {
+        "latitude": 51.5060137,
+        "longitude": -0.0665182
+      },
+      "displayName": {
+        "text": "Stockholm Way",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E1W 2JS, UK",
+      "location": {
+        "latitude": 51.5068728,
+        "longitude": -0.0665386
+      },
+      "displayName": {
+        "text": "Nesham Street (Stop O)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    }
+  ]
+}

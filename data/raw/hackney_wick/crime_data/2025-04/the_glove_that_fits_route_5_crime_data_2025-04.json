@@ -1,0 +1,62 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547047",
+      "street": {
+        "id": 1690339,
+        "name": "On or near Morning Lane"
+      },
+      "longitude": "-0.051055"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127556605,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547119",
+      "street": {
+        "id": 1690288,
+        "name": "On or near Nursery Road"
+      },
+      "longitude": "-0.051615"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-04"
+    },
+    "persistent_id": "4bc70cb6f039f80a5f3fc4d9bbaa4f0daa2de3afb3ca91cc86dc1914a4aae612",
+    "id": 127581087,
+    "location_subtype": "",
+    "month": "2025-04"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547119",
+      "street": {
+        "id": 1690288,
+        "name": "On or near Nursery Road"
+      },
+      "longitude": "-0.051615"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-08"
+    },
+    "persistent_id": "545a3fa71e5cd411baa2130aa3e9578ba4312ec8eb5dc13de2db8ff180768ea6",
+    "id": 127662819,
+    "location_subtype": "",
+    "month": "2025-04"
+  }
+]

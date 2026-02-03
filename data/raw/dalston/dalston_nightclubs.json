@@ -43,34 +43,6 @@
   },
   {
     "location": {
-      "latitude": 51.546368,
-      "longitude": -0.0739591
-    },
-    "displayName": {
-      "text": "Farr's Dalston",
-      "languageCode": "en"
-    },
-    "primaryType": "bar",
-    "postalAddress": {
-      "postalCode": "E8 3DF"
-    }
-  },
-  {
-    "location": {
-      "latitude": 51.5517897,
-      "longitude": -0.0753553
-    },
-    "displayName": {
-      "text": "The Divine",
-      "languageCode": "en"
-    },
-    "primaryType": "bar",
-    "postalAddress": {
-      "postalCode": "N16 8BJ"
-    }
-  },
-  {
-    "location": {
       "latitude": 51.5465089,
       "longitude": -0.0747342
     },
@@ -81,6 +53,20 @@
     "primaryType": "bar",
     "postalAddress": {
       "postalCode": "E8 3DL"
+    }
+  },
+  {
+    "location": {
+      "latitude": 51.546368,
+      "longitude": -0.0739591
+    },
+    "displayName": {
+      "text": "Farr's Dalston",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "E8 3DF"
     }
   },
   {
@@ -99,30 +85,30 @@
   },
   {
     "location": {
-      "latitude": 51.5455523,
-      "longitude": -0.075585
+      "latitude": 51.549392,
+      "longitude": -0.07541239999999999
     },
     "displayName": {
-      "text": "Copper Cats",
+      "text": "The Karaoke Hole",
       "languageCode": "en"
     },
     "primaryType": "bar",
     "postalAddress": {
-      "postalCode": "E8 4AP"
+      "postalCode": "E8 2PB"
     }
   },
   {
     "location": {
-      "latitude": 51.543952,
-      "longitude": -0.0758636
+      "latitude": 51.5517897,
+      "longitude": -0.0753553
     },
     "displayName": {
-      "text": "Three Sheets Dalston",
+      "text": "The Divine",
       "languageCode": "en"
     },
     "primaryType": "bar",
     "postalAddress": {
-      "postalCode": "E8 4AB"
+      "postalCode": "N16 8BJ"
     }
   }
 ]

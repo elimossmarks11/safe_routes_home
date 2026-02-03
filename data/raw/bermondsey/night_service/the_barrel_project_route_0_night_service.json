@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "The Barrel Project",
+  "club_location": {
+    "latitude": 51.4997,
+    "longitude": -0.0752
+  },
+  "route_index": 0,
+  "station_name": "Tanner Street (Stop B)",
+  "station_location": {
+    "latitude": 51.5002582,
+    "longitude": -0.0752603
+  },
+  "route_viable": true
+}

@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "The Glove That Fits",
+  "club_location": {
+    "latitude": 51.5469,
+    "longitude": -0.048
+  },
+  "route_index": 0,
+  "station_name": "Morning Lane /Trelawney Estate (Stop D)",
+  "station_location": {
+    "latitude": 51.5466373,
+    "longitude": -0.052916399999999995
+  },
+  "route_viable": false
+}

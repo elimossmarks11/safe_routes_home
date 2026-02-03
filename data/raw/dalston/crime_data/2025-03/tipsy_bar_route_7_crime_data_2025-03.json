@@ -3,6 +3,24 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127070936,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.551654",
       "street": {
         "id": 1686428,
@@ -31,25 +49,28 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127070936,
+    "id": 127076307,
     "location_subtype": "",
     "month": "2025-03"
   },
   {
-    "category": "anti-social-behaviour",
+    "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.552052",
+      "latitude": "51.551353",
       "street": {
-        "id": 1685530,
-        "name": "On or near Matthias Road"
+        "id": 1686626,
+        "name": "On or near Salcombe Road"
       },
-      "longitude": "-0.081897"
+      "longitude": "-0.076013"
     },
     "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127076307,
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "ff1fad472b20d8f2eeb5521d8ac8d6b4dbb69587f94ffc722a0e0358ff5c339f",
+    "id": 127117347,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -99,27 +120,6 @@
     "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.551353",
-      "street": {
-        "id": 1686626,
-        "name": "On or near Salcombe Road"
-      },
-      "longitude": "-0.076013"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-03"
-    },
-    "persistent_id": "ff1fad472b20d8f2eeb5521d8ac8d6b4dbb69587f94ffc722a0e0358ff5c339f",
-    "id": 127117347,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.552124",
       "street": {
         "id": 1685096,
@@ -134,69 +134,6 @@
     },
     "persistent_id": "a140aa05301bfddb4132c836d221e1e2c5ffaf1753ff9893fcec916fca1f6b08",
     "id": 127122496,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.551055",
-      "street": {
-        "id": 1686641,
-        "name": "On or near Theatre/concert Hall"
-      },
-      "longitude": "-0.075405"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "18307c7081633beca742bb364aa083a89de40045836135c32a3aa63dc67be19f",
-    "id": 127193942,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552052",
-      "street": {
-        "id": 1685530,
-        "name": "On or near Matthias Road"
-      },
-      "longitude": "-0.081897"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-03"
-    },
-    "persistent_id": "f33406ae10a1c920be34c2a99b75b69e4a6190e55577e9521e672566d12e67b6",
-    "id": 127148463,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.552052",
-      "street": {
-        "id": 1685530,
-        "name": "On or near Matthias Road"
-      },
-      "longitude": "-0.081897"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "dde20b493715007557ab84e13c1641b5ab4fb193b0ad75fe54d1b3b15a9c0c6e",
-    "id": 127196891,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -234,6 +171,69 @@
     },
     "context": "",
     "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-12"
+    },
+    "persistent_id": "dde20b493715007557ab84e13c1641b5ab4fb193b0ad75fe54d1b3b15a9c0c6e",
+    "id": 127196891,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-12"
+    },
+    "persistent_id": "93241e12e7cbb5590dd25034ae17e30e11c4f3641e9baee10a5196a65b2d0879",
+    "id": 127140804,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.551055",
+      "street": {
+        "id": 1686641,
+        "name": "On or near Theatre/concert Hall"
+      },
+      "longitude": "-0.075405"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-12"
+    },
+    "persistent_id": "18307c7081633beca742bb364aa083a89de40045836135c32a3aa63dc67be19f",
+    "id": 127193942,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.552052",
+      "street": {
+        "id": 1685530,
+        "name": "On or near Matthias Road"
+      },
+      "longitude": "-0.081897"
+    },
+    "context": "",
+    "outcome_status": {
       "category": "Unable to prosecute suspect",
       "date": "2025-04"
     },
@@ -255,11 +255,11 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
     },
-    "persistent_id": "93241e12e7cbb5590dd25034ae17e30e11c4f3641e9baee10a5196a65b2d0879",
-    "id": 127140804,
+    "persistent_id": "f33406ae10a1c920be34c2a99b75b69e4a6190e55577e9521e672566d12e67b6",
+    "id": 127148463,
     "location_subtype": "",
     "month": "2025-03"
   }

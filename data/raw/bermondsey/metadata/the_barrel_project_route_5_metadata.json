@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "The Barrel Project",
+    "location": {
+      "latitude": 51.4997,
+      "longitude": -0.0752
+    }
+  },
+  "destination": {
+    "name": "Abbey Street (Stop H)",
+    "location": {
+      "latitude": 51.4981843,
+      "longitude": -0.07943220000000001
+    }
+  },
+  "route": {
+    "route_index": 5,
+    "distance_meters": 465,
+    "duration_seconds": 382
+  },
+  "police_api": {
+    "param_file": "the_barrel_project_route_5_police_api_param.txt"
+  }
+}

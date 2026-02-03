@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "The Barrel Project",
+  "club_location": {
+    "latitude": 51.4997,
+    "longitude": -0.0752
+  },
+  "route_index": 2,
+  "station_name": "Dockhead (Stop E)",
+  "station_location": {
+    "latitude": 51.4999842,
+    "longitude": -0.0726687
+  },
+  "route_viable": true
+}

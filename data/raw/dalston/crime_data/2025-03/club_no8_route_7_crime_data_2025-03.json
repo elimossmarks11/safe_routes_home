@@ -36,48 +36,6 @@
     "month": "2025-03"
   },
   {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.550736",
-      "street": {
-        "id": 1685372,
-        "name": "On or near Auriga Mews"
-      },
-      "longitude": "-0.083395"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-03"
-    },
-    "persistent_id": "e5b002a009eee566e04a46d8a2e8cd6c61d8a690bbc3be399a279b503c8f9795",
-    "id": 127121605,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "violent-crime",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.550736",
-      "street": {
-        "id": 1685372,
-        "name": "On or near Auriga Mews"
-      },
-      "longitude": "-0.083395"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "2ba35f60630d11842e812bc7f6ad4dc2eaf1c0a6f3c6844d684999973d9af167",
-    "id": 127138727,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
     "category": "violent-crime",
     "location_type": "Force",
     "location": {

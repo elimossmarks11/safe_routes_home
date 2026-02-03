@@ -21,27 +21,6 @@
     "category": "public-order",
     "location_type": "Force",
     "location": {
-      "latitude": "51.506092",
-      "street": {
-        "id": 1684728,
-        "name": "On or near Railway Approach"
-      },
-      "longitude": "-0.088554"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Investigation complete; no suspect identified",
-      "date": "2025-03"
-    },
-    "persistent_id": "d0f55caaaaca315000fd382a626dc2f05f448e0669da05ecbe0cad1c3164bc22",
-    "id": 126368124,
-    "location_subtype": "",
-    "month": "2025-02"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
       "latitude": "51.505208",
       "street": {
         "id": 1684629,
@@ -56,6 +35,27 @@
     },
     "persistent_id": "55c95f143fc3bc1c3170c2535f1b39f306c81a0b92d2f3ef6ac79a3cbf4632de",
     "id": 126415961,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.506092",
+      "street": {
+        "id": 1684728,
+        "name": "On or near Railway Approach"
+      },
+      "longitude": "-0.088554"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "d0f55caaaaca315000fd382a626dc2f05f448e0669da05ecbe0cad1c3164bc22",
+    "id": 126368124,
     "location_subtype": "",
     "month": "2025-02"
   },

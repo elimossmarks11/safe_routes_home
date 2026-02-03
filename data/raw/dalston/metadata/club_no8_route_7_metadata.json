@@ -17,7 +17,7 @@
   "route": {
     "route_index": 7,
     "distance_meters": 892,
-    "duration_seconds": 758
+    "duration_seconds": 754
   },
   "police_api": {
     "param_file": "club_no8_route_7_police_api_param.txt"

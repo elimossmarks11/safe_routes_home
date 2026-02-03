@@ -1,0 +1,266 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127098046,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127081725,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127092255,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127096052,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127077196,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127072734,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127080836,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127097071,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127072351,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498222",
+      "street": {
+        "id": 1687218,
+        "name": "On or near Neckinger Street"
+      },
+      "longitude": "-0.072027"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127092020,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498139",
+      "street": {
+        "id": 1687749,
+        "name": "On or near Jamaica Road"
+      },
+      "longitude": "-0.068040"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "970d8956cf23a87bd0b842111515dae11f3b7f0d350b2117aed141d6c82f2483",
+    "id": 127117277,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498171",
+      "street": {
+        "id": 1687304,
+        "name": "On or near Koops Mill Mews"
+      },
+      "longitude": "-0.071611"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "4c38a234fc1f59d623272b9ae8134fa8cc719260478a04daa83b43ec9013913b",
+    "id": 127114354,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.498171",
+      "street": {
+        "id": 1687304,
+        "name": "On or near Koops Mill Mews"
+      },
+      "longitude": "-0.071611"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-03"
+    },
+    "persistent_id": "bff69e80b87c0134a4e7435517c5025d7f3a97eab9f133ab724781dc3a891c22",
+    "id": 127198517,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.497933",
+      "street": {
+        "id": 1688657,
+        "name": "On or near Perryn Road"
+      },
+      "longitude": "-0.063193"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-09"
+    },
+    "persistent_id": "11ba0e605974a8348ce2f771a262f42e2e014ce5e5fbe5c41e7deacce49d01fa",
+    "id": 127190326,
+    "location_subtype": "",
+    "month": "2025-03"
+  }
+]

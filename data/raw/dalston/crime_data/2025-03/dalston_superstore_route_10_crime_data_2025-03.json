@@ -13,42 +13,6 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127073802,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127088285,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.556356",
-      "street": {
-        "id": 1686726,
-        "name": "On or near Nightclub"
-      },
-      "longitude": "-0.074865"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
     "id": 127078616,
     "location_subtype": "",
     "month": "2025-03"
@@ -75,6 +39,24 @@
     "category": "anti-social-behaviour",
     "location_type": "Force",
     "location": {
+      "latitude": "51.556356",
+      "street": {
+        "id": 1686726,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074865"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127073802,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
       "latitude": "51.553879",
       "street": {
         "id": 1686731,
@@ -86,6 +68,24 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 127073019,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.556356",
+      "street": {
+        "id": 1686726,
+        "name": "On or near Nightclub"
+      },
+      "longitude": "-0.074865"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127088285,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -105,8 +105,8 @@
       "category": "Status update unavailable",
       "date": "2025-07"
     },
-    "persistent_id": "db7e9da0a9768da28f2687e6fd76c861ac0981147912658122e6ef2555f2470b",
-    "id": 127119117,
+    "persistent_id": "fcab41e76f1b7b3562aa6a73ae1c6d343f00492599ba5083484ba66267c1e99d",
+    "id": 127191554,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -270,6 +270,27 @@
     },
     "context": "",
     "outcome_status": {
+      "category": "Status update unavailable",
+      "date": "2025-07"
+    },
+    "persistent_id": "db7e9da0a9768da28f2687e6fd76c861ac0981147912658122e6ef2555f2470b",
+    "id": 127119117,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.557857",
+      "street": {
+        "id": 1686850,
+        "name": "On or near Police Station"
+      },
+      "longitude": "-0.074819"
+    },
+    "context": "",
+    "outcome_status": {
       "category": "Unable to prosecute suspect",
       "date": "2025-03"
     },
@@ -296,27 +317,6 @@
     },
     "persistent_id": "88ecfa67e8e93ae20f88471942c7ec257c6d8d39aea16048fb29a093a36ff510",
     "id": 127189106,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "public-order",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.557857",
-      "street": {
-        "id": 1686850,
-        "name": "On or near Police Station"
-      },
-      "longitude": "-0.074819"
-    },
-    "context": "",
-    "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
-    },
-    "persistent_id": "fcab41e76f1b7b3562aa6a73ae1c6d343f00492599ba5083484ba66267c1e99d",
-    "id": 127191554,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -417,8 +417,8 @@
     },
     "context": "",
     "outcome_status": {
-      "category": "Status update unavailable",
-      "date": "2025-07"
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-12"
     },
     "persistent_id": "18307c7081633beca742bb364aa083a89de40045836135c32a3aa63dc67be19f",
     "id": 127193942,

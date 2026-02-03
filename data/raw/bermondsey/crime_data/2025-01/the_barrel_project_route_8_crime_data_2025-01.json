@@ -1,0 +1,44 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502026",
+      "street": {
+        "id": 1686384,
+        "name": "On or near Fair Street"
+      },
+      "longitude": "-0.077500"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-01"
+    },
+    "persistent_id": "821a5b499be23b9b4a858df07efa057ee2695a359647be4ad62fd65bf06e1662",
+    "id": 125869745,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.502026",
+      "street": {
+        "id": 1686384,
+        "name": "On or near Fair Street"
+      },
+      "longitude": "-0.077500"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "8ec192265a0d9c5fc1f2945b77a5f097f7edccd3a1b9816d23184a298861fdda",
+    "id": 125860650,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

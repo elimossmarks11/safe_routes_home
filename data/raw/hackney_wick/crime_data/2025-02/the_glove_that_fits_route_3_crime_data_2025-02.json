@@ -1,0 +1,65 @@
+[
+  {
+    "category": "public-order",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548254",
+      "street": {
+        "id": 1691180,
+        "name": "On or near Homerton High Street"
+      },
+      "longitude": "-0.044138"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-03"
+    },
+    "persistent_id": "751c7f1e47fb3e0e85cc78b7d0d4722a4dc3b3529d0524b65e17184400919414",
+    "id": 126369879,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.547496",
+      "street": {
+        "id": 1690725,
+        "name": "On or near Ponsford Street"
+      },
+      "longitude": "-0.047776"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Awaiting court outcome",
+      "date": "2025-12"
+    },
+    "persistent_id": "f5eb63a26386eea3457dd37ccdf90ecd8400872eac2601d3f1a82aeb4fe63485",
+    "id": 126423536,
+    "location_subtype": "",
+    "month": "2025-02"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548254",
+      "street": {
+        "id": 1691180,
+        "name": "On or near Homerton High Street"
+      },
+      "longitude": "-0.044138"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-02"
+    },
+    "persistent_id": "9e88e3b6a60ba03e2c770407c1e8ecdb075c8d3a34402a57a23ec0386285e9a0",
+    "id": 126361397,
+    "location_subtype": "",
+    "month": "2025-02"
+  }
+]

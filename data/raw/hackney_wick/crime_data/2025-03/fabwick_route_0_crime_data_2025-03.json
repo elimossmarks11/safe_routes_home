@@ -13,60 +13,6 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127084112,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.543465",
-      "street": {
-        "id": 1693386,
-        "name": "On or near Wallis Road"
-      },
-      "longitude": "-0.025581"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127088605,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.543465",
-      "street": {
-        "id": 1693386,
-        "name": "On or near Wallis Road"
-      },
-      "longitude": "-0.025581"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127080148,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.543465",
-      "street": {
-        "id": 1693386,
-        "name": "On or near Wallis Road"
-      },
-      "longitude": "-0.025581"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
     "id": 127080911,
     "location_subtype": "",
     "month": "2025-03"
@@ -85,7 +31,7 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
-    "id": 127079635,
+    "id": 127088605,
     "location_subtype": "",
     "month": "2025-03"
   },
@@ -122,6 +68,60 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 127071057,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.543465",
+      "street": {
+        "id": 1693386,
+        "name": "On or near Wallis Road"
+      },
+      "longitude": "-0.025581"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127084112,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.543465",
+      "street": {
+        "id": 1693386,
+        "name": "On or near Wallis Road"
+      },
+      "longitude": "-0.025581"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127080148,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.543465",
+      "street": {
+        "id": 1693386,
+        "name": "On or near Wallis Road"
+      },
+      "longitude": "-0.025581"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 127079635,
     "location_subtype": "",
     "month": "2025-03"
   },

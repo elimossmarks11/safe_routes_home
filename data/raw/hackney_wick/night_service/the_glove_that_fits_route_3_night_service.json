@@ -1,0 +1,15 @@
+{
+  "area": "hackney_wick",
+  "club": "The Glove That Fits",
+  "club_location": {
+    "latitude": 51.5469,
+    "longitude": -0.048
+  },
+  "route_index": 3,
+  "station_name": "Brooksby's Walk / Homerton Station (Stop HB)",
+  "station_location": {
+    "latitude": 51.54958,
+    "longitude": -0.042684
+  },
+  "route_viable": true
+}

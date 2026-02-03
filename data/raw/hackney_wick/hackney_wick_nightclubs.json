@@ -29,6 +29,20 @@
   },
   {
     "location": {
+      "latitude": 51.546934199999995,
+      "longitude": -0.0480154
+    },
+    "displayName": {
+      "text": "The Glove That Fits",
+      "languageCode": "en"
+    },
+    "primaryType": "bar",
+    "postalAddress": {
+      "postalCode": "E9 6LH"
+    }
+  },
+  {
+    "location": {
       "latitude": 51.542575899999996,
       "longitude": -0.021853100000000004
     },

@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "The Barrel Project",
+    "location": {
+      "latitude": 51.4997,
+      "longitude": -0.0752
+    }
+  },
+  "destination": {
+    "name": "Boss Street (Stop S)",
+    "location": {
+      "latitude": 51.501738599999996,
+      "longitude": -0.0763346
+    }
+  },
+  "route": {
+    "route_index": 1,
+    "distance_meters": 374,
+    "duration_seconds": 326
+  },
+  "police_api": {
+    "param_file": "the_barrel_project_route_1_police_api_param.txt"
+  }
+}

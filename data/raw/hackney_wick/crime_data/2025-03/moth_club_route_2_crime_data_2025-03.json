@@ -13,6 +13,24 @@
     "context": "",
     "outcome_status": null,
     "persistent_id": "",
+    "id": 127076100,
+    "location_subtype": "",
+    "month": "2025-03"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.545155",
+      "street": {
+        "id": 1689659,
+        "name": "On or near Valette Street"
+      },
+      "longitude": "-0.054641"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
     "id": 127097324,
     "location_subtype": "",
     "month": "2025-03"
@@ -50,24 +68,6 @@
     "outcome_status": null,
     "persistent_id": "",
     "id": 127096174,
-    "location_subtype": "",
-    "month": "2025-03"
-  },
-  {
-    "category": "anti-social-behaviour",
-    "location_type": "Force",
-    "location": {
-      "latitude": "51.545155",
-      "street": {
-        "id": 1689659,
-        "name": "On or near Valette Street"
-      },
-      "longitude": "-0.054641"
-    },
-    "context": "",
-    "outcome_status": null,
-    "persistent_id": "",
-    "id": 127076100,
     "location_subtype": "",
     "month": "2025-03"
   },

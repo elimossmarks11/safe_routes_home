@@ -1,0 +1,25 @@
+{
+  "area": "Hackney_Wick",
+  "club": {
+    "name": "The Glove That Fits",
+    "location": {
+      "latitude": 51.5469,
+      "longitude": -0.048
+    }
+  },
+  "destination": {
+    "name": "Mare Street / Narrow Way (Stop R)",
+    "location": {
+      "latitude": 51.549575999999995,
+      "longitude": -0.055406
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 765,
+    "duration_seconds": 650
+  },
+  "police_api": {
+    "param_file": "the_glove_that_fits_route_4_police_api_param.txt"
+  }
+}

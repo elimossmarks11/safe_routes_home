@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "The Barrel Project",
+    "location": {
+      "latitude": 51.4997,
+      "longitude": -0.0752
+    }
+  },
+  "destination": {
+    "name": "Staple Street",
+    "location": {
+      "latitude": 51.4997202,
+      "longitude": -0.08677499999999999
+    }
+  },
+  "route": {
+    "route_index": 4,
+    "distance_meters": 971,
+    "duration_seconds": 802
+  },
+  "police_api": {
+    "param_file": "the_barrel_project_route_4_police_api_param.txt"
+  }
+}

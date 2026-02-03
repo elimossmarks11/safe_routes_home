@@ -1,0 +1,250 @@
+{
+  "area": "Bermondsey",
+  "club": "The Barrel Project",
+  "club_location": {
+    "latitude": 51.4997,
+    "longitude": -0.0752
+  },
+  "selected_stations": [
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2XN, UK",
+      "location": {
+        "latitude": 51.5002582,
+        "longitude": -0.0752603
+      },
+      "displayName": {
+        "text": "Tanner Street (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 62.20919550276165,
+      "bearing": 356.15280825892114,
+      "sector": 7
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2NR, UK",
+      "location": {
+        "latitude": 51.501738599999996,
+        "longitude": -0.0763346
+      },
+      "displayName": {
+        "text": "Boss Street (Stop S)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 239.90137578043272,
+      "bearing": 340.8912739427365,
+      "sector": 7
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 2DR, UK",
+      "location": {
+        "latitude": 51.4999842,
+        "longitude": -0.0726687
+      },
+      "displayName": {
+        "text": "Dockhead (Stop E)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 178.04533718201455,
+      "bearing": 79.77530776719402,
+      "sector": 1
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 3LS, UK",
+      "location": {
+        "latitude": 51.5007807,
+        "longitude": -0.07818549999999999
+      },
+      "displayName": {
+        "text": "Druid Street (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 239.05520959952995,
+      "bearing": 300.17865798501464,
+      "sector": 6
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Kipling Estate, London SE1 3RQ, UK",
+      "location": {
+        "latitude": 51.4997202,
+        "longitude": -0.08677499999999999
+      },
+      "displayName": {
+        "text": "Staple Street",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 801.2351768514422,
+      "bearing": 270.16514929393367,
+      "sector": 6
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE1 3FT, UK",
+      "location": {
+        "latitude": 51.4981843,
+        "longitude": -0.07943220000000001
+      },
+      "displayName": {
+        "text": "Abbey Street (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 337.9817276851011,
+      "bearing": 240.09023463860572,
+      "sector": 5
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE16 4RX, UK",
+      "location": {
+        "latitude": 51.4979668,
+        "longitude": -0.0649063
+      },
+      "displayName": {
+        "text": "Bermondsey Station (Stop A)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 738.1557607067311,
+      "bearing": 105.13055666513446,
+      "sector": 2
+    },
+    {
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London SE16 4RT, UK",
+      "location": {
+        "latitude": 51.497863599999995,
+        "longitude": -0.0637319
+      },
+      "displayName": {
+        "text": "Bermondsey",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Subway Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 819.6904196133443,
+      "bearing": 104.42074661688184,
+      "sector": 2
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E1W 1YD, UK",
+      "location": {
+        "latitude": 51.5060137,
+        "longitude": -0.0665182
+      },
+      "displayName": {
+        "text": "Stockholm Way",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 924.1113267468677,
+      "bearing": 40.558460550855216,
+      "sector": 0
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E1W 2JS, UK",
+      "location": {
+        "latitude": 51.5068728,
+        "longitude": -0.0665386
+      },
+      "displayName": {
+        "text": "Nesham Street (Stop O)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      },
+      "distance_m": 997.7654956201206,
+      "bearing": 36.92708900188933,
+      "sector": 0
+    }
+  ]
+}

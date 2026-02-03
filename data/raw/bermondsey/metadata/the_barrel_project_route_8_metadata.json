@@ -1,0 +1,25 @@
+{
+  "area": "Bermondsey",
+  "club": {
+    "name": "The Barrel Project",
+    "location": {
+      "latitude": 51.4997,
+      "longitude": -0.0752
+    }
+  },
+  "destination": {
+    "name": "Stockholm Way",
+    "location": {
+      "latitude": 51.5060137,
+      "longitude": -0.0665182
+    }
+  },
+  "route": {
+    "route_index": 8,
+    "distance_meters": 1781,
+    "duration_seconds": 1513
+  },
+  "police_api": {
+    "param_file": "the_barrel_project_route_8_police_api_param.txt"
+  }
+}

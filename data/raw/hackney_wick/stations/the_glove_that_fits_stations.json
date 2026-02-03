@@ -1,0 +1,368 @@
+{
+  "area": "Hackney_Wick",
+  "club": "The Glove That Fits",
+  "club_location": {
+    "latitude": 51.5469,
+    "longitude": -0.048
+  },
+  "places": [
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 6ND, UK",
+      "location": {
+        "latitude": 51.5466373,
+        "longitude": -0.052916399999999995
+      },
+      "displayName": {
+        "text": "Morning Lane /Trelawney Estate (Stop D)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Homerton, London E9 5SE, UK",
+      "location": {
+        "latitude": 51.5470366,
+        "longitude": -0.0423623
+      },
+      "displayName": {
+        "text": "Homerton",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 6NA, UK",
+      "location": {
+        "latitude": 51.545935099999994,
+        "longitude": -0.054394399999999996
+      },
+      "displayName": {
+        "text": "Trelawney Estate (Stop C)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E9 6BX, UK",
+      "location": {
+        "latitude": 51.54958,
+        "longitude": -0.042684
+      },
+      "displayName": {
+        "text": "Brooksby's Walk / Homerton Station (Stop HB)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1HE, UK",
+      "location": {
+        "latitude": 51.5452119,
+        "longitude": -0.0551416
+      },
+      "displayName": {
+        "text": "Hackney Town Hall (Stop B)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1PE, UK",
+      "location": {
+        "latitude": 51.546717799999996,
+        "longitude": -0.0557024
+      },
+      "displayName": {
+        "text": "Hackney Central / Mare Street (Stop G)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Lower Clapton, London E8 1HL, UK",
+      "location": {
+        "latitude": 51.549575999999995,
+        "longitude": -0.055406
+      },
+      "displayName": {
+        "text": "Mare Street / Narrow Way (Stop R)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1JN, UK",
+      "location": {
+        "latitude": 51.5479279,
+        "longitude": -0.05654170000000001
+      },
+      "displayName": {
+        "text": "Hackney Central Station (Stop H)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "off Amhurst Rd, London E8 1LL, UK",
+      "location": {
+        "latitude": 51.5471285,
+        "longitude": -0.0567593
+      },
+      "displayName": {
+        "text": "Hackney Central",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1LL, UK",
+      "location": {
+        "latitude": 51.5479237,
+        "longitude": -0.0568454
+      },
+      "displayName": {
+        "text": "Hackney Central Station (Stop J)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 3NS, UK",
+      "location": {
+        "latitude": 51.543476,
+        "longitude": -0.05641600000000001
+      },
+      "displayName": {
+        "text": "Richmond Road /Martello Street (Stop LS)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 3QE, UK",
+      "location": {
+        "latitude": 51.5405982,
+        "longitude": -0.055469
+      },
+      "displayName": {
+        "text": "Mare Street / Well Street (Stop LC)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1LA, UK",
+      "location": {
+        "latitude": 51.5487712,
+        "longitude": -0.061084200000000005
+      },
+      "displayName": {
+        "text": "Hackney Downs",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Train Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "transit_station",
+        "bus_stop",
+        "train_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 3PA, UK",
+      "location": {
+        "latitude": 51.5410441,
+        "longitude": -0.0577287
+      },
+      "displayName": {
+        "text": "London Fields",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Transit station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 1AL, UK",
+      "location": {
+        "latitude": 51.548927,
+        "longitude": -0.061404999999999994
+      },
+      "displayName": {
+        "text": "Hackney Downs Station (Stop N)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Lower Clapton, London E8 2AH, UK",
+      "location": {
+        "latitude": 51.549693999999995,
+        "longitude": -0.061116899999999995
+      },
+      "displayName": {
+        "text": "Hackney Downs Station (Stop D)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    },
+    {
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "London E8 3SG, UK",
+      "location": {
+        "latitude": 51.539551,
+        "longitude": -0.05604899999999999
+      },
+      "displayName": {
+        "text": "Mare Street / Well Street (Stop LA)",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Bus Station",
+        "languageCode": "en-US"
+      }
+    }
+  ]
+}

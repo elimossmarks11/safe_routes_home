@@ -1,0 +1,15 @@
+{
+  "area": "dalston",
+  "club": "The Karaoke Hole",
+  "club_location": {
+    "latitude": 51.5494,
+    "longitude": -0.0754
+  },
+  "route_index": 5,
+  "station_name": "Dalston Kingsland",
+  "station_location": {
+    "latitude": 51.548191300000006,
+    "longitude": -0.0756269
+  },
+  "route_viable": true
+}

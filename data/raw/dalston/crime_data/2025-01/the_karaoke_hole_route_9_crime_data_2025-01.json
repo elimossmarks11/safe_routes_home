@@ -1,0 +1,98 @@
+[
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548321",
+      "street": {
+        "id": 1688567,
+        "name": "On or near Navarino Road"
+      },
+      "longitude": "-0.063895"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125851241,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548077",
+      "street": {
+        "id": 1687280,
+        "name": "On or near Ridley Road"
+      },
+      "longitude": "-0.072011"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125859611,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "anti-social-behaviour",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548077",
+      "street": {
+        "id": 1687280,
+        "name": "On or near Ridley Road"
+      },
+      "longitude": "-0.072011"
+    },
+    "context": "",
+    "outcome_status": null,
+    "persistent_id": "",
+    "id": 125838446,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548077",
+      "street": {
+        "id": 1687280,
+        "name": "On or near Ridley Road"
+      },
+      "longitude": "-0.072011"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Unable to prosecute suspect",
+      "date": "2025-12"
+    },
+    "persistent_id": "ddd108e58e7e6f7ee356fd065607c07ed67d5a1023525f03bc69c327262eda65",
+    "id": 125866212,
+    "location_subtype": "",
+    "month": "2025-01"
+  },
+  {
+    "category": "violent-crime",
+    "location_type": "Force",
+    "location": {
+      "latitude": "51.548077",
+      "street": {
+        "id": 1687280,
+        "name": "On or near Ridley Road"
+      },
+      "longitude": "-0.072011"
+    },
+    "context": "",
+    "outcome_status": {
+      "category": "Investigation complete; no suspect identified",
+      "date": "2025-02"
+    },
+    "persistent_id": "df9d05dc26e61c1c63504c5f578f906555c2f9db63761915dfb779089166b595",
+    "id": 125863768,
+    "location_subtype": "",
+    "month": "2025-01"
+  }
+]

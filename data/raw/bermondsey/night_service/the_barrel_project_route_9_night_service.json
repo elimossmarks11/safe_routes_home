@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "The Barrel Project",
+  "club_location": {
+    "latitude": 51.4997,
+    "longitude": -0.0752
+  },
+  "route_index": 9,
+  "station_name": "Nesham Street (Stop O)",
+  "station_location": {
+    "latitude": 51.5068728,
+    "longitude": -0.0665386
+  },
+  "route_viable": false
+}

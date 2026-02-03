@@ -1,0 +1,15 @@
+{
+  "area": "bermondsey",
+  "club": "The Barrel Project",
+  "club_location": {
+    "latitude": 51.4997,
+    "longitude": -0.0752
+  },
+  "route_index": 7,
+  "station_name": "Bermondsey",
+  "station_location": {
+    "latitude": 51.497863599999995,
+    "longitude": -0.0637319
+  },
+  "route_viable": true
+}
