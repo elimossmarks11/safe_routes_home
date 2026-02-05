@@ -38,4 +38,32 @@ I designed all the visualisations we intend to use for our website and the scori
 
     To generate the dataset used for scoring, I wrote a SQL query that joins areas, clubs, destinations, and routes, and then left-joins the route–crime junction table. I used a LEFT JOIN so that routes with no associated crimes were retained in the data. I aggregated crimes at the route level using COUNT(rc.crime_id) and grouped by route identifiers and metadata, producing one observation per route with all relevant information needed for scoring.
 
+    _Crime Rates_
 
+    I decided to create route-level features that captured both exposure to crime and practical route characteristics. Rather than relying on raw crime counts, I calculated crimes per kilometre and crimes per minute, which allowed routes of different lengths and durations to be compared realtive to others. I also retained distance and duration as separate features so that excessively long or slow routes were penalised even if crime exposure was low. 
+
+    _Route Safety Score_
+
+    I combined the normalised features into a single risk score using a weighting system that prioritises crime exposure over distance and duration. I then inverted this risk score to create a safety score and rescaled it to a 0–100 range to improve interpretability. Routes were ranked within each area by sorting on safety score.
+
+    _Overlaying the Routes_ 
+
+    To create the route overlay, I used GeoPandas and Shapely to convert stored route polylines into geometric LineStrings and projected all spatial data to Web Mercator (EPSG:3857) to support distance-based operations and basemap overlays. I created regular spatial grids and sampled points along each route, assigning safety scores to those points. By spatially joining sampled points to grid cells and averaging scores, I produced a continuous spatial representation of route safety that handled overlapping routes.
+
+**Challenges and Solutions** 
+
+_Data type inconsistencies and cleaning_
+
+One variable extracted from the database was stored as a string, the duration (e.g. "16s") rather than numeric values. This caused errors in calculations such as crime rates per minute. The issue was addressed by explicitly cleaning and standardising data types in Python, stripping non-numeric characters and coercing values to numeric formats, while handling missing and invalid values robustly.
+
+_Feature comparability and normalisation_
+
+Another challenge was ensuring that route-level metrics were comparable both within and across areas. Raw crime counts and distances varied substantially by area, which risked biasing the scoring system. To address this, I applied min–max normalisation within each area, allowing routes to be ranked relative to realistic local alternatives rather than absolute city-wide values. This design choice ensured fair comparisons and more interpretable rankings.
+
+_Spatial geometry construction and projection_
+
+The route data was initially stored as coordinate lists rather than spatial geometries, preventing direct spatial analysis. I resolved this by converting stored polylines into Shapely LineString objects and using GeoPandas to manage spatial data. Additionally, all geometries were reprojected from latitude–longitude coordinates (EPSG:4326) into Web Mercator (EPSG:3857), enabling accurate distance-based operations and alignment with basemap tiles.
+
+_Mapping environment and visualisation limitations_
+
+Finally, integrating basemaps and interactive visualisations exposed limitations related to network access and execution environments, particularly when external tile servers were unavailable. To mitigate this, I adopted a flexible approach that combined static GeoPandas maps with interactive Folium maps and adjusted tile usage where necessary. This ensured that spatial outputs remained viewable and interpretable across different environments.
