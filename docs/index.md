@@ -9,6 +9,11 @@ A study conducted in April 2025 by ITV Survation found that 57% of women do not 
 
 ## Routes home in Dalston
 
+IMAGE 
+
+Dalston demonstrates very strong safety outcomes across the board, with all clubs achieving an average route score above 72, with a very strong display in the graphic with colours ranging from lime and above, thus safe. Many routes display a very strong safety rating with amny offering a score above 95%. The three safest clubs to go to in Dalston are: The Speakeasy achieving an average route score of 78.64, Farr's Dalston with 78.25 and Dalston Superstore	77.4. 
+The area around Dalston kingsland is the most dangerous area in Dalston with the 100m^2 area recording 949 crimes. This heavily sways some of the results as some routes are very short and only pass through this area, but due to the length of the route it isn't actually that unsafe. However, outside most of the other areas there aren't many hotspots of heavy crime and as a result this makes Dalston a very safe area. When comparing to the other areas it is the highest performing and, overall we found Dalston to be the safest area for clubbing, as it had the highest average route safety score across all clubs.
+
 
 ## Routes home in Bermondsey
 
