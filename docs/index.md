@@ -35,7 +35,9 @@ INSERT INTERACTIVE MAP
 ## Credits
 
 Eli Moss-Marks - [Eli](https://github.com/elimossmarks11): Data Collection and READ.me
+
 Ariana Alexander - [Ariana](https://github.com/ariana-alexander): TfL Data and Data Transformation 
+
 Deyaan Mistry - [Deyaan](https://github.com/DeyaanMistry): Data Analysis and Visualisations
 
 Together: project brainstorming and decision-making; creation of website
