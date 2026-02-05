@@ -3,7 +3,7 @@
 **Most significant commits:**
 
 [1b6d18ba77fd898d7f0aa47f142a76e0336eab98](https://github.com/lse-ds105/group-project-ds105a-2025-ctraltelite/commit/1b6d18ba77fd898d7f0aa47f142a76e0336eab98) Interactive map created. 
-[3edb1c349414dd2c3e634d2f6ed1429b574a7325](https://github.com/lse-ds105/group-project-ds105a-2025-ctraltelite/commit/3edb1c349414dd2c3e634d2f6ed1429b574a7325) Three base maps of each area created. 
+[8e385a0ce5e29628830c80bd3704e447219a36f0](https://github.com/lse-ds105/group-project-ds105a-2025-ctraltelite/commit/8e385a0ce5e29628830c80bd3704e447219a36f0) Three base maps of each area created. 
 
 
 **What I implemented**
