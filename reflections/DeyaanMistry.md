@@ -16,5 +16,12 @@ I designed all the visualisations we intend to use for our website and the scori
     - Assign weights, I believe that exposure to crime so crime rates should be a higher weight than the inconvience of a longer journey, thus the according 0.3 and 0.2 weghts were applied
     - I then created a simple 0-100 safety scale that was easy to interpret 
     - However, when I referenced back to my understanding the database, I saw that there were three different reported crimes
-    - With this I decided to apply a crime weighting, such that more serious crimes have a higher score thus if it occurs on a route the route is less safe than one with a less serious crime. After 
-2. 
+    - With this I decided to apply a crime weighting, such that more serious crimes have a higher score thus if it occurs on a route the route is less safe than one with a less serious crime. After a quick chat with a friend who is a law student I was able to rank the crimes and assign a relevenat score
+2. Testing the usability of the scoring system 
+    - Create a couple tables to help me understand if the scoring system works. 
+    - Ensure routes with lower crime exposure and reasonable distance/time are ranked as safer.
+    - Confirms the rankings align with intuitive expectations of route safety.
+3. Data Visualisations
+    - 
+
+
