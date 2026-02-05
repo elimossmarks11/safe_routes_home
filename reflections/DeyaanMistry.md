@@ -34,7 +34,8 @@ I designed all the visualisations we intend to use for our website and the scori
 
     **Techinal Decisions** 
 
-     *Extracting from the Database* 
-    To generate the dataset used for scoring, I wrote a SQL query that joins areas, clubs, destinations, and routes, and then left-joins the route–crime junction table. I deliberately used a LEFT JOIN so that routes with no associated crimes were retained in the data. I aggregated crimes at the route level using COUNT(rc.crime_id) and grouped by route identifiers and metadata, producing one observation per route with all relevant information needed for scoring.
+    _Extracting from the Database_
+
+    To generate the dataset used for scoring, I wrote a SQL query that joins areas, clubs, destinations, and routes, and then left-joins the route–crime junction table. I used a LEFT JOIN so that routes with no associated crimes were retained in the data. I aggregated crimes at the route level using COUNT(rc.crime_id) and grouped by route identifiers and metadata, producing one observation per route with all relevant information needed for scoring.
 
 
