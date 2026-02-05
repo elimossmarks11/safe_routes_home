@@ -70,4 +70,14 @@ Finally, integrating basemaps and interactive visualisations exposed limitations
 
 ## Learning Integration 
 
+**Mini-project 2 Feedback**
 
+'Code Duplication: Within your NB01, you defined the function journey_data() 12 times instead of defining it once and reusing it throughout. Once you have created a function, there is no need to define it again. The def journey_data(....): function can be run once and then reused throughout your notebook.' 
+
+To avoid making the same mistake again with this project and duplicate code, within my visualistaions my original plan to create all three plots for overlapped maps was to duplicate the code three times and just chnage the area name and title. However, this time I created an overall framework, that could be applied to all of the areas. Thus removing the need for duplicate feedback. 
+
+**Mini-project 2 Feedback** 
+
+'Note from Jon: In addition to the points made by the first marker, I would point out that the use of colour in your first plot was not the best. The 'bad' result is an increasingly lighter colour, which strikes me as counter-intuitive. You could have used a colour palette with a single colour, going from say, dark blue for the worst result to light blue for the best result.'
+
+This time when I made my plots, as this my main job thus most other areas for improvement aren't relevant re data collection or transformation, I tried to make my colour scaling easier to interpret. SO this time when creating my safety score from 0-100, I used a colour gradient from red to green, so there is a large variation of colour and red most specifically is seen as bad therefore 0. 
