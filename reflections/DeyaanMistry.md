@@ -67,3 +67,7 @@ The route data was initially stored as coordinate lists rather than spatial geom
 _Mapping environment and visualisation limitations_
 
 Finally, integrating basemaps and interactive visualisations exposed limitations related to network access and execution environments, particularly when external tile servers were unavailable. To mitigate this, I adopted a flexible approach that combined static GeoPandas maps with interactive Folium maps and adjusted tile usage where necessary. This ensured that spatial outputs remained viewable and interpretable across different environments.
+
+## Learning Integration 
+
+
