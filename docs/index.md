@@ -1,48 +1,41 @@
-## Curiosity-Driven Exploratory Question
+## Investigation
+
 'What are the safest routes for women walking home at night in London?'
 
 <img src="women_safety_perception_stat.png" alt="description" width="600">
 
-
-## Justification of Data Source Choice
-
-**UK Police API** ➡️ provides the area/road segement for street crimes (filter for crimes under 'violence and sexual offences' category, which women are disproportionately victim to). Query with force-level parameters (filtering for crimes reported by only the City of London Police and the Metropolitan Police) for data on just London. 
-
-**Google API** ➡️ use the Google Area Insights API identify popular night out locations in London (from which may women start their journeys home at night) as well as the Google Places API to collect data on shops number and location of shops open after 23:00. 
+A study conducted in April 2025 by ITV Survation found that 57% of women do not feel safe on the streets of London, and this was particularly high among women aged 18 to 24. This lack of safety is further heightened when travelling at night. Therefore, we decided to investigate which are the safest routes for women walking home in London, on their way home from a night out. This project investigated routes from night clubs to nearest bus stops and tube stations. We have mapped these routes for 3 popular night out locations in London: Bermondsey, Dalston, and Hackney Wick.
 
 
-## Technical Implementation Plan
-
-**1 - Generate routes** 
-
-Use Google Maps to create realistic walking routes from popular Soho night-out locations to nearby transport hubs, most likey tube stations.
+## Routes home in Dalston
 
 
-**2 - Collect safety data**  
-
-Combine police-recorded crime data with information on nearby shops and venues that are open late at night, which we have decided to be past 11pm. 
-
-**3 - Link data to routes**  
- 
-Match crimes and open venues to different parts of each route to measure how safe each section appears.
+## Routes home in Bermondsey
 
 
-**4 - Score and display routes**  
- 
-Create an overall safety score for each route and show safer and less safe routes using maps and rankings.
+## Routes home in Hackney Wick
+
+INSERT IMAGE FOR HACKNEY WICK
+
+Hackney Wick demonstrates relatively strong safety outcomes across the board, with all routes achieving safety scores above 56 and displaying predominantly green colouring on our visualisation. MOTH Club shows particularly safe routes, with three destinations achieving safety scores above 89 and zero recorded crimes—these routes to Hackney Town Hall, Hackney Central/Mare Street stop, and Hackney Central station represent the safest options in the area. However, within this generally safe context, there are still notable variations worth considering. Routes involving Mare Street show moderately lower safety scores compared to other areas, with The Glove That Fits' route to Mare Street/Narrow Way recording 69 crimes (safety score 63.41) and routes to Mare Street/Well Street showing 33 crimes each (safety scores 60.38 and 56.59). The most significant finding is MOTH Club's route to Trelawney Estate, which despite being extremely short (0.043 km), recorded 19 crimes resulting in a safety score of 40.00 due to very high crime density (883.72 crimes per km). This suggests a localised crime hotspot rather than a dangerous extended corridor. Overall, Hackney Wick offers relatively safe routes for women walking home at night, with most options scoring in the 70-90 range. The visualisation shows this area performs comparably to Dalston and better than several Bermondsey locations, making it a reasonably safe area for nighttime travel.
 
 
-## Work Distribution Strategy
+## Area Comparison
 
-<img src="Project Coordination Chart.png" alt="description" width="600">
+INSERT BAR CHART IMAGE
 
-## Risk Mitigation Strategies
+The routes in these three areas in London vary in safety level. While all three demonstrate reasonably safe routes overall, there are some notable differences. Dalston shows the most consistent performance, with club averages ranging from 72-79 and a substantial amount of routes recording zero crimes. Five of Dalston's eight clubs scored between 76-78, suggesting reliable safety across most nighttime walking routes in the area. Hackney Wick, despite having fewer clubs (4) and routes (13) due to its smaller nightlife scene, performs comparably well with three clubs averaging above 73. MOTH Club achieved the highest individual club average (78.27) across all three areas, though The Glove That Fits (69.04) indicates that even within Hackney Wick, route choice matters. Bermondsey presents a more mixed picture, with club averages ranging more widely from 57-77. While several Bermondsey clubs like The Barrel Project (77.20) and N1 Bar (76.70) perform as well as their counterparts in other areas, two clubs - Bermondsey Arts Club (57.44) and Bermondsey Bierkeller (60.27) - show notably lower averages. The visualisation reflects this variation, with Bermondsey displaying a wider spectrum of colours from red through yellow to green, while Dalston and Hackney Wick show predominantly green bars. Across all three areas, most routes fall within the 60-80 safety score range, indicating that women walking home from nightclubs generally face moderate rather than severe safety risks. However, the data suggests that route selection is particularly important in Bermondsey, somewhat important in Hackney Wick (especially for routes from The Glove That Fits), and less critical but still relevant in Dalston where most routes perform well.
 
-| Risk | Mitigation Strategy |
-|:--------:|:-------------------:|
-| Google API has costs above 10,000 billable events | Store non time-dependent data locally (e.g. locations) |
-| Cases of violence and sexual offences are notoriously underreported | This trend is not area-dependent and will not skew comparison between areas. |
-| Police API data is declared monthly | Our findings will be presented as a risk indicator, not a guarantee. |
-| Safest routes might be unreasonably long | Impose a duration cap, present these routes as 'balanced' |
 
-<img src="incident_reporting_stats.jpeg" alt="description" width="600">
+## Interactive Route Safety Map
+
+INSERT INTERACTIVE MAP
+
+
+## Credits
+
+Eli Moss-Marks - [Eli](https://github.com/elimossmarks11): Data Collection and READ.me
+Ariana Alexander - [Ariana](https://github.com/ariana-alexander): TfL Data and Data Transformation 
+Deyaan Mistry - [Deyaan](https://github.com/DeyaanMistry): Data Analysis and Visualisations
+
+Together: project brainstorming and decision-making; creation of website
