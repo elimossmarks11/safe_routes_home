@@ -35,7 +35,7 @@ API_KEY=your_google_api_key
 
 Run the notebooks sequentially. Each notebook depends on the output of the previous one.
 
-#### Step 1: Run `NB01_data_collection.ipynb`
+#### Step 1: Run `NB01_Data_Collection.ipynb`
 
 Collects raw data from external APIs.
 
@@ -53,7 +53,7 @@ Collects raw data from external APIs.
 - Sections 1–4 cache API responses. Delete JSON files to force a refresh.
 - TfL API (Section 7) is rate-limited; the code includes automatic retry logic.
 
-#### Step 2: Run `NB02_data_transformation.ipynb`
+#### Step 2: Run `NB02_Data_Transformation.ipynb`
 
 Transforms raw JSON data into a normalised SQLite database.
 
@@ -109,3 +109,7 @@ data/
 └── processed/
     └── nightclub_safety.db
 ```
+
+#### Step 3: Run `NB03_Data_Visualisation.ipynb`
+
+Generates 4 visualisations and an interactive map visualising route safety in Bermondsey, Dalston, and Hackney Wick. 
