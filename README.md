@@ -1,3 +1,5 @@
+_This repository contains a project completed as part of LSE's DS105 course. It was built in December 2025_
+
 **Team Members:** [Eli](https://github.com/elimossmarks11), [Ariana](https://github.com/ariana-alexander), [Deyaan](https://github.com/DeyaanMistry)
 
 **Team Name:** CtrlAltElite
